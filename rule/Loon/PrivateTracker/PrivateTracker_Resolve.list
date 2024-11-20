@@ -1,15 +1,16 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-11-19 02:14:06
-# DOMAIN: 158
+# UPDATED: 2024-11-21 02:13:57
+# DOMAIN: 163
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 123
 # IP-CIDR: 3
-# TOTAL: 288
+# TOTAL: 293
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
+DOMAIN,7p41a8967.wicp.vip
 DOMAIN,aegir.sexy
 DOMAIN,amigacity.xyz
 DOMAIN,api.ipv4online.uk
@@ -32,7 +33,6 @@ DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,finbytes.org
 DOMAIN,fleira.no
-DOMAIN,ftp.pet
 DOMAIN,highteahop.top
 DOMAIN,home.yxgz.club
 DOMAIN,ipv4.rer.lol
@@ -40,6 +40,7 @@ DOMAIN,isk.richardsw.club
 DOMAIN,ismaarino.com
 DOMAIN,jutone.com
 DOMAIN,kiryuu-test.mywaifu.best
+DOMAIN,leet-tracker.moe
 DOMAIN,martin-gebhardt.eu
 DOMAIN,mathkangaroo.jp
 DOMAIN,ns-1.x-fins.com
@@ -107,6 +108,7 @@ DOMAIN,tracker.deadorbit.nl
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
+DOMAIN,tracker.dump.cl
 DOMAIN,tracker.edkj.club
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.fnix.net
@@ -121,8 +123,10 @@ DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.lintk.me
+DOMAIN,tracker.moeking.me
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
+DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.peckservers.com
@@ -137,6 +141,7 @@ DOMAIN,tracker.tamersunion.org
 DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
+DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.vanitycore.co
 DOMAIN,tracker.vraphim.com
