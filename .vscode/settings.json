@@ -4,18 +4,19 @@
     "**/external/": true,
     "**/icon/": true,
     "**/rewrite/": true,
-    "**/script/": true,
     "**/source/": true,
     "**/rule/AdGuard/": true,
     "**/rule/Loon/": true,
     "**/rule/QuantumultX/": true,
     "**/rule/Shadowrocket/": true,
+    "**/rule/Surge/": true,
   },
   "search.exclude": {
     "#files.exclude#": true,
   },
   "files.watcherExclude": {
     "#search.exclude#": true,
+    "**/rule/Clash/": true,
   },
   "search.collapseResults": "alwaysCollapse"
 }
