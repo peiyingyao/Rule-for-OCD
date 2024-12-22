@@ -38,7 +38,7 @@ jobs:
           cp -f ./backup/convert_rules.yaml .github/workflows/convert_rules.yaml
           cp -f ./backup/convert_rules.sh script/convert_rules.sh
 
-      # 运行 subconverter, 将 .list 转为 .yaml
+      # 运行 subconverter, 将 .list 转为 .txt .yaml
       - name: Run subconverter
         run: |
           curl -s https://api.github.com/repos/tindy2013/subconverter/releases \
@@ -78,7 +78,7 @@ jobs:
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             git add --all
-            git commit -m "OCD Builded on ${{ env.BUILDTIME }}"
+            git commit -m "${{ env.BUILDTIME }} for OCD"
             git push origin master
           else
             echo "No changes to commit"
