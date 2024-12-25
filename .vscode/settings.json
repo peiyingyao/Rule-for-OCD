@@ -1,22 +1,43 @@
 {
   "files.exclude": {
-    "**/blank/": true,
-    "**/external/": true,
-    "**/icon/": true,
-    "**/rewrite/": true,
-    "**/source/": true,
-    "**/rule/AdGuard/": true,
-    "**/rule/Loon/": true,
-    "**/rule/QuantumultX/": true,
-    "**/rule/Shadowrocket/": true,
-    "**/rule/Surge/": true,
+    "blank/": true,
+    "external/": true,
+    "icon/": true,
+    "rewrite/": true,
+    "source/": true,
+    "rule/AdGuard/": true,
+    "rule/Loon/": true,
+    "rule/QuantumultX/": true,
+    "rule/Shadowrocket/": true,
+    "rule/Surge/": true,
+    "rule/**/*.mrs": true,
+    "rule/**/*.txt": true,
+    "rule/**/*.yaml": true,
+    ".github/ISSUE_TEMPLATE/": true,
+    "README.md": true,
+    "rule/Clash/AdGuardSDNSFilter/": true,
+    "rule/Clash/Advertising/": true,
+    "rule/Clash/AdvertisingLite/": true,
+    "rule/Clash/AdvertisingTest/": true,
+    "rule/Clash/Developer/": true,
+    "rule/Clash/EasyPrivacy/": true,
+    "rule/Clash/Global/": true,
+    "rule/Clash/Privacy/": true,
+    "rule/Clash/Proxy/": true,
+    "rule/Clash/ProxyLite/": true,
+    "rule/Clash/China/": true,
+    "rule/Clash/ChinaMaxNoIP/": true,
+    "rule/Clash/ChinaMaxNoMedia/": true,
+    "rule/Clash/ChinaNoMedia/": true,
+    "rule/Clash/ChinaTest/": true
   },
   "search.exclude": {
-    "#files.exclude#": true,
+    "#files.exclude#": true
   },
   "files.watcherExclude": {
     "#search.exclude#": true,
-    "**/rule/Clash/": true,
+    "**/rule/Clash/": true
   },
-  "search.collapseResults": "alwaysCollapse"
+  "search.collapseResults": "alwaysCollapse",
+  "git.autorefresh": false
 }
