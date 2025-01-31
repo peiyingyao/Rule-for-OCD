@@ -31,7 +31,7 @@ Stash 作为 GUI 客户端，个人猜想作者大概率没有闲工夫为内核
 - Apple_OCD_Domain.yaml
 - Apple_OCD_IP.yaml
 
-链接：[https://github.com/peiyingyao/Rule-for-OCD/tree/master/rule/Clash/Apple](https://github.com/peiyingyao/Rule-for-OCD/tree/master/rule/Clash/Apple)
+点击查看：[https://github.com/peiyingyao/Rule-for-OCD/tree/master/rule/Clash/Apple](https://github.com/peiyingyao/Rule-for-OCD/tree/master/rule/Clash/Apple)
 
 ## 如何使用
 
@@ -46,9 +46,8 @@ rule-providers:
     type: http
     behavior: domain
     url: >-
-      https://fastly.jsdelivr.net/gh/peiyingyao/Rule-for-OCD@master/rule/Clash/Lan/Lan_OCD_Domain.mrs
-    # fastly.jsdelivr.net 可直连，但内容更新有 24 小时延迟，能排查错误可以选择 github 源:
-    # https://raw.githubusercontent.com/peiyingyao/Rule-for-OCD/refs/heads/master/rule/Clash/Lan/Lan_OCD_Domain.mrs
+      https://testingcf.jsdelivr.net/gh/peiyingyao/Rule-for-OCD@master/rule/Clash/Lan/Lan_OCD_Domain.mrs
+    # testingcf.jsdelivr.net 可直连，但内容更新有 24 小时延迟，能排查错误请选择 github 源: https://raw.githubusercontent.com/peiyingyao/Rule-for-OCD/refs/heads/master/rule/Clash/Lan/Lan_OCD_Domain.mrs
     # proxy: <name> # 选择 github 源需要指定代理，填入一个 proxy-groups 或 proxies 名
     format: mrs # 如果用 .txt 则填 text
     path: ./rule-set/Lan_OCD_Domain.mrs
@@ -57,7 +56,7 @@ rule-providers:
     type: http
     behavior: ipcidr
     url: >-
-      https://fastly.jsdelivr.net/gh/peiyingyao/Rule-for-OCD@master/rule/Clash/Lan/Lan_OCD_IP.mrs
+      https://testingcf.jsdelivr.net/gh/peiyingyao/Rule-for-OCD@master/rule/Clash/Lan/Lan_OCD_IP.mrs
     format: mrs
     path: ./rule-set/Lan_OCD_IP.mrs
     interval: 86400
@@ -65,7 +64,7 @@ rule-providers:
     type: http
     behavior: domain
     url: >-
-      https://fastly.jsdelivr.net/gh/peiyingyao/Rule-for-OCD@master/rule/Clash/Google/Google_OCD_Domain.mrs
+      https://testingcf.jsdelivr.net/gh/peiyingyao/Rule-for-OCD@master/rule/Clash/Google/Google_OCD_Domain.mrs
     format: mrs
     path: ./rule-set/Google_OCD_Domain.mrs
     interval: 86400
@@ -73,7 +72,7 @@ rule-providers:
     type: http
     behavior: ipcidr
     url: >-
-      https://fastly.jsdelivr.net/gh/peiyingyao/Rule-for-OCD@master/rule/Clash/Google/Google_OCD_IP.mrs
+      https://testingcf.jsdelivr.net/gh/peiyingyao/Rule-for-OCD@master/rule/Clash/Google/Google_OCD_IP.mrs
     format: mrs
     path: ./rule-set/Google_OCD_IP.mrs
     interval: 86400
