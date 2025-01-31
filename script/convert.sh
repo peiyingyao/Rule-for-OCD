@@ -1,10 +1,8 @@
 #!/bin/bash
 
-# 定义仓库和目标路径
-BASE_URL="http://127.0.0.1:56290/Clash"
+BASE_URL="http://127.0.0.1/Clash"
 LOCAL_DIR="./rule/Clash"
 
-# 进入目标目录
 cd "$LOCAL_DIR" || exit
 
 download_and_check() {
@@ -24,12 +22,11 @@ download_and_check() {
     fi
 }
 
-# 遍历所有 .list 文件, 转换为 .yaml 文件
+# .list to .txt/.yaml
 find . -name "*.list" | while read -r file; do
     # 去掉前缀的 "./" 并生成对应的本地 URL
     RAW_URL="$BASE_URL/${file#./}"
 
-    # 转换 URL 为 Base64 格式
     RAW_URL_BASE64=$(echo -n "$RAW_URL" | openssl base64 -A)
 
     # 生成输出文件路径. 并保持原有目录结构
@@ -44,22 +41,18 @@ find . -name "*.list" | while read -r file; do
 
 done
 
-# 遍历所有 *_OCD_*.txt 文件, 转换为实际可用的格式和 .mrs 文件
+# .txt to .mrs
 find . -name "*_OCD_*.txt" | while read -r file; do
-    # 读取文件的第一行
     first_line=$(head -n 1 "$file")
-    # 检查第一行是否包含 'payload'
     if [[ "$first_line" == *"payload"* ]]; then
-        # 如果包含 'payload'，则删除
         sed -i '1d' "$file"
     fi
     # 删除所有单引号、减号和空格
     sed -i "s/'//g; s/-//g; s/[[:space:]]//g" "$file"
 
-    # 获取文件的目录路径和文件名（不包含扩展名）
     file_dir=$(dirname "$file")
     filename=$(basename "$file" .txt)
-    # 判断文件名中是否包含 "Domain" 或 "IP" 来选择参数
+
     if [[ "$filename" == *_OCD_Domain* ]]; then
         param="domain"
     elif [[ "$filename" == *_OCD_IP* ]]; then
@@ -68,11 +61,9 @@ find . -name "*_OCD_*.txt" | while read -r file; do
         echo "未识别的文件类型: $file"
         continue
     fi
-    # 设置输出的 .mrs 文件路径，使其与原文件目录一致
+
     output_file="$file_dir/$filename.mrs"
-    # 使用 mihomo convert-ruleset 进行转换
     /usr/bin/mihomo convert-ruleset "$param" text "$file" "$output_file"
-    # 输出转换状态
     if [[ $? -eq 0 ]]; then
         echo "文件 $file 转换成功为 $output_file"
     else

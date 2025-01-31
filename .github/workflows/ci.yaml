@@ -15,31 +15,33 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout
+      - name: Add token
         uses: actions/checkout@v4
         with:
           repository: peiyingyao/Rule-for-OCD
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set Environment Variables and Configure Git
+      - name: Set variables
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           echo "BUILDTIME=$(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
           echo "REPODIR=$PWD" >> $GITHUB_ENV
+
+      - name: Sync with upstream
+        run: |
+          git checkout master
           git remote add upstream https://github.com/blackmatrix7/ios_rule_script.git
           git fetch --depth=1 upstream
-          git checkout master
           mkdir -p ./backup/
-          cp -f .gitignore README.md .github/workflows/convert_rules.yaml script/convert_rules.sh ./backup/
+          cp -f .gitignore README.md .github/workflows/ci.yaml script/convert.sh ./backup/
           git merge upstream/master --strategy-option theirs --allow-unrelated-histories --no-edit
           cp -f ./backup/.gitignore .gitignore
           cp -f ./backup/README.md README.md
-          cp -f ./backup/convert_rules.yaml .github/workflows/convert_rules.yaml
-          cp -f ./backup/convert_rules.sh script/convert_rules.sh
+          cp -f ./backup/ci.yaml .github/workflows/ci.yaml
+          cp -f ./backup/convert.sh script/convert.sh
 
-      # 运行 subconverter, 将 .list 转为 .txt .yaml
-      - name: Run subconverter
+      - name: Background run subconverter
         run: |
           curl -s https://api.github.com/repos/tindy2013/subconverter/releases \
             | grep "browser_download_url.*subconverter_linux64.tar.gz" \
@@ -48,10 +50,9 @@ jobs:
             | xargs wget -q
           tar -xf subconverter_linux64.tar.gz
           ./subconverter/subconverter &
-          python3 -m http.server 56290 --bind 127.0.0.1 --directory './rule/' &
+          python3 -m http.server 80 --bind 127.0.0.1 --directory './rule/' &
 
-      # 运行 mihomo, 将 .txt 转为 .mrs
-      - name: Run mihomo
+      - name: Background run mihomo
         run: |
           curl -s https://api.github.com/repos/MetaCubeX/mihomo/releases \
             | grep "browser_download_url.*mihomo-linux-amd64-alpha.*.deb" \
@@ -61,18 +62,10 @@ jobs:
           sudo apt install --fix-missing ./mihomo-linux-amd64-alpha.deb
           /usr/bin/mihomo &
 
-      - name: Verify environment
+      - name: start convert
         run: |
-          if [ ! -f "./script/convert_rules.sh" ]; then
-            echo "convert_rules.sh not found. Exiting."
-            exit 1
-          fi
-
-      # 执行规则转换脚本
-      - name: Execute convert script
-        run: |
-          chmod +x ./script/convert_rules.sh
-          ./script/convert_rules.sh
+          chmod +x ./script/convert.sh
+          ./script/convert.sh
 
       - name: Commit and Push Changes
         run: |
