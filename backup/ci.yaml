@@ -1,0 +1,78 @@
+name: Build rules
+
+on:
+  workflow_dispatch:
+  # 每天 2:32 (UTC+8) 触发一次
+  schedule:
+    - cron: '32 18 * * *'
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Add token
+        uses: actions/checkout@v4
+        with:
+          repository: peiyingyao/Rule-for-OCD
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set variables
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          echo "BUILDTIME=$(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
+          echo "REPODIR=$PWD" >> $GITHUB_ENV
+
+      - name: Sync with upstream
+        run: |
+          git checkout master
+          git remote add upstream https://github.com/blackmatrix7/ios_rule_script.git
+          git fetch --depth=1 upstream
+          mkdir -p ./backup/
+          cp -f .gitignore README.md .github/workflows/ci.yaml script/convert.sh ./backup/
+          git merge upstream/master --strategy-option theirs --allow-unrelated-histories --no-edit
+          cp -f ./backup/.gitignore .gitignore
+          cp -f ./backup/README.md README.md
+          cp -f ./backup/ci.yaml .github/workflows/ci.yaml
+          cp -f ./backup/convert.sh script/convert.sh
+
+      - name: Background run subconverter
+        run: |
+          curl -s https://api.github.com/repos/tindy2013/subconverter/releases \
+            | grep "browser_download_url.*subconverter_linux64.tar.gz" \
+            | head -n 1 \
+            | cut -d '"' -f 4 \
+            | xargs wget -q
+          tar -xf subconverter_linux64.tar.gz
+          ./subconverter/subconverter &
+          python3 -m http.server 80 --bind 127.0.0.1 --directory './rule/' &
+
+      - name: Background run mihomo
+        run: |
+          curl -s https://api.github.com/repos/MetaCubeX/mihomo/releases \
+            | grep "browser_download_url.*mihomo-linux-amd64-alpha.*.deb" \
+            | head -n 1 \
+            | cut -d '"' -f 4 \
+            | xargs wget -q -O mihomo-linux-amd64-alpha.deb
+          sudo apt install --fix-missing ./mihomo-linux-amd64-alpha.deb
+          /usr/bin/mihomo &
+
+      - name: start convert
+        run: |
+          chmod +x ./script/convert.sh
+          ./script/convert.sh
+
+      - name: Commit and Push Changes
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git add --all
+            git commit -m "${{ env.BUILDTIME }} for OCD"
+            git push origin master
+          else
+            echo "No changes to commit"
+          fi
