@@ -50,7 +50,7 @@ jobs:
             | xargs wget -q
           tar -xf subconverter_linux64.tar.gz
           ./subconverter/subconverter &
-          python3 -m http.server 80 --bind 127.0.0.1 --directory './rule/' &
+          python3 -m http.server 8080 --bind 127.0.0.1 --directory './rule/' &
 
       - name: Background run mihomo
         run: |
