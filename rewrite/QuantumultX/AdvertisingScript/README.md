@@ -12,7 +12,7 @@
 
 ## 规则统计
 
-最后更新时间：2025-07-12 02:11:47
+最后更新时间：2025-07-16 02:12:05
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -79,6 +79,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 《脚本去广告》的数据来自以下链接，如与本项目的《脚本去广告》规则混合使用，可能造成部分重写重复。
 
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.lnplugin
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.lnplugin
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

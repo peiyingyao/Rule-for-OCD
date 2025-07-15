@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-07-14 02:03:31
+# UPDATED: 2025-07-16 02:03:39
 # DOMAIN: 23753
 # DOMAIN-KEYWORD: 187
-# DOMAIN-SUFFIX: 13927
+# DOMAIN-SUFFIX: 13936
 # IP-CIDR: 186
 # IP-CIDR6: 1
-# TOTAL: 38054
+# TOTAL: 38063
 payload:
   - DOMAIN,00-gov.cn
   - DOMAIN,0024aadd.com
@@ -25323,6 +25323,7 @@ payload:
   - DOMAIN-SUFFIX,admedia.com
   - DOMAIN-SUFFIX,admeta.vo.llnwd.net
   - DOMAIN-SUFFIX,admgr.qingting.fm
+  - DOMAIN-SUFFIX,admiitad.com
   - DOMAIN-SUFFIX,admin.louxia.org
   - DOMAIN-SUFFIX,admin5.com
   - DOMAIN-SUFFIX,admin6.com
@@ -25647,6 +25648,7 @@ payload:
   - DOMAIN-SUFFIX,ahjzys.com
   - DOMAIN-SUFFIX,ahlxxx.com
   - DOMAIN-SUFFIX,ahqlx.top
+  - DOMAIN-SUFFIX,ahqovxli.com
   - DOMAIN-SUFFIX,ahszgog.com
   - DOMAIN-SUFFIX,ahuac.com
   - DOMAIN-SUFFIX,ahunai.cn
@@ -28972,6 +28974,7 @@ payload:
   - DOMAIN-SUFFIX,findnsave.idahostatesman.com
   - DOMAIN-SUFFIX,finead.cn
   - DOMAIN-SUFFIX,fingahvf.top
+  - DOMAIN-SUFFIX,fipabtomqok.com
   - DOMAIN-SUFFIX,fipipo.cn
   - DOMAIN-SUFFIX,firefang.cn
   - DOMAIN-SUFFIX,fishkekcamp.info
@@ -29044,6 +29047,7 @@ payload:
   - DOMAIN-SUFFIX,fpdownload.macromedia.com
   - DOMAIN-SUFFIX,fqtra.com
   - DOMAIN-SUFFIX,fqzds.com
+  - DOMAIN-SUFFIX,fractionfridgejudiciary.com
   - DOMAIN-SUFFIX,frame.enet.com.cn
   - DOMAIN-SUFFIX,fraudmetrix.cn
   - DOMAIN-SUFFIX,frdhq.cn
@@ -31140,6 +31144,7 @@ payload:
   - DOMAIN-SUFFIX,kqy1.com
   - DOMAIN-SUFFIX,kr.sybspools.com
   - DOMAIN-SUFFIX,krakeshlaja.com
+  - DOMAIN-SUFFIX,kreopbkabsit.com
   - DOMAIN-SUFFIX,krux.net
   - DOMAIN-SUFFIX,ks67.com
   - DOMAIN-SUFFIX,ksdsuzhou.com
@@ -32695,6 +32700,7 @@ payload:
   - DOMAIN-SUFFIX,obj9.cn
   - DOMAIN-SUFFIX,oca.telemetry.microsoft.com.nsatc.net
   - DOMAIN-SUFFIX,ocm8.masmovil.es
+  - DOMAIN-SUFFIX,ocponcphaafb.com
   - DOMAIN-SUFFIX,ocsp.godaddy.com
   - DOMAIN-SUFFIX,octopuszyw.cn
   - DOMAIN-SUFFIX,od0gddq27wkk.com
@@ -33304,6 +33310,7 @@ payload:
   - DOMAIN-SUFFIX,pp9899.com
   - DOMAIN-SUFFIX,pp9kk.com
   - DOMAIN-SUFFIX,ppcashpop.com
+  - DOMAIN-SUFFIX,ppezijkacga.com
   - DOMAIN-SUFFIX,ppjia55.com
   - DOMAIN-SUFFIX,ppoi.org
   - DOMAIN-SUFFIX,pptte.com
@@ -35208,6 +35215,7 @@ payload:
   - DOMAIN-SUFFIX,taplytics.com
   - DOMAIN-SUFFIX,tappx.com
   - DOMAIN-SUFFIX,taptica.com
+  - DOMAIN-SUFFIX,tapwhigwy.com
   - DOMAIN-SUFFIX,tarawerap.com
   - DOMAIN-SUFFIX,targetedinfo.com
   - DOMAIN-SUFFIX,targetedmedia.com.cn
@@ -35308,6 +35316,7 @@ payload:
   - DOMAIN-SUFFIX,thefuncoolstuff.com
   - DOMAIN-SUFFIX,thegreenzoneblog.com
   - DOMAIN-SUFFIX,thejesperbay.com
+  - DOMAIN-SUFFIX,thelifeandmore.com
   - DOMAIN-SUFFIX,themaxmall.com
   - DOMAIN-SUFFIX,themecat.cn
   - DOMAIN-SUFFIX,themee.cn
