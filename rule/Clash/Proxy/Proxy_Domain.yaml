@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-07-16 02:07:57
+# UPDATED: 2025-07-20 02:07:49
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6508
+# DOMAIN-SUFFIX: 6506
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6640
+# TOTAL: 6638
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -407,7 +407,6 @@ payload:
   - '+.appspot.com'
   - '+.appsto.re'
   - '+.aptoide.com'
-  - '+.ar.hao123.com'
   - '+.arcgis.com'
   - '+.archive.fo'
   - '+.archive.is'
@@ -4021,7 +4020,6 @@ payload:
   - '+.onmoon.net'
   - '+.onmypc.biz'
   - '+.onmypc.info'
-  - '+.onmypc.net'
   - '+.onmypc.org'
   - '+.onmypc.us'
   - '+.onthehunt.com'

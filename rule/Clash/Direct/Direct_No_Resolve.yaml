@@ -1,12 +1,12 @@
 # NAME: Direct
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:17:01
+# UPDATED: 2025-07-20 02:07:58
 # DOMAIN: 56
-# DOMAIN-KEYWORD: 35
+# DOMAIN-KEYWORD: 36
 # DOMAIN-SUFFIX: 126
 # PROCESS-NAME: 36
-# TOTAL: 253
+# TOTAL: 254
 payload:
   - DOMAIN,ad.10010.com
   - DOMAIN,ad.12306.cn
@@ -190,6 +190,7 @@ payload:
   - DOMAIN-SUFFIX,weather-map.apple.com
   - DOMAIN-SUFFIX,wiley.com
   - DOMAIN-SUFFIX,xunlei.com
+  - DOMAIN-KEYWORD,amp-api.podcasts.apple.com
   - DOMAIN-KEYWORD,anti-ad.net
   - DOMAIN-KEYWORD,api-adservices.apple.com
   - DOMAIN-KEYWORD,api.smoot.apple.cn

@@ -1,16 +1,17 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-07-18 02:08:59
-# HOST: 146
+# UPDATED: 2025-07-20 02:08:47
+# HOST: 150
 # HOST-KEYWORD: 4
 # HOST-SUFFIX: 123
 # IP-CIDR: 4
-# TOTAL: 277
+# TOTAL: 281
 HOST,0123456789nonexistent.com,PrivateTracker
 HOST,0d.kebhana.mx,PrivateTracker
 HOST,1337.abcvg.info,PrivateTracker
 HOST,1c.premierzal.ru,PrivateTracker
+HOST,admin.52ywp.com,PrivateTracker
 HOST,asiatorrent.ddns.net,PrivateTracker
 HOST,bandito.byterunner.io,PrivateTracker
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,PrivateTracker
@@ -22,7 +23,6 @@ HOST,bt1.xxxxbt.cc,PrivateTracker
 HOST,buny.uk,PrivateTracker
 HOST,concen.org,PrivateTracker
 HOST,d40969.acod.regrucolo.ru,PrivateTracker
-HOST,discord.heihachi.pw,PrivateTracker
 HOST,evan.im,PrivateTracker
 HOST,exodus.desync.com,PrivateTracker
 HOST,explodie.org,PrivateTracker
@@ -34,9 +34,9 @@ HOST,ipv4.rer.lol,PrivateTracker
 HOST,ipv4announce.sktorrent.eu,PrivateTracker
 HOST,ipv6.rer.lol,PrivateTracker
 HOST,isk.richardsw.club,PrivateTracker
-HOST,leet-tracker.moe,PrivateTracker
 HOST,martin-gebhardt.eu,PrivateTracker
 HOST,ns-1.x-fins.com,PrivateTracker
+HOST,ns3109441.mypdns.org,PrivateTracker
 HOST,nyaa.tracker.wf,PrivateTracker
 HOST,open.demonii.com,PrivateTracker
 HOST,open.dstud.io,PrivateTracker
@@ -62,9 +62,11 @@ HOST,t.overflow.biz,PrivateTracker
 HOST,taciturn-shadow.spb.ru,PrivateTracker
 HOST,tk.greedland.net,PrivateTracker
 HOST,torrentsmd.com,PrivateTracker
+HOST,tr-zhuqiy-1.dgj055.icu,PrivateTracker
 HOST,tr.abiir.top,PrivateTracker
 HOST,tr.kxmp.cf,PrivateTracker
 HOST,tr.nyacat.pw,PrivateTracker
+HOST,tr.zukizuki.org,PrivateTracker
 HOST,tr3.ysagin.top,PrivateTracker
 HOST,tr4ck3r.duckdns.org,PrivateTracker
 HOST,tracker-udp.gbitt.info,PrivateTracker
@@ -78,6 +80,7 @@ HOST,tracker.bt-hash.com,PrivateTracker
 HOST,tracker.bt4g.com,PrivateTracker
 HOST,tracker.bz,PrivateTracker
 HOST,tracker.corpscorp.online,PrivateTracker
+HOST,tracker.cutie.dating,PrivateTracker
 HOST,tracker.cyberia.is,PrivateTracker
 HOST,tracker.ddunlimited.net,PrivateTracker
 HOST,tracker.dler.com,PrivateTracker
@@ -123,6 +126,7 @@ HOST,tracker.sbsub.com,PrivateTracker
 HOST,tracker.skillindia.site,PrivateTracker
 HOST,tracker.skyts.net,PrivateTracker
 HOST,tracker.srv00.com,PrivateTracker
+HOST,tracker.theoks.net,PrivateTracker
 HOST,tracker.therarbg.to,PrivateTracker
 HOST,tracker.torrent.eu.org,PrivateTracker
 HOST,tracker.torrust-demo.com,PrivateTracker

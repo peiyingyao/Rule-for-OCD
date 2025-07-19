@@ -15,16 +15,16 @@
 
 ## 规则统计
 
-最后更新时间：2025-06-06 09:17:01
+最后更新时间：2025-07-20 02:07:58
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST | 56  | 
-| HOST-KEYWORD | 35  | 
+| HOST-KEYWORD | 36  | 
 | HOST-SUFFIX | 126  | 
 | USER-AGENT | 1  | 
-| TOTAL | 218  | 
+| TOTAL | 219  | 
 
 
 ## QuantumultX 

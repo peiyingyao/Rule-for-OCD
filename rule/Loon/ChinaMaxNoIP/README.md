@@ -15,16 +15,16 @@ ChinaMax排除相关IP规则版本
 
 ## 规则统计
 
-最后更新时间：2025-07-16 02:09:53
+最后更新时间：2025-07-20 02:09:43
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 255  | 
 | DOMAIN-KEYWORD | 13  | 
-| DOMAIN-SUFFIX | 118732  | 
+| DOMAIN-SUFFIX | 118710  | 
 | USER-AGENT | 65  | 
-| TOTAL | 119065  | 
+| TOTAL | 119043  | 
 
 
 ## Loon 
