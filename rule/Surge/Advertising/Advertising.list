@@ -1,16 +1,16 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-07-22 02:04:27
+# UPDATED: 2025-07-24 02:04:18
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 16428
 # DOMAIN-KEYWORD: 277
-# DOMAIN-SUFFIX: 186481
+# DOMAIN-SUFFIX: 189342
 # IP-CIDR: 485
 # IP-CIDR6: 3
 # URL-REGEX: 14
-# TOTAL: 203689
+# TOTAL: 206550
 DOMAIN-KEYWORD,-logging.nextmedia.com
 DOMAIN-KEYWORD,-rtb.gravite.net
 DOMAIN-KEYWORD,-s2s.sensic.net
