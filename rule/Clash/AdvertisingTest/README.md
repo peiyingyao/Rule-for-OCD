@@ -21,17 +21,17 @@
 
 ## 规则统计
 
-最后更新时间：2025-07-26 02:06:08
+最后更新时间：2025-07-28 02:05:54
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 13101  | 
 | DOMAIN-KEYWORD | 279  | 
-| DOMAIN-SUFFIX | 210529  | 
+| DOMAIN-SUFFIX | 211260  | 
 | IP-CIDR | 507  | 
 | IP-CIDR6 | 3  | 
-| TOTAL | 224419  | 
+| TOTAL | 225150  | 
 
 
 ## Clash 
@@ -126,7 +126,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Advertising/AdReject.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Advertising/Hijacking.list
 - https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/AdRuleTest.list
-- https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRuleTest.list
 - https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/adaway.txt
 - https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/base-filter.txt
 - https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/chinese-filter.txt
@@ -147,7 +146,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://easylist-downloads.adblockplus.org/easyprivacy.txt
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Adblock/Adblock.list
 - https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/AdBlock.list
-- https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。
