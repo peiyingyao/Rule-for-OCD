@@ -12,7 +12,7 @@
 
 ## 规则统计
 
-最后更新时间：2025-07-28 02:08:48
+最后更新时间：2025-07-30 02:09:06
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -65,6 +65,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《9to5》的数据来自以下链接，如与本项目的《9to5》规则混合使用，可能会造成规则大量重复。
 
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/9to5.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/9to5.yaml
 
 

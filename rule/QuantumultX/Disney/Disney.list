@@ -1,11 +1,11 @@
 # NAME: Disney
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:16:55
+# UPDATED: 2025-07-30 02:08:19
 # HOST: 1
-# HOST-SUFFIX: 171
+# HOST-SUFFIX: 172
 # USER-AGENT: 1
-# TOTAL: 173
+# TOTAL: 174
 HOST,cdn.registerdisney.go.com,Disney
 HOST-SUFFIX,20thcenturystudios.com.au,Disney
 HOST-SUFFIX,20thcenturystudios.com.br,Disney
@@ -123,6 +123,7 @@ HOST-SUFFIX,disneytvajobs.com,Disney
 HOST-SUFFIX,disneyworld-go.com,Disney
 HOST-SUFFIX,dlp-media.com,Disney
 HOST-SUFFIX,dmed.technology,Disney
+HOST-SUFFIX,dssedge.com,Disney
 HOST-SUFFIX,dssott.com,Disney
 HOST-SUFFIX,dtci.co,Disney
 HOST-SUFFIX,dtci.technology,Disney
