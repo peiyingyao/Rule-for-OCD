@@ -19,14 +19,14 @@ ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-07-30 02:09:58
+最后更新时间：2025-08-01 02:09:45
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| IP-CIDR | 18171  | 
-| IP6-CIDR | 13551  | 
-| TOTAL | 31722  | 
+| IP-CIDR | 18502  | 
+| IP6-CIDR | 13660  | 
+| TOTAL | 32162  | 
 
 
 ## QuantumultX 
@@ -86,6 +86,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cmcc.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cmcc6.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cstnet.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cstnet6.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/drpeng.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/drpeng6.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/tietong.txt

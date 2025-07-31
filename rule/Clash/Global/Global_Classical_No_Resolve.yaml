@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-07-30 02:07:56
+# UPDATED: 2025-08-01 02:07:45
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
 # DOMAIN-SUFFIX: 31565
@@ -23464,7 +23464,6 @@ payload:
   - DOMAIN-SUFFIX,walker-institute.ac.uk
   - DOMAIN-SUFFIX,walker.ac.uk
   - DOMAIN-SUFFIX,wallet.com
-  - DOMAIN-SUFFIX,walletconnect.com
   - DOMAIN-SUFFIX,wallhaven.cc
   - DOMAIN-SUFFIX,walmart-content.com
   - DOMAIN-SUFFIX,walmart.com
@@ -31166,6 +31165,7 @@ payload:
   - DOMAIN-SUFFIX,wailaike.net
   - DOMAIN-SUFFIX,wainao.me
   - DOMAIN-SUFFIX,waiwaier.com
+  - DOMAIN-SUFFIX,walletconnect.com
   - DOMAIN-SUFFIX,wallmama.com
   - DOMAIN-SUFFIX,wallornot.org
   - DOMAIN-SUFFIX,wallpapercasa.com

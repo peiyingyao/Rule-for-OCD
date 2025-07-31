@@ -12,19 +12,19 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-07-30 02:10:59
+最后更新时间：2025-08-01 02:10:44
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 255  | 
 | DOMAIN-KEYWORD | 11  | 
-| DOMAIN-SUFFIX | 117983  | 
+| DOMAIN-SUFFIX | 117887  | 
 | IP-ASN | 1  | 
-| IP-CIDR | 8001  | 
-| IP-CIDR6 | 12096  | 
+| IP-CIDR | 8115  | 
+| IP-CIDR6 | 12085  | 
 | USER-AGENT | 65  | 
-| TOTAL | 138412  | 
+| TOTAL | 138419  | 
 
 
 ## Loon 
@@ -141,6 +141,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/360.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/4399.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/4399.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Vip.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/MI.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Xiaomi.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BiliBili.list
@@ -243,6 +244,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/HanYi.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/HeMa.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/HibyMusic.list
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/HuYa.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/HuaShuTV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/HunanTV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Hupu.list
@@ -351,6 +353,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/WeiZhiYunDong.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/8btc.list
 - https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ChengTongWangPan.list
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/cncidr.txt
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/DuoWan.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/WanKaHuanJu.list
@@ -365,6 +368,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cmcc.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cmcc6.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cstnet.txt
+- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cstnet6.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/drpeng.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/drpeng6.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/tietong.txt

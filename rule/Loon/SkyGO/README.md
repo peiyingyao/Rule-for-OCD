@@ -12,13 +12,15 @@ SkyGO规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-06-06 09:17:00
+最后更新时间：2025-08-01 02:08:12
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 2  | 
-| TOTAL | 2  | 
+| DOMAIN | 3  | 
+| DOMAIN-KEYWORD | 3  | 
+| DOMAIN-SUFFIX | 9  | 
+| TOTAL | 15  | 
 
 
 ## Loon 
