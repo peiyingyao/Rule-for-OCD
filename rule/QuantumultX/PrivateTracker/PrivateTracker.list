@@ -1,19 +1,17 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-01 02:09:03
-# HOST: 158
+# UPDATED: 2025-08-02 02:09:19
+# HOST: 152
 # HOST-KEYWORD: 4
 # HOST-SUFFIX: 123
 # IP-CIDR: 4
-# TOTAL: 289
+# TOTAL: 283
 HOST,0123456789nonexistent.com,PrivateTracker
 HOST,0d.kebhana.mx,PrivateTracker
 HOST,1337.abcvg.info,PrivateTracker
 HOST,1c.premierzal.ru,PrivateTracker
 HOST,admin.52ywp.com,PrivateTracker
-HOST,asiatorrent.ddns.net,PrivateTracker
-HOST,asiatorrent.giize.com,PrivateTracker
 HOST,bandito.byterunner.io,PrivateTracker
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,PrivateTracker
 HOST,bt.ktrackers.com,PrivateTracker
@@ -52,7 +50,6 @@ HOST,open.trackerlist.xyz,PrivateTracker
 HOST,opentor.org,PrivateTracker
 HOST,opentracker.io,PrivateTracker
 HOST,p4p.arenabg.com,PrivateTracker
-HOST,passpulse.net,PrivateTracker
 HOST,public.tracker.vraphim.com,PrivateTracker
 HOST,pybittrack.retiolus.net,PrivateTracker
 HOST,retracker.hotplug.ru,PrivateTracker
@@ -96,7 +93,6 @@ HOST,tracker.dler.com,PrivateTracker
 HOST,tracker.dler.org,PrivateTracker
 HOST,tracker.dmcomic.org,PrivateTracker
 HOST,tracker.ducks.party,PrivateTracker
-HOST,tracker.dump.cl,PrivateTracker
 HOST,tracker.expli.top,PrivateTracker
 HOST,tracker.filemail.com,PrivateTracker
 HOST,tracker.fnix.net,PrivateTracker
@@ -109,7 +105,6 @@ HOST,tracker.hifimarket.in,PrivateTracker
 HOST,tracker.hifitechindia.com,PrivateTracker
 HOST,tracker.iperson.xyz,PrivateTracker
 HOST,tracker.ipv6tracker.org,PrivateTracker
-HOST,tracker.ipv6tracker.ru,PrivateTracker
 HOST,tracker.jdx3.org,PrivateTracker
 HOST,tracker.kmzs123.cn,PrivateTracker
 HOST,tracker.kuroy.me,PrivateTracker
@@ -119,7 +114,6 @@ HOST,tracker.moeblog.cn,PrivateTracker
 HOST,tracker.moxing.party,PrivateTracker
 HOST,tracker.mywaifu.best,PrivateTracker
 HOST,tracker.netmap.top,PrivateTracker
-HOST,tracker.ololosh.space,PrivateTracker
 HOST,tracker.opentrackr.org,PrivateTracker
 HOST,tracker.openwebtorrent.com,PrivateTracker
 HOST,tracker.plx.im,PrivateTracker
