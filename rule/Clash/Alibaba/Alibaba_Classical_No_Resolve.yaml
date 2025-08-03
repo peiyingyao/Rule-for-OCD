@@ -1,12 +1,12 @@
 # NAME: Alibaba
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:17:30
-# DOMAIN-SUFFIX: 1251
+# UPDATED: 2025-08-04 02:09:31
+# DOMAIN-SUFFIX: 1265
 # IP-CIDR: 53
 # IP-CIDR6: 1
 # PROCESS-NAME: 1
-# TOTAL: 1306
+# TOTAL: 1320
 payload:
   - DOMAIN-SUFFIX,10029.com
   - DOMAIN-SUFFIX,1688.com
@@ -38,6 +38,8 @@ payload:
   - DOMAIN-SUFFIX,alibaba.com
   - DOMAIN-SUFFIX,alibaba.com.cn
   - DOMAIN-SUFFIX,alibabacapital.com
+  - DOMAIN-SUFFIX,alibabachengdun.com
+  - DOMAIN-SUFFIX,alibabachengdun.net
   - DOMAIN-SUFFIX,alibabacloud.co.in
   - DOMAIN-SUFFIX,alibabacloud.com
   - DOMAIN-SUFFIX,alibabacloud.com.au
@@ -55,6 +57,7 @@ payload:
   - DOMAIN-SUFFIX,alibabagroup.com
   - DOMAIN-SUFFIX,alibabainno.com
   - DOMAIN-SUFFIX,alibabaplanet.com
+  - DOMAIN-SUFFIX,alibabastars.com
   - DOMAIN-SUFFIX,alibabatech.org
   - DOMAIN-SUFFIX,alibabatechqa.com
   - DOMAIN-SUFFIX,alibabaued.com
@@ -300,6 +303,8 @@ payload:
   - DOMAIN-SUFFIX,cnzz.com
   - DOMAIN-SUFFIX,cnzz.net
   - DOMAIN-SUFFIX,cqhimalayanky.com
+  - DOMAIN-SUFFIX,cs-eval.com
+  - DOMAIN-SUFFIX,cthh9mnv.com
   - DOMAIN-SUFFIX,d10a.com
   - DOMAIN-SUFFIX,d11a.com
   - DOMAIN-SUFFIX,d22a.com
@@ -348,6 +353,7 @@ payload:
   - DOMAIN-SUFFIX,ewtp.com
   - DOMAIN-SUFFIX,ewtp.org
   - DOMAIN-SUFFIX,ex.puata.info
+  - DOMAIN-SUFFIX,f09qgja1.com
   - DOMAIN-SUFFIX,f61a.com
   - DOMAIN-SUFFIX,f61b.com
   - DOMAIN-SUFFIX,fastidea.cc
@@ -746,6 +752,7 @@ payload:
   - DOMAIN-SUFFIX,gfvip08ar.com
   - DOMAIN-SUFFIX,gfvip08as.com
   - DOMAIN-SUFFIX,gfvip08at.com
+  - DOMAIN-SUFFIX,ggunk1tn.com
   - DOMAIN-SUFFIX,ghtianshancn.com
   - DOMAIN-SUFFIX,gktianshanjd.com
   - DOMAIN-SUFFIX,gomcloud.cn
@@ -797,6 +804,7 @@ payload:
   - DOMAIN-SUFFIX,gxic.club
   - DOMAIN-SUFFIX,gyhimalayanul.com
   - DOMAIN-SUFFIX,h5util.com
+  - DOMAIN-SUFFIX,h7fpuyk8.com
   - DOMAIN-SUFFIX,haibaoyl.com
   - DOMAIN-SUFFIX,hemamax.com
   - DOMAIN-SUFFIX,hemaos.com
@@ -811,6 +819,8 @@ payload:
   - DOMAIN-SUFFIX,htyssdf.com
   - DOMAIN-SUFFIX,hz.pre.tbusergw.taobao.net
   - DOMAIN-SUFFIX,hz.tbusergw.taobao.net
+  - DOMAIN-SUFFIX,hzchengdun.com
+  - DOMAIN-SUFFIX,hzchengdun.net
   - DOMAIN-SUFFIX,hzyzhp.com
   - DOMAIN-SUFFIX,i.ipinyou.com
   - DOMAIN-SUFFIX,ialicdn.com
@@ -938,6 +948,7 @@ payload:
   - DOMAIN-SUFFIX,nhcilab.com
   - DOMAIN-SUFFIX,nic.xin
   - DOMAIN-SUFFIX,njibhu.com
+  - DOMAIN-SUFFIX,nndz3xu7.com
   - DOMAIN-SUFFIX,nnjioko.com
   - DOMAIN-SUFFIX,noxnny.com
   - DOMAIN-SUFFIX,npmmirror.com
@@ -946,6 +957,7 @@ payload:
   - DOMAIN-SUFFIX,nxtianshangb.com
   - DOMAIN-SUFFIX,okhimalayanzi.com
   - DOMAIN-SUFFIX,oklpoi.com
+  - DOMAIN-SUFFIX,oshield.com
   - DOMAIN-SUFFIX,oyxdwx.com
   - DOMAIN-SUFFIX,pahhhf.com
   - DOMAIN-SUFFIX,pailitao.com
@@ -1101,6 +1113,7 @@ payload:
   - DOMAIN-SUFFIX,sxhimalayanqd.com
   - DOMAIN-SUFFIX,t-jh.cn
   - DOMAIN-SUFFIX,taeapp.com
+  - DOMAIN-SUFFIX,taji-ai.com
   - DOMAIN-SUFFIX,tangping.com
   - DOMAIN-SUFFIX,tangping.com.cn
   - DOMAIN-SUFFIX,tanx.com
@@ -1212,6 +1225,7 @@ payload:
   - DOMAIN-SUFFIX,xppgsx.com
   - DOMAIN-SUFFIX,xrqorv.com
   - DOMAIN-SUFFIX,xsyeli.com
+  - DOMAIN-SUFFIX,xtianlang.com
   - DOMAIN-SUFFIX,xunxi.com
   - DOMAIN-SUFFIX,xylofh.com
   - DOMAIN-SUFFIX,ybtianshantu.com

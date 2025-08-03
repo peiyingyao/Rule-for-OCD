@@ -1,12 +1,12 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-02 02:09:19
-# HOST: 152
+# UPDATED: 2025-08-04 02:09:50
+# HOST: 155
 # HOST-KEYWORD: 4
 # HOST-SUFFIX: 123
 # IP-CIDR: 4
-# TOTAL: 283
+# TOTAL: 286
 HOST,0123456789nonexistent.com,PrivateTracker
 HOST,0d.kebhana.mx,PrivateTracker
 HOST,1337.abcvg.info,PrivateTracker
@@ -40,6 +40,7 @@ HOST,leet-tracker.moe,PrivateTracker
 HOST,lucke.fenesisu.moe,PrivateTracker
 HOST,martin-gebhardt.eu,PrivateTracker
 HOST,ns-1.x-fins.com,PrivateTracker
+HOST,ns3109441.mypdns.org,PrivateTracker
 HOST,nyaa.tracker.wf,PrivateTracker
 HOST,open.demonii.com,PrivateTracker
 HOST,open.dstud.io,PrivateTracker
@@ -48,6 +49,7 @@ HOST,open.stealth.si,PrivateTracker
 HOST,open.tracker.cl,PrivateTracker
 HOST,open.trackerlist.xyz,PrivateTracker
 HOST,opentor.org,PrivateTracker
+HOST,opentracker.8880085.xyz,PrivateTracker
 HOST,opentracker.io,PrivateTracker
 HOST,p4p.arenabg.com,PrivateTracker
 HOST,public.tracker.vraphim.com,PrivateTracker
@@ -63,7 +65,6 @@ HOST,share.hkg-fansub.info,PrivateTracker
 HOST,shubt.net,PrivateTracker
 HOST,t.213891.xyz,PrivateTracker
 HOST,t.jaekr.sh,PrivateTracker
-HOST,t.overflow.biz,PrivateTracker
 HOST,taciturn-shadow.spb.ru,PrivateTracker
 HOST,tk.greedland.net,PrivateTracker
 HOST,torrent.hificode.in,PrivateTracker
@@ -71,6 +72,7 @@ HOST,torrent.tracker.durukanbal.com,PrivateTracker
 HOST,torrentsmd.com,PrivateTracker
 HOST,tr.abiir.top,PrivateTracker
 HOST,tr.abir.ga,PrivateTracker
+HOST,tr.kxmp.cf,PrivateTracker
 HOST,tr.nyacat.pw,PrivateTracker
 HOST,tr.zukizuki.org,PrivateTracker
 HOST,tr3.ysagin.top,PrivateTracker
@@ -105,6 +107,7 @@ HOST,tracker.hifimarket.in,PrivateTracker
 HOST,tracker.hifitechindia.com,PrivateTracker
 HOST,tracker.iperson.xyz,PrivateTracker
 HOST,tracker.ipv6tracker.org,PrivateTracker
+HOST,tracker.ipv6tracker.ru,PrivateTracker
 HOST,tracker.jdx3.org,PrivateTracker
 HOST,tracker.kmzs123.cn,PrivateTracker
 HOST,tracker.kuroy.me,PrivateTracker
