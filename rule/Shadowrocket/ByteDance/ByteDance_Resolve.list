@@ -1,18 +1,20 @@
 # NAME: ByteDance
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-28 02:07:58
-# DOMAIN-SUFFIX: 331
+# UPDATED: 2025-08-06 02:08:35
+# DOMAIN-SUFFIX: 368
 # IP-CIDR: 1
 # USER-AGENT: 1
-# TOTAL: 333
+# TOTAL: 370
 DOMAIN-SUFFIX,2333333333333.com
 DOMAIN-SUFFIX,365yg.com
 DOMAIN-SUFFIX,activity-zhendingtech.com
 DOMAIN-SUFFIX,activitybyte.com
+DOMAIN-SUFFIX,aigcarena.com
 DOMAIN-SUFFIX,aihst8.com
 DOMAIN-SUFFIX,amemv.cn
 DOMAIN-SUFFIX,amemv.net
+DOMAIN-SUFFIX,artistrylab.net
 DOMAIN-SUFFIX,baike.com
 DOMAIN-SUFFIX,bcy.net
 DOMAIN-SUFFIX,bcyimg.com
@@ -25,8 +27,11 @@ DOMAIN-SUFFIX,bdxiguavod.com
 DOMAIN-SUFFIX,betastar.cn
 DOMAIN-SUFFIX,bqtalk.com
 DOMAIN-SUFFIX,buydouke.com
+DOMAIN-SUFFIX,byte-ticket.com
 DOMAIN-SUFFIX,byteac.com
 DOMAIN-SUFFIX,byteactivity.com
+DOMAIN-SUFFIX,byteapk.cn
+DOMAIN-SUFFIX,byteapk.com
 DOMAIN-SUFFIX,bytecdn.cn
 DOMAIN-SUFFIX,bytecdn.com
 DOMAIN-SUFFIX,bytecdntp.com
@@ -37,6 +42,8 @@ DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytedance.net
 DOMAIN-SUFFIX,bytedance.org
 DOMAIN-SUFFIX,bytedanceapi.com
+DOMAIN-SUFFIX,bytedanceoss.net
+DOMAIN-SUFFIX,bytedancevod.com
 DOMAIN-SUFFIX,bytedns.net
 DOMAIN-SUFFIX,bytedns1.com
 DOMAIN-SUFFIX,bytedns2.com
@@ -49,13 +56,19 @@ DOMAIN-SUFFIX,bytegoofy.com
 DOMAIN-SUFFIX,bytegslb.com
 DOMAIN-SUFFIX,byteimg.com
 DOMAIN-SUFFIX,bytelb.net
+DOMAIN-SUFFIX,bytelove.cn
 DOMAIN-SUFFIX,bytemaimg.com
 DOMAIN-SUFFIX,bytescm.com
 DOMAIN-SUFFIX,bytesfield.com
 DOMAIN-SUFFIX,bytesmanager.com
+DOMAIN-SUFFIX,bytesyscdn.com
 DOMAIN-SUFFIX,bytetcc.com
 DOMAIN-SUFFIX,bytetos.com
+DOMAIN-SUFFIX,byteurl.cn
 DOMAIN-SUFFIX,bytexservice.com
+DOMAIN-SUFFIX,capturetheflag.fun
+DOMAIN-SUFFIX,cdn-build.com
+DOMAIN-SUFFIX,cdn-build.net
 DOMAIN-SUFFIX,cdndns1.com
 DOMAIN-SUFFIX,cdndns2.com
 DOMAIN-SUFFIX,changdunovel.com
@@ -70,6 +83,7 @@ DOMAIN-SUFFIX,dcarvod.com
 DOMAIN-SUFFIX,dcdapp.com
 DOMAIN-SUFFIX,dongchedi.com
 DOMAIN-SUFFIX,dongchediapp.com
+DOMAIN-SUFFIX,dou.top
 DOMAIN-SUFFIX,doubao.cn
 DOMAIN-SUFFIX,doubao.com
 DOMAIN-SUFFIX,douyin.com
@@ -120,8 +134,10 @@ DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,gogokid.com
 DOMAIN-SUFFIX,gogokid.com.cn
 DOMAIN-SUFFIX,goodluckcalendar.com
+DOMAIN-SUFFIX,goofy-edge.cn
 DOMAIN-SUFFIX,healthybaike.com
 DOMAIN-SUFFIX,heycan.com
+DOMAIN-SUFFIX,hijackorg.net
 DOMAIN-SUFFIX,hotsoonapp.cn
 DOMAIN-SUFFIX,hotsoonapp.com
 DOMAIN-SUFFIX,hotsoonapp.net
@@ -171,6 +187,8 @@ DOMAIN-SUFFIX,ixgvideo.com
 DOMAIN-SUFFIX,jinritemai-inc.com
 DOMAIN-SUFFIX,jinritemai.com
 DOMAIN-SUFFIX,jinritoutiao.com
+DOMAIN-SUFFIX,jiyi.biz
+DOMAIN-SUFFIX,jiyi.top
 DOMAIN-SUFFIX,jiyunhudong.cn
 DOMAIN-SUFFIX,jiyunhudong.com
 DOMAIN-SUFFIX,jiyunhudong.net
@@ -184,11 +202,12 @@ DOMAIN-SUFFIX,juejin.im
 DOMAIN-SUFFIX,juliangyinqing.cn
 DOMAIN-SUFFIX,juliangyinqing.com
 DOMAIN-SUFFIX,juliangyinqing.net
+DOMAIN-SUFFIX,knightedge.com
 DOMAIN-SUFFIX,kolbuyer.cn
 DOMAIN-SUFFIX,kspkg.com
 DOMAIN-SUFFIX,larksuite.com
 DOMAIN-SUFFIX,larksuitecdn.com
-DOMAIN-SUFFIX,lf-rc1.yhgfb-cn-static.com
+DOMAIN-SUFFIX,lingovalley-cdn.cn
 DOMAIN-SUFFIX,luckforcalendar.com
 DOMAIN-SUFFIX,luckincalendar.com
 DOMAIN-SUFFIX,luckycalendar.cn
@@ -230,12 +249,14 @@ DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,pipix.com
 DOMAIN-SUFFIX,qmoji.mobi
 DOMAIN-SUFFIX,qmoji.net
+DOMAIN-SUFFIX,qwconnect.top
 DOMAIN-SUFFIX,qznovelpic.com
 DOMAIN-SUFFIX,qznovelstatic.com
 DOMAIN-SUFFIX,qznovelvod.com
 DOMAIN-SUFFIX,ribaoapi.com
 DOMAIN-SUFFIX,ribaocdn.com
 DOMAIN-SUFFIX,samasty.com
+DOMAIN-SUFFIX,semi.design
 DOMAIN-SUFFIX,shoppingads.cn
 DOMAIN-SUFFIX,smartisan.cn
 DOMAIN-SUFFIX,smartisan.com
@@ -244,6 +265,8 @@ DOMAIN-SUFFIX,smartisanos.com
 DOMAIN-SUFFIX,tekkenthree.com
 DOMAIN-SUFFIX,temaiapi.com
 DOMAIN-SUFFIX,tetrisone.com
+DOMAIN-SUFFIX,tiquality.cn
+DOMAIN-SUFFIX,tiquality.com.cn
 DOMAIN-SUFFIX,toscdn.com
 DOMAIN-SUFFIX,toutiao11.com
 DOMAIN-SUFFIX,toutiao12.com
@@ -282,10 +305,20 @@ DOMAIN-SUFFIX,ttbyte.cn
 DOMAIN-SUFFIX,ttbyte.com
 DOMAIN-SUFFIX,ttbyte.net
 DOMAIN-SUFFIX,ttjisu.com
+DOMAIN-SUFFIX,ugapk.cn
+DOMAIN-SUFFIX,ugapk.com
+DOMAIN-SUFFIX,ugh5.cn
+DOMAIN-SUFFIX,ugsdk.cn
+DOMAIN-SUFFIX,ugurl.cc
+DOMAIN-SUFFIX,ugurl.cn
 DOMAIN-SUFFIX,ulikecam.cn
 DOMAIN-SUFFIX,ulikecam.com
 DOMAIN-SUFFIX,ulikecam.mobi
 DOMAIN-SUFFIX,ulikecam.net
+DOMAIN-SUFFIX,varchserverqa.com
+DOMAIN-SUFFIX,vireala.com
+DOMAIN-SUFFIX,vireala.net
+DOMAIN-SUFFIX,visactor.com
 DOMAIN-SUFFIX,volccdn.com
 DOMAIN-SUFFIX,volcdem.com
 DOMAIN-SUFFIX,volceapplog.com
@@ -305,7 +338,9 @@ DOMAIN-SUFFIX,xiguashipin.net
 DOMAIN-SUFFIX,xiguavideo.cn
 DOMAIN-SUFFIX,xiguavideo.net
 DOMAIN-SUFFIX,xitu.io
+DOMAIN-SUFFIX,yhgfb-cn-static.com
 DOMAIN-SUFFIX,youdianyisi.com
+DOMAIN-SUFFIX,yueantech.com.cn
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,zijiecdn.cn
 DOMAIN-SUFFIX,zijiecdn.com
@@ -327,6 +362,8 @@ DOMAIN-SUFFIX,zjbyte.net
 DOMAIN-SUFFIX,zjcdn.com
 DOMAIN-SUFFIX,zjgslb.com
 DOMAIN-SUFFIX,zjurl.cn
+DOMAIN-SUFFIX,zlinkurl.cn
+DOMAIN-SUFFIX,zlinkurl.com
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinpic.com
