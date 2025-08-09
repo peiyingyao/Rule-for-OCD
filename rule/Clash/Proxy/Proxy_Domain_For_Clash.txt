@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-06 02:08:25
+# UPDATED: 2025-08-10 02:07:58
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6511
+# DOMAIN-SUFFIX: 6514
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6643
+# TOTAL: 6646
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -652,6 +652,7 @@ voice.telephony.goog
 +.bitcointalk.org
 +.bitcoinworld.com
 +.bitfinex.com
++.bitget.com
 +.bithumb.com
 +.bitinka.com.ar
 +.bitmex.com
@@ -1119,6 +1120,7 @@ voice.telephony.goog
 +.cloakpoint.com
 +.cloud.cupronickel.goog
 +.cloudcone.com
++.cloudflare-dns.com
 +.cloudflare-ipfs.com
 +.cloudflare.com
 +.cloudfront.net
@@ -5769,6 +5771,7 @@ voice.telephony.goog
 +.untraceable.us
 +.unwire.hk
 +.uocn.org
++.upbit.com
 +.updatestar.com
 +.upghsbc.com
 +.upholdjustice.org

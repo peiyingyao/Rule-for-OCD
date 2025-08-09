@@ -12,17 +12,17 @@ TikTok规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-08-01 02:08:07
+最后更新时间：2025-08-10 02:08:00
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 4  | 
 | DOMAIN-KEYWORD | 2  | 
-| DOMAIN-SUFFIX | 24  | 
+| DOMAIN-SUFFIX | 25  | 
 | PROCESS-NAME | 1  | 
 | USER-AGENT | 1  | 
-| TOTAL | 32  | 
+| TOTAL | 33  | 
 
 
 ## Surge 
