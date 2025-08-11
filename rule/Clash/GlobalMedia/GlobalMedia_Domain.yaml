@@ -1,16 +1,17 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:16:53
-# DOMAIN: 35
+# UPDATED: 2025-08-12 02:08:07
+# DOMAIN: 36
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 1270
+# DOMAIN-SUFFIX: 1272
 # IP-CIDR: 918
 # IP-CIDR6: 6
 # PROCESS-NAME: 3
-# TOTAL: 2258
+# TOTAL: 2261
 payload:
   - 'ai.google.dev'
+  - 'aistudio.google.com'
   - 'akmcdnoversea-tw.inter.ptqy.gitv.tv'
   - 'api.githubcopilot.com'
   - 'api.groq.com'
@@ -180,6 +181,7 @@ payload:
   - '+.chocotv.com.tw'
   - '+.cinemax.com'
   - '+.claude.ai'
+  - '+.claudeusercontent.com'
   - '+.cloudfront.net'
   - '+.cnbc.com'
   - '+.cnbcfm.com'
@@ -202,6 +204,8 @@ payload:
   - '+.cstatic.net'
   - '+.curbed.com'
   - '+.curiositystream.com'
+  - '+.curosr.com'
+  - '+.curosr.sh'
   - '+.cwseed.com'
   - '+.cwtv.com'
   - '+.d9.flashtalking.com'
@@ -965,7 +969,6 @@ payload:
   - '+.snssdk.com'
   - '+.soccermatchpass.com'
   - '+.socdm.com'
-  - '+.sora.com'
   - '+.sorcerersarena.com'
   - '+.soundcloud.app.goo.gl'
   - '+.soundcloud.com'

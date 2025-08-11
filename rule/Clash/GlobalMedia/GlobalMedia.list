@@ -1,15 +1,16 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:16:53
-# DOMAIN: 35
+# UPDATED: 2025-08-12 02:08:07
+# DOMAIN: 36
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 1270
+# DOMAIN-SUFFIX: 1272
 # IP-CIDR: 918
 # IP-CIDR6: 6
 # PROCESS-NAME: 3
-# TOTAL: 2258
+# TOTAL: 2261
 DOMAIN,ai.google.dev
+DOMAIN,aistudio.google.com
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,api.githubcopilot.com
 DOMAIN,api.groq.com
@@ -179,6 +180,7 @@ DOMAIN-SUFFIX,channel5.com
 DOMAIN-SUFFIX,chocotv.com.tw
 DOMAIN-SUFFIX,cinemax.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,cnbcfm.com
@@ -201,6 +203,8 @@ DOMAIN-SUFFIX,coronavirusnow.com
 DOMAIN-SUFFIX,cstatic.net
 DOMAIN-SUFFIX,curbed.com
 DOMAIN-SUFFIX,curiositystream.com
+DOMAIN-SUFFIX,curosr.com
+DOMAIN-SUFFIX,curosr.sh
 DOMAIN-SUFFIX,cwseed.com
 DOMAIN-SUFFIX,cwtv.com
 DOMAIN-SUFFIX,d9.flashtalking.com
@@ -964,7 +968,6 @@ DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,soccermatchpass.com
 DOMAIN-SUFFIX,socdm.com
-DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,sorcerersarena.com
 DOMAIN-SUFFIX,soundcloud.app.goo.gl
 DOMAIN-SUFFIX,soundcloud.com

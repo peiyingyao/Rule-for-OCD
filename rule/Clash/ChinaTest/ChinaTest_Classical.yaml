@@ -1,7 +1,7 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-08 02:08:44
+# UPDATED: 2025-08-12 02:08:29
 # DOMAIN: 97
 # DOMAIN-KEYWORD: 9
 # DOMAIN-SUFFIX: 119095
@@ -73197,7 +73197,6 @@ payload:
   - DOMAIN-SUFFIX,naiveadmin.com
   - DOMAIN-SUFFIX,naiveblue.com
   - DOMAIN-SUFFIX,naiwch.com
-  - DOMAIN-SUFFIX,naixi.net
   - DOMAIN-SUFFIX,naiyouxuexi.com
   - DOMAIN-SUFFIX,najingtech.com
   - DOMAIN-SUFFIX,najyj.net
@@ -96895,6 +96894,7 @@ payload:
   - DOMAIN-SUFFIX,tuisnake.com
   - DOMAIN-SUFFIX,tuistone.com
   - DOMAIN-SUFFIX,tuitiger.com
+  - DOMAIN-SUFFIX,tuitui.info
   - DOMAIN-SUFFIX,tuitui99.com
   - DOMAIN-SUFFIX,tuituifang.com
   - DOMAIN-SUFFIX,tuituisoft.com

@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-07-16 02:03:40
+# UPDATED: 2025-08-12 02:03:40
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 23753
 # DOMAIN-KEYWORD: 187
-# DOMAIN-SUFFIX: 13936
+# DOMAIN-SUFFIX: 13942
 # IP-CIDR: 187
 # URL-REGEX: 2
-# TOTAL: 38065
+# TOTAL: 38071
 .000dn.com
 .001union.com
 .0024aaaa.com
@@ -2123,6 +2123,7 @@
 .analyticsengine.s3.amazonaws.com
 .analyticsv2.dol.gr
 .analyze.full-marke.com
+.analyzer51.fc2.com
 .analyzer52.fc2.com
 .anastasiaana.com
 .anatomicele.site
@@ -3553,6 +3554,7 @@
 .cloud.zyiis.net
 .cloudad.asia
 .cloudcdn.dopa.com.cn
+.cloudfront-labs.amazonaws.com
 .cloudmobi.net
 .cloudpush.iqiyi.com
 .clubpenguinclub.com
@@ -5711,6 +5713,7 @@
 .gneusqa.cn
 .gnmbd.top
 .gnncc.cc
+.go-mpulse.net
 .go.10086.cn
 .go.hangzhou.com.cn
 .go.onclasrv.com
@@ -5821,6 +5824,7 @@
 .gtmsdd.alicdn.com
 .gtmucs.cn
 .gtnde.com
+.gtrk.s3.amazonaws.com
 .gu.qlogo.cn
 .guaas.com
 .guang.lesports.com
@@ -11155,6 +11159,7 @@
 .stats.uswitch.com
 .stats.videodelivery.net
 .stats.visistat.com
+.stats.wp.com
 .stats.wwd.com
 .stats.yinyuetai.com
 .stats.ynet.co.il
@@ -11871,6 +11876,7 @@
 .traffic.uusee.com
 .trafficfactory.biz
 .trafficforce.com
+.trafficfuelpixel.s3-us-west-2.amazonaws.com
 .trafficjam.cn
 .trafficjunky.com
 .trafficjunky.net

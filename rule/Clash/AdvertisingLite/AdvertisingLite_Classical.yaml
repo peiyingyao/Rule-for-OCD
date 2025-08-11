@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-07-16 02:03:39
+# UPDATED: 2025-08-12 02:03:40
 # DOMAIN: 23753
 # DOMAIN-KEYWORD: 187
-# DOMAIN-SUFFIX: 13936
+# DOMAIN-SUFFIX: 13942
 # IP-CIDR: 186
 # IP-CIDR6: 1
-# TOTAL: 38063
+# TOTAL: 38069
 payload:
   - DOMAIN,00-gov.cn
   - DOMAIN,0024aadd.com
@@ -25876,6 +25876,7 @@ payload:
   - DOMAIN-SUFFIX,analyticsengine.s3.amazonaws.com
   - DOMAIN-SUFFIX,analyticsv2.dol.gr
   - DOMAIN-SUFFIX,analyze.full-marke.com
+  - DOMAIN-SUFFIX,analyzer51.fc2.com
   - DOMAIN-SUFFIX,analyzer52.fc2.com
   - DOMAIN-SUFFIX,anastasiaana.com
   - DOMAIN-SUFFIX,anatomicele.site
@@ -27306,6 +27307,7 @@ payload:
   - DOMAIN-SUFFIX,cloud.zyiis.net
   - DOMAIN-SUFFIX,cloudad.asia
   - DOMAIN-SUFFIX,cloudcdn.dopa.com.cn
+  - DOMAIN-SUFFIX,cloudfront-labs.amazonaws.com
   - DOMAIN-SUFFIX,cloudmobi.net
   - DOMAIN-SUFFIX,cloudpush.iqiyi.com
   - DOMAIN-SUFFIX,clubpenguinclub.com
@@ -29464,6 +29466,7 @@ payload:
   - DOMAIN-SUFFIX,gneusqa.cn
   - DOMAIN-SUFFIX,gnmbd.top
   - DOMAIN-SUFFIX,gnncc.cc
+  - DOMAIN-SUFFIX,go-mpulse.net
   - DOMAIN-SUFFIX,go.10086.cn
   - DOMAIN-SUFFIX,go.hangzhou.com.cn
   - DOMAIN-SUFFIX,go.onclasrv.com
@@ -29574,6 +29577,7 @@ payload:
   - DOMAIN-SUFFIX,gtmsdd.alicdn.com
   - DOMAIN-SUFFIX,gtmucs.cn
   - DOMAIN-SUFFIX,gtnde.com
+  - DOMAIN-SUFFIX,gtrk.s3.amazonaws.com
   - DOMAIN-SUFFIX,gu.qlogo.cn
   - DOMAIN-SUFFIX,guaas.com
   - DOMAIN-SUFFIX,guang.lesports.com
@@ -34908,6 +34912,7 @@ payload:
   - DOMAIN-SUFFIX,stats.uswitch.com
   - DOMAIN-SUFFIX,stats.videodelivery.net
   - DOMAIN-SUFFIX,stats.visistat.com
+  - DOMAIN-SUFFIX,stats.wp.com
   - DOMAIN-SUFFIX,stats.wwd.com
   - DOMAIN-SUFFIX,stats.yinyuetai.com
   - DOMAIN-SUFFIX,stats.ynet.co.il
@@ -35624,6 +35629,7 @@ payload:
   - DOMAIN-SUFFIX,traffic.uusee.com
   - DOMAIN-SUFFIX,trafficfactory.biz
   - DOMAIN-SUFFIX,trafficforce.com
+  - DOMAIN-SUFFIX,trafficfuelpixel.s3-us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,trafficjam.cn
   - DOMAIN-SUFFIX,trafficjunky.com
   - DOMAIN-SUFFIX,trafficjunky.net
