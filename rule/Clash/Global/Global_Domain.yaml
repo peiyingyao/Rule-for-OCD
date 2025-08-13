@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-12 02:07:46
+# UPDATED: 2025-08-14 02:10:35
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31567
+# DOMAIN-SUFFIX: 31569
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31830
+# TOTAL: 31832
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -3399,7 +3399,6 @@ payload:
   - '+.binance.info'
   - '+.binance.me'
   - '+.binance.net'
-  - '+.binance.org'
   - '+.binance.vision'
   - '+.binanceapi.com'
   - '+.binancecnt.com'
@@ -11856,7 +11855,6 @@ payload:
   - '+.infowarsmedia.com'
   - '+.infrapedia.com'
   - '+.infraworks.com'
-  - '+.infura.io'
   - '+.ingads.com'
   - '+.ingka.com'
   - '+.ingka.dev'
@@ -25882,6 +25880,7 @@ payload:
   - '+.biliworld.com'
   - '+.billypan.com'
   - '+.binance.com'
+  - '+.binance.org'
   - '+.binance.us'
   - '+.binancezh.cc'
   - '+.bing.com'
@@ -27995,6 +27994,7 @@ payload:
   - '+.inf.news'
   - '+.info-graf.fr'
   - '+.informer.com'
+  - '+.infura.io'
   - '+.ingress.com'
   - '+.inherit.live'
   - '+.initiativesforchina.org'
@@ -28508,6 +28508,7 @@ payload:
   - '+.lsxszzg.com'
   - '+.ltn.com.tw'
   - '+.luckydesigner.space'
+  - '+.luckymobile.ca'
   - '+.ludepress.com'
   - '+.luke54.com'
   - '+.luke54.org'
@@ -28659,6 +28660,7 @@ payload:
   - '+.metacafe.com'
   - '+.metacubex.one'
   - '+.metafilter.com'
+  - '+.metamask.io'
   - '+.metart.com'
   - '+.metarthunter.com'
   - '+.meteorshowersonline.com'

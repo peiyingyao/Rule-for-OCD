@@ -1,7 +1,7 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-12 02:08:07
+# UPDATED: 2025-08-14 02:10:57
 # HOST: 36
 # HOST-KEYWORD: 26
 # HOST-SUFFIX: 1272
@@ -204,8 +204,8 @@ HOST-SUFFIX,coronavirusnow.com,GlobalMedia
 HOST-SUFFIX,cstatic.net,GlobalMedia
 HOST-SUFFIX,curbed.com,GlobalMedia
 HOST-SUFFIX,curiositystream.com,GlobalMedia
-HOST-SUFFIX,curosr.com,GlobalMedia
-HOST-SUFFIX,curosr.sh,GlobalMedia
+HOST-SUFFIX,cursor.com,GlobalMedia
+HOST-SUFFIX,cursor.sh,GlobalMedia
 HOST-SUFFIX,cwseed.com,GlobalMedia
 HOST-SUFFIX,cwtv.com,GlobalMedia
 HOST-SUFFIX,d9.flashtalking.com,GlobalMedia
@@ -1416,12 +1416,12 @@ USER-AGENT,com.kktv.ios.kktv*,GlobalMedia
 USER-AGENT,discovery+*,GlobalMedia
 USER-AGENT,encoreTVB*,GlobalMedia
 USER-AGENT,mytv*,GlobalMedia
-USER-AGENT,*youtube*,GlobalMedia
-USER-AGENT,YouTube*,GlobalMedia
-USER-AGENT,com.google.ios.youtube*,GlobalMedia
 USER-AGENT,*YouTubeMusic*,GlobalMedia
 USER-AGENT,*com.google.ios.youtubemusic*,GlobalMedia
+USER-AGENT,*youtube*,GlobalMedia
+USER-AGENT,YouTube*,GlobalMedia
 USER-AGENT,YouTubeMusic*,GlobalMedia
+USER-AGENT,com.google.ios.youtube*,GlobalMedia
 USER-AGENT,com.google.ios.youtubemusic*,GlobalMedia
 IP-CIDR,1.201.0.0/24,GlobalMedia
 IP-CIDR,1.37.35.6/32,GlobalMedia

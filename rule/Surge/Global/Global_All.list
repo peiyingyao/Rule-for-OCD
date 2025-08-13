@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-12 02:07:45
+# UPDATED: 2025-08-14 02:10:34
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31567
+# DOMAIN-SUFFIX: 31569
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31876
+# TOTAL: 31878
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -3399,7 +3399,6 @@ DOMAIN-SUFFIX,binance.co
 DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,binance.me
 DOMAIN-SUFFIX,binance.net
-DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,binance.vision
 DOMAIN-SUFFIX,binanceapi.com
 DOMAIN-SUFFIX,binancecnt.com
@@ -11856,7 +11855,6 @@ DOMAIN-SUFFIX,infowars.com
 DOMAIN-SUFFIX,infowarsmedia.com
 DOMAIN-SUFFIX,infrapedia.com
 DOMAIN-SUFFIX,infraworks.com
-DOMAIN-SUFFIX,infura.io
 DOMAIN-SUFFIX,ingads.com
 DOMAIN-SUFFIX,ingka.com
 DOMAIN-SUFFIX,ingka.dev
@@ -25882,6 +25880,7 @@ DOMAIN-SUFFIX,bild.de
 DOMAIN-SUFFIX,biliworld.com
 DOMAIN-SUFFIX,billypan.com
 DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,binancezh.cc
 DOMAIN-SUFFIX,bing.com
@@ -27995,6 +27994,7 @@ DOMAIN-SUFFIX,indsr.org.tw
 DOMAIN-SUFFIX,inf.news
 DOMAIN-SUFFIX,info-graf.fr
 DOMAIN-SUFFIX,informer.com
+DOMAIN-SUFFIX,infura.io
 DOMAIN-SUFFIX,ingress.com
 DOMAIN-SUFFIX,inherit.live
 DOMAIN-SUFFIX,initiativesforchina.org
@@ -28508,6 +28508,7 @@ DOMAIN-SUFFIX,lsmwebcast.com
 DOMAIN-SUFFIX,lsxszzg.com
 DOMAIN-SUFFIX,ltn.com.tw
 DOMAIN-SUFFIX,luckydesigner.space
+DOMAIN-SUFFIX,luckymobile.ca
 DOMAIN-SUFFIX,ludepress.com
 DOMAIN-SUFFIX,luke54.com
 DOMAIN-SUFFIX,luke54.org
@@ -28659,6 +28660,7 @@ DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,metacafe.com
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,metafilter.com
+DOMAIN-SUFFIX,metamask.io
 DOMAIN-SUFFIX,metart.com
 DOMAIN-SUFFIX,metarthunter.com
 DOMAIN-SUFFIX,meteorshowersonline.com

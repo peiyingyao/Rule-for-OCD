@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-12 02:08:06
+# UPDATED: 2025-08-14 02:10:57
 # HOST: 19
 # HOST-KEYWORD: 26
-# HOST-SUFFIX: 6952
+# HOST-SUFFIX: 6956
 # IP-CIDR: 93
 # IP6-CIDR: 4
 # USER-AGENT: 8
-# TOTAL: 7102
+# TOTAL: 7106
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -659,6 +659,7 @@ HOST-SUFFIX,bild.de,Proxy
 HOST-SUFFIX,biliworld.com,Proxy
 HOST-SUFFIX,billypan.com,Proxy
 HOST-SUFFIX,binance.com,Proxy
+HOST-SUFFIX,binance.org,Proxy
 HOST-SUFFIX,binance.us,Proxy
 HOST-SUFFIX,binancezh.cc,Proxy
 HOST-SUFFIX,bing.com,Proxy
@@ -3169,6 +3170,7 @@ HOST-SUFFIX,indsr.org.tw,Proxy
 HOST-SUFFIX,inf.news,Proxy
 HOST-SUFFIX,info-graf.fr,Proxy
 HOST-SUFFIX,informer.com,Proxy
+HOST-SUFFIX,infura.io,Proxy
 HOST-SUFFIX,ingress.com,Proxy
 HOST-SUFFIX,inherit.live,Proxy
 HOST-SUFFIX,initiativesforchina.org,Proxy
@@ -3690,6 +3692,7 @@ HOST-SUFFIX,lsmwebcast.com,Proxy
 HOST-SUFFIX,lsxszzg.com,Proxy
 HOST-SUFFIX,ltn.com.tw,Proxy
 HOST-SUFFIX,luckydesigner.space,Proxy
+HOST-SUFFIX,luckymobile.ca,Proxy
 HOST-SUFFIX,ludepress.com,Proxy
 HOST-SUFFIX,luke54.com,Proxy
 HOST-SUFFIX,luke54.org,Proxy
@@ -3843,6 +3846,7 @@ HOST-SUFFIX,meta.com,Proxy
 HOST-SUFFIX,metacafe.com,Proxy
 HOST-SUFFIX,metacubex.one,Proxy
 HOST-SUFFIX,metafilter.com,Proxy
+HOST-SUFFIX,metamask.io,Proxy
 HOST-SUFFIX,metart.com,Proxy
 HOST-SUFFIX,metarthunter.com,Proxy
 HOST-SUFFIX,meteorshowersonline.com,Proxy
