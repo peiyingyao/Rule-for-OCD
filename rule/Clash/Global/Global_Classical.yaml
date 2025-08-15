@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-14 02:10:35
+# UPDATED: 2025-08-16 02:07:53
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31569
+# DOMAIN-SUFFIX: 31571
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31832
+# TOTAL: 31834
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -12390,7 +12390,6 @@ payload:
   - DOMAIN-SUFFIX,italiabeatsbydrdre.com
   - DOMAIN-SUFFIX,itcanwait.com
   - DOMAIN-SUFFIX,itcfonts.com
-  - DOMAIN-SUFFIX,itch.io
   - DOMAIN-SUFFIX,itch.zone
   - DOMAIN-SUFFIX,itchen.ac.uk
   - DOMAIN-SUFFIX,iteach.ac.uk
@@ -25850,6 +25849,7 @@ payload:
   - DOMAIN-SUFFIX,bet365.com
   - DOMAIN-SUFFIX,betaclouds.net
   - DOMAIN-SUFFIX,betfair.com
+  - DOMAIN-SUFFIX,betterhash.net
   - DOMAIN-SUFFIX,betternet.co
   - DOMAIN-SUFFIX,bettervpn.com
   - DOMAIN-SUFFIX,bettween.com
@@ -27653,6 +27653,7 @@ payload:
   - DOMAIN-SUFFIX,heritage.org
   - DOMAIN-SUFFIX,heroku.com
   - DOMAIN-SUFFIX,herokuapp.com
+  - DOMAIN-SUFFIX,herominers.com
   - DOMAIN-SUFFIX,heungkongdiscuss.com
   - DOMAIN-SUFFIX,hexieshe.com
   - DOMAIN-SUFFIX,hexieshe.xyz
@@ -28084,6 +28085,7 @@ payload:
   - DOMAIN-SUFFIX,itaiwan.gov.tw
   - DOMAIN-SUFFIX,italiatibet.org
   - DOMAIN-SUFFIX,itasoftware.com
+  - DOMAIN-SUFFIX,itch.io
   - DOMAIN-SUFFIX,itemdb.com
   - DOMAIN-SUFFIX,itemfix.com
   - DOMAIN-SUFFIX,itgonglun.com

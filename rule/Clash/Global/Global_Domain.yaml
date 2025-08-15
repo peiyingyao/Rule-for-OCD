@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-14 02:10:35
+# UPDATED: 2025-08-16 02:07:53
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31569
+# DOMAIN-SUFFIX: 31571
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31832
+# TOTAL: 31834
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -12390,7 +12390,6 @@ payload:
   - '+.italiabeatsbydrdre.com'
   - '+.itcanwait.com'
   - '+.itcfonts.com'
-  - '+.itch.io'
   - '+.itch.zone'
   - '+.itchen.ac.uk'
   - '+.iteach.ac.uk'
@@ -25850,6 +25849,7 @@ payload:
   - '+.bet365.com'
   - '+.betaclouds.net'
   - '+.betfair.com'
+  - '+.betterhash.net'
   - '+.betternet.co'
   - '+.bettervpn.com'
   - '+.bettween.com'
@@ -27653,6 +27653,7 @@ payload:
   - '+.heritage.org'
   - '+.heroku.com'
   - '+.herokuapp.com'
+  - '+.herominers.com'
   - '+.heungkongdiscuss.com'
   - '+.hexieshe.com'
   - '+.hexieshe.xyz'
@@ -28084,6 +28085,7 @@ payload:
   - '+.itaiwan.gov.tw'
   - '+.italiatibet.org'
   - '+.itasoftware.com'
+  - '+.itch.io'
   - '+.itemdb.com'
   - '+.itemfix.com'
   - '+.itgonglun.com'

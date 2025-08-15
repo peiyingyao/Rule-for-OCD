@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-14 02:10:55
+# UPDATED: 2025-08-16 02:08:13
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6479
+# DOMAIN-SUFFIX: 6482
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6611
+# TOTAL: 6614
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -604,6 +604,7 @@ payload:
   - DOMAIN-SUFFIX,bet365.com
   - DOMAIN-SUFFIX,betaclouds.net
   - DOMAIN-SUFFIX,betfair.com
+  - DOMAIN-SUFFIX,betterhash.net
   - DOMAIN-SUFFIX,betternet.co
   - DOMAIN-SUFFIX,bettervpn.com
   - DOMAIN-SUFFIX,bettween.com
@@ -2431,6 +2432,7 @@ payload:
   - DOMAIN-SUFFIX,heritage.org
   - DOMAIN-SUFFIX,heroku.com
   - DOMAIN-SUFFIX,herokuapp.com
+  - DOMAIN-SUFFIX,herominers.com
   - DOMAIN-SUFFIX,heungkongdiscuss.com
   - DOMAIN-SUFFIX,hexieshe.com
   - DOMAIN-SUFFIX,hexieshe.xyz
@@ -2865,6 +2867,7 @@ payload:
   - DOMAIN-SUFFIX,itaiwan.gov.tw
   - DOMAIN-SUFFIX,italiatibet.org
   - DOMAIN-SUFFIX,itasoftware.com
+  - DOMAIN-SUFFIX,itch.io
   - DOMAIN-SUFFIX,itemdb.com
   - DOMAIN-SUFFIX,itemfix.com
   - DOMAIN-SUFFIX,itgonglun.com
