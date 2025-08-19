@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-18 02:07:32
+# UPDATED: 2025-08-20 02:07:56
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31575
+# DOMAIN-SUFFIX: 31577
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31838
+# TOTAL: 31840
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -15733,7 +15733,6 @@ payload:
   - '+.naughtysophie.com'
   - '+.naughtytugs.com'
   - '+.naughtywomenpics.com'
-  - '+.naver.com'
   - '+.naver.me'
   - '+.naver.net'
   - '+.naverads.com'
@@ -26604,6 +26603,7 @@ payload:
   - '+.delicious.com'
   - '+.democrats.org'
   - '+.demosisto.hk'
+  - '+.deno.dev'
   - '+.depositphotos.com'
   - '+.desc.se'
   - '+.desipro.de'
@@ -27281,6 +27281,7 @@ payload:
   - '+.furhhdl.org'
   - '+.furinkan.com'
   - '+.furl.net'
+  - '+.furrybar.com'
   - '+.futurechinaforum.org'
   - '+.futuremessage.org'
   - '+.fux.com'
@@ -28939,6 +28940,7 @@ payload:
   - '+.nationsonline.org'
   - '+.nationwide.com'
   - '+.naughtyamerica.com'
+  - '+.naver.com'
   - '+.naver.jp'
   - '+.navy.mil'
   - '+.naweeklytimes.com'
