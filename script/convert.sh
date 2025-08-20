@@ -27,7 +27,7 @@ download_and_check() {
         if [[ "$actual_md5" == "$expected_md5" ]]; then
             rm -f "$output_file"
         else
-            mv -f "$output_file" "$output_text_file"
+            cp "$output_file" "$output_text_file"
         fi
     else
         echo "❌ 下载失败: $url" >&2
