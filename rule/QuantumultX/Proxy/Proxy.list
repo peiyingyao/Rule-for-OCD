@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-20 02:08:16
+# UPDATED: 2025-08-22 02:08:21
 # HOST: 19
 # HOST-KEYWORD: 26
-# HOST-SUFFIX: 6967
+# HOST-SUFFIX: 6968
 # IP-CIDR: 93
 # IP6-CIDR: 4
 # USER-AGENT: 8
-# TOTAL: 7117
+# TOTAL: 7118
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -6169,6 +6169,7 @@ HOST-SUFFIX,udn.com,Proxy
 HOST-SUFFIX,udn.com.tw,Proxy
 HOST-SUFFIX,udnbkk.com,Proxy
 HOST-SUFFIX,udndata.com,Proxy
+HOST-SUFFIX,udomain.hk,Proxy
 HOST-SUFFIX,uforadio.com.tw,Proxy
 HOST-SUFFIX,ufreevpn.com,Proxy
 HOST-SUFFIX,ugo.com,Proxy
