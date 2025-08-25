@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-24 02:07:36
+# UPDATED: 2025-08-26 02:08:21
 # HOST: 616
 # HOST-KEYWORD: 36
-# HOST-SUFFIX: 31640
+# HOST-SUFFIX: 31642
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 32454
+# TOTAL: 32456
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -27471,6 +27471,8 @@ HOST-SUFFIX,ftx.com,Global
 HOST-SUFFIX,fubo.tv,Global
 HOST-SUFFIX,fucd.com,Global
 HOST-SUFFIX,fuchsia.dev,Global
+HOST-SUFFIX,fuckccp.com,Global
+HOST-SUFFIX,fuckccp.xyz,Global
 HOST-SUFFIX,fuckcnnic.net,Global
 HOST-SUFFIX,fuckgfw.org,Global
 HOST-SUFFIX,fuckgfw233.org,Global

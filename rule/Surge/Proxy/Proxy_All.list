@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-24 02:07:37
+# UPDATED: 2025-08-26 02:08:22
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6493
+# DOMAIN-SUFFIX: 6495
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6633
+# TOTAL: 6635
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -2045,6 +2045,8 @@ DOMAIN-SUFFIX,ftx.com
 DOMAIN-SUFFIX,fubo.tv
 DOMAIN-SUFFIX,fucd.com
 DOMAIN-SUFFIX,fuchsia.dev
+DOMAIN-SUFFIX,fuckccp.com
+DOMAIN-SUFFIX,fuckccp.xyz
 DOMAIN-SUFFIX,fuckcnnic.net
 DOMAIN-SUFFIX,fuckgfw.org
 DOMAIN-SUFFIX,fuckgfw233.org
