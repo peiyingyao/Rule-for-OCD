@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-26 02:08:01
+# UPDATED: 2025-08-28 02:08:06
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31588
+# DOMAIN-SUFFIX: 31831
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31851
+# TOTAL: 32094
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -299,6 +299,7 @@ payload:
   - DOMAIN-SUFFIX,2019baidu.xyz
   - DOMAIN-SUFFIX,2022.dev
   - DOMAIN-SUFFIX,2023aga.oen.tw
+  - DOMAIN-SUFFIX,2025copy.com
   - DOMAIN-SUFFIX,20thcenturystudios.com.au
   - DOMAIN-SUFFIX,20thcenturystudios.com.br
   - DOMAIN-SUFFIX,20thcenturystudios.jp
@@ -987,7 +988,9 @@ payload:
   - DOMAIN-SUFFIX,aerospace-training-wales.ac.uk
   - DOMAIN-SUFFIX,aes.ac.uk
   - DOMAIN-SUFFIX,aesworkshops.com
+  - DOMAIN-SUFFIX,af-east-201.myhuaweicloud.com
   - DOMAIN-SUFFIX,af-north-1.myhuaweicloud.com
+  - DOMAIN-SUFFIX,af-west-202.myhuaweicloud.com
   - DOMAIN-SUFFIX,afao.ac.uk
   - DOMAIN-SUFFIX,afappyending.com
   - DOMAIN-SUFFIX,afewmomentswith.com
@@ -1236,6 +1239,43 @@ payload:
   - DOMAIN-SUFFIX,aliassystems.com
   - DOMAIN-SUFFIX,aliasvisualizationstudio.com
   - DOMAIN-SUFFIX,aliaswavefront.com
+  - DOMAIN-SUFFIX,alienware.ae
+  - DOMAIN-SUFFIX,alienware.at
+  - DOMAIN-SUFFIX,alienware.be
+  - DOMAIN-SUFFIX,alienware.biz
+  - DOMAIN-SUFFIX,alienware.ca
+  - DOMAIN-SUFFIX,alienware.ch
+  - DOMAIN-SUFFIX,alienware.co.cr
+  - DOMAIN-SUFFIX,alienware.co.il
+  - DOMAIN-SUFFIX,alienware.co.in
+  - DOMAIN-SUFFIX,alienware.co.nz
+  - DOMAIN-SUFFIX,alienware.co.uk
+  - DOMAIN-SUFFIX,alienware.com
+  - DOMAIN-SUFFIX,alienware.com.au
+  - DOMAIN-SUFFIX,alienware.com.es
+  - DOMAIN-SUFFIX,alienware.com.my
+  - DOMAIN-SUFFIX,alienware.com.sg
+  - DOMAIN-SUFFIX,alienware.cz
+  - DOMAIN-SUFFIX,alienware.de
+  - DOMAIN-SUFFIX,alienware.dk
+  - DOMAIN-SUFFIX,alienware.es
+  - DOMAIN-SUFFIX,alienware.eu
+  - DOMAIN-SUFFIX,alienware.fr
+  - DOMAIN-SUFFIX,alienware.gr
+  - DOMAIN-SUFFIX,alienware.hk
+  - DOMAIN-SUFFIX,alienware.ie
+  - DOMAIN-SUFFIX,alienware.it
+  - DOMAIN-SUFFIX,alienware.jp
+  - DOMAIN-SUFFIX,alienware.kr
+  - DOMAIN-SUFFIX,alienware.lv
+  - DOMAIN-SUFFIX,alienware.net
+  - DOMAIN-SUFFIX,alienware.nl
+  - DOMAIN-SUFFIX,alienware.ph
+  - DOMAIN-SUFFIX,alienware.pl
+  - DOMAIN-SUFFIX,alienware.ps
+  - DOMAIN-SUFFIX,alienware.ro
+  - DOMAIN-SUFFIX,alienware.se
+  - DOMAIN-SUFFIX,alienware.us
   - DOMAIN-SUFFIX,alis-wales.ac.uk
   - DOMAIN-SUFFIX,aliveipc.com
   - DOMAIN-SUFFIX,aliveitsm.com
@@ -1641,11 +1681,16 @@ payload:
   - DOMAIN-SUFFIX,ap-jakarta.tencentcos.com
   - DOMAIN-SUFFIX,ap-mumbai.myqcloud.com
   - DOMAIN-SUFFIX,ap-mumbai.tencentcos.com
+  - DOMAIN-SUFFIX,ap-northeast-201.myhuaweicloud.com
   - DOMAIN-SUFFIX,ap-seoul.myqcloud.com
   - DOMAIN-SUFFIX,ap-seoul.tencentcos.com
   - DOMAIN-SUFFIX,ap-singapore.myqcloud.com
   - DOMAIN-SUFFIX,ap-singapore.tencentcos.com
+  - DOMAIN-SUFFIX,ap-southeast-201.myhuaweicloud.com
+  - DOMAIN-SUFFIX,ap-southeast-202.myhuaweicloud.com
+  - DOMAIN-SUFFIX,ap-southeast-203.myhuaweicloud.com
   - DOMAIN-SUFFIX,ap-southeast-4.myhuaweicloud.com
+  - DOMAIN-SUFFIX,ap-southeast-5.myhuaweicloud.com
   - DOMAIN-SUFFIX,ap-tokyo.myqcloud.com
   - DOMAIN-SUFFIX,ap-tokyo.tencentcos.com
   - DOMAIN-SUFFIX,ap0le.com
@@ -2107,6 +2152,10 @@ payload:
   - DOMAIN-SUFFIX,arxiv.org
   - DOMAIN-SUFFIX,arzon.jp
   - DOMAIN-SUFFIX,as-hp.ca
+  - DOMAIN-SUFFIX,as-south-0.myhuaweicloud.com
+  - DOMAIN-SUFFIX,as-south-201.myhuaweicloud.com
+  - DOMAIN-SUFFIX,as-south-205.myhuaweicloud.com
+  - DOMAIN-SUFFIX,as-south-207.myhuaweicloud.com
   - DOMAIN-SUFFIX,asagaku.com
   - DOMAIN-SUFFIX,asahi.com
   - DOMAIN-SUFFIX,asahicom.jp
@@ -4593,6 +4642,8 @@ payload:
   - DOMAIN-SUFFIX,byjhd.com
   - DOMAIN-SUFFIX,bymj.io
   - DOMAIN-SUFFIX,byspotify.com
+  - DOMAIN-SUFFIX,byteglb.com
+  - DOMAIN-SUFFIX,byteoversea.net
   - DOMAIN-SUFFIX,bytick.com
   - DOMAIN-SUFFIX,byzantine-ahrb-centre.ac.uk
   - DOMAIN-SUFFIX,byzantium.ac.uk
@@ -4605,6 +4656,7 @@ payload:
   - DOMAIN-SUFFIX,c4ccetl.ac.uk
   - DOMAIN-SUFFIX,c4rex.co
   - DOMAIN-SUFFIX,c4slive.com
+  - DOMAIN-SUFFIX,ca-east-201.myhuaweicloud.com
   - DOMAIN-SUFFIX,ca.file.myqcloud.com
   - DOMAIN-SUFFIX,caacentre.ac.uk
   - DOMAIN-SUFFIX,caadoc.ac.uk
@@ -5767,6 +5819,8 @@ payload:
   - DOMAIN-SUFFIX,coolmonster.net
   - DOMAIN-SUFFIX,coolsexnew.com
   - DOMAIN-SUFFIX,coomer.party
+  - DOMAIN-SUFFIX,coomer.st
+  - DOMAIN-SUFFIX,coomer.su
   - DOMAIN-SUFFIX,coova.com
   - DOMAIN-SUFFIX,coova.net
   - DOMAIN-SUFFIX,coova.org
@@ -5776,6 +5830,9 @@ payload:
   - DOMAIN-SUFFIX,copro.pw
   - DOMAIN-SUFFIX,cops.ac.uk
   - DOMAIN-SUFFIX,copstat.ac.uk
+  - DOMAIN-SUFFIX,copy-manga.com
+  - DOMAIN-SUFFIX,copy20.com
+  - DOMAIN-SUFFIX,copy2000.online
   - DOMAIN-SUFFIX,coqnu.com
   - DOMAIN-SUFFIX,corbinfisher.com
   - DOMAIN-SUFFIX,cordcloud.org
@@ -6216,6 +6273,7 @@ payload:
   - DOMAIN-SUFFIX,data.ac.uk
   - DOMAIN-SUFFIX,data.com
   - DOMAIN-SUFFIX,data.flurry.com
+  - DOMAIN-SUFFIX,dataframeworks.com
   - DOMAIN-SUFFIX,datafuturesalphapilot.ac.uk
   - DOMAIN-SUFFIX,datagrid.ac.uk
   - DOMAIN-SUFFIX,dataliberation.org
@@ -6302,6 +6360,8 @@ payload:
   - DOMAIN-SUFFIX,definefetish.com
   - DOMAIN-SUFFIX,degruyter.com
   - DOMAIN-SUFFIX,deiightfuidates.net
+  - DOMAIN-SUFFIX,del.com
+  - DOMAIN-SUFFIX,del.com.br
   - DOMAIN-SUFFIX,delcam-ams.com
   - DOMAIN-SUFFIX,delcam-electrode.com
   - DOMAIN-SUFFIX,delcam-na.com
@@ -6315,11 +6375,160 @@ payload:
   - DOMAIN-SUFFIX,delcamuniversity.com
   - DOMAIN-SUFFIX,delcamusa.com
   - DOMAIN-SUFFIX,delicious.com.au
-  - DOMAIN-SUFFIX,dell-brand.com
+  - DOMAIN-SUFFIX,dell.ac
+  - DOMAIN-SUFFIX,dell.am
+  - DOMAIN-SUFFIX,dell.at
+  - DOMAIN-SUFFIX,dell.az
+  - DOMAIN-SUFFIX,dell.be
+  - DOMAIN-SUFFIX,dell.bg
+  - DOMAIN-SUFFIX,dell.bi
+  - DOMAIN-SUFFIX,dell.bs
+  - DOMAIN-SUFFIX,dell.by
+  - DOMAIN-SUFFIX,dell.ca
+  - DOMAIN-SUFFIX,dell.cd
+  - DOMAIN-SUFFIX,dell.cg
+  - DOMAIN-SUFFIX,dell.ch
+  - DOMAIN-SUFFIX,dell.cl
+  - DOMAIN-SUFFIX,dell.co.id
+  - DOMAIN-SUFFIX,dell.co.il
+  - DOMAIN-SUFFIX,dell.co.in
+  - DOMAIN-SUFFIX,dell.co.jp
+  - DOMAIN-SUFFIX,dell.co.kr
+  - DOMAIN-SUFFIX,dell.co.mu
+  - DOMAIN-SUFFIX,dell.co.nz
+  - DOMAIN-SUFFIX,dell.co.th
+  - DOMAIN-SUFFIX,dell.co.tt
+  - DOMAIN-SUFFIX,dell.co.uk
+  - DOMAIN-SUFFIX,dell.co.vi
+  - DOMAIN-SUFFIX,dell.co.za
   - DOMAIN-SUFFIX,dell.com
+  - DOMAIN-SUFFIX,dell.com.ag
+  - DOMAIN-SUFFIX,dell.com.ai
+  - DOMAIN-SUFFIX,dell.com.ar
+  - DOMAIN-SUFFIX,dell.com.au
+  - DOMAIN-SUFFIX,dell.com.bb
+  - DOMAIN-SUFFIX,dell.com.bo
+  - DOMAIN-SUFFIX,dell.com.br
+  - DOMAIN-SUFFIX,dell.com.bs
+  - DOMAIN-SUFFIX,dell.com.bz
+  - DOMAIN-SUFFIX,dell.com.co
+  - DOMAIN-SUFFIX,dell.com.cy
+  - DOMAIN-SUFFIX,dell.com.dm
+  - DOMAIN-SUFFIX,dell.com.do
+  - DOMAIN-SUFFIX,dell.com.ec
+  - DOMAIN-SUFFIX,dell.com.gr
+  - DOMAIN-SUFFIX,dell.com.gt
+  - DOMAIN-SUFFIX,dell.com.gy
+  - DOMAIN-SUFFIX,dell.com.hk
+  - DOMAIN-SUFFIX,dell.com.hn
+  - DOMAIN-SUFFIX,dell.com.hr
+  - DOMAIN-SUFFIX,dell.com.ht
+  - DOMAIN-SUFFIX,dell.com.jm
+  - DOMAIN-SUFFIX,dell.com.kn
+  - DOMAIN-SUFFIX,dell.com.ky
+  - DOMAIN-SUFFIX,dell.com.lc
+  - DOMAIN-SUFFIX,dell.com.ly
+  - DOMAIN-SUFFIX,dell.com.mk
+  - DOMAIN-SUFFIX,dell.com.mt
+  - DOMAIN-SUFFIX,dell.com.mx
+  - DOMAIN-SUFFIX,dell.com.my
+  - DOMAIN-SUFFIX,dell.com.na
+  - DOMAIN-SUFFIX,dell.com.ng
+  - DOMAIN-SUFFIX,dell.com.ni
+  - DOMAIN-SUFFIX,dell.com.pa
+  - DOMAIN-SUFFIX,dell.com.pe
+  - DOMAIN-SUFFIX,dell.com.ph
+  - DOMAIN-SUFFIX,dell.com.pk
+  - DOMAIN-SUFFIX,dell.com.pl
+  - DOMAIN-SUFFIX,dell.com.pr
+  - DOMAIN-SUFFIX,dell.com.py
+  - DOMAIN-SUFFIX,dell.com.sa
+  - DOMAIN-SUFFIX,dell.com.sg
+  - DOMAIN-SUFFIX,dell.com.tc
+  - DOMAIN-SUFFIX,dell.com.tr
+  - DOMAIN-SUFFIX,dell.com.tt
+  - DOMAIN-SUFFIX,dell.com.tw
+  - DOMAIN-SUFFIX,dell.com.ua
+  - DOMAIN-SUFFIX,dell.com.uy
+  - DOMAIN-SUFFIX,dell.com.vc
+  - DOMAIN-SUFFIX,dell.com.ve
+  - DOMAIN-SUFFIX,dell.com.vi
+  - DOMAIN-SUFFIX,dell.cz
+  - DOMAIN-SUFFIX,dell.de
+  - DOMAIN-SUFFIX,dell.dk
+  - DOMAIN-SUFFIX,dell.dm
+  - DOMAIN-SUFFIX,dell.ee
+  - DOMAIN-SUFFIX,dell.es
+  - DOMAIN-SUFFIX,dell.eu
+  - DOMAIN-SUFFIX,dell.fi
+  - DOMAIN-SUFFIX,dell.fr
+  - DOMAIN-SUFFIX,dell.gm
+  - DOMAIN-SUFFIX,dell.gp
+  - DOMAIN-SUFFIX,dell.gr
+  - DOMAIN-SUFFIX,dell.hr
+  - DOMAIN-SUFFIX,dell.hu
+  - DOMAIN-SUFFIX,dell.id
+  - DOMAIN-SUFFIX,dell.ie
+  - DOMAIN-SUFFIX,dell.is
+  - DOMAIN-SUFFIX,dell.it
+  - DOMAIN-SUFFIX,dell.jp
+  - DOMAIN-SUFFIX,dell.kg
+  - DOMAIN-SUFFIX,dell.kn
+  - DOMAIN-SUFFIX,dell.kz
+  - DOMAIN-SUFFIX,dell.lt
+  - DOMAIN-SUFFIX,dell.lu
+  - DOMAIN-SUFFIX,dell.lv
+  - DOMAIN-SUFFIX,dell.ly
+  - DOMAIN-SUFFIX,dell.ma
+  - DOMAIN-SUFFIX,dell.mq
+  - DOMAIN-SUFFIX,dell.mu
+  - DOMAIN-SUFFIX,dell.mw
+  - DOMAIN-SUFFIX,dell.net
+  - DOMAIN-SUFFIX,dell.ng
+  - DOMAIN-SUFFIX,dell.nl
+  - DOMAIN-SUFFIX,dell.no
+  - DOMAIN-SUFFIX,dell.org.il
+  - DOMAIN-SUFFIX,dell.ph
+  - DOMAIN-SUFFIX,dell.pl
+  - DOMAIN-SUFFIX,dell.ps
+  - DOMAIN-SUFFIX,dell.pt
+  - DOMAIN-SUFFIX,dell.ro
+  - DOMAIN-SUFFIX,dell.ru
+  - DOMAIN-SUFFIX,dell.rw
+  - DOMAIN-SUFFIX,dell.sc
+  - DOMAIN-SUFFIX,dell.se
+  - DOMAIN-SUFFIX,dell.sg
+  - DOMAIN-SUFFIX,dell.si
+  - DOMAIN-SUFFIX,dell.sk
+  - DOMAIN-SUFFIX,dell.sn
+  - DOMAIN-SUFFIX,dell.tc
+  - DOMAIN-SUFFIX,dell.tj
+  - DOMAIN-SUFFIX,dell.tm
+  - DOMAIN-SUFFIX,dell.tt
+  - DOMAIN-SUFFIX,dell.tv
+  - DOMAIN-SUFFIX,dell.ua
+  - DOMAIN-SUFFIX,dell.ug
+  - DOMAIN-SUFFIX,dell.uz
+  - DOMAIN-SUFFIX,dell.vg
+  - DOMAIN-SUFFIX,dell.vn
   - DOMAIN-SUFFIX,dellcdn.com
+  - DOMAIN-SUFFIX,dellcommunity.com
+  - DOMAIN-SUFFIX,dellcomunidade.com
+  - DOMAIN-SUFFIX,dellcustomerservice.com
+  - DOMAIN-SUFFIX,delldesignsystem.com
+  - DOMAIN-SUFFIX,delldrivers.com
+  - DOMAIN-SUFFIX,dellemc.com
+  - DOMAIN-SUFFIX,dellemcevents.com
+  - DOMAIN-SUFFIX,delloutlet.com
+  - DOMAIN-SUFFIX,dellpoweredge.com
+  - DOMAIN-SUFFIX,dellpowersolutions.com
+  - DOMAIN-SUFFIX,dellprecision.com
+  - DOMAIN-SUFFIX,dellprinter.com
   - DOMAIN-SUFFIX,dellsupportcenter.com
+  - DOMAIN-SUFFIX,delltechcenter.com
   - DOMAIN-SUFFIX,delltechnologies.com
+  - DOMAIN-SUFFIX,delltechnologiescapital.com
+  - DOMAIN-SUFFIX,delltechnologiesworld.com
   - DOMAIN-SUFFIX,deluxe.com.hk
   - DOMAIN-SUFFIX,delvenetworks.com
   - DOMAIN-SUFFIX,demand.ac.uk
@@ -7206,6 +7415,7 @@ payload:
   - DOMAIN-SUFFIX,earngeek.com
   - DOMAIN-SUFFIX,earphonescheapest.com
   - DOMAIN-SUFFIX,earpod.net
+  - DOMAIN-SUFFIX,earthdell.com
   - DOMAIN-SUFFIX,earthsciencescotland.ac.uk
   - DOMAIN-SUFFIX,ease.ac.uk
   - DOMAIN-SUFFIX,easeit-eng.ac.uk
@@ -7966,12 +8176,17 @@ payload:
   - DOMAIN-SUFFIX,ettrade.com.hk
   - DOMAIN-SUFFIX,etviet.com
   - DOMAIN-SUFFIX,etwealth.com
+  - DOMAIN-SUFFIX,eu-central-201.myhuaweicloud.com
+  - DOMAIN-SUFFIX,eu-central-202.myhuaweicloud.com
   - DOMAIN-SUFFIX,eu-consumer-empowerment.com
   - DOMAIN-SUFFIX,eu-frankfurt.myqcloud.com
   - DOMAIN-SUFFIX,eu-frankfurt.tencentcos.com
   - DOMAIN-SUFFIX,eu-moscow.myqcloud.com
   - DOMAIN-SUFFIX,eu-moscow.tencentcos.com
+  - DOMAIN-SUFFIX,eu-north-201.myhuaweicloud.com
+  - DOMAIN-SUFFIX,eu-west-1.myhuaweicloud.com
   - DOMAIN-SUFFIX,eu-west-101.myhuaweicloud.com
+  - DOMAIN-SUFFIX,eu-west-201.myhuaweicloud.com
   - DOMAIN-SUFFIX,eu.org
   - DOMAIN-SUFFIX,eubluecardvisa.com
   - DOMAIN-SUFFIX,eued.ac.uk
@@ -11371,6 +11586,7 @@ payload:
   - DOMAIN-SUFFIX,i-123-hp.com
   - DOMAIN-SUFFIX,i-book.com
   - DOMAIN-SUFFIX,i-book.net
+  - DOMAIN-SUFFIX,i-cablecomm.com
   - DOMAIN-SUFFIX,i-centralwm.ac.uk
   - DOMAIN-SUFFIX,i-lab.ac.uk
   - DOMAIN-SUFFIX,i-o-u.info
@@ -13185,6 +13401,7 @@ payload:
   - DOMAIN-SUFFIX,l-0005.dc-msedge.net
   - DOMAIN-SUFFIX,l-msedge.net
   - DOMAIN-SUFFIX,la-mama.ru
+  - DOMAIN-SUFFIX,la-north-205.myhuaweicloud.com
   - DOMAIN-SUFFIX,laban.ac.uk
   - DOMAIN-SUFFIX,labinacell.ac.uk
   - DOMAIN-SUFFIX,labo.wovs.tk
@@ -13728,6 +13945,7 @@ payload:
   - DOMAIN-SUFFIX,londonstudiocentre.ac.uk
   - DOMAIN-SUFFIX,lonestarnaughtygirls.com
   - DOMAIN-SUFFIX,longbridge.cloud
+  - DOMAIN-SUFFIX,longbridge.com
   - DOMAIN-SUFFIX,longbridge.global
   - DOMAIN-SUFFIX,longbridge.hk
   - DOMAIN-SUFFIX,longbridge.sg
@@ -14087,6 +14305,8 @@ payload:
   - DOMAIN-SUFFIX,mandatewire.com
   - DOMAIN-SUFFIX,manga-mill.com
   - DOMAIN-SUFFIX,manga18.art
+  - DOMAIN-SUFFIX,mangacopy.com
+  - DOMAIN-SUFFIX,mangafunb.fun
   - DOMAIN-SUFFIX,mangahasu.se
   - DOMAIN-SUFFIX,mangahentai.me
   - DOMAIN-SUFFIX,mangahome.com
@@ -14427,6 +14647,9 @@ payload:
   - DOMAIN-SUFFIX,mdx.ac.uk
   - DOMAIN-SUFFIX,mdyy.de
   - DOMAIN-SUFFIX,me-east-1.myhuaweicloud.com
+  - DOMAIN-SUFFIX,me-east-205.myhuaweicloud.com
+  - DOMAIN-SUFFIX,me-east-208.myhuaweicloud.com
+  - DOMAIN-SUFFIX,me-east-209.myhuaweicloud.com
   - DOMAIN-SUFFIX,me-gay.com
   - DOMAIN-SUFFIX,meadjohnson.com
   - DOMAIN-SUFFIX,meadjohnson.com.hk
@@ -15644,6 +15867,7 @@ payload:
   - DOMAIN-SUFFIX,na-ashburn.myqcloud.com
   - DOMAIN-SUFFIX,na-ashburn.tencentcos.com
   - DOMAIN-SUFFIX,na-att-idns.net
+  - DOMAIN-SUFFIX,na-east-0.myhuaweicloud.com
   - DOMAIN-SUFFIX,na-me.ac.uk
   - DOMAIN-SUFFIX,na-siliconvalley.myqcloud.com
   - DOMAIN-SUFFIX,na-siliconvalley.tencentcos.com
@@ -15748,6 +15972,7 @@ payload:
   - DOMAIN-SUFFIX,naverncp.com
   - DOMAIN-SUFFIX,navisworks.com
   - DOMAIN-SUFFIX,navisworks.net
+  - DOMAIN-SUFFIX,naydex.net
   - DOMAIN-SUFFIX,nazarene.ac.uk
   - DOMAIN-SUFFIX,nbabot.net
   - DOMAIN-SUFFIX,nbc.co
@@ -17580,6 +17805,7 @@ payload:
   - DOMAIN-SUFFIX,perfecttitspics.com
   - DOMAIN-SUFFIX,performancescience.ac.uk
   - DOMAIN-SUFFIX,perl.org
+  - DOMAIN-SUFFIX,perplexity.com
   - DOMAIN-SUFFIX,persagg.com
   - DOMAIN-SUFFIX,pershore.ac.uk
   - DOMAIN-SUFFIX,persianepochtimes.com
@@ -19233,6 +19459,7 @@ payload:
   - DOMAIN-SUFFIX,rt.com
   - DOMAIN-SUFFIX,rtings.com
   - DOMAIN-SUFFIX,ru-moscow-1.myhuaweicloud.com
+  - DOMAIN-SUFFIX,ru-northwest-201.myhuaweicloud.com
   - DOMAIN-SUFFIX,rua-project.ac.uk
   - DOMAIN-SUFFIX,ruby-lang.org
   - DOMAIN-SUFFIX,rubygems.org
@@ -19253,6 +19480,8 @@ payload:
   - DOMAIN-SUFFIX,ruleporn.com
   - DOMAIN-SUFFIX,rumah123.com
   - DOMAIN-SUFFIX,rumporn.com
+  - DOMAIN-SUFFIX,rumt-sg.com
+  - DOMAIN-SUFFIX,rumt-us.com
   - DOMAIN-SUFFIX,run.app
   - DOMAIN-SUFFIX,rundf665.cyou
   - DOMAIN-SUFFIX,runnike.com
@@ -19305,6 +19534,8 @@ payload:
   - DOMAIN-SUFFIX,sa-saopaulo.myqcloud.com
   - DOMAIN-SUFFIX,sa-saopaulo.tencentcos.com
   - DOMAIN-SUFFIX,sa.com
+  - DOMAIN-SUFFIX,saasexch.cc
+  - DOMAIN-SUFFIX,saasexch.co
   - DOMAIN-SUFFIX,saasexch.com
   - DOMAIN-SUFFIX,saasexch.io
   - DOMAIN-SUFFIX,sabuibo.net
@@ -20048,6 +20279,7 @@ payload:
   - DOMAIN-SUFFIX,shootershill.ac.uk
   - DOMAIN-SUFFIX,shop-headphones.net
   - DOMAIN-SUFFIX,shop.app
+  - DOMAIN-SUFFIX,shopalienware.com
   - DOMAIN-SUFFIX,shopbeatsdre.com
   - DOMAIN-SUFFIX,shopbmwmotorcycles.com
   - DOMAIN-SUFFIX,shopbmwusa.com
@@ -20358,6 +20590,7 @@ payload:
   - DOMAIN-SUFFIX,sneakerskick.com
   - DOMAIN-SUFFIX,snjulebu.com
   - DOMAIN-SUFFIX,snk-corp.co.jp
+  - DOMAIN-SUFFIX,snk-corp.info
   - DOMAIN-SUFFIX,snkplaymore.info
   - DOMAIN-SUFFIX,snow.me
   - DOMAIN-SUFFIX,snowcorp.com
@@ -20425,6 +20658,7 @@ payload:
   - DOMAIN-SUFFIX,solostudioksale.com
   - DOMAIN-SUFFIX,solsfc.ac.uk
   - DOMAIN-SUFFIX,solutions-worcestershire.ac.uk
+  - DOMAIN-SUFFIX,solutionstation.com
   - DOMAIN-SUFFIX,solveforx.com
   - DOMAIN-SUFFIX,somanylolies.com
   - DOMAIN-SUFFIX,somerset.ac.uk
@@ -20542,6 +20776,7 @@ payload:
   - DOMAIN-SUFFIX,sots.ac.uk
   - DOMAIN-SUFFIX,souka.xyz
   - DOMAIN-SUFFIX,sound-heritage.ac.uk
+  - DOMAIN-SUFFIX,soundcloud.cloud
   - DOMAIN-SUFFIX,soundofhope.eu
   - DOMAIN-SUFFIX,soundofhope.org
   - DOMAIN-SUFFIX,soundsoftware.ac.uk
@@ -21047,6 +21282,7 @@ payload:
   - DOMAIN-SUFFIX,studentvoteregistration.ac.uk
   - DOMAIN-SUFFIX,studentvoterregistration.ac.uk
   - DOMAIN-SUFFIX,studiobeatsbydrdre.com
+  - DOMAIN-SUFFIX,studiodell.com
   - DOMAIN-SUFFIX,studiofow.com
   - DOMAIN-SUFFIX,studiolico.com
   - DOMAIN-SUFFIX,studioluxus.com
@@ -22166,6 +22402,8 @@ payload:
   - DOMAIN-SUFFIX,tubevintageporn.com
   - DOMAIN-SUFFIX,tubexclips.com
   - DOMAIN-SUFFIX,tubi.io
+  - DOMAIN-SUFFIX,tubi.tv
+  - DOMAIN-SUFFIX,tubi.video
   - DOMAIN-SUFFIX,tubinge.com
   - DOMAIN-SUFFIX,tubitv.com
   - DOMAIN-SUFFIX,tubous.com
@@ -22606,6 +22844,7 @@ payload:
   - DOMAIN-SUFFIX,url.tw
   - DOMAIN-SUFFIX,urlgalleries.net
   - DOMAIN-SUFFIX,urukawa.com
+  - DOMAIN-SUFFIX,us-east-1.myhuaweicloud.com
   - DOMAIN-SUFFIX,us.weibo.com
   - DOMAIN-SUFFIX,usa-beatsbydreheadphonesonsale.net
   - DOMAIN-SUFFIX,usablepast.ac.uk
@@ -22752,6 +22991,7 @@ payload:
   - DOMAIN-SUFFIX,vaultproject.io
   - DOMAIN-SUFFIX,vbejeyv.shop
   - DOMAIN-SUFFIX,vcanedge.com
+  - DOMAIN-SUFFIX,vce.com
   - DOMAIN-SUFFIX,vcloudair.net
   - DOMAIN-SUFFIX,vcol.ac.uk
   - DOMAIN-SUFFIX,vcoll.ac.uk
@@ -24718,6 +24958,7 @@ payload:
   - DOMAIN-SUFFIX,yandex.aero
   - DOMAIN-SUFFIX,yandex.az
   - DOMAIN-SUFFIX,yandex.by
+  - DOMAIN-SUFFIX,yandex.cloud
   - DOMAIN-SUFFIX,yandex.co.il
   - DOMAIN-SUFFIX,yandex.com.am
   - DOMAIN-SUFFIX,yandex.com.ge
@@ -24779,6 +25020,7 @@ payload:
   - DOMAIN-SUFFIX,yeyuehuachao11.com
   - DOMAIN-SUFFIX,yeyuehuachao12.com
   - DOMAIN-SUFFIX,yeyuehuachao13.com
+  - DOMAIN-SUFFIX,yfsp.tv
   - DOMAIN-SUFFIX,yft-mv.sbs
   - DOMAIN-SUFFIX,ygugu4.com
   - DOMAIN-SUFFIX,yhelln.ac.uk
@@ -28780,6 +29022,7 @@ payload:
   - DOMAIN-SUFFIX,mohu.club
   - DOMAIN-SUFFIX,mohu.ml
   - DOMAIN-SUFFIX,mohu.rocks
+  - DOMAIN-SUFFIX,moj.gov.tw
   - DOMAIN-SUFFIX,mojim.com
   - DOMAIN-SUFFIX,mol.gov.tw
   - DOMAIN-SUFFIX,molihua.org

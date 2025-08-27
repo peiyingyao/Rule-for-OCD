@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-24 02:07:55
-# DOMAIN: 97
+# UPDATED: 2025-08-28 02:08:47
+# DOMAIN: 119
 # DOMAIN-KEYWORD: 9
 # DOMAIN-SUFFIX: 119089
 # IP-CIDR: 11
 # IP-CIDR6: 4
 # USER-AGENT: 31
-# TOTAL: 119241
+# TOTAL: 119263
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
@@ -26,6 +26,7 @@ DOMAIN,265.com
 DOMAIN,2mdn-cn.net
 DOMAIN,2mdn.net
 DOMAIN,admob-cn.com
+DOMAIN,afcs.dell.com
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
 DOMAIN,app-analytics-services.com
 DOMAIN,app-measurement-cn.com
@@ -45,15 +46,29 @@ DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN,cdn.marketplaceimages.windowsphone.com
 DOMAIN,clickserve.cc-dt.com
 DOMAIN,clickserve.dartsearch.net
+DOMAIN,clientperipherals.dell.com
 DOMAIN,cn.download.nvidia.com
 DOMAIN,cn.widevine.com
 DOMAIN,crl.pki.goog
 DOMAIN,crls.pki.goog
+DOMAIN,customization-cdn.dell.com
 DOMAIN,dartsearch-cn.net
+DOMAIN,dds.dell.com
+DOMAIN,dl.dell.com
 DOMAIN,doubleclick-cn.net
 DOMAIN,doubleclick.net
 DOMAIN,download.qatp1.net
+DOMAIN,ea2cn-dev-outlet.dell.com
+DOMAIN,ea2cn-prod-outlet.dell.com
+DOMAIN,ea2cn-staging-outlet.dell.com
 DOMAIN,emoi-cncdn.bing.com
+DOMAIN,fcs.dell.com
+DOMAIN,fta.dell.com
+DOMAIN,ftaapj.dell.com
+DOMAIN,ftaemea.dell.com
+DOMAIN,ftasitapj.dell.com
+DOMAIN,gbxgateway-dev.dell.com
+DOMAIN,gbxgateway.dell.com
 DOMAIN,gog-cdn-fastly.gog.com
 DOMAIN,gog-cdn.akamaized.net
 DOMAIN,gogalaxy.gog-statics.com
@@ -88,18 +103,25 @@ DOMAIN,redirector.offline-maps.gvt1.com
 DOMAIN,redirector.snap.gvt1.com
 DOMAIN,redirector.xn--ngstr-lra8j.com
 DOMAIN,scanservice1.qcpp1.net
+DOMAIN,scene7-cdn.dell.com
 DOMAIN,service.urchin.com
+DOMAIN,si.cdn.dell.com
 DOMAIN,silverlight.dlservice.microsoft.com
 DOMAIN,slupdate.dlservice.microsoft.com
+DOMAIN,sm.dell.com
+DOMAIN,snp.cdn.dell.com
+DOMAIN,snpi.dell.com
 DOMAIN,staging-controlbe.floonet.goog
 DOMAIN,staging-databe.floonet.goog
 DOMAIN,staging.databe.floonet.goog
 DOMAIN,static-login.gog-statics.com
+DOMAIN,supportassist.dell.com
 DOMAIN,surface.downloads.prss.microsoft.com
 DOMAIN,test.gbugs-qa.chromium.org
 DOMAIN,time.xtracloud.net
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN,wl.dlservice.microsoft.com
+DOMAIN,www-csb.dell.com
 DOMAIN,www.destinationurl.com
 DOMAIN,www.pxcc.com
 DOMAIN,www.recaptcha.net
@@ -28432,7 +28454,6 @@ DOMAIN-SUFFIX,copcsc.org
 DOMAIN-SUFFIX,copl.com.hk
 DOMAIN-SUFFIX,copperalliance.asia
 DOMAIN-SUFFIX,copperhome.net
-DOMAIN-SUFFIX,copy-manga.com
 DOMAIN-SUFFIX,copyedu.com
 DOMAIN-SUFFIX,copyfuture.com
 DOMAIN-SUFFIX,copyswisswatches.com
@@ -31839,6 +31860,7 @@ DOMAIN-SUFFIX,delixi.com
 DOMAIN-SUFFIX,delixidrive.com
 DOMAIN-SUFFIX,deliyun.com
 DOMAIN-SUFFIX,dell-alw.com
+DOMAIN-SUFFIX,dell-brand.com
 DOMAIN-SUFFIX,dell027.com
 DOMAIN-SUFFIX,dellecs.com
 DOMAIN-SUFFIX,dellemc-solution.com
@@ -39657,6 +39679,7 @@ DOMAIN-SUFFIX,funcrea.com
 DOMAIN-SUFFIX,functionads.com
 DOMAIN-SUFFIX,functionaltextilesshanghai.com
 DOMAIN-SUFFIX,functioncool.com
+DOMAIN-SUFFIX,functiongraph.run
 DOMAIN-SUFFIX,fund001.com
 DOMAIN-SUFFIX,fundebug.com
 DOMAIN-SUFFIX,fundebug.net
@@ -69434,9 +69457,7 @@ DOMAIN-SUFFIX,manfen.net
 DOMAIN-SUFFIX,manfen5.com
 DOMAIN-SUFFIX,manfred-auto.com
 DOMAIN-SUFFIX,manfrottoclub.com
-DOMAIN-SUFFIX,mangacopy.com
 DOMAIN-SUFFIX,mangafuna.xyz
-DOMAIN-SUFFIX,mangafunb.fun
 DOMAIN-SUFFIX,manganesenanhai.com
 DOMAIN-SUFFIX,mangg.com
 DOMAIN-SUFFIX,mangguo.com
@@ -78666,6 +78687,7 @@ DOMAIN-SUFFIX,plateno.cc
 DOMAIN-SUFFIX,plateno.com
 DOMAIN-SUFFIX,platenogroup.com
 DOMAIN-SUFFIX,platform-cn.com
+DOMAIN-SUFFIX,platform.dell.com
 DOMAIN-SUFFIX,platinum-traveller.com
 DOMAIN-SUFFIX,platinumchina.com
 DOMAIN-SUFFIX,play-analytics.com
@@ -83441,6 +83463,7 @@ DOMAIN-SUFFIX,roaing.com
 DOMAIN-SUFFIX,robam.com
 DOMAIN-SUFFIX,robei.com
 DOMAIN-SUFFIX,roboeyeai.com
+DOMAIN-SUFFIX,robomaster.com
 DOMAIN-SUFFIX,roboo.com
 DOMAIN-SUFFIX,robook.com
 DOMAIN-SUFFIX,robopeak.net
@@ -103592,7 +103615,6 @@ DOMAIN-SUFFIX,www-76244.com
 DOMAIN-SUFFIX,www.adobe.com
 DOMAIN-SUFFIX,www.cg
 DOMAIN-SUFFIX,www.com.my
-DOMAIN-SUFFIX,www.dell-brand.com
 DOMAIN-SUFFIX,www.dell.com
 DOMAIN-SUFFIX,www.djivideos.com
 DOMAIN-SUFFIX,www.gov.mo

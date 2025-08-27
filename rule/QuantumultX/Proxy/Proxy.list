@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-26 02:08:22
+# UPDATED: 2025-08-28 02:08:28
 # HOST: 19
 # HOST-KEYWORD: 26
-# HOST-SUFFIX: 6972
+# HOST-SUFFIX: 6973
 # IP-CIDR: 93
 # IP6-CIDR: 4
 # USER-AGENT: 8
-# TOTAL: 7122
+# TOTAL: 7123
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -3963,6 +3963,7 @@ HOST-SUFFIX,mog.com,Proxy
 HOST-SUFFIX,mohu.club,Proxy
 HOST-SUFFIX,mohu.ml,Proxy
 HOST-SUFFIX,mohu.rocks,Proxy
+HOST-SUFFIX,moj.gov.tw,Proxy
 HOST-SUFFIX,mojim.com,Proxy
 HOST-SUFFIX,mol.gov.tw,Proxy
 HOST-SUFFIX,molihua.org,Proxy
