@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-28 02:08:26
+# UPDATED: 2025-08-30 02:07:58
 # HOST: 619
 # HOST-KEYWORD: 36
-# HOST-SUFFIX: 31885
+# HOST-SUFFIX: 31888
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 32702
+# TOTAL: 32705
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -1990,6 +1990,7 @@ HOST-SUFFIX,amazonaws.org,Global
 HOST-SUFFIX,amazonaws.tv,Global
 HOST-SUFFIX,amazonbusiness.org,Global
 HOST-SUFFIX,amazonbusinessblog.com,Global
+HOST-SUFFIX,amazoncognito.com,Global
 HOST-SUFFIX,amazondevicesupport.com,Global
 HOST-SUFFIX,amazonfctours.com,Global
 HOST-SUFFIX,amazonianblog.com,Global
@@ -3089,6 +3090,8 @@ HOST-SUFFIX,awjq.cc,Global
 HOST-SUFFIX,awlc.ac.uk,Global
 HOST-SUFFIX,aws-iot-hackathon.com,Global
 HOST-SUFFIX,aws.com,Global
+HOST-SUFFIX,awsapprunner.com,Global
+HOST-SUFFIX,awsapps.com,Global
 HOST-SUFFIX,awsautopilot.com,Global
 HOST-SUFFIX,awsautoscaling.com,Global
 HOST-SUFFIX,awsbraket.com,Global
