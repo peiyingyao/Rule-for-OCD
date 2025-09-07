@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-30 02:07:39
+# UPDATED: 2025-09-08 02:07:41
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31834
+# DOMAIN-SUFFIX: 31838
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32097
+# TOTAL: 32101
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -26269,6 +26269,8 @@ payload:
   - DOMAIN-SUFFIX,bsky.network
   - DOMAIN-SUFFIX,bsky.social
   - DOMAIN-SUFFIX,bt2mag.com
+  - DOMAIN-SUFFIX,bt4g.org
+  - DOMAIN-SUFFIX,bt4gprx.com
   - DOMAIN-SUFFIX,bt95.com
   - DOMAIN-SUFFIX,btaia.com
   - DOMAIN-SUFFIX,btbit.net
@@ -28291,6 +28293,7 @@ payload:
   - DOMAIN-SUFFIX,iphonetaiwan.org
   - DOMAIN-SUFFIX,iphonix.fr
   - DOMAIN-SUFFIX,ipicture.ru
+  - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,ipjetable.net
   - DOMAIN-SUFFIX,ipn.li
@@ -30614,6 +30617,7 @@ payload:
   - DOMAIN-SUFFIX,tanc.org
   - DOMAIN-SUFFIX,tangben.com
   - DOMAIN-SUFFIX,tangren.us
+  - DOMAIN-SUFFIX,tanks.gg
   - DOMAIN-SUFFIX,taoism.net
   - DOMAIN-SUFFIX,taolun.info
   - DOMAIN-SUFFIX,tap.io
