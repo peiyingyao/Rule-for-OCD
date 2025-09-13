@@ -1,12 +1,12 @@
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-09-10 02:10:19
+# UPDATED: 2025-09-14 02:10:11
 # DOMAIN: 277
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 117027
+# DOMAIN-SUFFIX: 116958
 # PROCESS-NAME: 14
-# TOTAL: 117331
+# TOTAL: 117262
 payload:
   - DOMAIN-KEYWORD,.tmall.com
   - DOMAIN-KEYWORD,alicdn
