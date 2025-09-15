@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-09-08 02:07:41
+# UPDATED: 2025-09-16 02:08:05
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31838
+# DOMAIN-SUFFIX: 31840
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32101
+# TOTAL: 32103
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -28868,6 +28868,7 @@ payload:
   - '+.mcaf.ee'
   - '+.mcfog.com'
   - '+.mcreasite.com'
+  - '+.mcusercontent.com'
   - '+.md-t.org'
   - '+.me.me'
   - '+.meansys.com'
@@ -30610,6 +30611,7 @@ payload:
   - '+.taiwanus.net'
   - '+.taiwanyes.com'
   - '+.talk853.com'
+  - '+.talkatone.com'
   - '+.talkboxapp.com'
   - '+.talkcc.com'
   - '+.talkonly.net'

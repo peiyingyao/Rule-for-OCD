@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-09-08 02:08:01
+# UPDATED: 2025-09-16 02:08:26
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6500
+# DOMAIN-SUFFIX: 6502
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6632
+# TOTAL: 6634
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -3403,6 +3403,7 @@ voice.telephony.goog
 +.mcaf.ee
 +.mcfog.com
 +.mcreasite.com
++.mcusercontent.com
 +.md-t.org
 +.me.me
 +.meansys.com
@@ -5156,6 +5157,7 @@ voice.telephony.goog
 +.taiwanus.net
 +.taiwanyes.com
 +.talk853.com
++.talkatone.com
 +.talkboxapp.com
 +.talkcc.com
 +.talkonly.net
