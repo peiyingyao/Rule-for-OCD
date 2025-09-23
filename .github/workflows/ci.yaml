@@ -1,10 +1,10 @@
-name: Build rules
+name: ci
 
 on:
   workflow_dispatch:
-  # 每天 2:32 (UTC+8) 触发一次
+  # 每天 22:00 触发一次
   schedule:
-    - cron: '32 18 * * *'
+    - cron: '0 6 * * *'
   push:
     branches:
       - master
@@ -18,7 +18,7 @@ jobs:
       - name: Add token
         uses: actions/checkout@v4
         with:
-          repository: peiyingyao/Rule-for-OCD
+          repository: ${{ github.repository }}
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set variables
