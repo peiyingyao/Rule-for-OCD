@@ -1,11 +1,11 @@
 # NAME: ByteDance
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-06 02:08:34
-# DOMAIN-SUFFIX: 368
+# UPDATED: 2025-09-28 02:08:33
+# DOMAIN-SUFFIX: 369
 # IP-CIDR: 1
 # PROCESS-NAME: 1
-# TOTAL: 370
+# TOTAL: 371
 payload:
   - DOMAIN-SUFFIX,2333333333333.com
   - DOMAIN-SUFFIX,365yg.com
@@ -111,6 +111,7 @@ payload:
   - DOMAIN-SUFFIX,faceu.com.cn
   - DOMAIN-SUFFIX,faceu.mobi
   - DOMAIN-SUFFIX,faceu.net
+  - DOMAIN-SUFFIX,fanqiecopyright.com
   - DOMAIN-SUFFIX,fanqieopen.com
   - DOMAIN-SUFFIX,fanqieopenpic.com
   - DOMAIN-SUFFIX,fanqieopenstatic.com

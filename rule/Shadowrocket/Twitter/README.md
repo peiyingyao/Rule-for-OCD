@@ -12,15 +12,15 @@ Twitter规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-07-30 02:08:19
+最后更新时间：2025-09-28 02:08:26
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN-KEYWORD | 1  | 
-| DOMAIN-SUFFIX | 25  | 
+| DOMAIN-SUFFIX | 26  | 
 | IP-CIDR | 6  | 
-| TOTAL | 32  | 
+| TOTAL | 33  | 
 
 
 ## Shadowrocket 
