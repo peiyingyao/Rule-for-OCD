@@ -1,18 +1,19 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-09-30 02:09:00
-# HOST: 119
+# UPDATED: 2025-10-04 02:08:52
+# HOST: 121
 # HOST-KEYWORD: 9
 # HOST-SUFFIX: 117227
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 117402
+# TOTAL: 117404
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdn.angruo.com,ChinaTest
+HOST,cdn.lilyemby.com,ChinaTest
 HOST,client.amplifi.com,ChinaTest
 HOST,download.jetbrains.com,ChinaTest
 HOST,images-cn.ssl-images-amazon.com,ChinaTest
@@ -22,6 +23,7 @@ HOST,origin-a.akamaihd.ne,ChinaTest
 HOST,origin-a.akamaihd.net,ChinaTest
 HOST,sms.imagetasks.com,ChinaTest
 HOST,steamcommunity-a.akamaihd.net,ChinaTest
+HOST,tx.lilyemby.com,ChinaTest
 HOST,www.yxssp.com,ChinaTest
 HOST,265.com,ChinaTest
 HOST,2mdn-cn.net,ChinaTest
@@ -2030,6 +2032,7 @@ HOST-SUFFIX,jiayuan.com,ChinaTest
 HOST-SUFFIX,jiazhao.com,ChinaTest
 HOST-SUFFIX,jibencaozuo.com,ChinaTest
 HOST-SUFFIX,jidian.im,ChinaTest
+HOST-SUFFIX,jiedaibao.gs,ChinaTest
 HOST-SUFFIX,jiemeng8.com,ChinaTest
 HOST-SUFFIX,jiemian.com,ChinaTest
 HOST-SUFFIX,jikeiot.cloud,ChinaTest
@@ -92389,7 +92392,6 @@ HOST-SUFFIX,tappile.com,ChinaTest
 HOST-SUFFIX,tapque.com,ChinaTest
 HOST-SUFFIX,tapsvc.com,ChinaTest
 HOST-SUFFIX,taptap-api.com,ChinaTest
-HOST-SUFFIX,taptap.io,ChinaTest
 HOST-SUFFIX,taptapcode.com,ChinaTest
 HOST-SUFFIX,taptapdada.com,ChinaTest
 HOST-SUFFIX,tapulsads.ru,ChinaTest

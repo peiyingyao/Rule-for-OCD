@@ -1,17 +1,18 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-09-28 02:09:55
-# DOMAIN: 17
+# UPDATED: 2025-10-04 02:10:04
+# DOMAIN: 19
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 3586
+# DOMAIN-SUFFIX: 3587
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 3627
+# TOTAL: 3630
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
   - 'cdn.angruo.com'
+  - 'cdn.lilyemby.com'
   - 'client.amplifi.com'
   - 'download.jetbrains.com'
   - 'download.microsoft.com'
@@ -23,6 +24,7 @@ payload:
   - 'origin-a.akamaihd.net'
   - 'sms.imagetasks.com'
   - 'steamcommunity-a.akamaihd.net'
+  - 'tx.lilyemby.com'
   - 'weixin.com'
   - 'www.libvideo.com'
   - 'www.yxssp.com'
@@ -1901,6 +1903,7 @@ payload:
   - '+.jiazhao.com'
   - '+.jibencaozuo.com'
   - '+.jidian.im'
+  - '+.jiedaibao.gs'
   - '+.jiemeng8.com'
   - '+.jiemian.com'
   - '+.jikeiot.cloud'

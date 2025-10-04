@@ -12,18 +12,18 @@ China规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-09-28 02:08:34
+最后更新时间：2025-10-04 02:08:44
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 17  | 
+| DOMAIN | 19  | 
 | DOMAIN-KEYWORD | 9  | 
-| DOMAIN-SUFFIX | 3677  | 
+| DOMAIN-SUFFIX | 3678  | 
 | IP-CIDR | 17  | 
 | IP-CIDR6 | 4  | 
 | USER-AGENT | 31  | 
-| TOTAL | 3755  | 
+| TOTAL | 3758  | 
 
 
 ## Loon 

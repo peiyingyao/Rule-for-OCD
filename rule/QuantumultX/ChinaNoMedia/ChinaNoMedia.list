@@ -1,18 +1,19 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-09-28 02:09:55
-# HOST: 17
+# UPDATED: 2025-10-04 02:10:03
+# HOST: 19
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 3586
+# HOST-SUFFIX: 3587
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 3659
+# TOTAL: 3662
 HOST,analytics.strava.com,ChinaNoMedia
 HOST,blzddist1-a.akamaihd.net,ChinaNoMedia
 HOST,cdn.angruo.com,ChinaNoMedia
+HOST,cdn.lilyemby.com,ChinaNoMedia
 HOST,client.amplifi.com,ChinaNoMedia
 HOST,download.jetbrains.com,ChinaNoMedia
 HOST,download.microsoft.com,ChinaNoMedia
@@ -24,6 +25,7 @@ HOST,origin-a.akamaihd.ne,ChinaNoMedia
 HOST,origin-a.akamaihd.net,ChinaNoMedia
 HOST,sms.imagetasks.com,ChinaNoMedia
 HOST,steamcommunity-a.akamaihd.net,ChinaNoMedia
+HOST,tx.lilyemby.com,ChinaNoMedia
 HOST,weixin.com,ChinaNoMedia
 HOST,www.libvideo.com,ChinaNoMedia
 HOST,www.yxssp.com,ChinaNoMedia
@@ -1902,6 +1904,7 @@ HOST-SUFFIX,jiayuan.com,ChinaNoMedia
 HOST-SUFFIX,jiazhao.com,ChinaNoMedia
 HOST-SUFFIX,jibencaozuo.com,ChinaNoMedia
 HOST-SUFFIX,jidian.im,ChinaNoMedia
+HOST-SUFFIX,jiedaibao.gs,ChinaNoMedia
 HOST-SUFFIX,jiemeng8.com,ChinaNoMedia
 HOST-SUFFIX,jiemian.com,ChinaNoMedia
 HOST-SUFFIX,jikeiot.cloud,ChinaNoMedia

@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-09-26 02:08:42
+# UPDATED: 2025-10-04 02:08:34
 # HOST: 19
 # HOST-KEYWORD: 26
-# HOST-SUFFIX: 6986
+# HOST-SUFFIX: 6987
 # IP-CIDR: 93
 # IP6-CIDR: 4
 # USER-AGENT: 8
-# TOTAL: 7136
+# TOTAL: 7137
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -5621,6 +5621,7 @@ HOST-SUFFIX,tapanwap.com,Proxy
 HOST-SUFFIX,tapatalk.com,Proxy
 HOST-SUFFIX,tapbots.com,Proxy
 HOST-SUFFIX,tapbots.net,Proxy
+HOST-SUFFIX,taptap.io,Proxy
 HOST-SUFFIX,taptap.tw,Proxy
 HOST-SUFFIX,taragana.com,Proxy
 HOST-SUFFIX,tardigrade.io,Proxy
