@@ -1,12 +1,12 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-04 02:09:30
-# HOST: 160
+# UPDATED: 2025-10-06 02:10:17
+# HOST: 159
 # HOST-KEYWORD: 4
 # HOST-SUFFIX: 123
 # IP-CIDR: 4
-# TOTAL: 291
+# TOTAL: 290
 HOST,0123456789nonexistent.com,PrivateTracker
 HOST,0d.kebhana.mx,PrivateTracker
 HOST,1.tracker.eu.org,PrivateTracker
@@ -31,12 +31,10 @@ HOST,bvarf.tracker.sh,PrivateTracker
 HOST,ch3oh.ru,PrivateTracker
 HOST,concen.org,PrivateTracker
 HOST,d40969.acod.regrucolo.ru,PrivateTracker
-HOST,discord.heihachi.pw,PrivateTracker
 HOST,evan.im,PrivateTracker
 HOST,exodus.desync.com,PrivateTracker
 HOST,explodie.org,PrivateTracker
 HOST,extracker.dahrkael.net,PrivateTracker
-HOST,hificode.in,PrivateTracker
 HOST,home.yxgz.club,PrivateTracker
 HOST,ipv4.rer.lol,PrivateTracker
 HOST,ipv4announce.sktorrent.eu,PrivateTracker
@@ -76,6 +74,7 @@ HOST,torrentsmd.com,PrivateTracker
 HOST,tr.abiir.top,PrivateTracker
 HOST,tr.abir.ga,PrivateTracker
 HOST,tr.highstar.shop,PrivateTracker
+HOST,tr.kxmp.cf,PrivateTracker
 HOST,tr.nyacat.pw,PrivateTracker
 HOST,tr.zukizuki.org,PrivateTracker
 HOST,tr3.ysagin.top,PrivateTracker
