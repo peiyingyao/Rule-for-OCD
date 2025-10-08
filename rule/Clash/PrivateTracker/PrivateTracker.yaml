@@ -1,12 +1,12 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-06 02:10:17
-# DOMAIN: 159
+# UPDATED: 2025-10-08 02:09:24
+# DOMAIN: 164
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 123
 # IP-CIDR: 4
-# TOTAL: 290
+# TOTAL: 295
 payload:
   - DOMAIN,0123456789nonexistent.com
   - DOMAIN,0d.kebhana.mx
@@ -40,7 +40,9 @@ payload:
   - DOMAIN,ipv4.rer.lol
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,ipv6.rer.lol
+  - DOMAIN,isk.richardsw.club
   - DOMAIN,martin-gebhardt.eu
+  - DOMAIN,ns-1.x-fins.com
   - DOMAIN,ns3109441.mypdns.org
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,open-tracker.demonoid.ch
@@ -48,6 +50,7 @@ payload:
   - DOMAIN,open.demonii.si
   - DOMAIN,open.demonoid.ch
   - DOMAIN,open.dstud.io
+  - DOMAIN,open.free-tracker.ga
   - DOMAIN,open.stealth.si
   - DOMAIN,open.trackerlist.xyz
   - DOMAIN,opentor.org
@@ -55,6 +58,7 @@ payload:
   - DOMAIN,p4p.arenabg.com
   - DOMAIN,public.demonoid.ch
   - DOMAIN,public.tracker.vraphim.com
+  - DOMAIN,region.nl1.privex.cc
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,retracker.lanta.me
   - DOMAIN,retracker.spark-rostov.ru
@@ -65,6 +69,7 @@ payload:
   - DOMAIN,shahidrazi.online
   - DOMAIN,share.hkg-fansub.info
   - DOMAIN,shubt.net
+  - DOMAIN,t-backup.213891.xyz
   - DOMAIN,t.213891.xyz
   - DOMAIN,t.overflow.biz
   - DOMAIN,tk.greedland.net
@@ -81,7 +86,6 @@ payload:
   - DOMAIN,tr3.ysagin.top
   - DOMAIN,tr4ck3r.duckdns.org
   - DOMAIN,tracker-de-2.cutie.dating
-  - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,tracker.23794.top
   - DOMAIN,tracker.alaskantf.com
   - DOMAIN,tracker.beeimg.com
@@ -96,6 +100,7 @@ payload:
   - DOMAIN,tracker.corpscorp.online
   - DOMAIN,tracker.cutie.dating
   - DOMAIN,tracker.cyberia.is
+  - DOMAIN,tracker.darkness.services
   - DOMAIN,tracker.dhitechnical.com
   - DOMAIN,tracker.dler.com
   - DOMAIN,tracker.dler.org
@@ -132,10 +137,10 @@ payload:
   - DOMAIN,tracker.srv00.com
   - DOMAIN,tracker.startwork.cv
   - DOMAIN,tracker.tamersunion.org
-  - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.therarbg.to
   - DOMAIN,tracker.tnl.one
   - DOMAIN,tracker.torrent.eu.org
+  - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,tracker.tritan.gg
   - DOMAIN,tracker.tryhackx.org
   - DOMAIN,tracker.tvunderground.org.ru
