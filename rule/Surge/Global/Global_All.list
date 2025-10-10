@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-06 02:08:46
+# UPDATED: 2025-10-10 02:08:32
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31849
+# DOMAIN-SUFFIX: 31850
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32158
+# TOTAL: 32159
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -30377,6 +30377,7 @@ DOMAIN-SUFFIX,sokmil.com
 DOMAIN-SUFFIX,solana.com
 DOMAIN-SUFFIX,solidaritetibet.org
 DOMAIN-SUFFIX,solidfiles.com
+DOMAIN-SUFFIX,solscan.io
 DOMAIN-SUFFIX,solv.finance
 DOMAIN-SUFFIX,somee.com
 DOMAIN-SUFFIX,sonatype.org

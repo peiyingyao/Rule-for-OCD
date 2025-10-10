@@ -21,18 +21,18 @@
 
 ## 规则统计
 
-最后更新时间：2025-10-08 02:09:46
+最后更新时间：2025-10-10 02:10:19
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST | 280  | 
 | HOST-KEYWORD | 13  | 
-| HOST-SUFFIX | 116483  | 
+| HOST-SUFFIX | 116482  | 
 | HOST-WILDCARD | 1  | 
 | IP-ASN | 1  | 
 | IP-CIDR | 8080  | 
-| IP6-CIDR | 10868  | 
+| IP6-CIDR | 10869  | 
 | USER-AGENT | 65  | 
 | TOTAL | 135791  | 
 
