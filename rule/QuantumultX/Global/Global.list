@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-12 02:08:14
+# UPDATED: 2025-10-14 02:08:25
 # HOST: 619
 # HOST-KEYWORD: 36
-# HOST-SUFFIX: 31905
+# HOST-SUFFIX: 31907
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 32722
+# TOTAL: 32724
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -27660,6 +27660,8 @@ HOST-SUFFIX,freeforums.org,Global
 HOST-SUFFIX,freefq.com,Global
 HOST-SUFFIX,freefuckvids.com,Global
 HOST-SUFFIX,freegao.com,Global
+HOST-SUFFIX,freegpt.es,Global
+HOST-SUFFIX,freegpt.tech,Global
 HOST-SUFFIX,freehongkong.org,Global
 HOST-SUFFIX,freeilhamtohti.org,Global
 HOST-SUFFIX,freekazakhs.org,Global
