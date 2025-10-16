@@ -12,15 +12,15 @@
 
 ## 规则统计
 
-最后更新时间：2025-06-06 09:17:29
+最后更新时间：2025-10-16 02:09:21
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 474  | 
-| IP-CIDR | 11  | 
+| DOMAIN-SUFFIX | 1718  | 
+| IP-CIDR | 20  | 
 | USER-AGENT | 5  | 
-| TOTAL | 490  | 
+| TOTAL | 1743  | 
 
 
 ## Surge 
@@ -28,13 +28,19 @@
 #### 使用说明
 - Tencent.list，请使用RULE-SET。
 - Tencent_Resolve.list，请使用RULE-SET。
+- Tencent_Domain.list，请使用DOMAIN-SET。
 
 #### 文件区别
+- Tencent_All.list与Tencent_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
 - Tencent_Resolve.list与Tencent.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
-- Tencent.list 单独使用。
-- Tencent_Resolve.list 单独使用。
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- Tencent_All.list 单独使用。
+- Tencent_All_No_Resolve.list 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
+- Tencent.list、Tencent_Domain.list 共同使用。
+- Tencent_Resolve.list、Tencent_Domain.list 共同使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**

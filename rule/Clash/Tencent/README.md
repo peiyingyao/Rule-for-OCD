@@ -12,14 +12,14 @@
 
 ## 规则统计
 
-最后更新时间：2025-06-06 09:17:29
+最后更新时间：2025-10-16 02:09:21
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 474  | 
-| IP-CIDR | 11  | 
-| TOTAL | 485  | 
+| DOMAIN-SUFFIX | 1718  | 
+| IP-CIDR | 20  | 
+| TOTAL | 1738  | 
 
 
 ## Clash 
@@ -27,35 +27,62 @@
 #### 使用说明
 - Tencent.yaml，请使用 behavior: "classical"。
 - Tencent_Resolve.yaml，请使用 behavior: "classical"。
+- Tencent_Classical.yaml，请使用 behavior: "classical"。
+- Tencent_Domain.yaml，请使用 behavior: "domain"。
 
 #### 配置建议
-- Tencent.yaml 单独使用。
-- Tencent_Resolve.yaml 单独使用。
+- Tencent_Classical.yaml 单独使用。
+- Tencent.yaml、Tencent_Domain.yaml 共同使用。
+- Tencent_Resolve.yaml、Tencent_Domain.yaml 共同使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Tencent/Tencent.yaml
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Tencent/Tencent_Classical.yaml
+
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Tencent/Tencent_Domain.txt
+
 **MASTER分支 CDN (每日更新)**
 
 https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Tencent/Tencent.yaml
+
+https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Tencent/Tencent_Classical.yaml
+
+https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Tencent/Tencent_Domain.txt
 
 **MASTER分支 GHProxy (每日更新)**
 
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Tencent/Tencent.yaml
 
+https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Tencent/Tencent_Classical.yaml
+
+https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Tencent/Tencent_Domain.txt
+
 **RELEASE分支 (不定时更新)**
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Tencent/Tencent.yaml
+
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Tencent/Tencent_Classical.yaml
+
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Tencent/Tencent_Domain.txt
 
 **RELEASE分支CDN (不定时更新)**
 
 https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Tencent/Tencent.yaml
 
+https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Tencent/Tencent_Classical.yaml
+
+https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Tencent/Tencent_Domain.txt
+
 **RELEASE分支 GHProxy (不定时更新)**
 
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Tencent/Tencent.yaml
+
+https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Tencent/Tencent_Classical.yaml
+
+https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Tencent/Tencent_Domain.txt
 
 ## 子规则/排除规则
 
