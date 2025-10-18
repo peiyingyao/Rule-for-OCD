@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-14 02:08:05
+# UPDATED: 2025-10-18 02:08:09
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31853
+# DOMAIN-SUFFIX: 31857
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32116
+# TOTAL: 32120
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -22310,7 +22310,6 @@ payload:
   - '+.trustedpeach.com'
   - '+.trustisfps.com'
   - '+.trustsign.ch'
-  - '+.trustwallet.com'
   - '+.trustwave.com'
   - '+.truthordarepics.com'
   - '+.truyen-hentai.com'
@@ -25943,6 +25942,7 @@ payload:
   - '+.asiaharvest.org'
   - '+.asianage.com'
   - '+.asianews.it'
+  - '+.asianfanfics.com'
   - '+.asiansexdiary.com'
   - '+.asianspiss.com'
   - '+.asianwomensfilm.de'
@@ -30989,6 +30989,7 @@ payload:
   - '+.truesocial.media'
   - '+.trulyergonomic.com'
   - '+.trustasiassl.com'
+  - '+.trustwallet.com'
   - '+.truthontour.org'
   - '+.truthsocial.com'
   - '+.truveo.com'
@@ -31512,6 +31513,7 @@ payload:
   - '+.webrtc.org'
   - '+.webrush.net'
   - '+.webs-tv.net'
+  - '+.websdr.org'
   - '+.website.new'
   - '+.websitepulse.com'
   - '+.websnapr.com'
@@ -31751,6 +31753,7 @@ payload:
   - '+.xn--noss43i.com'
   - '+.xn--oiq.cc'
   - '+.xn--p8j9a0d9c9a.xn--q9jyb4c'
+  - '+.xn--u2u927b.com'
   - '+.xnpool.com'
   - '+.xnxx-cdn.com'
   - '+.xnxx.com'
@@ -31893,6 +31896,7 @@ payload:
   - '+.z-lib.gl'
   - '+.z-lib.io'
   - '+.z-lib.org'
+  - '+.z-library.ec'
   - '+.z-library.sk'
   - '+.zacebook.com'
   - '+.zalmos.com'

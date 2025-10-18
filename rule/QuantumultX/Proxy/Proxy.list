@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-14 02:08:26
+# UPDATED: 2025-10-18 02:08:31
 # HOST: 19
 # HOST-KEYWORD: 26
-# HOST-SUFFIX: 6991
+# HOST-SUFFIX: 6996
 # IP-CIDR: 93
 # IP6-CIDR: 4
 # USER-AGENT: 8
-# TOTAL: 7141
+# TOTAL: 7146
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -468,6 +468,7 @@ HOST-SUFFIX,asia-gaming.com,Proxy
 HOST-SUFFIX,asiaharvest.org,Proxy
 HOST-SUFFIX,asianage.com,Proxy
 HOST-SUFFIX,asianews.it,Proxy
+HOST-SUFFIX,asianfanfics.com,Proxy
 HOST-SUFFIX,asiansexdiary.com,Proxy
 HOST-SUFFIX,asianspiss.com,Proxy
 HOST-SUFFIX,asianwomensfilm.de,Proxy
@@ -5988,6 +5989,7 @@ HOST-SUFFIX,truenas.com,Proxy
 HOST-SUFFIX,truesocial.media,Proxy
 HOST-SUFFIX,trulyergonomic.com,Proxy
 HOST-SUFFIX,trustasiassl.com,Proxy
+HOST-SUFFIX,trustwallet.com,Proxy
 HOST-SUFFIX,truth101.co.tv,Proxy
 HOST-SUFFIX,truthontour.org,Proxy
 HOST-SUFFIX,truthsocial.com,Proxy
@@ -6534,6 +6536,7 @@ HOST-SUFFIX,webpkgcache.com,Proxy
 HOST-SUFFIX,webrtc.org,Proxy
 HOST-SUFFIX,webrush.net,Proxy
 HOST-SUFFIX,webs-tv.net,Proxy
+HOST-SUFFIX,websdr.org,Proxy
 HOST-SUFFIX,website.new,Proxy
 HOST-SUFFIX,websitepulse.com,Proxy
 HOST-SUFFIX,websnapr.com,Proxy
@@ -6785,6 +6788,7 @@ HOST-SUFFIX,xn--ngstr-lra8j.com,Proxy
 HOST-SUFFIX,xn--noss43i.com,Proxy
 HOST-SUFFIX,xn--oiq.cc,Proxy
 HOST-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c,Proxy
+HOST-SUFFIX,xn--u2u927b.com,Proxy
 HOST-SUFFIX,xnpool.com,Proxy
 HOST-SUFFIX,xnxx-cdn.com,Proxy
 HOST-SUFFIX,xnxx.com,Proxy
@@ -6937,6 +6941,7 @@ HOST-SUFFIX,z-lib.gd,Proxy
 HOST-SUFFIX,z-lib.gl,Proxy
 HOST-SUFFIX,z-lib.io,Proxy
 HOST-SUFFIX,z-lib.org,Proxy
+HOST-SUFFIX,z-library.ec,Proxy
 HOST-SUFFIX,z-library.sk,Proxy
 HOST-SUFFIX,zacebook.com,Proxy
 HOST-SUFFIX,zalmos.com,Proxy
