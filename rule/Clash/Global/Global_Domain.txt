@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-18 02:08:09
-# DOMAIN: 110
+# UPDATED: 2025-10-20 02:08:10
+# DOMAIN: 112
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31857
+# DOMAIN-SUFFIX: 31879
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32120
+# TOTAL: 32144
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -36,6 +36,7 @@ cdn.js7k.com
 cisco.evergage.com
 clubhouse.pubnubapi.com
 community.oneplus.com
+configuration-lb.ls-apple.com.akadns.net
 courier-push-apple.com.akadns.net
 crl.versign.net
 databank.worldbank.org
@@ -49,6 +50,7 @@ espn.hb.omtrdc.net
 espndotcom.tt.omtrdc.net
 faronics.kayako.com
 firstsearch.oclc.org
+github-api.arkoselabs.com
 gog.qtlglb.com
 holoxx.f5.si
 hpstore.corpmerchandise.com
@@ -4134,6 +4136,7 @@ login.microsoftonline.com
 .bmwzentrum.com
 .bnac.ac.uk
 .bnef.com
+.bntrace.com
 .bnu.ac.uk
 .boa.ac.uk
 .bobble.ac.uk
@@ -4206,6 +4209,7 @@ login.microsoftonline.com
 .boomerang.com
 .boomtrain.com
 .booru.org
+.boosty.to
 .booth.pm
 .bootyliciousmag.com
 .bootysource.com
@@ -5081,6 +5085,7 @@ login.microsoftonline.com
 .cdmatech.com
 .cdn-telegram.org
 .cdn-terapeak.com
+.cdn-vk.ru
 .cdn.ac.uk
 .cdn77.com
 .cdn77.org
@@ -5157,6 +5162,7 @@ login.microsoftonline.com
 .ceramics-cadcam.com
 .cercia.ac.uk
 .cerdas.com
+.cerebras.ai
 .ceredigion.ac.uk
 .ceri.ac.uk
 .cerlim.ac.uk
@@ -5517,6 +5523,8 @@ login.microsoftonline.com
 .classics.ac.uk
 .classymomsex.com
 .claude.ai
+.claude.com
+.claudemcpclient.com
 .claudeusercontent.com
 .clc-london.ac.uk
 .clco.cc
@@ -6660,6 +6668,7 @@ login.microsoftonline.com
 .diabetes-healthnet.ac.uk
 .diablo3.com
 .diabloimmortal.com
+.diabrowser.com
 .dialga.com
 .dialogflow.com
 .diamantewebcam.com
@@ -7036,6 +7045,7 @@ login.microsoftonline.com
 .domywife.com
 .don.ac.uk
 .donatecarsoh.org
+.donationalerts.com
 .doncaster.ac.uk
 .dongtaiwang.com
 .donkeykongcountryreturns.com
@@ -10423,6 +10433,7 @@ login.microsoftonline.com
 .gu-web.net
 .guambmw.com
 .guaranitermal.com
+.guardarian.com
 .guardianapis.com
 .guardianapps.co.uk
 .guardianproject.info
@@ -12731,6 +12742,7 @@ login.microsoftonline.com
 .jav-legend.com
 .jav-subtitles.com
 .jav-vr.net
+.jav.app
 .jav.dog
 .jav.gallery
 .jav.guru
@@ -14380,6 +14392,7 @@ login.microsoftonline.com
 .marlin.ac.uk
 .marplecollege.ac.uk
 .marranazas.com
+.marscode.com
 .marvel.com
 .marvel10thanniversary.com
 .marveldimensionofheroes.com
@@ -14710,6 +14723,7 @@ login.microsoftonline.com
 .melonbooks.co.jp
 .melonstube.com
 .meme111.com
+.memealerts.com
 .men.com
 .men18.net
 .menai.ac.uk
@@ -16340,6 +16354,7 @@ login.microsoftonline.com
 .nfscdict.com
 .nfscofficial.com
 .nfsworld.com
+.nftstatic.com
 .ngc.ac.uk
 .ngeo.com
 .ngfiles.com
@@ -17094,6 +17109,7 @@ login.microsoftonline.com
 .oitabank.co.jp
 .ok.xxx
 .okazudouga.tokyo
+.okcdn.ru
 .okinawabank.co.jp
 .okkisokuho.com
 .okx-dns.com
@@ -19592,10 +19608,14 @@ login.microsoftonline.com
 .samsung.com
 .samsungapps.com
 .samsungcloud.com
+.samsungconsent.com
 .samsungdm.com
 .samsunggalaxyfriends.com
+.samsunghealth.com
+.samsungiotcloud.com
 .samsungknox.com
 .samsungqbe.com
+.samsungrs.com
 .sandisk.ae
 .sandisk.co.jp
 .sandisk.co.kr
@@ -21142,6 +21162,7 @@ login.microsoftonline.com
 .stdavidscollege.ac.uk
 .stdavidsdaygroup.ac.uk
 .stdoms.ac.uk
+.stealthex.io
 .stec.ac.uk
 .steelbrick.com
 .steemitwallet.com
@@ -22204,6 +22225,7 @@ login.microsoftonline.com
 .tracker.network
 .tracking-location.com
 .tradevip1.com
+.trae.ai
 .traffcoll.ac.uk
 .traffichaus.com
 .trafficmanager.net
@@ -23067,6 +23089,7 @@ login.microsoftonline.com
 .vercel-status.com
 .vercel.blog
 .vercel.com
+.vercel.dev
 .vercel.events
 .vercel.live
 .vercel.pub
@@ -23451,6 +23474,7 @@ login.microsoftonline.com
 .vk.ru
 .vk.team
 .vkcache.com
+.vkcloud-static.ru
 .vkgo.app
 .vklive.app
 .vkmessenger.app

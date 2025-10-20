@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-18 02:08:09
-# DOMAIN: 110
+# UPDATED: 2025-10-20 02:08:10
+# DOMAIN: 112
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31857
+# DOMAIN-SUFFIX: 31879
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32120
+# TOTAL: 32144
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -37,6 +37,7 @@ payload:
   - 'cisco.evergage.com'
   - 'clubhouse.pubnubapi.com'
   - 'community.oneplus.com'
+  - 'configuration-lb.ls-apple.com.akadns.net'
   - 'courier-push-apple.com.akadns.net'
   - 'crl.versign.net'
   - 'databank.worldbank.org'
@@ -50,6 +51,7 @@ payload:
   - 'espndotcom.tt.omtrdc.net'
   - 'faronics.kayako.com'
   - 'firstsearch.oclc.org'
+  - 'github-api.arkoselabs.com'
   - 'gog.qtlglb.com'
   - 'holoxx.f5.si'
   - 'hpstore.corpmerchandise.com'
@@ -4135,6 +4137,7 @@ payload:
   - '+.bmwzentrum.com'
   - '+.bnac.ac.uk'
   - '+.bnef.com'
+  - '+.bntrace.com'
   - '+.bnu.ac.uk'
   - '+.boa.ac.uk'
   - '+.bobble.ac.uk'
@@ -4207,6 +4210,7 @@ payload:
   - '+.boomerang.com'
   - '+.boomtrain.com'
   - '+.booru.org'
+  - '+.boosty.to'
   - '+.booth.pm'
   - '+.bootyliciousmag.com'
   - '+.bootysource.com'
@@ -5082,6 +5086,7 @@ payload:
   - '+.cdmatech.com'
   - '+.cdn-telegram.org'
   - '+.cdn-terapeak.com'
+  - '+.cdn-vk.ru'
   - '+.cdn.ac.uk'
   - '+.cdn77.com'
   - '+.cdn77.org'
@@ -5158,6 +5163,7 @@ payload:
   - '+.ceramics-cadcam.com'
   - '+.cercia.ac.uk'
   - '+.cerdas.com'
+  - '+.cerebras.ai'
   - '+.ceredigion.ac.uk'
   - '+.ceri.ac.uk'
   - '+.cerlim.ac.uk'
@@ -5518,6 +5524,8 @@ payload:
   - '+.classics.ac.uk'
   - '+.classymomsex.com'
   - '+.claude.ai'
+  - '+.claude.com'
+  - '+.claudemcpclient.com'
   - '+.claudeusercontent.com'
   - '+.clc-london.ac.uk'
   - '+.clco.cc'
@@ -6661,6 +6669,7 @@ payload:
   - '+.diabetes-healthnet.ac.uk'
   - '+.diablo3.com'
   - '+.diabloimmortal.com'
+  - '+.diabrowser.com'
   - '+.dialga.com'
   - '+.dialogflow.com'
   - '+.diamantewebcam.com'
@@ -7037,6 +7046,7 @@ payload:
   - '+.domywife.com'
   - '+.don.ac.uk'
   - '+.donatecarsoh.org'
+  - '+.donationalerts.com'
   - '+.doncaster.ac.uk'
   - '+.dongtaiwang.com'
   - '+.donkeykongcountryreturns.com'
@@ -10424,6 +10434,7 @@ payload:
   - '+.gu-web.net'
   - '+.guambmw.com'
   - '+.guaranitermal.com'
+  - '+.guardarian.com'
   - '+.guardianapis.com'
   - '+.guardianapps.co.uk'
   - '+.guardianproject.info'
@@ -12732,6 +12743,7 @@ payload:
   - '+.jav-legend.com'
   - '+.jav-subtitles.com'
   - '+.jav-vr.net'
+  - '+.jav.app'
   - '+.jav.dog'
   - '+.jav.gallery'
   - '+.jav.guru'
@@ -14381,6 +14393,7 @@ payload:
   - '+.marlin.ac.uk'
   - '+.marplecollege.ac.uk'
   - '+.marranazas.com'
+  - '+.marscode.com'
   - '+.marvel.com'
   - '+.marvel10thanniversary.com'
   - '+.marveldimensionofheroes.com'
@@ -14711,6 +14724,7 @@ payload:
   - '+.melonbooks.co.jp'
   - '+.melonstube.com'
   - '+.meme111.com'
+  - '+.memealerts.com'
   - '+.men.com'
   - '+.men18.net'
   - '+.menai.ac.uk'
@@ -16341,6 +16355,7 @@ payload:
   - '+.nfscdict.com'
   - '+.nfscofficial.com'
   - '+.nfsworld.com'
+  - '+.nftstatic.com'
   - '+.ngc.ac.uk'
   - '+.ngeo.com'
   - '+.ngfiles.com'
@@ -17095,6 +17110,7 @@ payload:
   - '+.oitabank.co.jp'
   - '+.ok.xxx'
   - '+.okazudouga.tokyo'
+  - '+.okcdn.ru'
   - '+.okinawabank.co.jp'
   - '+.okkisokuho.com'
   - '+.okx-dns.com'
@@ -19593,10 +19609,14 @@ payload:
   - '+.samsung.com'
   - '+.samsungapps.com'
   - '+.samsungcloud.com'
+  - '+.samsungconsent.com'
   - '+.samsungdm.com'
   - '+.samsunggalaxyfriends.com'
+  - '+.samsunghealth.com'
+  - '+.samsungiotcloud.com'
   - '+.samsungknox.com'
   - '+.samsungqbe.com'
+  - '+.samsungrs.com'
   - '+.sandisk.ae'
   - '+.sandisk.co.jp'
   - '+.sandisk.co.kr'
@@ -21143,6 +21163,7 @@ payload:
   - '+.stdavidscollege.ac.uk'
   - '+.stdavidsdaygroup.ac.uk'
   - '+.stdoms.ac.uk'
+  - '+.stealthex.io'
   - '+.stec.ac.uk'
   - '+.steelbrick.com'
   - '+.steemitwallet.com'
@@ -22205,6 +22226,7 @@ payload:
   - '+.tracker.network'
   - '+.tracking-location.com'
   - '+.tradevip1.com'
+  - '+.trae.ai'
   - '+.traffcoll.ac.uk'
   - '+.traffichaus.com'
   - '+.trafficmanager.net'
@@ -23068,6 +23090,7 @@ payload:
   - '+.vercel-status.com'
   - '+.vercel.blog'
   - '+.vercel.com'
+  - '+.vercel.dev'
   - '+.vercel.events'
   - '+.vercel.live'
   - '+.vercel.pub'
@@ -23452,6 +23475,7 @@ payload:
   - '+.vk.ru'
   - '+.vk.team'
   - '+.vkcache.com'
+  - '+.vkcloud-static.ru'
   - '+.vkgo.app'
   - '+.vklive.app'
   - '+.vkmessenger.app'
