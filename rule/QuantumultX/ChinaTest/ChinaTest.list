@@ -1,15 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-20 02:08:51
-# HOST: 122
+# UPDATED: 2025-10-22 02:09:28
+# HOST: 115
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 116652
+# HOST-SUFFIX: 116660
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 116830
+# TOTAL: 116831
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdn.angruo.com,ChinaTest
@@ -84,8 +84,6 @@ HOST,i.pki.goog,ChinaTest
 HOST,images-cn-8.ssl-images-amazon.com,ChinaTest
 HOST,menu-static.gog-statics.com,ChinaTest
 HOST,monitoring.qpdp1.net,ChinaTest
-HOST,msgr.dlservice.microsoft.com,ChinaTest
-HOST,msgruser.dlservice.microsoft.com,ChinaTest
 HOST,o.pki.goog,ChinaTest
 HOST,ocsp.pki.goog,ChinaTest
 HOST,prod-controlbe.floonet.goog,ChinaTest
@@ -94,7 +92,6 @@ HOST,prod.databe.floonet.goog,ChinaTest
 HOST,productcard.gog-statics.com,ChinaTest
 HOST,qagpublic.qatp1.net,ChinaTest
 HOST,qgadmin.qcpp1.net,ChinaTest
-HOST,qh.dlservice.microsoft.com,ChinaTest
 HOST,qualysapi.qatp1.net,ChinaTest
 HOST,qualysguard.qpdp1.net,ChinaTest
 HOST,recaptcha-cn.net,ChinaTest
@@ -110,8 +107,6 @@ HOST,scanservice1.qcpp1.net,ChinaTest
 HOST,scene7-cdn.dell.com,ChinaTest
 HOST,service.urchin.com,ChinaTest
 HOST,si.cdn.dell.com,ChinaTest
-HOST,silverlight.dlservice.microsoft.com,ChinaTest
-HOST,slupdate.dlservice.microsoft.com,ChinaTest
 HOST,sm.dell.com,ChinaTest
 HOST,snp.cdn.dell.com,ChinaTest
 HOST,snpi.dell.com,ChinaTest
@@ -124,13 +119,11 @@ HOST,surface.downloads.prss.microsoft.com,ChinaTest
 HOST,test.gbugs-qa.chromium.org,ChinaTest
 HOST,time.xtracloud.net,ChinaTest
 HOST,uplaypc-s-ubisoft.cdn.ubi.com,ChinaTest
-HOST,wl.dlservice.microsoft.com,ChinaTest
 HOST,www-csb.dell.com,ChinaTest
 HOST,www.destinationurl.com,ChinaTest
 HOST,www.pxcc.com,ChinaTest
 HOST,www.recaptcha.net,ChinaTest
 HOST,www4-static.gog-statics.com,ChinaTest
-HOST,xb.dlservice.microsoft.com,ChinaTest
 HOST,xn--flw351e.com,ChinaTest
 HOST-SUFFIX,00cdn.com,ChinaTest
 HOST-SUFFIX,0123456789.com,ChinaTest
@@ -11832,6 +11825,7 @@ HOST-SUFFIX,900.vc,ChinaTest
 HOST-SUFFIX,9000wy.com,ChinaTest
 HOST-SUFFIX,900112.com,ChinaTest
 HOST-SUFFIX,900501.xyz,ChinaTest
+HOST-SUFFIX,900cha.com,ChinaTest
 HOST-SUFFIX,900php.com,ChinaTest
 HOST-SUFFIX,900ppt.com,ChinaTest
 HOST-SUFFIX,900yi.com,ChinaTest
@@ -55045,6 +55039,7 @@ HOST-SUFFIX,iprun.com,ChinaTest
 HOST-SUFFIX,ips.com,ChinaTest
 HOST-SUFFIX,ips8.com,ChinaTest
 HOST-SUFFIX,ipsebe.com,ChinaTest
+HOST-SUFFIX,ipshu.com,ChinaTest
 HOST-SUFFIX,ipshudi.com,ChinaTest
 HOST-SUFFIX,ipsmap.com,ChinaTest
 HOST-SUFFIX,iptalent.com,ChinaTest
@@ -55331,6 +55326,7 @@ HOST-SUFFIX,issks.com,ChinaTest
 HOST-SUFFIX,ist-zl.com,ChinaTest
 HOST-SUFFIX,istartsurf.com,ChinaTest
 HOST-SUFFIX,istcw.com,ChinaTest
+HOST-SUFFIX,istoreos.com,ChinaTest
 HOST-SUFFIX,istpei.com,ChinaTest
 HOST-SUFFIX,istrongcloud.com,ChinaTest
 HOST-SUFFIX,istrongcloud.net,ChinaTest
@@ -60316,6 +60312,7 @@ HOST-SUFFIX,jxnyc.net,ChinaTest
 HOST-SUFFIX,jxpdf.com,ChinaTest
 HOST-SUFFIX,jxphone.com,ChinaTest
 HOST-SUFFIX,jxphyz.com,ChinaTest
+HOST-SUFFIX,jxpp.com,ChinaTest
 HOST-SUFFIX,jxpta.com,ChinaTest
 HOST-SUFFIX,jxqcw.com,ChinaTest
 HOST-SUFFIX,jxqtkj.com,ChinaTest
@@ -71088,6 +71085,7 @@ HOST-SUFFIX,mw.com,ChinaTest
 HOST-SUFFIX,mw1950.com,ChinaTest
 HOST-SUFFIX,mwadx.com,ChinaTest
 HOST-SUFFIX,mwave.tech,ChinaTest
+HOST-SUFFIX,mwcdns.com,ChinaTest
 HOST-SUFFIX,mwclg.com,ChinaTest
 HOST-SUFFIX,mwcloudcdn.com,ChinaTest
 HOST-SUFFIX,mwcloudcdn.info,ChinaTest
@@ -72339,6 +72337,7 @@ HOST-SUFFIX,networkbench.com,ChinaTest
 HOST-SUFFIX,networkesl.com,ChinaTest
 HOST-SUFFIX,networklo.com,ChinaTest
 HOST-SUFFIX,netzonesoft.com,ChinaTest
+HOST-SUFFIX,netzz.net,ChinaTest
 HOST-SUFFIX,neu-reality.com,ChinaTest
 HOST-SUFFIX,neucrack.com,ChinaTest
 HOST-SUFFIX,neuedu.com,ChinaTest
@@ -100999,6 +100998,7 @@ HOST-SUFFIX,wsfnk.com,ChinaTest
 HOST-SUFFIX,wsgeogen.com,ChinaTest
 HOST-SUFFIX,wsgjj.com,ChinaTest
 HOST-SUFFIX,wsgjp.com,ChinaTest
+HOST-SUFFIX,wsglb.com,ChinaTest
 HOST-SUFFIX,wsglb.net,ChinaTest
 HOST-SUFFIX,wsglb0.com,ChinaTest
 HOST-SUFFIX,wsglb0.info,ChinaTest
@@ -102459,6 +102459,7 @@ HOST-SUFFIX,xdsp.mobi,ChinaTest
 HOST-SUFFIX,xdsyzzs.com,ChinaTest
 HOST-SUFFIX,xdter.com,ChinaTest
 HOST-SUFFIX,xdtev.com,ChinaTest
+HOST-SUFFIX,xdtool.com,ChinaTest
 HOST-SUFFIX,xdtos.com,ChinaTest
 HOST-SUFFIX,xduim.com,ChinaTest
 HOST-SUFFIX,xduoo.com,ChinaTest

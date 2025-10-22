@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-20 02:08:55
-# DOMAIN: 122
+# UPDATED: 2025-10-22 02:09:32
+# DOMAIN: 115
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 116652
+# DOMAIN-SUFFIX: 116660
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 116798
+# TOTAL: 116799
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
@@ -82,8 +82,6 @@ DOMAIN,i.pki.goog
 DOMAIN,images-cn-8.ssl-images-amazon.com
 DOMAIN,menu-static.gog-statics.com
 DOMAIN,monitoring.qpdp1.net
-DOMAIN,msgr.dlservice.microsoft.com
-DOMAIN,msgruser.dlservice.microsoft.com
 DOMAIN,o.pki.goog
 DOMAIN,ocsp.pki.goog
 DOMAIN,prod-controlbe.floonet.goog
@@ -92,7 +90,6 @@ DOMAIN,prod.databe.floonet.goog
 DOMAIN,productcard.gog-statics.com
 DOMAIN,qagpublic.qatp1.net
 DOMAIN,qgadmin.qcpp1.net
-DOMAIN,qh.dlservice.microsoft.com
 DOMAIN,qualysapi.qatp1.net
 DOMAIN,qualysguard.qpdp1.net
 DOMAIN,recaptcha-cn.net
@@ -108,8 +105,6 @@ DOMAIN,scanservice1.qcpp1.net
 DOMAIN,scene7-cdn.dell.com
 DOMAIN,service.urchin.com
 DOMAIN,si.cdn.dell.com
-DOMAIN,silverlight.dlservice.microsoft.com
-DOMAIN,slupdate.dlservice.microsoft.com
 DOMAIN,sm.dell.com
 DOMAIN,snp.cdn.dell.com
 DOMAIN,snpi.dell.com
@@ -122,13 +117,11 @@ DOMAIN,surface.downloads.prss.microsoft.com
 DOMAIN,test.gbugs-qa.chromium.org
 DOMAIN,time.xtracloud.net
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
-DOMAIN,wl.dlservice.microsoft.com
 DOMAIN,www-csb.dell.com
 DOMAIN,www.destinationurl.com
 DOMAIN,www.pxcc.com
 DOMAIN,www.recaptcha.net
 DOMAIN,www4-static.gog-statics.com
-DOMAIN,xb.dlservice.microsoft.com
 DOMAIN,xn--flw351e.com
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,0123456789.com
@@ -11830,6 +11823,7 @@ DOMAIN-SUFFIX,900.vc
 DOMAIN-SUFFIX,9000wy.com
 DOMAIN-SUFFIX,900112.com
 DOMAIN-SUFFIX,900501.xyz
+DOMAIN-SUFFIX,900cha.com
 DOMAIN-SUFFIX,900php.com
 DOMAIN-SUFFIX,900ppt.com
 DOMAIN-SUFFIX,900yi.com
@@ -55043,6 +55037,7 @@ DOMAIN-SUFFIX,iprun.com
 DOMAIN-SUFFIX,ips.com
 DOMAIN-SUFFIX,ips8.com
 DOMAIN-SUFFIX,ipsebe.com
+DOMAIN-SUFFIX,ipshu.com
 DOMAIN-SUFFIX,ipshudi.com
 DOMAIN-SUFFIX,ipsmap.com
 DOMAIN-SUFFIX,iptalent.com
@@ -55329,6 +55324,7 @@ DOMAIN-SUFFIX,issks.com
 DOMAIN-SUFFIX,ist-zl.com
 DOMAIN-SUFFIX,istartsurf.com
 DOMAIN-SUFFIX,istcw.com
+DOMAIN-SUFFIX,istoreos.com
 DOMAIN-SUFFIX,istpei.com
 DOMAIN-SUFFIX,istrongcloud.com
 DOMAIN-SUFFIX,istrongcloud.net
@@ -60314,6 +60310,7 @@ DOMAIN-SUFFIX,jxnyc.net
 DOMAIN-SUFFIX,jxpdf.com
 DOMAIN-SUFFIX,jxphone.com
 DOMAIN-SUFFIX,jxphyz.com
+DOMAIN-SUFFIX,jxpp.com
 DOMAIN-SUFFIX,jxpta.com
 DOMAIN-SUFFIX,jxqcw.com
 DOMAIN-SUFFIX,jxqtkj.com
@@ -71086,6 +71083,7 @@ DOMAIN-SUFFIX,mw.com
 DOMAIN-SUFFIX,mw1950.com
 DOMAIN-SUFFIX,mwadx.com
 DOMAIN-SUFFIX,mwave.tech
+DOMAIN-SUFFIX,mwcdns.com
 DOMAIN-SUFFIX,mwclg.com
 DOMAIN-SUFFIX,mwcloudcdn.com
 DOMAIN-SUFFIX,mwcloudcdn.info
@@ -72337,6 +72335,7 @@ DOMAIN-SUFFIX,networkbench.com
 DOMAIN-SUFFIX,networkesl.com
 DOMAIN-SUFFIX,networklo.com
 DOMAIN-SUFFIX,netzonesoft.com
+DOMAIN-SUFFIX,netzz.net
 DOMAIN-SUFFIX,neu-reality.com
 DOMAIN-SUFFIX,neucrack.com
 DOMAIN-SUFFIX,neuedu.com
@@ -100997,6 +100996,7 @@ DOMAIN-SUFFIX,wsfnk.com
 DOMAIN-SUFFIX,wsgeogen.com
 DOMAIN-SUFFIX,wsgjj.com
 DOMAIN-SUFFIX,wsgjp.com
+DOMAIN-SUFFIX,wsglb.com
 DOMAIN-SUFFIX,wsglb.net
 DOMAIN-SUFFIX,wsglb0.com
 DOMAIN-SUFFIX,wsglb0.info
@@ -102457,6 +102457,7 @@ DOMAIN-SUFFIX,xdsp.mobi
 DOMAIN-SUFFIX,xdsyzzs.com
 DOMAIN-SUFFIX,xdter.com
 DOMAIN-SUFFIX,xdtev.com
+DOMAIN-SUFFIX,xdtool.com
 DOMAIN-SUFFIX,xdtos.com
 DOMAIN-SUFFIX,xduim.com
 DOMAIN-SUFFIX,xduoo.com
