@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-24 02:08:26
+# UPDATED: 2025-10-26 02:08:13
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31921
+# DOMAIN-SUFFIX: 31967
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32188
+# TOTAL: 32234
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -1386,6 +1386,7 @@ payload:
   - DOMAIN-SUFFIX,alsod.ac.uk
   - DOMAIN-SUFFIX,alt.ac.uk
   - DOMAIN-SUFFIX,alt.com
+  - DOMAIN-SUFFIX,altera.co.jp
   - DOMAIN-SUFFIX,altera.com
   - DOMAIN-SUFFIX,alteraforum.com
   - DOMAIN-SUFFIX,alteraforums.com
@@ -5600,6 +5601,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflarepartners.com
   - DOMAIN-SUFFIX,cloudflareportal.com
   - DOMAIN-SUFFIX,cloudflarepreview.com
+  - DOMAIN-SUFFIX,cloudflareregistrar.com
   - DOMAIN-SUFFIX,cloudflareresolve.com
   - DOMAIN-SUFFIX,cloudflaressl.com
   - DOMAIN-SUFFIX,cloudflarestatus.com
@@ -5767,6 +5769,7 @@ payload:
   - DOMAIN-SUFFIX,comicuniverse.org
   - DOMAIN-SUFFIX,comixzilla.com
   - DOMAIN-SUFFIX,comm-coll-hackney.ac.uk
+  - DOMAIN-SUFFIX,comm-verse.com
   - DOMAIN-SUFFIX,commandandconquer.com
   - DOMAIN-SUFFIX,commerceos.com
   - DOMAIN-SUFFIX,commnet.ac.uk
@@ -6963,6 +6966,7 @@ payload:
   - DOMAIN-SUFFIX,dm-event.net
   - DOMAIN-SUFFIX,dmed.technology
   - DOMAIN-SUFFIX,dmgmediaprivacy.co.uk
+  - DOMAIN-SUFFIX,dml-lang.org
   - DOMAIN-SUFFIX,dml.ac.uk
   - DOMAIN-SUFFIX,dmm-extension.com
   - DOMAIN-SUFFIX,dmmapis.com
@@ -7678,6 +7682,7 @@ payload:
   - DOMAIN-SUFFIX,ebsco.com
   - DOMAIN-SUFFIX,ebsl.ac.uk
   - DOMAIN-SUFFIX,ebslondon.ac.uk
+  - DOMAIN-SUFFIX,ebuyer.com
   - DOMAIN-SUFFIX,ebuyheadphones.com
   - DOMAIN-SUFFIX,eca.ac.uk
   - DOMAIN-SUFFIX,ecampus-leeds.ac.uk
@@ -9304,6 +9309,11 @@ payload:
   - DOMAIN-SUFFIX,fracebook.com
   - DOMAIN-SUFFIX,fragment.com
   - DOMAIN-SUFFIX,fragrancebay.com
+  - DOMAIN-SUFFIX,framer.com
+  - DOMAIN-SUFFIX,framer.website
+  - DOMAIN-SUFFIX,framercanvas.com
+  - DOMAIN-SUFFIX,framerstatic.com
+  - DOMAIN-SUFFIX,framerusercontent.com
   - DOMAIN-SUFFIX,francecasquebeatssolde.com
   - DOMAIN-SUFFIX,francemail.com
   - DOMAIN-SUFFIX,francistowne.ac.uk
@@ -10390,6 +10400,7 @@ payload:
   - DOMAIN-SUFFIX,grannytube.net
   - DOMAIN-SUFFIX,grantham.ac.uk
   - DOMAIN-SUFFIX,grantleyhall.ac.uk
+  - DOMAIN-SUFFIX,granulate.io
   - DOMAIN-SUFFIX,graphenecentre.ac.uk
   - DOMAIN-SUFFIX,graphengine.io
   - DOMAIN-SUFFIX,gravitytank.com
@@ -10509,6 +10520,7 @@ payload:
   - DOMAIN-SUFFIX,hackerguardian.com
   - DOMAIN-SUFFIX,hackfacebook.com
   - DOMAIN-SUFFIX,hackfacebookid.com
+  - DOMAIN-SUFFIX,hackharassment.com
   - DOMAIN-SUFFIX,hacklang.org
   - DOMAIN-SUFFIX,hackney.ac.uk
   - DOMAIN-SUFFIX,hacksear.ch
@@ -12141,6 +12153,7 @@ payload:
   - DOMAIN-SUFFIX,insider.com
   - DOMAIN-SUFFIX,insiderdevtour.com
   - DOMAIN-SUFFIX,insiderintelligence.com
+  - DOMAIN-SUFFIX,insight.tech
   - DOMAIN-SUFFIX,inspire-dtp.ac.uk
   - DOMAIN-SUFFIX,inspiretrust.ac.uk
   - DOMAIN-SUFFIX,inst-of-oceanographic-sci.ac.uk
@@ -12233,6 +12246,7 @@ payload:
   - DOMAIN-SUFFIX,intel.ch
   - DOMAIN-SUFFIX,intel.cl
   - DOMAIN-SUFFIX,intel.cm
+  - DOMAIN-SUFFIX,intel.co
   - DOMAIN-SUFFIX,intel.co.ae
   - DOMAIN-SUFFIX,intel.co.cr
   - DOMAIN-SUFFIX,intel.co.id
@@ -12264,6 +12278,7 @@ payload:
   - DOMAIN-SUFFIX,intel.cu
   - DOMAIN-SUFFIX,intel.cz
   - DOMAIN-SUFFIX,intel.de
+  - DOMAIN-SUFFIX,intel.dev
   - DOMAIN-SUFFIX,intel.dk
   - DOMAIN-SUFFIX,intel.dz
   - DOMAIN-SUFFIX,intel.ec
@@ -12276,6 +12291,7 @@ payload:
   - DOMAIN-SUFFIX,intel.ga
   - DOMAIN-SUFFIX,intel.gd
   - DOMAIN-SUFFIX,intel.ge
+  - DOMAIN-SUFFIX,intel.gg
   - DOMAIN-SUFFIX,intel.gl
   - DOMAIN-SUFFIX,intel.gm
   - DOMAIN-SUFFIX,intel.gr
@@ -12286,6 +12302,7 @@ payload:
   - DOMAIN-SUFFIX,intel.hn
   - DOMAIN-SUFFIX,intel.ht
   - DOMAIN-SUFFIX,intel.hu
+  - DOMAIN-SUFFIX,intel.id
   - DOMAIN-SUFFIX,intel.ie
   - DOMAIN-SUFFIX,intel.in
   - DOMAIN-SUFFIX,intel.io
@@ -12383,6 +12400,8 @@ payload:
   - DOMAIN-SUFFIX,intelplay.com
   - DOMAIN-SUFFIX,intelquark.com
   - DOMAIN-SUFFIX,intelrealsense.com
+  - DOMAIN-SUFFIX,intelrealsense.net
+  - DOMAIN-SUFFIX,intelreimbursement.com
   - DOMAIN-SUFFIX,intelrxt.com
   - DOMAIN-SUFFIX,intelsalestraining.com
   - DOMAIN-SUFFIX,intelsecurity.com
@@ -14278,6 +14297,7 @@ payload:
   - DOMAIN-SUFFIX,magnacartacollege.ac.uk
   - DOMAIN-SUFFIX,mahajantech.com
   - DOMAIN-SUFFIX,mahsc.ac.uk
+  - DOMAIN-SUFFIX,mail.com
   - DOMAIN-SUFFIX,maileoch.com
   - DOMAIN-SUFFIX,mailhealth.com
   - DOMAIN-SUFFIX,mailonline.co.uk
@@ -14701,6 +14721,7 @@ payload:
   - DOMAIN-SUFFIX,meawallet.app
   - DOMAIN-SUFFIX,meb.gov.mm
   - DOMAIN-SUFFIX,mebank.ir
+  - DOMAIN-SUFFIX,meccontroller.com
   - DOMAIN-SUFFIX,meddyliwchamgymru.ac.uk
   - DOMAIN-SUFFIX,mede-innovation.ac.uk
   - DOMAIN-SUFFIX,medev.ac.uk
@@ -15552,6 +15573,7 @@ payload:
   - DOMAIN-SUFFIX,movetv.com
   - DOMAIN-SUFFIX,movidius.com
   - DOMAIN-SUFFIX,movidius.net
+  - DOMAIN-SUFFIX,movidius.org
   - DOMAIN-SUFFIX,movie-erog.com
   - DOMAIN-SUFFIX,movie1000.xyz
   - DOMAIN-SUFFIX,moviepost.com
@@ -17191,6 +17213,7 @@ payload:
   - DOMAIN-SUFFIX,oncars.in
   - DOMAIN-SUFFIX,one889.app
   - DOMAIN-SUFFIX,oneapi.com
+  - DOMAIN-SUFFIX,oneapi.io
   - DOMAIN-SUFFIX,onedinesfree.com
   - DOMAIN-SUFFIX,onedrive.co
   - DOMAIN-SUFFIX,onedrive.co.uk
@@ -17265,6 +17288,7 @@ payload:
   - DOMAIN-SUFFIX,openapiplatform.com
   - DOMAIN-SUFFIX,openapiservice.com
   - DOMAIN-SUFFIX,openart.ai
+  - DOMAIN-SUFFIX,opencas.io
   - DOMAIN-SUFFIX,opencollective.com
   - DOMAIN-SUFFIX,opencreate.org
   - DOMAIN-SUFFIX,opendesktop.org
@@ -17301,6 +17325,7 @@ payload:
   - DOMAIN-SUFFIX,opentranslatorstothings.org
   - DOMAIN-SUFFIX,openuniversity.ac.uk
   - DOMAIN-SUFFIX,openurl.ac.uk
+  - DOMAIN-SUFFIX,openvino.ai
   - DOMAIN-SUFFIX,openvinotoolkit.org
   - DOMAIN-SUFFIX,openweather.co.uk
   - DOMAIN-SUFFIX,openweathermap.org
@@ -17549,6 +17574,7 @@ payload:
   - DOMAIN-SUFFIX,passage.id
   - DOMAIN-SUFFIX,passion-hd.com
   - DOMAIN-SUFFIX,passport.net
+  - DOMAIN-SUFFIX,passwordday.org
   - DOMAIN-SUFFIX,pastahealth.com
   - DOMAIN-SUFFIX,paston.ac.uk
   - DOMAIN-SUFFIX,patentgold.net
@@ -18098,6 +18124,8 @@ payload:
   - DOMAIN-SUFFIX,plymsea.ac.uk
   - DOMAIN-SUFFIX,plzpf.com
   - DOMAIN-SUFFIX,pm.me
+  - DOMAIN-SUFFIX,pmem.org
+  - DOMAIN-SUFFIX,pmem.us
   - DOMAIN-SUFFIX,pml.ac.uk
   - DOMAIN-SUFFIX,pms.ac.uk
   - DOMAIN-SUFFIX,po18.tw
@@ -18675,6 +18703,7 @@ payload:
   - DOMAIN-SUFFIX,projectapex.com
   - DOMAIN-SUFFIX,projectara.com
   - DOMAIN-SUFFIX,projectbaseline.com
+  - DOMAIN-SUFFIX,projectcircuitbreaker.com
   - DOMAIN-SUFFIX,projecteuclid.org
   - DOMAIN-SUFFIX,projectjav.com
   - DOMAIN-SUFFIX,projectmurphy.net
@@ -19252,6 +19281,7 @@ payload:
   - DOMAIN-SUFFIX,rems-cdt.ac.uk
   - DOMAIN-SUFFIX,renaissanceskin.ac.uk
   - DOMAIN-SUFFIX,renchead.com
+  - DOMAIN-SUFFIX,renderingtoolkit.org
   - DOMAIN-SUFFIX,renderos.com
   - DOMAIN-SUFFIX,reneerossvideos.com
   - DOMAIN-SUFFIX,renminbao.com
@@ -20431,9 +20461,12 @@ payload:
   - DOMAIN-SUFFIX,signalr.net
   - DOMAIN-SUFFIX,signalusers.org
   - DOMAIN-SUFFIX,sigops.org
+  - DOMAIN-SUFFIX,sigopt.com
   - DOMAIN-SUFFIX,sihe.ac.uk
   - DOMAIN-SUFFIX,sikh-uni.ac.uk
   - DOMAIN-SUFFIX,sikiswap.com
+  - DOMAIN-SUFFIX,silicon-mobility.com
+  - DOMAIN-SUFFIX,siliconmobility.com
   - DOMAIN-SUFFIX,silkengirl.com
   - DOMAIN-SUFFIX,silverchair-cdn.com
   - DOMAIN-SUFFIX,silversluts.com
@@ -20585,10 +20618,16 @@ payload:
   - DOMAIN-SUFFIX,small-angle.ac.uk
   - DOMAIN-SUFFIX,smallteenpussy.com
   - DOMAIN-SUFFIX,smart-edge.com
+  - DOMAIN-SUFFIX,smart-edge.info
+  - DOMAIN-SUFFIX,smart-edge.io
+  - DOMAIN-SUFFIX,smart-edge.net
+  - DOMAIN-SUFFIX,smart-edge.org
+  - DOMAIN-SUFFIX,smart-edge.systems
   - DOMAIN-SUFFIX,smart.ac.uk
   - DOMAIN-SUFFIX,smartcommunitiescoalition.com
   - DOMAIN-SUFFIX,smartcommunitiescoalition.org
   - DOMAIN-SUFFIX,smartdnsoutside.com
+  - DOMAIN-SUFFIX,smartedge.info
   - DOMAIN-SUFFIX,smartexpos.com
   - DOMAIN-SUFFIX,smartfea.com
   - DOMAIN-SUFFIX,smartline.com.au
@@ -20951,6 +20990,7 @@ payload:
   - DOMAIN-SUFFIX,spizoo.com
   - DOMAIN-SUFFIX,splatoon2tournament.com
   - DOMAIN-SUFFIX,splint-cetl.ac.uk
+  - DOMAIN-SUFFIX,splunk.com
   - DOMAIN-SUFFIX,spo-msedge.net
   - DOMAIN-SUFFIX,spokenword.ac.uk
   - DOMAIN-SUFFIX,sponichi.co.jp
@@ -21256,6 +21296,8 @@ payload:
   - DOMAIN-SUFFIX,stonefoxlingerie.com
   - DOMAIN-SUFFIX,stonefoxproductions.com
   - DOMAIN-SUFFIX,stonyhurst.ac.uk
+  - DOMAIN-SUFFIX,storageclassmemory.io
+  - DOMAIN-SUFFIX,storageclassmemory.org
   - DOMAIN-SUFFIX,storcuram.ac.uk
   - DOMAIN-SUFFIX,store-bridgestonesports.com
   - DOMAIN-SUFFIX,storesense.com
@@ -22072,6 +22114,7 @@ payload:
   - DOMAIN-SUFFIX,thothub.to
   - DOMAIN-SUFFIX,thottok.com
   - DOMAIN-SUFFIX,thotvids.com
+  - DOMAIN-SUFFIX,threadingbuildingblocks.org
   - DOMAIN-SUFFIX,thri.xxx
   - DOMAIN-SUFFIX,thrixxx.com
   - DOMAIN-SUFFIX,thtmod1.com
@@ -22688,7 +22731,9 @@ payload:
   - DOMAIN-SUFFIX,uhsl.ac.uk
   - DOMAIN-SUFFIX,uhtube.me
   - DOMAIN-SUFFIX,uhub.com
+  - DOMAIN-SUFFIX,ui-portal.de
   - DOMAIN-SUFFIX,ui.com
+  - DOMAIN-SUFFIX,uicdn.com
   - DOMAIN-SUFFIX,uiporn.com
   - DOMAIN-SUFFIX,uisp.com
   - DOMAIN-SUFFIX,ujapanesesex.com
@@ -22821,6 +22866,7 @@ payload:
   - DOMAIN-SUFFIX,universalorlando.com
   - DOMAIN-SUFFIX,universalpictures.com
   - DOMAIN-SUFFIX,universalpicturesinternational.com
+  - DOMAIN-SUFFIX,universalscalablefirmware.org
   - DOMAIN-SUFFIX,universalstudioshollywood.com
   - DOMAIN-SUFFIX,universities-scotland.ac.uk
   - DOMAIN-SUFFIX,universitiesengland.ac.uk
