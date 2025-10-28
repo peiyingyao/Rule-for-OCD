@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-26 02:08:13
+# UPDATED: 2025-10-28 02:08:19
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31967
+# DOMAIN-SUFFIX: 31974
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32234
+# TOTAL: 32241
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -10506,6 +10506,7 @@ DOMAIN-SUFFIX,gyc.ac.uk
 DOMAIN-SUFFIX,gynoexam.info
 DOMAIN-SUFFIX,gyutte.site
 DOMAIN-SUFFIX,gyutto.com
+DOMAIN-SUFFIX,h-chan.me
 DOMAIN-SUFFIX,h-doujinshi.xyz
 DOMAIN-SUFFIX,h-flash.com
 DOMAIN-SUFFIX,h-top.supertop-100.com
@@ -10804,6 +10805,8 @@ DOMAIN-SUFFIX,henshaws.ac.uk
 DOMAIN-SUFFIX,hentai-ani.me
 DOMAIN-SUFFIX,hentai-archive.com
 DOMAIN-SUFFIX,hentai-books.com
+DOMAIN-SUFFIX,hentai-chan.com
+DOMAIN-SUFFIX,hentai-chan.live
 DOMAIN-SUFFIX,hentai-cosplays.com
 DOMAIN-SUFFIX,hentai-covers.site
 DOMAIN-SUFFIX,hentai-eroanime.net
@@ -10848,6 +10851,8 @@ DOMAIN-SUFFIX,hentaibaka.one
 DOMAIN-SUFFIX,hentaibar.com
 DOMAIN-SUFFIX,hentaiblue.com
 DOMAIN-SUFFIX,hentaibros.com
+DOMAIN-SUFFIX,hentaichan.live
+DOMAIN-SUFFIX,hentaichan.me
 DOMAIN-SUFFIX,hentaicity.com
 DOMAIN-SUFFIX,hentaicloud.com
 DOMAIN-SUFFIX,hentaiclub.net
@@ -12038,6 +12043,7 @@ DOMAIN-SUFFIX,imgbb.com
 DOMAIN-SUFFIX,imgcrl.org
 DOMAIN-SUFFIX,imgix.com
 DOMAIN-SUFFIX,imgix.net
+DOMAIN-SUFFIX,imgschan.xyz
 DOMAIN-SUFFIX,imgsmail.ru
 DOMAIN-SUFFIX,imgur.io
 DOMAIN-SUFFIX,imgurinc.com
@@ -23868,6 +23874,7 @@ DOMAIN-SUFFIX,vuvuzela.io
 DOMAIN-SUFFIX,vxnbbrs.xyz
 DOMAIN-SUFFIX,vxxsred.xyz
 DOMAIN-SUFFIX,w-mt.co
+DOMAIN-SUFFIX,w0512.com
 DOMAIN-SUFFIX,w6un.com
 DOMAIN-SUFFIX,wa.me
 DOMAIN-SUFFIX,waa.tw
