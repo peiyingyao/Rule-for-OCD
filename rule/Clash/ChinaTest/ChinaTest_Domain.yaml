@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-28 02:09:02
+# UPDATED: 2025-10-30 02:09:21
 # DOMAIN: 116
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 116421
+# DOMAIN-SUFFIX: 116431
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 116561
+# TOTAL: 116571
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -30852,8 +30852,14 @@ payload:
   - '+.dcloud.io'
   - '+.dcloud.xin'
   - '+.dcloudlive.com'
+  - '+.dcloudlive.net'
   - '+.dclouds.cloud'
+  - '+.dcloudsp.com'
+  - '+.dcloudsp.net'
   - '+.dcloudstc.com'
+  - '+.dcloudstc.net'
+  - '+.dcloudvod.com'
+  - '+.dcloudvod.net'
   - '+.dclygroup.com'
   - '+.dcmagcn.com'
   - '+.dcmk17.com'
@@ -48102,7 +48108,10 @@ payload:
   - '+.herllamo.com'
   - '+.hermod1.com'
   - '+.hero-geek.com'
+  - '+.hero.com'
   - '+.herocoming.com'
+  - '+.heroesports.com'
+  - '+.herogame.com'
   - '+.herohr.net'
   - '+.heroic-ltd.com'
   - '+.heroje.com'
@@ -86583,6 +86592,7 @@ payload:
   - '+.shyuzhai.com'
   - '+.shywly.com'
   - '+.shyx-bio.com'
+  - '+.shyxhy.com'
   - '+.shyxi5.com'
   - '+.shyxwz.com'
   - '+.shyy6688.com'

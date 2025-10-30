@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-28 02:09:02
+# UPDATED: 2025-10-30 02:09:21
 # DOMAIN: 116
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 116421
+# DOMAIN-SUFFIX: 116431
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 116561
+# TOTAL: 116571
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -30852,8 +30852,14 @@ payload:
   - DOMAIN-SUFFIX,dcloud.io
   - DOMAIN-SUFFIX,dcloud.xin
   - DOMAIN-SUFFIX,dcloudlive.com
+  - DOMAIN-SUFFIX,dcloudlive.net
   - DOMAIN-SUFFIX,dclouds.cloud
+  - DOMAIN-SUFFIX,dcloudsp.com
+  - DOMAIN-SUFFIX,dcloudsp.net
   - DOMAIN-SUFFIX,dcloudstc.com
+  - DOMAIN-SUFFIX,dcloudstc.net
+  - DOMAIN-SUFFIX,dcloudvod.com
+  - DOMAIN-SUFFIX,dcloudvod.net
   - DOMAIN-SUFFIX,dclygroup.com
   - DOMAIN-SUFFIX,dcmagcn.com
   - DOMAIN-SUFFIX,dcmk17.com
@@ -48102,7 +48108,10 @@ payload:
   - DOMAIN-SUFFIX,herllamo.com
   - DOMAIN-SUFFIX,hermod1.com
   - DOMAIN-SUFFIX,hero-geek.com
+  - DOMAIN-SUFFIX,hero.com
   - DOMAIN-SUFFIX,herocoming.com
+  - DOMAIN-SUFFIX,heroesports.com
+  - DOMAIN-SUFFIX,herogame.com
   - DOMAIN-SUFFIX,herohr.net
   - DOMAIN-SUFFIX,heroic-ltd.com
   - DOMAIN-SUFFIX,heroje.com
@@ -86583,6 +86592,7 @@ payload:
   - DOMAIN-SUFFIX,shyuzhai.com
   - DOMAIN-SUFFIX,shywly.com
   - DOMAIN-SUFFIX,shyx-bio.com
+  - DOMAIN-SUFFIX,shyxhy.com
   - DOMAIN-SUFFIX,shyxi5.com
   - DOMAIN-SUFFIX,shyxwz.com
   - DOMAIN-SUFFIX,shyy6688.com

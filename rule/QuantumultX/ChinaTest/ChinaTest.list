@@ -1,15 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-28 02:08:58
+# UPDATED: 2025-10-30 02:09:17
 # HOST: 116
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 116421
+# HOST-SUFFIX: 116431
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 116593
+# TOTAL: 116603
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdn.angruo.com,ChinaTest
@@ -30853,8 +30853,14 @@ HOST-SUFFIX,dckygroup.com,ChinaTest
 HOST-SUFFIX,dcloud.io,ChinaTest
 HOST-SUFFIX,dcloud.xin,ChinaTest
 HOST-SUFFIX,dcloudlive.com,ChinaTest
+HOST-SUFFIX,dcloudlive.net,ChinaTest
 HOST-SUFFIX,dclouds.cloud,ChinaTest
+HOST-SUFFIX,dcloudsp.com,ChinaTest
+HOST-SUFFIX,dcloudsp.net,ChinaTest
 HOST-SUFFIX,dcloudstc.com,ChinaTest
+HOST-SUFFIX,dcloudstc.net,ChinaTest
+HOST-SUFFIX,dcloudvod.com,ChinaTest
+HOST-SUFFIX,dcloudvod.net,ChinaTest
 HOST-SUFFIX,dclygroup.com,ChinaTest
 HOST-SUFFIX,dcmagcn.com,ChinaTest
 HOST-SUFFIX,dcmk17.com,ChinaTest
@@ -48103,7 +48109,10 @@ HOST-SUFFIX,herllamo-med.com,ChinaTest
 HOST-SUFFIX,herllamo.com,ChinaTest
 HOST-SUFFIX,hermod1.com,ChinaTest
 HOST-SUFFIX,hero-geek.com,ChinaTest
+HOST-SUFFIX,hero.com,ChinaTest
 HOST-SUFFIX,herocoming.com,ChinaTest
+HOST-SUFFIX,heroesports.com,ChinaTest
+HOST-SUFFIX,herogame.com,ChinaTest
 HOST-SUFFIX,herohr.net,ChinaTest
 HOST-SUFFIX,heroic-ltd.com,ChinaTest
 HOST-SUFFIX,heroje.com,ChinaTest
@@ -86584,6 +86593,7 @@ HOST-SUFFIX,shyuwl.com,ChinaTest
 HOST-SUFFIX,shyuzhai.com,ChinaTest
 HOST-SUFFIX,shywly.com,ChinaTest
 HOST-SUFFIX,shyx-bio.com,ChinaTest
+HOST-SUFFIX,shyxhy.com,ChinaTest
 HOST-SUFFIX,shyxi5.com,ChinaTest
 HOST-SUFFIX,shyxwz.com,ChinaTest
 HOST-SUFFIX,shyy6688.com,ChinaTest

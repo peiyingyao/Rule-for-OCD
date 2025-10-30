@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-28 02:10:01
+# UPDATED: 2025-10-30 02:10:21
 # DOMAIN: 276
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 117190
+# DOMAIN-SUFFIX: 117194
 # IP-ASN: 1
 # IP-CIDR: 8084
-# IP-CIDR6: 11123
+# IP-CIDR6: 11126
 # PROCESS-NAME: 14
-# TOTAL: 136701
+# TOTAL: 136708
 payload:
   - '0.0.0.0/32'
   - '1.0.1.0/24'
@@ -18908,6 +18908,8 @@ payload:
   - '2a0e:aa07:e151::/48'
   - '2a0e:aa07:e155::/48'
   - '2a0e:aa07:e15f::/48'
+  - '2a0e:aa07:e160::/47'
+  - '2a0e:aa07:e162::/48'
   - '2a0e:aa07:e16a::/48'
   - '2a0e:aa07:e192::/48'
   - '2a0e:aa07:e1a0::/44'
@@ -19075,7 +19077,7 @@ payload:
   - '2a13:df87:5030::/48'
   - '2a14:4c41::/32'
   - '2a14:67c1:20::/44'
-  - '2a14:67c1:702::/48'
+  - '2a14:67c1:702::/47'
   - '2a14:67c1:704::/48'
   - '2a14:67c1:70::/48'
   - '2a14:67c1:73::/48'
@@ -19110,6 +19112,7 @@ payload:
   - '2a14:67c1:b4a1::/48'
   - '2a14:67c1:b4a2::/48'
   - '2a14:67c1:b4a8::/47'
+  - '2a14:67c1:b4aa::/48'
   - '2a14:67c1:b4c0::/45'
   - '2a14:67c1:b4e0::/43'
   - '2a14:67c1:b500::/47'
