@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-30 02:08:36
+# UPDATED: 2025-11-02 02:07:50
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31979
+# DOMAIN-SUFFIX: 31980
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32246
+# TOTAL: 32247
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -6959,6 +6959,7 @@ payload:
   - DOMAIN-SUFFIX,dlfacebook.com
   - DOMAIN-SUFFIX,dlhe.ac.uk
   - DOMAIN-SUFFIX,dlib.eastview.com
+  - DOMAIN-SUFFIX,dln1.ncdn.ec
   - DOMAIN-SUFFIX,dls.ac.uk
   - DOMAIN-SUFFIX,dlsite.com.tw
   - DOMAIN-SUFFIX,dlsitenews.com
