@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-02 02:04:25
+# UPDATED: 2025-11-04 02:05:23
 # DOMAIN: 16455
 # DOMAIN-KEYWORD: 277
-# DOMAIN-SUFFIX: 216673
+# DOMAIN-SUFFIX: 217134
 # IP-CIDR: 486
 # IP-CIDR6: 3
-# TOTAL: 233894
+# TOTAL: 234355
 payload:
   - DOMAIN-KEYWORD,-logging.nextmedia.com
   - DOMAIN-KEYWORD,-rtb.gravite.net
