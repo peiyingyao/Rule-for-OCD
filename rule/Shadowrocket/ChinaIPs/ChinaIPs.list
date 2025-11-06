@@ -1,7 +1,7 @@
 # NAME: ChinaIPs
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-04 02:09:44
+# UPDATED: 2025-11-06 02:09:09
 # IP-CIDR: 29739
 # TOTAL: 29739
 IP-CIDR,1.0.1.0/24,no-resolve
@@ -6369,6 +6369,7 @@ IP-CIDR,116.154.0.0/15,no-resolve
 IP-CIDR,116.16.0.0/12,no-resolve
 IP-CIDR,116.162.0.0/16,no-resolve
 IP-CIDR,116.163.0.0/18,no-resolve
+IP-CIDR,116.165.0.0/16,no-resolve
 IP-CIDR,116.167.0.0/16,no-resolve
 IP-CIDR,116.168.0.0/15,no-resolve
 IP-CIDR,116.171.0.0/16,no-resolve
@@ -6425,6 +6426,7 @@ IP-CIDR,116.198.176.0/21,no-resolve
 IP-CIDR,116.198.192.0/18,no-resolve
 IP-CIDR,116.198.64.0/21,no-resolve
 IP-CIDR,116.198.72.0/22,no-resolve
+IP-CIDR,116.198.96.0/19,no-resolve
 IP-CIDR,116.199.0.0/17,no-resolve
 IP-CIDR,116.199.128.0/19,no-resolve
 IP-CIDR,116.2.0.0/15,no-resolve
@@ -8500,10 +8502,6 @@ IP-CIDR,124.14.8.0/21,no-resolve
 IP-CIDR,124.147.128.0/17,no-resolve
 IP-CIDR,124.150.137.0/24,no-resolve
 IP-CIDR,124.151.0.0/16,no-resolve
-IP-CIDR,124.151.0.0/17,no-resolve
-IP-CIDR,124.151.128.0/18,no-resolve
-IP-CIDR,124.151.193.0/24,no-resolve
-IP-CIDR,124.151.224.0/19,no-resolve
 IP-CIDR,124.152.0.0/16,no-resolve
 IP-CIDR,124.16.0.0/15,no-resolve
 IP-CIDR,124.160.0.0/13,no-resolve
@@ -9592,6 +9590,7 @@ IP-CIDR,163.177.90.0/24,no-resolve
 IP-CIDR,163.179.0.0/16,no-resolve
 IP-CIDR,163.204.0.0/16,no-resolve
 IP-CIDR,163.223.178.0/23,no-resolve
+IP-CIDR,163.227.40.0/23,no-resolve
 IP-CIDR,163.227.40.0/24,no-resolve
 IP-CIDR,163.228.0.0/16,no-resolve
 IP-CIDR,163.244.246.0/24,no-resolve
@@ -28158,6 +28157,7 @@ IP-CIDR,45.113.20.0/22,no-resolve
 IP-CIDR,45.113.200.0/21,no-resolve
 IP-CIDR,45.113.200.0/22,no-resolve
 IP-CIDR,45.113.204.0/22,no-resolve
+IP-CIDR,45.113.206.0/24,no-resolve
 IP-CIDR,45.113.208.0/20,no-resolve
 IP-CIDR,45.113.208.0/22,no-resolve
 IP-CIDR,45.113.212.0/22,no-resolve
