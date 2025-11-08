@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-04 02:08:52
+# UPDATED: 2025-11-08 02:08:21
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31982
+# DOMAIN-SUFFIX: 32000
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32249
+# TOTAL: 32267
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -699,6 +699,7 @@ payload:
   - '+.aboutgfw.com'
   - '+.aboutmcdonalds.com'
   - '+.aboutporno.net'
+  - '+.aboutschwab.com'
   - '+.aboutyourmini.com'
   - '+.abow.jp'
   - '+.abrsm.ac.uk'
@@ -5417,6 +5418,7 @@ payload:
   - '+.cias.ac.uk'
   - '+.ciattackers.com'
   - '+.cib.ac.uk'
+  - '+.ciciaicdn.com'
   - '+.cicl.ac.uk'
   - '+.cied.ac.uk'
   - '+.ciemap.ac.uk'
@@ -7054,6 +7056,7 @@ payload:
   - '+.dojinmanga.net'
   - '+.dojinwatch.com'
   - '+.dokusho-ojikan.jp'
+  - '+.dola.com'
   - '+.dollarfotoclub.com'
   - '+.dollarphotoclub.com'
   - '+.dollarphotosclub.com'
@@ -7828,6 +7831,8 @@ payload:
   - '+.elephantsdream.org'
   - '+.elephanttube.com'
   - '+.elephanttubenew.com'
+  - '+.elevenlabs.com'
+  - '+.elevenlabs.io'
   - '+.elgaronline.com'
   - '+.elib.ac.uk'
   - '+.elifesciences.org'
@@ -8865,6 +8870,7 @@ payload:
   - '+.fi11tv1.com'
   - '+.fibank.bg'
   - '+.fibre-diffraction.ac.uk'
+  - '+.ficbook.net'
   - '+.ficeboock.com'
   - '+.ficm.ac.uk'
   - '+.fictionmania.tv'
@@ -9523,6 +9529,8 @@ payload:
   - '+.futanarihq.com'
   - '+.futhead.com'
   - '+.futpromos.com'
+  - '+.futuhk.com'
+  - '+.futuholdings.com'
   - '+.futunited.com'
   - '+.future-media.ac.uk'
   - '+.future-reserves-research.ac.uk'
@@ -9827,6 +9835,8 @@ payload:
   - '+.ggjav.com'
   - '+.ggoogle.com'
   - '+.ggpds.com'
+  - '+.ggsel.com'
+  - '+.ggsel.net'
   - '+.ggsrv.com'
   - '+.gh.io'
   - '+.ghbi.ir'
@@ -18627,6 +18637,7 @@ payload:
   - '+.pramu.ac.uk'
   - '+.prastitutki.ru'
   - '+.pre-bmwgroup.jobs'
+  - '+.predb.me'
   - '+.predictivetechnologies.com'
   - '+.premia.ac.uk'
   - '+.premium-beauty.com'
@@ -19835,6 +19846,12 @@ payload:
   - '+.schome.ac.uk'
   - '+.schoms.ac.uk'
   - '+.school-economic-science.ac.uk'
+  - '+.schwab.co.uk'
+  - '+.schwab.com'
+  - '+.schwab.com.hk'
+  - '+.schwab.com.sg'
+  - '+.schwabassetmanagement.com'
+  - '+.schwabplan.com'
   - '+.sci-hub.it.nf'
   - '+.sci-hub.mksa.top'
   - '+.sci-hub.se'
@@ -27504,6 +27521,7 @@ payload:
   - '+.flecheinthepeche.fr'
   - '+.fleshbot.com'
   - '+.fleursdeslettres.com'
+  - '+.flexclip.com'
   - '+.flexibits.com'
   - '+.flexpool.io'
   - '+.flgg.us'
