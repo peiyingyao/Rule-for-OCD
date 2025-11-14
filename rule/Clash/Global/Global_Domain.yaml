@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-12 02:08:07
+# UPDATED: 2025-11-14 02:08:23
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32003
+# DOMAIN-SUFFIX: 32044
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32270
+# TOTAL: 32311
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -1000,6 +1000,8 @@ payload:
   - '+.afappyending.com'
   - '+.afewmomentswith.com'
   - '+.affect3dstore.com'
+  - '+.affinity.api.serifservices.com'
+  - '+.affinity.studio'
   - '+.affirmtrust.com'
   - '+.afi.ac.uk'
   - '+.afkv28.com'
@@ -3342,6 +3344,7 @@ payload:
   - '+.bfmat.ac.uk'
   - '+.bftv.ac.uk'
   - '+.bgc.ac.uk'
+  - '+.bgicdn.com'
   - '+.bgm.tv'
   - '+.bgov.com'
   - '+.bgr.in'
@@ -4892,6 +4895,7 @@ payload:
   - '+.canterbury.ac.uk'
   - '+.canterburycollege.ac.uk'
   - '+.canterburytrust.ac.uk'
+  - '+.canva.com'
   - '+.caoporn.us'
   - '+.cape.ac.uk'
   - '+.capel.ac.uk'
@@ -10289,6 +10293,7 @@ payload:
   - '+.googleblog.com'
   - '+.googlebot.com'
   - '+.googlecapital.com'
+  - '+.googlecensorship.org'
   - '+.googlecert.net'
   - '+.googlechinawebmaster.com'
   - '+.googlecode.com'
@@ -13234,7 +13239,40 @@ payload:
   - '+.karlajames.com'
   - '+.karupsha.com'
   - '+.karupspc.com'
+  - '+.kaspersky.be'
+  - '+.kaspersky.ca'
+  - '+.kaspersky.co.in'
+  - '+.kaspersky.co.jp'
+  - '+.kaspersky.co.kr'
+  - '+.kaspersky.co.th'
+  - '+.kaspersky.co.uk'
+  - '+.kaspersky.co.za'
   - '+.kaspersky.com'
+  - '+.kaspersky.com.au'
+  - '+.kaspersky.com.br'
+  - '+.kaspersky.com.hk'
+  - '+.kaspersky.com.pl'
+  - '+.kaspersky.com.tr'
+  - '+.kaspersky.com.tw'
+  - '+.kaspersky.com.vn'
+  - '+.kaspersky.cz'
+  - '+.kaspersky.de'
+  - '+.kaspersky.dk'
+  - '+.kaspersky.dz'
+  - '+.kaspersky.es'
+  - '+.kaspersky.fi'
+  - '+.kaspersky.fr'
+  - '+.kaspersky.gr'
+  - '+.kaspersky.it'
+  - '+.kaspersky.kz'
+  - '+.kaspersky.ma'
+  - '+.kaspersky.my'
+  - '+.kaspersky.nl'
+  - '+.kaspersky.pt'
+  - '+.kaspersky.ro'
+  - '+.kaspersky.rs'
+  - '+.kaspersky.ru'
+  - '+.kaspersky.se'
   - '+.kastatic.org'
   - '+.katestube.com'
   - '+.kavkazr.com'
@@ -16186,6 +16224,7 @@ payload:
   - '+.neodaas.ac.uk'
   - '+.neonatalsociety.ac.uk'
   - '+.neotokyo.supertop-100.com'
+  - '+.neovim.io'
   - '+.neow.in'
   - '+.nepusoku.com'
   - '+.nerap.ac.uk'
@@ -25569,6 +25608,7 @@ payload:
   - '+.zeit.co'
   - '+.zeit.sh'
   - '+.zeitworld.com'
+  - '+.zen-browser.app'
   - '+.zen8ok.xyz'
   - '+.zencdn.net'
   - '+.zencoder.com'
@@ -27943,6 +27983,7 @@ payload:
   - '+.great-firewall.com'
   - '+.great-roc.org'
   - '+.greatfire.org'
+  - '+.greatfirevpn.com'
   - '+.greatfirewall.biz'
   - '+.greatfirewallofchina.net'
   - '+.greatfirewallofchina.org'

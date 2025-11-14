@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-10 02:08:43
+# UPDATED: 2025-11-14 02:08:44
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6523
+# DOMAIN-SUFFIX: 6524
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6655
+# TOTAL: 6656
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -2326,6 +2326,7 @@ payload:
   - DOMAIN-SUFFIX,great-firewall.com
   - DOMAIN-SUFFIX,great-roc.org
   - DOMAIN-SUFFIX,greatfire.org
+  - DOMAIN-SUFFIX,greatfirevpn.com
   - DOMAIN-SUFFIX,greatfirewall.biz
   - DOMAIN-SUFFIX,greatfirewallofchina.net
   - DOMAIN-SUFFIX,greatfirewallofchina.org

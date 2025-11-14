@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-12 02:08:26
+# UPDATED: 2025-11-14 02:08:43
 # HOST: 628
 # HOST-KEYWORD: 36
-# HOST-SUFFIX: 32057
+# HOST-SUFFIX: 32098
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 32883
+# TOTAL: 32924
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -1509,6 +1509,8 @@ HOST-SUFFIX,afao.ac.uk,Global
 HOST-SUFFIX,afappyending.com,Global
 HOST-SUFFIX,afewmomentswith.com,Global
 HOST-SUFFIX,affect3dstore.com,Global
+HOST-SUFFIX,affinity.api.serifservices.com,Global
+HOST-SUFFIX,affinity.studio,Global
 HOST-SUFFIX,affirmtrust.com,Global
 HOST-SUFFIX,afi.ac.uk,Global
 HOST-SUFFIX,afkv28.com,Global
@@ -3843,6 +3845,7 @@ HOST-SUFFIX,bffshd.com,Global
 HOST-SUFFIX,bfmat.ac.uk,Global
 HOST-SUFFIX,bftv.ac.uk,Global
 HOST-SUFFIX,bgc.ac.uk,Global
+HOST-SUFFIX,bgicdn.com,Global
 HOST-SUFFIX,bgm.tv,Global
 HOST-SUFFIX,bgov.com,Global
 HOST-SUFFIX,bgr.in,Global
@@ -5331,6 +5334,7 @@ HOST-SUFFIX,cantab.ac.uk,Global
 HOST-SUFFIX,canterbury.ac.uk,Global
 HOST-SUFFIX,canterburycollege.ac.uk,Global
 HOST-SUFFIX,canterburytrust.ac.uk,Global
+HOST-SUFFIX,canva.com,Global
 HOST-SUFFIX,cape.ac.uk,Global
 HOST-SUFFIX,capel.ac.uk,Global
 HOST-SUFFIX,capitalccg.ac.uk,Global
@@ -13406,7 +13410,40 @@ HOST-SUFFIX,karinahart.com,Global
 HOST-SUFFIX,karlajames.com,Global
 HOST-SUFFIX,karupsha.com,Global
 HOST-SUFFIX,karupspc.com,Global
+HOST-SUFFIX,kaspersky.be,Global
+HOST-SUFFIX,kaspersky.ca,Global
+HOST-SUFFIX,kaspersky.co.in,Global
+HOST-SUFFIX,kaspersky.co.jp,Global
+HOST-SUFFIX,kaspersky.co.kr,Global
+HOST-SUFFIX,kaspersky.co.th,Global
+HOST-SUFFIX,kaspersky.co.uk,Global
+HOST-SUFFIX,kaspersky.co.za,Global
 HOST-SUFFIX,kaspersky.com,Global
+HOST-SUFFIX,kaspersky.com.au,Global
+HOST-SUFFIX,kaspersky.com.br,Global
+HOST-SUFFIX,kaspersky.com.hk,Global
+HOST-SUFFIX,kaspersky.com.pl,Global
+HOST-SUFFIX,kaspersky.com.tr,Global
+HOST-SUFFIX,kaspersky.com.tw,Global
+HOST-SUFFIX,kaspersky.com.vn,Global
+HOST-SUFFIX,kaspersky.cz,Global
+HOST-SUFFIX,kaspersky.de,Global
+HOST-SUFFIX,kaspersky.dk,Global
+HOST-SUFFIX,kaspersky.dz,Global
+HOST-SUFFIX,kaspersky.es,Global
+HOST-SUFFIX,kaspersky.fi,Global
+HOST-SUFFIX,kaspersky.fr,Global
+HOST-SUFFIX,kaspersky.gr,Global
+HOST-SUFFIX,kaspersky.it,Global
+HOST-SUFFIX,kaspersky.kz,Global
+HOST-SUFFIX,kaspersky.ma,Global
+HOST-SUFFIX,kaspersky.my,Global
+HOST-SUFFIX,kaspersky.nl,Global
+HOST-SUFFIX,kaspersky.pt,Global
+HOST-SUFFIX,kaspersky.ro,Global
+HOST-SUFFIX,kaspersky.rs,Global
+HOST-SUFFIX,kaspersky.ru,Global
+HOST-SUFFIX,kaspersky.se,Global
 HOST-SUFFIX,kastatic.org,Global
 HOST-SUFFIX,katestube.com,Global
 HOST-SUFFIX,kavkazr.com,Global
@@ -16356,6 +16393,7 @@ HOST-SUFFIX,nentindo.net,Global
 HOST-SUFFIX,neodaas.ac.uk,Global
 HOST-SUFFIX,neonatalsociety.ac.uk,Global
 HOST-SUFFIX,neotokyo.supertop-100.com,Global
+HOST-SUFFIX,neovim.io,Global
 HOST-SUFFIX,neow.in,Global
 HOST-SUFFIX,nepusoku.com,Global
 HOST-SUFFIX,nerap.ac.uk,Global
@@ -25664,6 +25702,7 @@ HOST-SUFFIX,zeit-world.org,Global
 HOST-SUFFIX,zeit.co,Global
 HOST-SUFFIX,zeit.sh,Global
 HOST-SUFFIX,zeitworld.com,Global
+HOST-SUFFIX,zen-browser.app,Global
 HOST-SUFFIX,zen8ok.xyz,Global
 HOST-SUFFIX,zencdn.net,Global
 HOST-SUFFIX,zencoder.com,Global
@@ -28365,6 +28404,7 @@ HOST-SUFFIX,googlearth.com,Global
 HOST-SUFFIX,googleartproject.com,Global
 HOST-SUFFIX,googleblog.com,Global
 HOST-SUFFIX,googlebot.com,Global
+HOST-SUFFIX,googlecensorship.org,Global
 HOST-SUFFIX,googlechinawebmaster.com,Global
 HOST-SUFFIX,googlecode.com,Global
 HOST-SUFFIX,googledomains.com,Global
@@ -28418,6 +28458,7 @@ HOST-SUFFIX,greasyfork.org,Global
 HOST-SUFFIX,great-firewall.com,Global
 HOST-SUFFIX,great-roc.org,Global
 HOST-SUFFIX,greatfire.org,Global
+HOST-SUFFIX,greatfirevpn.com,Global
 HOST-SUFFIX,greatfirewall.biz,Global
 HOST-SUFFIX,greatfirewallofchina.net,Global
 HOST-SUFFIX,greatfirewallofchina.org,Global

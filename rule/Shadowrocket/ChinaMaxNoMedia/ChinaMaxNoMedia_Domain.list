@@ -1,14 +1,14 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-12 02:10:56
-# DOMAIN: 275
+# UPDATED: 2025-11-14 02:11:21
+# DOMAIN: 289
 # DOMAIN-KEYWORD: 11
-# DOMAIN-SUFFIX: 116743
+# DOMAIN-SUFFIX: 116744
 # IP-ASN: 1
-# IP-CIDR: 20041
+# IP-CIDR: 20042
 # USER-AGENT: 65
-# TOTAL: 137136
+# TOTAL: 137152
 .0.zone
 .00.net
 .000.link
@@ -26723,6 +26723,7 @@
 .cztv.cc
 .cztv.com
 .cztv.tv
+.cztvcdn.com
 .cztvcloud.com
 .cztzkg.com
 .czur.com
@@ -116725,6 +116726,7 @@
 6.mms.vlog.xuite.net
 a.xttv.top
 abclive2-lh.akamaihd.net
+activate.activation-v2.kaspersky.com
 activation-v2.kaspersky.com
 admob-cn.com
 afcs.dell.com
@@ -116830,6 +116832,18 @@ jpts.sinovision.net
 kcrw.streamguys1.com
 kjzz.streamguys1.com
 kpbs-wowza.streamguys1.com
+ksn-cinfo.geoksn.kaspersky.com
+ksn-crypto-wifiplus.geoksn.kaspersky.com
+ksn-dc1-cert.geoksn.kaspersky.com
+ksn-dc1-file.geoksn.kaspersky.com
+ksn-dc1.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
+ksn-mdr.geoksn.kaspersky.com
+ksn-tcert.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 kut-hls.streamguys1.com
 kwmu-flash.streamguys1.com
 lb.streaming.sk
@@ -116904,6 +116918,7 @@ redirector.gvt1.com
 redirector.offline-maps.gvt1.com
 redirector.snap.gvt1.com
 redirector.xn--ngstr-lra8j.com
+refresh-bkg.activation-v2.kaspersky.com
 rfcmedia.streamguys1.com
 rfimonde-lh.akamaihd.net
 rmtv24hweblive-lh.akamaihd.net

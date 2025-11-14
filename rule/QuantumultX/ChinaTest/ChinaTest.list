@@ -1,15 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-12 02:08:45
-# HOST: 116
+# UPDATED: 2025-11-14 02:09:03
+# HOST: 130
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 116428
+# HOST-SUFFIX: 116429
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 116600
+# TOTAL: 116615
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdn.angruo.com,ChinaTest
@@ -29,6 +29,7 @@ HOST,www.yxssp.com,ChinaTest
 HOST,265.com,ChinaTest
 HOST,2mdn-cn.net,ChinaTest
 HOST,2mdn.net,ChinaTest
+HOST,activate.activation-v2.kaspersky.com,ChinaTest
 HOST,activation-v2.kaspersky.com,ChinaTest
 HOST,admob-cn.com,ChinaTest
 HOST,afcs.dell.com,ChinaTest
@@ -83,6 +84,18 @@ HOST,gstatic-cn.com,ChinaTest
 HOST,gtm.oasisfeng.com,ChinaTest
 HOST,i.pki.goog,ChinaTest
 HOST,images-cn-8.ssl-images-amazon.com,ChinaTest
+HOST,ksn-cinfo.geoksn.kaspersky.com,ChinaTest
+HOST,ksn-crypto-wifiplus.geoksn.kaspersky.com,ChinaTest
+HOST,ksn-dc1-cert.geoksn.kaspersky.com,ChinaTest
+HOST,ksn-dc1-file.geoksn.kaspersky.com,ChinaTest
+HOST,ksn-dc1.geoksn.kaspersky.com,ChinaTest
+HOST,ksn-file.geoksn.kaspersky.com,ChinaTest
+HOST,ksn-info.geoksn.kaspersky.com,ChinaTest
+HOST,ksn-kas.geoksn.kaspersky.com,ChinaTest
+HOST,ksn-mdr.geoksn.kaspersky.com,ChinaTest
+HOST,ksn-tcert.geoksn.kaspersky.com,ChinaTest
+HOST,ksn-url.geoksn.kaspersky.com,ChinaTest
+HOST,ksn-verdict.geoksn.kaspersky.com,ChinaTest
 HOST,menu-static.gog-statics.com,ChinaTest
 HOST,monitoring.qpdp1.net,ChinaTest
 HOST,o.pki.goog,ChinaTest
@@ -104,6 +117,7 @@ HOST,redirector.gvt1.com,ChinaTest
 HOST,redirector.offline-maps.gvt1.com,ChinaTest
 HOST,redirector.snap.gvt1.com,ChinaTest
 HOST,redirector.xn--ngstr-lra8j.com,ChinaTest
+HOST,refresh-bkg.activation-v2.kaspersky.com,ChinaTest
 HOST,scanservice1.qcpp1.net,ChinaTest
 HOST,scene7-cdn.dell.com,ChinaTest
 HOST,service.urchin.com,ChinaTest
@@ -29870,6 +29884,7 @@ HOST-SUFFIX,cztour.com,ChinaTest
 HOST-SUFFIX,cztrjs.com,ChinaTest
 HOST-SUFFIX,cztv.cc,ChinaTest
 HOST-SUFFIX,cztv.tv,ChinaTest
+HOST-SUFFIX,cztvcdn.com,ChinaTest
 HOST-SUFFIX,cztzkg.com,ChinaTest
 HOST-SUFFIX,czur.com,ChinaTest
 HOST-SUFFIX,czvv.net,ChinaTest

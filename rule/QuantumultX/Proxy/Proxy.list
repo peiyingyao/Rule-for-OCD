@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-10 02:08:43
+# UPDATED: 2025-11-14 02:08:44
 # HOST: 19
 # HOST-KEYWORD: 26
-# HOST-SUFFIX: 7000
+# HOST-SUFFIX: 7002
 # IP-CIDR: 93
 # IP6-CIDR: 4
 # USER-AGENT: 8
-# TOTAL: 7150
+# TOTAL: 7152
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -2666,6 +2666,7 @@ HOST-SUFFIX,googlearth.com,Proxy
 HOST-SUFFIX,googleartproject.com,Proxy
 HOST-SUFFIX,googleblog.com,Proxy
 HOST-SUFFIX,googlebot.com,Proxy
+HOST-SUFFIX,googlecensorship.org,Proxy
 HOST-SUFFIX,googlechinawebmaster.com,Proxy
 HOST-SUFFIX,googlecode.com,Proxy
 HOST-SUFFIX,googledomains.com,Proxy
@@ -2719,6 +2720,7 @@ HOST-SUFFIX,greasyfork.org,Proxy
 HOST-SUFFIX,great-firewall.com,Proxy
 HOST-SUFFIX,great-roc.org,Proxy
 HOST-SUFFIX,greatfire.org,Proxy
+HOST-SUFFIX,greatfirevpn.com,Proxy
 HOST-SUFFIX,greatfirewall.biz,Proxy
 HOST-SUFFIX,greatfirewallofchina.net,Proxy
 HOST-SUFFIX,greatfirewallofchina.org,Proxy
