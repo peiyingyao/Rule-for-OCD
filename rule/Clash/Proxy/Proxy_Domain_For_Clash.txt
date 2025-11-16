@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-14 02:08:44
+# UPDATED: 2025-11-16 02:08:31
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6524
+# DOMAIN-SUFFIX: 6541
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6656
+# TOTAL: 6673
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -371,6 +371,7 @@ voice.telephony.goog
 +.aolnews.com
 +.aomedia.org
 +.aomiwang.com
++.aoxvpn.com
 +.ap.org
 +.apache.org
 +.apartmentratings.com
@@ -606,6 +607,7 @@ voice.telephony.goog
 +.bet365.com
 +.betaclouds.net
 +.betfair.com
++.bettergpt.chat
 +.betterhash.net
 +.betternet.co
 +.bettervpn.com
@@ -872,6 +874,7 @@ voice.telephony.goog
 +.cams.org.sg
 +.canadameet.com
 +.cantonese.asia
++.canva.com
 +.canyu.org
 +.cao.im
 +.caobian.info
@@ -914,6 +917,7 @@ voice.telephony.goog
 +.ccdtr.org
 +.ccfd.org.tw
 +.cchere.com
++.cchostvps.xyz
 +.ccim.org
 +.cclife.ca
 +.cclife.org
@@ -978,8 +982,10 @@ voice.telephony.goog
 +.chaos.social
 +.chapm25.com
 +.character.ai
++.chat.com
 +.chat.openai.com
 +.chatnook.com
++.chatpdf.com
 +.chaturbate.com
 +.checkgfw.com
 +.chengmingmag.com
@@ -1340,6 +1346,7 @@ voice.telephony.goog
 +.daozhongxing.org
 +.darktech.org
 +.darktoy.net
++.darmau.co
 +.darpa.mil
 +.darrenliuwei.com
 +.dartlang.org
@@ -1873,6 +1880,7 @@ voice.telephony.goog
 +.figprayer.com
 +.fileflyer.com
 +.fileforum.com
++.files.oaiusercontent.com
 +.files2me.com
 +.fileserve.com
 +.filesor.com
@@ -1916,6 +1924,7 @@ voice.telephony.goog
 +.flitto.com
 +.flnet.org
 +.flog.tw
++.flowgpt.com
 +.flowhongkong.net
 +.flypool.org
 +.flyvpn.com
@@ -1935,6 +1944,7 @@ voice.telephony.goog
 +.fooooo.com
 +.footwiball.com
 +.forbes.com
++.forefront.ai
 +.foreignaffairs.com
 +.foreignpolicy.com
 +.form.new
@@ -2673,6 +2683,7 @@ voice.telephony.goog
 +.hxwk.org
 +.hxwq.org
 +.hybrid-analysis.com
++.hyperbeam.com
 +.hyperrate.com
 +.hypothes.is
 +.hyread.com.tw
@@ -3196,6 +3207,7 @@ voice.telephony.goog
 +.letou.com
 +.letscorp.net
 +.level-plus.net
++.lexica.art
 +.lflink.com
 +.lflinkup.com
 +.lflinkup.net
@@ -3241,6 +3253,7 @@ voice.telephony.goog
 +.linkuswell.com
 +.linode.com
 +.linpie.com
++.linux.do
 +.linux.org.hk
 +.linuxtoy.org
 +.lionsroar.com
@@ -3277,6 +3290,7 @@ voice.telephony.goog
 +.lkcn.net
 +.llnwd.net
 +.llss.me
++.lmarena.ai
 +.lmsys.org
 +.load.to
 +.lobsangwangyal.com
@@ -3312,6 +3326,7 @@ voice.telephony.goog
 +.lsmradio.com
 +.lsmwebcast.com
 +.lsxszzg.com
++.lt.sntp.uk
 +.ltn.com.tw
 +.luckydesigner.space
 +.luckymobile.ca
@@ -4545,6 +4560,7 @@ voice.telephony.goog
 +.releaseinternational.org
 +.religionnews.com
 +.religioustolerance.org
++.rentry.co
 +.renyurenquan.org
 +.resilio.com
 +.resistchina.org
@@ -5253,6 +5269,7 @@ voice.telephony.goog
 +.tenzinpalmo.com
 +.terabox.com
 +.teraboxcdn.com
++.terobox.com
 +.tew.org
 +.textnow.com
 +.textnow.me
