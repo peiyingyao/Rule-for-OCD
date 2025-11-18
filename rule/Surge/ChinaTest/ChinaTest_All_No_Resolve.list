@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-14 02:09:02
+# UPDATED: 2025-11-18 02:09:06
 # DOMAIN: 130
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 116429
+# DOMAIN-SUFFIX: 116430
 # IP-CIDR: 11
 # IP-CIDR6: 4
 # USER-AGENT: 31
-# TOTAL: 116614
+# TOTAL: 116615
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
@@ -15350,6 +15350,7 @@ DOMAIN-SUFFIX,anyv.net
 DOMAIN-SUFFIX,anyview.net
 DOMAIN-SUFFIX,anyway.fm
 DOMAIN-SUFFIX,anyway.red
+DOMAIN-SUFFIX,anywlan.com
 DOMAIN-SUFFIX,anywood.com
 DOMAIN-SUFFIX,anyxz.com
 DOMAIN-SUFFIX,anzerclub.com
