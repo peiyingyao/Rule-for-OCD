@@ -1,19 +1,17 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-18 02:09:46
-# DOMAIN: 165
+# UPDATED: 2025-11-20 02:09:06
+# DOMAIN: 158
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 123
 # IP-CIDR: 4
-# TOTAL: 296
+# TOTAL: 289
 payload:
   - DOMAIN,0123456789nonexistent.com
   - DOMAIN,0d.kebhana.mx
   - DOMAIN,1337.abcvg.info
-  - DOMAIN,6ahddutb1ucc3cp.ru
   - DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
-  - DOMAIN,admin.52ywp.com
   - DOMAIN,anna.bt.bontal.net
   - DOMAIN,bandito.byterunner.io
   - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -28,7 +26,6 @@ payload:
   - DOMAIN,cny.fan
   - DOMAIN,concen.org
   - DOMAIN,d40969.acod.regrucolo.ru
-  - DOMAIN,discord.heihachi.pw
   - DOMAIN,echostar.ddnsfree.com
   - DOMAIN,evan.im
   - DOMAIN,exodus.desync.com
@@ -40,6 +37,8 @@ payload:
   - DOMAIN,ipv6.rer.lol
   - DOMAIN,lucke.fenesisu.moe
   - DOMAIN,martin-gebhardt.eu
+  - DOMAIN,ns-1.x-fins.com
+  - DOMAIN,ns3109441.mypdns.org
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,open-tracker.demonoid.ch
   - DOMAIN,open.acgtracker.com
@@ -65,7 +64,6 @@ payload:
   - DOMAIN,shubt.net
   - DOMAIN,t-backup.213891.xyz
   - DOMAIN,t.213891.xyz
-  - DOMAIN,t.overflow.biz
   - DOMAIN,threads.canofsocks.com
   - DOMAIN,tk.greedland.net
   - DOMAIN,torrent.hificode.in
@@ -73,6 +71,7 @@ payload:
   - DOMAIN,torrentclub.online
   - DOMAIN,torrentsmd.com
   - DOMAIN,tr-rh-zhuqiy.dgj055.icu
+  - DOMAIN,tr-zhuqiy-1.dgj055.icu
   - DOMAIN,tr-zhuqiy-2.dgj055.icu
   - DOMAIN,tr.abiir.top
   - DOMAIN,tr.abir.ga
@@ -83,6 +82,7 @@ payload:
   - DOMAIN,tr3.ysagin.top
   - DOMAIN,tr4ck3r.duckdns.org
   - DOMAIN,tracker-de-2.cutie.dating
+  - DOMAIN,tracker-zhuqiy.dgj055.icu
   - DOMAIN,tracker.1h.is
   - DOMAIN,tracker.23794.top
   - DOMAIN,tracker.alaskantf.com
@@ -90,12 +90,9 @@ payload:
   - DOMAIN,tracker.belmult.online
   - DOMAIN,tracker.bitcoinindia.space
   - DOMAIN,tracker.bittor.pw
-  - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bt-hash.com
   - DOMAIN,tracker.bt4g.com
   - DOMAIN,tracker.bz
-  - DOMAIN,tracker.cangku.moe
-  - DOMAIN,tracker.cloudbase.store
   - DOMAIN,tracker.corpscorp.online
   - DOMAIN,tracker.cutie.dating
   - DOMAIN,tracker.cyberia.is
@@ -112,7 +109,6 @@ payload:
   - DOMAIN,tracker.ghostchu-services.top
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.hifimarket.in
-  - DOMAIN,tracker.hifitechindia.com
   - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.ipv6tracker.org
   - DOMAIN,tracker.ipv6tracker.ru
@@ -123,7 +119,6 @@ payload:
   - DOMAIN,tracker.moeking.me
   - DOMAIN,tracker.moxing.party
   - DOMAIN,tracker.mywaifu.best
-  - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.opentrackr.org
   - DOMAIN,tracker.openwebtorrent.com
   - DOMAIN,tracker.playground.ru
@@ -139,7 +134,6 @@ payload:
   - DOMAIN,tracker.srv00.com
   - DOMAIN,tracker.startwork.cv
   - DOMAIN,tracker.t-1.org
-  - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.therarbg.to
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,tracker.torrust-demo.com
@@ -172,7 +166,6 @@ payload:
   - DOMAIN,www.torrent.eu.org
   - DOMAIN,www.torrentsnipe.info
   - DOMAIN,www.wareztorrent.com
-  - DOMAIN,yuki.bt.bontal.net
   - DOMAIN-SUFFIX,1ptba.com
   - DOMAIN-SUFFIX,2xfree.org
   - DOMAIN-SUFFIX,52pt.site

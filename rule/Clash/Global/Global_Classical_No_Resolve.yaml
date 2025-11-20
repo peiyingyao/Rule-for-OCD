@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-18 02:08:26
+# UPDATED: 2025-11-20 02:07:48
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32122
+# DOMAIN-SUFFIX: 32124
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32389
+# TOTAL: 32391
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -826,7 +826,6 @@ payload:
   - DOMAIN-SUFFIX,adguard-dns.com
   - DOMAIN-SUFFIX,adguard-dns.io
   - DOMAIN-SUFFIX,adguard-mail.com
-  - DOMAIN-SUFFIX,adguard-vpn.com
   - DOMAIN-SUFFIX,adguard-vpn.online
   - DOMAIN-SUFFIX,adguard.app
   - DOMAIN-SUFFIX,adguard.com
@@ -10694,7 +10693,6 @@ payload:
   - DOMAIN-SUFFIX,hbogoasia.sg
   - DOMAIN-SUFFIX,hbogoasia.tw
   - DOMAIN-SUFFIX,hbomax-images.warnermediacdn.com
-  - DOMAIN-SUFFIX,hbomax.com
   - DOMAIN-SUFFIX,hbomaxcdn.com
   - DOMAIN-SUFFIX,hbonow.com
   - DOMAIN-SUFFIX,hbox.jp
@@ -19697,7 +19695,6 @@ payload:
   - DOMAIN-SUFFIX,russellgroup.ac.uk
   - DOMAIN-SUFFIX,russianrape.org
   - DOMAIN-SUFFIX,rust-lang.org
-  - DOMAIN-SUFFIX,rustdesk.com
   - DOMAIN-SUFFIX,rustup.rs
   - DOMAIN-SUFFIX,rutc.ac.uk
   - DOMAIN-SUFFIX,rutherford.ac.uk
@@ -25957,6 +25954,7 @@ payload:
   - DOMAIN-SUFFIX,adcex.com
   - DOMAIN-SUFFIX,addictedtocoffee.de
   - DOMAIN-SUFFIX,adelaidebbs.com
+  - DOMAIN-SUFFIX,adguard-vpn.com
   - DOMAIN-SUFFIX,adguard.org
   - DOMAIN-SUFFIX,adobe.com
   - DOMAIN-SUFFIX,adobedtm.com
@@ -25983,6 +25981,7 @@ payload:
   - DOMAIN-SUFFIX,ahcdn.com
   - DOMAIN-SUFFIX,ai-kan.net
   - DOMAIN-SUFFIX,ai-wen.net
+  - DOMAIN-SUFFIX,ai.dev
   - DOMAIN-SUFFIX,aiosearch.com
   - DOMAIN-SUFFIX,aiph.net
   - DOMAIN-SUFFIX,airasia.com
@@ -28143,6 +28142,7 @@ payload:
   - DOMAIN-SUFFIX,have8.com
   - DOMAIN-SUFFIX,hbg.com
   - DOMAIN-SUFFIX,hbo.com
+  - DOMAIN-SUFFIX,hbomax.com
   - DOMAIN-SUFFIX,hcaptcha.com
   - DOMAIN-SUFFIX,hclips.com
   - DOMAIN-SUFFIX,hdlt.me
@@ -29276,6 +29276,7 @@ payload:
   - DOMAIN-SUFFIX,mixx.com
   - DOMAIN-SUFFIX,mizzmona.com
   - DOMAIN-SUFFIX,mjib.gov.tw
+  - DOMAIN-SUFFIX,mjj.rip
   - DOMAIN-SUFFIX,mk5000.com
   - DOMAIN-SUFFIX,mlc.ai
   - DOMAIN-SUFFIX,mlcool.com
@@ -30342,6 +30343,7 @@ payload:
   - DOMAIN-SUFFIX,rumble.com
   - DOMAIN-SUFFIX,runbtx.com
   - DOMAIN-SUFFIX,rushbee.com
+  - DOMAIN-SUFFIX,rustdesk.com
   - DOMAIN-SUFFIX,rusvpn.com
   - DOMAIN-SUFFIX,ruten.com.tw
   - DOMAIN-SUFFIX,rutracker.net

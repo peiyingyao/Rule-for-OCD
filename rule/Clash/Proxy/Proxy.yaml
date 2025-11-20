@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-16 02:08:31
+# UPDATED: 2025-11-20 02:08:07
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6541
+# DOMAIN-SUFFIX: 6546
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6673
+# TOTAL: 6678
 payload:
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,1e100
