@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-20 02:08:07
+# UPDATED: 2025-11-22 02:08:29
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6546
+# DOMAIN-SUFFIX: 6551
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6678
+# TOTAL: 6683
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -1143,6 +1143,7 @@ payload:
   - '+.cloudflare-dns.com'
   - '+.cloudflare-ipfs.com'
   - '+.cloudflare.com'
+  - '+.cloudflarestatus.com'
   - '+.cloudfront.net'
   - '+.cloudfunctions.net'
   - '+.cloudgarage.jp'
@@ -3227,6 +3228,7 @@ payload:
   - '+.liberal.org.hk'
   - '+.libertysculpturepark.com'
   - '+.libertytimes.com.tw'
+  - '+.library-access.sk'
   - '+.libraryinformationtechnology.com'
   - '+.libredd.it'
   - '+.libsyn.com'
@@ -3513,6 +3515,7 @@ payload:
   - '+.mihk.hk'
   - '+.mihr.com'
   - '+.mihua.org'
+  - '+.mij.rip'
   - '+.mikanani.me'
   - '+.mikesoltys.com'
   - '+.mikocon.com'
@@ -3567,6 +3570,7 @@ payload:
   - '+.mixpod.com'
   - '+.mixx.com'
   - '+.mizzmona.com'
+  - '+.mji.rip'
   - '+.mjib.gov.tw'
   - '+.mjj.rip'
   - '+.mk5000.com'
@@ -6332,6 +6336,7 @@ payload:
   - '+.xn--11xs86f.icu'
   - '+.xn--4gq171p.com'
   - '+.xn--90wwvt03e.com'
+  - '+.xn--9iqy04a7fi01l.com'
   - '+.xn--9pr62r24a.com'
   - '+.xn--czq75pvv1aj5c.org'
   - '+.xn--i2ru8q2qg.com'

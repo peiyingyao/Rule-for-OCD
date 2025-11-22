@@ -15,18 +15,18 @@ ProxyLite规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-06-06 09:17:51
+最后更新时间：2025-11-22 02:09:28
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST | 23  | 
 | HOST-KEYWORD | 20  | 
-| HOST-SUFFIX | 842  | 
+| HOST-SUFFIX | 843  | 
 | IP-CIDR | 86  | 
 | IP6-CIDR | 4  | 
 | USER-AGENT | 6  | 
-| TOTAL | 981  | 
+| TOTAL | 982  | 
 
 
 ## QuantumultX 

@@ -1,14 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:17:51
+# UPDATED: 2025-11-22 02:09:28
 # HOST: 23
 # HOST-KEYWORD: 20
-# HOST-SUFFIX: 842
+# HOST-SUFFIX: 843
 # IP-CIDR: 86
 # IP6-CIDR: 4
 # USER-AGENT: 6
-# TOTAL: 981
+# TOTAL: 982
 HOST,addons.mozilla.org,ProxyLite
 HOST,amp-api.podcasts.apple.com,ProxyLite
 HOST,api.msn.com,ProxyLite
@@ -454,6 +454,7 @@ HOST-SUFFIX,nhncorp.jp,ProxyLite
 HOST-SUFFIX,nianticlabs.com,ProxyLite
 HOST-SUFFIX,nicovideo.jp,ProxyLite
 HOST-SUFFIX,nih.gov,ProxyLite
+HOST-SUFFIX,nikke-kr.com,ProxyLite
 HOST-SUFFIX,nimg.jp,ProxyLite
 HOST-SUFFIX,nintendo.com,ProxyLite
 HOST-SUFFIX,nintendo.net,ProxyLite

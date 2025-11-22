@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-20 02:08:07
+# UPDATED: 2025-11-22 02:08:29
 # HOST: 638
 # HOST-KEYWORD: 36
-# HOST-SUFFIX: 32178
+# HOST-SUFFIX: 32185
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 33014
+# TOTAL: 33021
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -838,6 +838,7 @@ HOST-SUFFIX,21heise360dh.cc,Global
 HOST-SUFFIX,21hub.com,Global
 HOST-SUFFIX,21naturals.com,Global
 HOST-SUFFIX,21vv.cc,Global
+HOST-SUFFIX,22112211.xyz,Global
 HOST-SUFFIX,2371tom.com,Global
 HOST-SUFFIX,24hjav.com,Global
 HOST-SUFFIX,24porn.com,Global
@@ -6066,7 +6067,6 @@ HOST-SUFFIX,cloudflarepreview.com,Global
 HOST-SUFFIX,cloudflareregistrar.com,Global
 HOST-SUFFIX,cloudflareresolve.com,Global
 HOST-SUFFIX,cloudflaressl.com,Global
-HOST-SUFFIX,cloudflarestatus.com,Global
 HOST-SUFFIX,cloudflarestorage.com,Global
 HOST-SUFFIX,cloudflarestream.com,Global
 HOST-SUFFIX,cloudflaretest.com,Global
@@ -16973,7 +16973,9 @@ HOST-SUFFIX,noc.ac.uk,Global
 HOST-SUFFIX,nochubank.or.jp,Global
 HOST-SUFFIX,nocn.ac.uk,Global
 HOST-SUFFIX,nocs.ac.uk,Global
+HOST-SUFFIX,nodeimage.com,Global
 HOST-SUFFIX,nodejs.org,Global
+HOST-SUFFIX,nodequality.com,Global
 HOST-SUFFIX,nodes.ac.uk,Global
 HOST-SUFFIX,nodesnoop.com,Global
 HOST-SUFFIX,nodesource.com,Global
@@ -27054,6 +27056,7 @@ HOST-SUFFIX,cloudcone.com,Global
 HOST-SUFFIX,cloudflare-dns.com,Global
 HOST-SUFFIX,cloudflare-ipfs.com,Global
 HOST-SUFFIX,cloudflare.com,Global
+HOST-SUFFIX,cloudflarestatus.com,Global
 HOST-SUFFIX,cloudfront.net,Global
 HOST-SUFFIX,cloudfunctions.net,Global
 HOST-SUFFIX,cloudgarage.jp,Global
@@ -29429,6 +29432,7 @@ HOST-SUFFIX,liaowangxizang.net,Global
 HOST-SUFFIX,liberal.org.hk,Global
 HOST-SUFFIX,libertysculpturepark.com,Global
 HOST-SUFFIX,libertytimes.com.tw,Global
+HOST-SUFFIX,library-access.sk,Global
 HOST-SUFFIX,libraryinformationtechnology.com,Global
 HOST-SUFFIX,libredd.it,Global
 HOST-SUFFIX,libsyn.com,Global
@@ -29714,6 +29718,7 @@ HOST-SUFFIX,middle-way.net,Global
 HOST-SUFFIX,mihk.hk,Global
 HOST-SUFFIX,mihr.com,Global
 HOST-SUFFIX,mihua.org,Global
+HOST-SUFFIX,mij.rip,Global
 HOST-SUFFIX,mikanani.me,Global
 HOST-SUFFIX,mikesoltys.com,Global
 HOST-SUFFIX,mikocon.com,Global
@@ -29768,6 +29773,7 @@ HOST-SUFFIX,mixin.one,Global
 HOST-SUFFIX,mixpod.com,Global
 HOST-SUFFIX,mixx.com,Global
 HOST-SUFFIX,mizzmona.com,Global
+HOST-SUFFIX,mji.rip,Global
 HOST-SUFFIX,mjib.gov.tw,Global
 HOST-SUFFIX,mjj.rip,Global
 HOST-SUFFIX,mk5000.com,Global
@@ -32583,6 +32589,7 @@ HOST-SUFFIX,xmovies.com,Global
 HOST-SUFFIX,xn--11xs86f.icu,Global
 HOST-SUFFIX,xn--4gq171p.com,Global
 HOST-SUFFIX,xn--90wwvt03e.com,Global
+HOST-SUFFIX,xn--9iqy04a7fi01l.com,Global
 HOST-SUFFIX,xn--9pr62r24a.com,Global
 HOST-SUFFIX,xn--czq75pvv1aj5c.org,Global
 HOST-SUFFIX,xn--i2ru8q2qg.com,Global
