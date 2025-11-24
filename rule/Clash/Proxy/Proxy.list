@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-22 02:08:29
+# UPDATED: 2025-11-24 02:08:24
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6551
+# DOMAIN-SUFFIX: 6553
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6683
+# TOTAL: 6685
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -3752,6 +3752,7 @@ DOMAIN-SUFFIX,nalandawest.org
 DOMAIN-SUFFIX,name.com
 DOMAIN-SUFFIX,namgyal.org
 DOMAIN-SUFFIX,namgyalmonastery.org
+DOMAIN-SUFFIX,namu.wiki
 DOMAIN-SUFFIX,nanopool.org
 DOMAIN-SUFFIX,nanyang.com
 DOMAIN-SUFFIX,nanyangpost.com
@@ -4246,6 +4247,7 @@ DOMAIN-SUFFIX,picasaweb.com
 DOMAIN-SUFFIX,picgo.net
 DOMAIN-SUFFIX,picidae.net
 DOMAIN-SUFFIX,picjs.xyz
+DOMAIN-SUFFIX,picsart.com
 DOMAIN-SUFFIX,picturedip.com
 DOMAIN-SUFFIX,picturesocial.com
 DOMAIN-SUFFIX,picuki.com
