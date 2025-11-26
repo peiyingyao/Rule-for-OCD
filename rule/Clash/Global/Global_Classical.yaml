@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-24 02:08:03
+# UPDATED: 2025-11-26 02:07:49
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32143
+# DOMAIN-SUFFIX: 32145
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32410
+# TOTAL: 32412
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -1075,6 +1075,7 @@ payload:
   - DOMAIN-SUFFIX,ahua.ac.uk
   - DOMAIN-SUFFIX,ahvideosexe.com
   - DOMAIN-SUFFIX,ahxxx.club
+  - DOMAIN-SUFFIX,ai-sdk.dev
   - DOMAIN-SUFFIX,ai3sd.ac.uk
   - DOMAIN-SUFFIX,ai7995.site
   - DOMAIN-SUFFIX,ai91porn.cc
@@ -17472,6 +17473,7 @@ payload:
   - DOMAIN-SUFFIX,origin.tv
   - DOMAIN-SUFFIX,originalhulu.com
   - DOMAIN-SUFFIX,originalindianporn.com
+  - DOMAIN-SUFFIX,originlab.com
   - DOMAIN-SUFFIX,orithegame.com
   - DOMAIN-SUFFIX,orl.ly
   - DOMAIN-SUFFIX,orlandohurricane.com
