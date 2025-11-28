@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-26 02:07:48
+# UPDATED: 2025-11-28 02:07:55
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32145
+# DOMAIN-SUFFIX: 32148
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32458
+# TOTAL: 32461
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -1233,6 +1233,7 @@ DOMAIN-SUFFIX,akastream.net
 DOMAIN-SUFFIX,akatest.tripcdn.com
 DOMAIN-SUFFIX,akatns.net
 DOMAIN-SUFFIX,akita-bank.co.jp
+DOMAIN-SUFFIX,akstat.io
 DOMAIN-SUFFIX,akthelp.com
 DOMAIN-SUFFIX,albagals.com
 DOMAIN-SUFFIX,albastudio.co
@@ -20145,6 +20146,7 @@ DOMAIN-SUFFIX,senss-dtp.ac.uk
 DOMAIN-SUFFIX,sensualgirls.org
 DOMAIN-SUFFIX,sensualmothers.com
 DOMAIN-SUFFIX,sensueel.net
+DOMAIN-SUFFIX,sentry-cdn.com
 DOMAIN-SUFFIX,senzuritv.net
 DOMAIN-SUFFIX,sepnet.ac.uk
 DOMAIN-SUFFIX,seqing.one
@@ -25239,6 +25241,7 @@ DOMAIN-SUFFIX,yandex.st
 DOMAIN-SUFFIX,yandex.sx
 DOMAIN-SUFFIX,yandex.tj
 DOMAIN-SUFFIX,yandex.tm
+DOMAIN-SUFFIX,yandex.tr
 DOMAIN-SUFFIX,yandex.ua
 DOMAIN-SUFFIX,yandex.uz
 DOMAIN-SUFFIX,yandexadexchange.net
