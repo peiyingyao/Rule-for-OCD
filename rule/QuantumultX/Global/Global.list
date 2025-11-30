@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-28 02:08:15
-# HOST: 638
+# UPDATED: 2025-11-30 02:08:12
+# HOST: 644
 # HOST-KEYWORD: 36
-# HOST-SUFFIX: 32202
+# HOST-SUFFIX: 32215
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 33038
+# TOTAL: 33057
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -121,6 +121,7 @@ HOST,d1k2us671qcoau.cloudfront.net,Global
 HOST,d1m7jfoe9zdc1j.cloudfront.net,Global
 HOST,d1mhjrowxxagfy.cloudfront.net,Global
 HOST,d1oca24q5dwo6d.cloudfront.net,Global
+HOST,d1unuk07s6td74.cloudfront.net,Global
 HOST,d1v5ir2lpwr8os.cloudfront.net,Global
 HOST,d1w2poirtb3as9.cloudfront.net,Global
 HOST,d1xhnb4ptk05mw.cloudfront.net,Global
@@ -280,6 +281,8 @@ HOST,news-events.apple.com,Global
 HOST,notary-submissions-prod.s3-accelerate.amazonaws.com,Global
 HOST,notary-submissions-prod.s3.us-west-2.amazonaws.com,Global
 HOST,notify.ppy.sh,Global
+HOST,ntdofifreepc-tgc.cdn.hinet.net,Global
+HOST,ntdofifreevcpc-tgc.cdn.hinet.net,Global
 HOST,ntp-b.nist.gov,Global
 HOST,ntp-c.colorado.edu,Global
 HOST,ntp-d.nist.gov,Global
@@ -332,6 +335,9 @@ HOST,push-apple.com.akadns.net,Global
 HOST,pvr-hamivideo.cdn.hinet.net,Global
 HOST,qualcomm.sc.omtrdc.net,Global
 HOST,rink.hockeyapp.net,Global
+HOST,roblox-load-generator-configuration.s3.us-east-2.amazonaws.com,Global
+HOST,roblox-poc.global.ssl.fastly.net,Global
+HOST,robloxcorp.s.llnwi.net,Global
 HOST,rss.4040940.xyz,Global
 HOST,rss.datuan.dev,Global
 HOST,rss.littlebaby.life,Global
@@ -1510,6 +1516,7 @@ HOST-SUFFIX,adwords.com,Global
 HOST-SUFFIX,adwordsexpress.com,Global
 HOST-SUFFIX,adx.promo,Global
 HOST-SUFFIX,ae-ad-1.myhuaweicloud.com,Global
+HOST-SUFFIX,ae-rus.net,Global
 HOST-SUFFIX,aeasyshop.com,Global
 HOST-SUFFIX,aebn.com,Global
 HOST-SUFFIX,aecc-chiropractic.ac.uk,Global
@@ -1524,6 +1531,7 @@ HOST-SUFFIX,aerospace-cadcam.com,Global
 HOST-SUFFIX,aerospace-design.com,Global
 HOST-SUFFIX,aerospace-training-wales.ac.uk,Global
 HOST-SUFFIX,aes.ac.uk,Global
+HOST-SUFFIX,aestatic.net,Global
 HOST-SUFFIX,aesworkshops.com,Global
 HOST-SUFFIX,af-east-201.myhuaweicloud.com,Global
 HOST-SUFFIX,af-north-1.myhuaweicloud.com,Global
@@ -6228,6 +6236,9 @@ HOST-SUFFIX,comeav.com,Global
 HOST-SUFFIX,comet-study.ac.uk,Global
 HOST-SUFFIX,cometotheduckside.com,Global
 HOST-SUFFIX,comffvpn.com,Global
+HOST-SUFFIX,comfy.org,Global
+HOST-SUFFIX,comfyci.org,Global
+HOST-SUFFIX,comfyregistry.org,Global
 HOST-SUFFIX,comicbox.xyz,Global
 HOST-SUFFIX,comico.tw,Global
 HOST-SUFFIX,comics.ac.uk,Global
@@ -17424,6 +17435,7 @@ HOST-SUFFIX,offrezdesipods.com,Global
 HOST-SUFFIX,offshorerenewables.ac.uk,Global
 HOST-SUFFIX,offworldindustries.com,Global
 HOST-SUFFIX,offworldindustries.net,Global
+HOST-SUFFIX,ofiii.com,Global
 HOST-SUFFIX,ofs.ac.uk,Global
 HOST-SUFFIX,ogakikyoritsu.co.jp,Global
 HOST-SUFFIX,ogameblog.com,Global
@@ -17760,6 +17772,7 @@ HOST-SUFFIX,oxlife.co,Global
 HOST-SUFFIX,oxwasp-cdt.ac.uk,Global
 HOST-SUFFIX,oxyporn.com,Global
 HOST-SUFFIX,oyeloca.com,Global
+HOST-SUFFIX,oystermercury.top,Global
 HOST-SUFFIX,ozeex.com,Global
 HOST-SUFFIX,ozodi.org,Global
 HOST-SUFFIX,ozodlik.org,Global
@@ -19342,6 +19355,7 @@ HOST-SUFFIX,rbge.ac.uk,Global
 HOST-SUFFIX,rbgkew.ac.uk,Global
 HOST-SUFFIX,rbgrads.com,Global
 HOST-SUFFIX,rbgraduates.com,Global
+HOST-SUFFIX,rblx.org,Global
 HOST-SUFFIX,rbmavericks.com,Global
 HOST-SUFFIX,rbnainternational.com,Global
 HOST-SUFFIX,rbplc.com,Global
@@ -19350,6 +19364,8 @@ HOST-SUFFIX,rbsgr.com,Global
 HOST-SUFFIX,rbsl.ac.uk,Global
 HOST-SUFFIX,rbslondon.ac.uk,Global
 HOST-SUFFIX,rbspeakup.com,Global
+HOST-SUFFIX,rbx.com,Global
+HOST-SUFFIX,rbxcdn.com,Global
 HOST-SUFFIX,rc-harwell.ac.uk,Global
 HOST-SUFFIX,rca.ac.uk,Global
 HOST-SUFFIX,rcahmw.ac.uk,Global
@@ -19697,7 +19713,10 @@ HOST-SUFFIX,rnn.ac.uk,Global
 HOST-SUFFIX,rnngroup.ac.uk,Global
 HOST-SUFFIX,ro89.com,Global
 HOST-SUFFIX,road-crew.com,Global
+HOST-SUFFIX,roblox-api.arkoselabs.co,Global
+HOST-SUFFIX,roblox.com,Global
 HOST-SUFFIX,roblox.qq.com,Global
+HOST-SUFFIX,robloxlabs.com,Global
 HOST-SUFFIX,robobat.com,Global
 HOST-SUFFIX,roboform.com,Global
 HOST-SUFFIX,roborecall.com,Global

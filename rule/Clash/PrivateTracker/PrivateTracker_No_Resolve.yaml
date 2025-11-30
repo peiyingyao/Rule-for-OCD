@@ -1,12 +1,12 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-28 02:09:15
-# DOMAIN: 157
+# UPDATED: 2025-11-30 02:09:11
+# DOMAIN: 161
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 123
 # IP-CIDR: 4
-# TOTAL: 288
+# TOTAL: 292
 payload:
   - DOMAIN,0123456789nonexistent.com
   - DOMAIN,0d.kebhana.mx
@@ -27,6 +27,7 @@ payload:
   - DOMAIN,bvarf.tracker.sh
   - DOMAIN,concen.org
   - DOMAIN,d40969.acod.regrucolo.ru
+  - DOMAIN,discord.heihachi.pw
   - DOMAIN,echostar.ddnsfree.com
   - DOMAIN,evan.im
   - DOMAIN,exodus.desync.com
@@ -39,11 +40,14 @@ payload:
   - DOMAIN,ipv6.rer.lol
   - DOMAIN,lucke.fenesisu.moe
   - DOMAIN,martin-gebhardt.eu
+  - DOMAIN,ns3109441.mypdns.org
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,open-tracker.demonoid.ch
   - DOMAIN,open.acgtracker.com
   - DOMAIN,open.demonii.com
   - DOMAIN,open.demonoid.ch
+  - DOMAIN,open.dstud.io
+  - DOMAIN,open.free-tracker.ga
   - DOMAIN,open.stealth.si
   - DOMAIN,open.trackerlist.xyz
   - DOMAIN,opentor.org
@@ -63,6 +67,7 @@ payload:
   - DOMAIN,t-backup.213891.xyz
   - DOMAIN,t.213891.xyz
   - DOMAIN,t.overflow.biz
+  - DOMAIN,threads.canofsocks.com
   - DOMAIN,tk.greedland.net
   - DOMAIN,torrent.hificode.in
   - DOMAIN,torrent.tracker.durukanbal.com
@@ -91,7 +96,6 @@ payload:
   - DOMAIN,tracker.bt-hash.com
   - DOMAIN,tracker.bt4g.com
   - DOMAIN,tracker.bz
-  - DOMAIN,tracker.cangku.moe
   - DOMAIN,tracker.cloudbase.store
   - DOMAIN,tracker.corpscorp.online
   - DOMAIN,tracker.cutie.dating
@@ -103,12 +107,14 @@ payload:
   - DOMAIN,tracker.dmcomic.org
   - DOMAIN,tracker.ducks.party
   - DOMAIN,tracker.filemail.com
+  - DOMAIN,tracker.flatuslifir.is
   - DOMAIN,tracker.fnix.net
   - DOMAIN,tracker.foreverpirates.co
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,tracker.ghostchu-services.top
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.hifimarket.in
+  - DOMAIN,tracker.iochimari.moe
   - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.ipv6tracker.org
   - DOMAIN,tracker.ipv6tracker.ru
@@ -128,11 +134,11 @@ payload:
   - DOMAIN,tracker.renfei.net
   - DOMAIN,tracker.rescuecrew7.com
   - DOMAIN,tracker.sbsub.com
+  - DOMAIN,tracker.skillindia.site
   - DOMAIN,tracker.skyts.net
   - DOMAIN,tracker.srv00.com
   - DOMAIN,tracker.startwork.cv
   - DOMAIN,tracker.t-1.org
-  - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.therarbg.to
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,tracker.torrust-demo.com
@@ -156,11 +162,9 @@ payload:
   - DOMAIN,tracker3.t-1.org
   - DOMAIN,tracker4.itzmx.com
   - DOMAIN,tracker810.xyz
-  - DOMAIN,ttk2.nbaonlineservice.com
   - DOMAIN,udp.tracker.projectk.org
   - DOMAIN,v74853.hosted-by-vdsina.com
   - DOMAIN,wepzone.net
-  - DOMAIN,www.all4nothin.net
   - DOMAIN,www.genesis-sp.org
   - DOMAIN,www.torrent.eu.org
   - DOMAIN,www.torrentsnipe.info
