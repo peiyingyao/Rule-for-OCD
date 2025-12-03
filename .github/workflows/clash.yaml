@@ -28,7 +28,7 @@ jobs:
       - name: Sync with master branch
         run: |
           git switch master
-          git pull
+          git pull --depth=1
 
       - name: Delete all rules except Clash
         run: |
