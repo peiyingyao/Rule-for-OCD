@@ -31,7 +31,6 @@ jobs:
 
       - name: Delete all rules except Clash
         run: |
-          setopt rmstarsilent
           rm -rf rule/AdGuard/*
           rm -rf rule/Loon/*
           rm -rf rule/QuantumultX/*
@@ -42,7 +41,7 @@ jobs:
       - name: Commit and Push Changes
         run: |
           git add --all
-          git switch -c clash
+          git switch clash
           git commit -m "feat(${{ env.BUILDTIME }}): Remove other rules"
           git push origin clash
           #if: github.actor == 'peiyingyao'
