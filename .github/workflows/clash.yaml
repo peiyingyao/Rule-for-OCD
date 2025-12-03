@@ -34,13 +34,13 @@ jobs:
 
       - name: Delete all rules except Clash
         run: |
-        	setopt rmstarsilent
-					rm -rf rule/AdGuard/*
-					rm -rf rule/Loon/*
-					rm -rf rule/QuantumultX/*
-					rm -rf rule/Shadowrocket/*
-					rm -rf rule/Surge/*
-					rm -rf rule/Surge/*
+          setopt rm_star_silent
+          rm -rf rule/AdGuard/*
+          rm -rf rule/Loon/*
+          rm -rf rule/QuantumultX/*
+          rm -rf rule/Shadowrocket/*
+          rm -rf rule/Surge/*
+          rm -rf rule/Surge/*
 
       - name: Commit and Push Changes
         run: |
@@ -48,4 +48,3 @@ jobs:
           git switch -c clash
           git commit -m "feat(${{ env.BUILDTIME }}): Remove other rules"
           git push origin clash
-          
