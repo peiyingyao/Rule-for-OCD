@@ -34,7 +34,7 @@ jobs:
 
       - name: Delete all rules except Clash
         run: |
-          setopt rm_star_silent
+          setopt rmstarsilent
           rm -rf rule/AdGuard/*
           rm -rf rule/Loon/*
           rm -rf rule/QuantumultX/*
