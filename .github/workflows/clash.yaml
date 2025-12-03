@@ -41,10 +41,14 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git add --all
           git switch clash
-          git commit -m "feat(${{ env.BUILDTIME }}): Remove other rules"
-          git push origin clash
+          if [ -n "$(git status --porcelain)" ]; then
+            git add --all
+            git commit -m "${{ env.BUILDTIME }}: Remove other rules"
+            git push origin clash
+          else
+            echo "No changes to commit"
+          fi          
   private:
     if: github.actor == 'peiyingyao'
     needs: build
