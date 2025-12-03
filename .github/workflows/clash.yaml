@@ -1,0 +1,48 @@
+name: clash
+
+on:
+  workflow_dispatch:
+  # 每天 23:00 触发一次
+  schedule:
+    - cron: '0 7 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Add token
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set variables
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          echo "BUILDTIME=$(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
+          echo "REPODIR=$PWD" >> $GITHUB_ENV
+
+      - name: Sync with master branch
+        run: |
+          git switch master
+
+      - name: Delete all rules except Clash
+        run: |
+          setopt rmstarsilent
+          rm -rf rule/AdGuard/*
+          rm -rf rule/Loon/*
+          rm -rf rule/QuantumultX/*
+          rm -rf rule/Shadowrocket/*
+          rm -rf rule/Surge/*
+          rm -rf rule/Surge/*
+
+      - name: Commit and Push Changes
+        run: |
+          git add --all
+          git switch -c clash
+          git commit -m "feat(${{ env.BUILDTIME }}): Remove other rules"
+          git push origin clash
+          #if: github.actor == 'peiyingyao'
