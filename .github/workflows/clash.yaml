@@ -86,5 +86,6 @@ jobs:
         env:
           BRANCH: ${{ github.ref_name }}
         run: |
-          git remote add gitee git@gitee.com:${{ vars.GITEE_OWNER }}/${{ vars.GITEE_REPO }}.git
+          git remote add gitee https://${{ secrets.GITEE_TOKEN }}@gitee.com/${{ vars.GITEE_OWNER }}/${{ vars.GITEE_REPO }}.git
+          # git remote add gitee git@gitee.com:${{ vars.GITEE_OWNER }}/${{ vars.GITEE_REPO }}.git
           git push gitee $BRANCH --force
