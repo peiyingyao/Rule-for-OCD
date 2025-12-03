@@ -28,6 +28,7 @@ jobs:
       - name: Sync with master branch
         run: |
           git switch master
+          git pull
 
       - name: Delete all rules except Clash
         run: |
