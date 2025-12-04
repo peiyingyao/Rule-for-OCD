@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-02 02:08:17
+# UPDATED: 2025-12-04 02:08:21
 # HOST: 644
 # HOST-KEYWORD: 36
-# HOST-SUFFIX: 32221
+# HOST-SUFFIX: 32234
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 33063
+# TOTAL: 33076
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -1057,6 +1057,8 @@ HOST-SUFFIX,77maott.com,Global
 HOST-SUFFIX,7mm.tv,Global
 HOST-SUFFIX,7mmtv.sx,Global
 HOST-SUFFIX,7tb.cc,Global
+HOST-SUFFIX,7tv.app,Global
+HOST-SUFFIX,7tv.io,Global
 HOST-SUFFIX,8008206616.com,Global
 HOST-SUFFIX,8111y.top,Global
 HOST-SUFFIX,81jia.tv,Global
@@ -5369,6 +5371,7 @@ HOST-SUFFIX,cantab.ac.uk,Global
 HOST-SUFFIX,canterbury.ac.uk,Global
 HOST-SUFFIX,canterburycollege.ac.uk,Global
 HOST-SUFFIX,canterburytrust.ac.uk,Global
+HOST-SUFFIX,canvastatus.com,Global
 HOST-SUFFIX,cape.ac.uk,Global
 HOST-SUFFIX,capel.ac.uk,Global
 HOST-SUFFIX,capitalccg.ac.uk,Global
@@ -10750,6 +10753,8 @@ HOST-SUFFIX,h-webtoon.com,Global
 HOST-SUFFIX,h0930.com,Global
 HOST-SUFFIX,h18ani1.vip,Global
 HOST-SUFFIX,h2porn.com,Global
+HOST-SUFFIX,habr.com,Global
+HOST-SUFFIX,habrastorage.org,Global
 HOST-SUFFIX,hace.ac.uk,Global
 HOST-SUFFIX,hackday.com.au,Global
 HOST-SUFFIX,hackerfacebook.com,Global
@@ -15101,6 +15106,7 @@ HOST-SUFFIX,metabora.io,Global
 HOST-SUFFIX,metabrainz.org,Global
 HOST-SUFFIX,metacloud.com,Global
 HOST-SUFFIX,metacpan.org,Global
+HOST-SUFFIX,metacritic.com,Global
 HOST-SUFFIX,metadac.ac.uk,Global
 HOST-SUFFIX,metalpha.finance,Global
 HOST-SUFFIX,metamind.io,Global
@@ -19836,6 +19842,7 @@ HOST-SUFFIX,rsp.ac.uk,Global
 HOST-SUFFIX,rspao.com,Global
 HOST-SUFFIX,rstatic.net,Global
 HOST-SUFFIX,rt.com,Global
+HOST-SUFFIX,rtbcdn.ru,Global
 HOST-SUFFIX,rtings.com,Global
 HOST-SUFFIX,ru-moscow-1.myhuaweicloud.com,Global
 HOST-SUFFIX,ru-northwest-201.myhuaweicloud.com,Global
@@ -19887,6 +19894,7 @@ HOST-SUFFIX,rutracker.cr,Global
 HOST-SUFFIX,rutracker.me,Global
 HOST-SUFFIX,rutracker.nl,Global
 HOST-SUFFIX,rutrecker.net,Global
+HOST-SUFFIX,rutubelist.ru,Global
 HOST-SUFFIX,ruvideos.net,Global
 HOST-SUFFIX,rvc.ac.uk,Global
 HOST-SUFFIX,rwcmd.ac.uk,Global
@@ -22124,6 +22132,7 @@ HOST-SUFFIX,tellusgb.ac.uk,Global
 HOST-SUFFIX,telri.ac.uk,Global
 HOST-SUFFIX,temenos.ac.uk,Global
 HOST-SUFFIX,temetube.xyz,Global
+HOST-SUFFIX,temp-mail.org,Global
 HOST-SUFFIX,tempusuk.ac.uk,Global
 HOST-SUFFIX,tenbyfotolia.com,Global
 HOST-SUFFIX,tentowns.ac.uk,Global
@@ -23380,6 +23389,8 @@ HOST-SUFFIX,vaultify.com,Global
 HOST-SUFFIX,vaultify.info,Global
 HOST-SUFFIX,vaultify.net,Global
 HOST-SUFFIX,vaultproject.io,Global
+HOST-SUFFIX,vbcdn.com,Global
+HOST-SUFFIX,vbcdn.net,Global
 HOST-SUFFIX,vbejeyv.shop,Global
 HOST-SUFFIX,vcanedge.com,Global
 HOST-SUFFIX,vce.com,Global
@@ -23575,6 +23586,8 @@ HOST-SUFFIX,viacbs.com,Global
 HOST-SUFFIX,viacom.com,Global
 HOST-SUFFIX,viacomcbs.com,Global
 HOST-SUFFIX,viacomcbspressexpress.com,Global
+HOST-SUFFIX,viber.co,Global
+HOST-SUFFIX,viber.me,Global
 HOST-SUFFIX,vicarious.ac.uk,Global
 HOST-SUFFIX,victoriacountyhistory.ac.uk,Global
 HOST-SUFFIX,vid.me,Global

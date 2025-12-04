@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-02 02:07:58
+# UPDATED: 2025-12-04 02:08:02
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32167
+# DOMAIN-SUFFIX: 32180
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32434
+# TOTAL: 32447
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -528,6 +528,8 @@ DOMAIN-SUFFIX,77maott.com
 DOMAIN-SUFFIX,7mm.tv
 DOMAIN-SUFFIX,7mmtv.sx
 DOMAIN-SUFFIX,7tb.cc
+DOMAIN-SUFFIX,7tv.app
+DOMAIN-SUFFIX,7tv.io
 DOMAIN-SUFFIX,8008206616.com
 DOMAIN-SUFFIX,8111y.top
 DOMAIN-SUFFIX,81jia.tv
@@ -4913,6 +4915,7 @@ DOMAIN-SUFFIX,cantab.ac.uk
 DOMAIN-SUFFIX,canterbury.ac.uk
 DOMAIN-SUFFIX,canterburycollege.ac.uk
 DOMAIN-SUFFIX,canterburytrust.ac.uk
+DOMAIN-SUFFIX,canvastatus.com
 DOMAIN-SUFFIX,caoporn.us
 DOMAIN-SUFFIX,cape.ac.uk
 DOMAIN-SUFFIX,capel.ac.uk
@@ -10558,6 +10561,8 @@ DOMAIN-SUFFIX,h-webtoon.com
 DOMAIN-SUFFIX,h0930.com
 DOMAIN-SUFFIX,h18ani1.vip
 DOMAIN-SUFFIX,h2porn.com
+DOMAIN-SUFFIX,habr.com
+DOMAIN-SUFFIX,habrastorage.org
 DOMAIN-SUFFIX,hace.ac.uk
 DOMAIN-SUFFIX,hackday.com.au
 DOMAIN-SUFFIX,hackerfacebook.com
@@ -14915,6 +14920,7 @@ DOMAIN-SUFFIX,metabora.io
 DOMAIN-SUFFIX,metabrainz.org
 DOMAIN-SUFFIX,metacloud.com
 DOMAIN-SUFFIX,metacpan.org
+DOMAIN-SUFFIX,metacritic.com
 DOMAIN-SUFFIX,metadac.ac.uk
 DOMAIN-SUFFIX,metalpha.finance
 DOMAIN-SUFFIX,metamind.io
@@ -19678,6 +19684,7 @@ DOMAIN-SUFFIX,rsp.ac.uk
 DOMAIN-SUFFIX,rspao.com
 DOMAIN-SUFFIX,rstatic.net
 DOMAIN-SUFFIX,rt.com
+DOMAIN-SUFFIX,rtbcdn.ru
 DOMAIN-SUFFIX,rtings.com
 DOMAIN-SUFFIX,ru-moscow-1.myhuaweicloud.com
 DOMAIN-SUFFIX,ru-northwest-201.myhuaweicloud.com
@@ -19729,6 +19736,7 @@ DOMAIN-SUFFIX,rutracker.cr
 DOMAIN-SUFFIX,rutracker.me
 DOMAIN-SUFFIX,rutracker.nl
 DOMAIN-SUFFIX,rutrecker.net
+DOMAIN-SUFFIX,rutubelist.ru
 DOMAIN-SUFFIX,ruvideos.net
 DOMAIN-SUFFIX,rvc.ac.uk
 DOMAIN-SUFFIX,rwcmd.ac.uk
@@ -21975,6 +21983,7 @@ DOMAIN-SUFFIX,tellusgb.ac.uk
 DOMAIN-SUFFIX,telri.ac.uk
 DOMAIN-SUFFIX,temenos.ac.uk
 DOMAIN-SUFFIX,temetube.xyz
+DOMAIN-SUFFIX,temp-mail.org
 DOMAIN-SUFFIX,tempusuk.ac.uk
 DOMAIN-SUFFIX,tenbyfotolia.com
 DOMAIN-SUFFIX,tentowns.ac.uk
@@ -23251,6 +23260,8 @@ DOMAIN-SUFFIX,vaultify.com
 DOMAIN-SUFFIX,vaultify.info
 DOMAIN-SUFFIX,vaultify.net
 DOMAIN-SUFFIX,vaultproject.io
+DOMAIN-SUFFIX,vbcdn.com
+DOMAIN-SUFFIX,vbcdn.net
 DOMAIN-SUFFIX,vbejeyv.shop
 DOMAIN-SUFFIX,vcanedge.com
 DOMAIN-SUFFIX,vce.com
@@ -23446,6 +23457,8 @@ DOMAIN-SUFFIX,viacbs.com
 DOMAIN-SUFFIX,viacom.com
 DOMAIN-SUFFIX,viacomcbs.com
 DOMAIN-SUFFIX,viacomcbspressexpress.com
+DOMAIN-SUFFIX,viber.co
+DOMAIN-SUFFIX,viber.me
 DOMAIN-SUFFIX,vicarious.ac.uk
 DOMAIN-SUFFIX,victoriacountyhistory.ac.uk
 DOMAIN-SUFFIX,vid.me

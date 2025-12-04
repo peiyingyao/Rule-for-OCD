@@ -1,22 +1,22 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-02 02:09:37
+# UPDATED: 2025-12-04 02:09:40
 # DOMAIN: 290
 # DOMAIN-KEYWORD: 13
 # DOMAIN-SUFFIX: 117350
 # IP-ASN: 1
-# IP-CIDR: 8184
-# IP-CIDR6: 11862
+# IP-CIDR: 8183
+# IP-CIDR6: 11865
 # PROCESS-NAME: 12
 # USER-AGENT: 65
-# TOTAL: 137777
+# TOTAL: 137779
+DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,taobao
 DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
-DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,sohu
@@ -4019,7 +4019,6 @@ IP-CIDR,163.61.63.0/24,no-resolve
 IP-CIDR,164.52.0.0/17,no-resolve
 IP-CIDR,165.101.122.0/23,no-resolve
 IP-CIDR,165.101.70.0/23,no-resolve
-IP-CIDR,165.101.94.0/24,no-resolve
 IP-CIDR,165.154.100.0/22,no-resolve
 IP-CIDR,165.154.104.0/21,no-resolve
 IP-CIDR,165.154.112.0/20,no-resolve
@@ -19832,9 +19831,11 @@ IP-CIDR6,2a0e:ec05:4800::/41,no-resolve
 IP-CIDR6,2a0e:ec05:79c0::/42,no-resolve
 IP-CIDR6,2a0e:ec05:7a00::/40,no-resolve
 IP-CIDR6,2a0e:ec05:7b00::/42,no-resolve
+IP-CIDR6,2a0f:1cc5:100::/44,no-resolve
 IP-CIDR6,2a0f:1cc5:10::/48,no-resolve
 IP-CIDR6,2a0f:1cc5:20::/44,no-resolve
 IP-CIDR6,2a0f:1cc5:600::/47,no-resolve
+IP-CIDR6,2a0f:1cc5:610::/48,no-resolve
 IP-CIDR6,2a0f:1cc5:f00::/46,no-resolve
 IP-CIDR6,2a0f:1cc5:f04::/47,no-resolve
 IP-CIDR6,2a0f:1cc5:f06::/48,no-resolve
@@ -20028,6 +20029,7 @@ IP-CIDR6,2a14:7580:c1c::/48,no-resolve
 IP-CIDR6,2a14:7580:d000::/37,no-resolve
 IP-CIDR6,2a14:7580:d800::/39,no-resolve
 IP-CIDR6,2a14:7580:da00::/40,no-resolve
+IP-CIDR6,2a14:7580:df00::/40,no-resolve
 IP-CIDR6,2a14:7580:e200::/40,no-resolve
 IP-CIDR6,2a14:7580:e470::/48,no-resolve
 IP-CIDR6,2a14:7580:e472::/48,no-resolve
@@ -20129,6 +20131,7 @@ USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
 USER-AGENT,MegaWerewolf*
 USER-AGENT,MicroMessenger%20Client
+USER-AGENT,MicroMessenger*
 USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*
@@ -20136,6 +20139,7 @@ USER-AGENT,QQ*
 USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
 USER-AGENT,TeamViewer*
+USER-AGENT,WeChat*
 USER-AGENT,WebTorrent*
 USER-AGENT,arrowio*
 USER-AGENT,balls*
@@ -20155,7 +20159,6 @@ USER-AGENT,AcFun*
 USER-AGENT,DomesticMedia*
 USER-AGENT,MGTV*
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
-USER-AGENT,MOO*
 USER-AGENT,MiguVideo*
 USER-AGENT,NeteaseMusic*
 USER-AGENT,PPStream*
@@ -20164,7 +20167,6 @@ USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
 USER-AGENT,QYPlayer*
-USER-AGENT,TencentMidasConnect*
 USER-AGENT,YYeTs*
 USER-AGENT,Youku*
 USER-AGENT,baiduyinyue
@@ -20177,8 +20179,8 @@ USER-AGENT,walkman*
 USER-AGENT,xiami*
 USER-AGENT,youku*
 USER-AGENT,Himalaya*
-USER-AGENT,MicroMessenger*
-USER-AGENT,WeChat*
+USER-AGENT,MOO*
+USER-AGENT,TencentMidasConnect*
 USER-AGENT,iQIYI*
 PROCESS-NAME,com.taobao.taobao
 PROCESS-NAME,com.bilibili.app.blue
