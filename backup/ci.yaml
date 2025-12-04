@@ -5,9 +5,9 @@ on:
   # 每天 22:00 触发一次
   schedule:
     - cron: '0 6 * * *'
-  push:
-    branches:
-      - master
+#  push:
+#    branches:
+#      - master
 
 jobs:
   build:
