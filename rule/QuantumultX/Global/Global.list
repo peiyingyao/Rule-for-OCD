@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-04 02:08:21
+# UPDATED: 2025-12-06 02:08:32
 # HOST: 644
 # HOST-KEYWORD: 36
-# HOST-SUFFIX: 32234
+# HOST-SUFFIX: 32273
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 33076
+# TOTAL: 33115
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -4200,6 +4200,7 @@ HOST-SUFFIX,bloomsburydtc.ac.uk,Global
 HOST-SUFFIX,bloomsburyinstitute.ac.uk,Global
 HOST-SUFFIX,blowjobit.com,Global
 HOST-SUFFIX,blowjobqueens.net,Global
+HOST-SUFFIX,blox.com,Global
 HOST-SUFFIX,blpcareers.com,Global
 HOST-SUFFIX,blpevents.com,Global
 HOST-SUFFIX,blpprofessional.com,Global
@@ -7875,6 +7876,7 @@ HOST-SUFFIX,dyttapi.com,Global
 HOST-SUFFIX,dyttapis.com,Global
 HOST-SUFFIX,dzcdn.net,Global
 HOST-SUFFIX,dzen.ru,Global
+HOST-SUFFIX,dzeninfra.ru,Global
 HOST-SUFFIX,e-bay.com,Global
 HOST-SUFFIX,e-bay.it,Global
 HOST-SUFFIX,e-bay.net,Global
@@ -10465,6 +10467,8 @@ HOST-SUFFIX,go4uni.ac.uk,Global
 HOST-SUFFIX,goals.ac.uk,Global
 HOST-SUFFIX,gobeatsye.com,Global
 HOST-SUFFIX,gobianywhere.com,Global
+HOST-SUFFIX,goblocks.com,Global
+HOST-SUFFIX,goblox.com,Global
 HOST-SUFFIX,gobuildx.net,Global
 HOST-SUFFIX,gobuyonlinestore.net,Global
 HOST-SUFFIX,gockhuatviet.com,Global
@@ -10509,6 +10513,7 @@ HOST-SUFFIX,gongyichuangyi.net,Global
 HOST-SUFFIX,gonike.com,Global
 HOST-SUFFIX,gonzo-movies.com,Global
 HOST-SUFFIX,gonzo.com,Global
+HOST-SUFFIX,gooblox.com,Global
 HOST-SUFFIX,good-gay.com,Global
 HOST-SUFFIX,gooddaychicago.com,Global
 HOST-SUFFIX,goodenough.ac.uk,Global
@@ -11822,6 +11827,7 @@ HOST-SUFFIX,hulustream.com,Global
 HOST-SUFFIX,huluteam.com,Global
 HOST-SUFFIX,hulutv.com,Global
 HOST-SUFFIX,huluusa.com,Global
+HOST-SUFFIX,humancoexperience.com,Global
 HOST-SUFFIX,humanities-human-rights.ac.uk,Global
 HOST-SUFFIX,humanities.ac.uk,Global
 HOST-SUFFIX,humanmind.ac.uk,Global
@@ -19365,6 +19371,8 @@ HOST-SUFFIX,rbge.ac.uk,Global
 HOST-SUFFIX,rbgkew.ac.uk,Global
 HOST-SUFFIX,rbgrads.com,Global
 HOST-SUFFIX,rbgraduates.com,Global
+HOST-SUFFIX,rblx.co,Global
+HOST-SUFFIX,rblx.com,Global
 HOST-SUFFIX,rblx.org,Global
 HOST-SUFFIX,rbmavericks.com,Global
 HOST-SUFFIX,rbnainternational.com,Global
@@ -19376,6 +19384,9 @@ HOST-SUFFIX,rbslondon.ac.uk,Global
 HOST-SUFFIX,rbspeakup.com,Global
 HOST-SUFFIX,rbx.com,Global
 HOST-SUFFIX,rbxcdn.com,Global
+HOST-SUFFIX,rbxinfra.net,Global
+HOST-SUFFIX,rbxlabs.com,Global
+HOST-SUFFIX,rbxtrk.com,Global
 HOST-SUFFIX,rc-harwell.ac.uk,Global
 HOST-SUFFIX,rca.ac.uk,Global
 HOST-SUFFIX,rcahmw.ac.uk,Global
@@ -19721,11 +19732,37 @@ HOST-SUFFIX,rnibncw.ac.uk,Global
 HOST-SUFFIX,rnibvocoll.ac.uk,Global
 HOST-SUFFIX,rnn.ac.uk,Global
 HOST-SUFFIX,rnngroup.ac.uk,Global
+HOST-SUFFIX,ro-blox.com,Global
 HOST-SUFFIX,ro89.com,Global
 HOST-SUFFIX,road-crew.com,Global
-HOST-SUFFIX,roblox-api.arkoselabs.co,Global
+HOST-SUFFIX,roadblocks.com,Global
+HOST-SUFFIX,roblocks.com,Global
+HOST-SUFFIX,roblox-api.arkoselabs.com,Global
+HOST-SUFFIX,roblox.ca,Global
+HOST-SUFFIX,roblox.cc,Global
+HOST-SUFFIX,roblox.cl,Global
+HOST-SUFFIX,roblox.co.jp,Global
+HOST-SUFFIX,roblox.co.uk,Global
 HOST-SUFFIX,roblox.com,Global
+HOST-SUFFIX,roblox.de,Global
+HOST-SUFFIX,roblox.dk,Global
+HOST-SUFFIX,roblox.eu,Global
+HOST-SUFFIX,roblox.fr,Global
+HOST-SUFFIX,roblox.hu,Global
+HOST-SUFFIX,roblox.it,Global
+HOST-SUFFIX,roblox.jp,Global
+HOST-SUFFIX,roblox.kr,Global
+HOST-SUFFIX,roblox.mx,Global
+HOST-SUFFIX,roblox.net,Global
+HOST-SUFFIX,roblox.org,Global
+HOST-SUFFIX,roblox.ph,Global
+HOST-SUFFIX,roblox.pt,Global
 HOST-SUFFIX,roblox.qq.com,Global
+HOST-SUFFIX,roblox.sk,Global
+HOST-SUFFIX,roblox.tv,Global
+HOST-SUFFIX,roblox.uk,Global
+HOST-SUFFIX,roblox.us,Global
+HOST-SUFFIX,roblox.vn,Global
 HOST-SUFFIX,robloxlabs.com,Global
 HOST-SUFFIX,robobat.com,Global
 HOST-SUFFIX,roboform.com,Global
@@ -19777,6 +19814,8 @@ HOST-SUFFIX,roundtable.ac.uk,Global
 HOST-SUFFIX,routerboard.com,Global
 HOST-SUFFIX,routesintolanguages.ac.uk,Global
 HOST-SUFFIX,routledgehandbooks.com,Global
+HOST-SUFFIX,rowblocks.com,Global
+HOST-SUFFIX,rowblox.com,Global
 HOST-SUFFIX,rowett.ac.uk,Global
 HOST-SUFFIX,rowleycollege.ac.uk,Global
 HOST-SUFFIX,royagcol.ac.uk,Global
