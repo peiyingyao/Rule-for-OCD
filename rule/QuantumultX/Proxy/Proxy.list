@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-02 02:08:19
+# UPDATED: 2025-12-08 02:08:06
 # HOST: 19
 # HOST-KEYWORD: 26
 # HOST-SUFFIX: 7032
@@ -404,7 +404,6 @@ HOST-SUFFIX,apetube.com,Proxy
 HOST-SUFFIX,api.ai,Proxy
 HOST-SUFFIX,api.amplitude.com,Proxy
 HOST-SUFFIX,api.mixpanel.com,Proxy
-HOST-SUFFIX,api.palworldgame.com,Proxy
 HOST-SUFFIX,api.proxlet.com,Proxy
 HOST-SUFFIX,api.termius.com,Proxy
 HOST-SUFFIX,apiary.io,Proxy
@@ -935,6 +934,7 @@ HOST-SUFFIX,byteoversea.com,Proxy
 HOST-SUFFIX,c-est-simple.com,Proxy
 HOST-SUFFIX,c-span.org,Proxy
 HOST-SUFFIX,c-spanvideo.org,Proxy
+HOST-SUFFIX,c.gle,Proxy
 HOST-SUFFIX,c.mi.com,Proxy
 HOST-SUFFIX,c100tibet.org,Proxy
 HOST-SUFFIX,c2cx.com,Proxy
@@ -1488,6 +1488,7 @@ HOST-SUFFIX,delicious.com,Proxy
 HOST-SUFFIX,demo.opera-mini.net,Proxy
 HOST-SUFFIX,democrats.org,Proxy
 HOST-SUFFIX,demosisto.hk,Proxy
+HOST-SUFFIX,deno.com,Proxy
 HOST-SUFFIX,deno.dev,Proxy
 HOST-SUFFIX,depositphotos.com,Proxy
 HOST-SUFFIX,derekhsu.homeip.net,Proxy
@@ -1577,7 +1578,6 @@ HOST-SUFFIX,docker.io,Proxy
 HOST-SUFFIX,dockerhub.com,Proxy
 HOST-SUFFIX,dockerstatus.com,Proxy
 HOST-SUFFIX,docs.cfw.lbyczf.com,Proxy
-HOST-SUFFIX,docs.deno.com,Proxy
 HOST-SUFFIX,docs.new,Proxy
 HOST-SUFFIX,doctorvoice.org,Proxy
 HOST-SUFFIX,documentingreality.com,Proxy
@@ -3168,7 +3168,6 @@ HOST-SUFFIX,imagefap.com,Proxy
 HOST-SUFFIX,imageflea.com,Proxy
 HOST-SUFFIX,imageglass.org,Proxy
 HOST-SUFFIX,images-gaytube.com,Proxy
-HOST-SUFFIX,images.prismic.io,Proxy
 HOST-SUFFIX,imageshack.us,Proxy
 HOST-SUFFIX,imagevenue.com,Proxy
 HOST-SUFFIX,imagezilla.net,Proxy
@@ -3378,7 +3377,6 @@ HOST-SUFFIX,jfqu37.xyz,Proxy
 HOST-SUFFIX,jgoodies.com,Proxy
 HOST-SUFFIX,jiangweiping.com,Proxy
 HOST-SUFFIX,jiaoyou8.com,Proxy
-HOST-SUFFIX,jichangtj.com,Proxy
 HOST-SUFFIX,jiehua.cz,Proxy
 HOST-SUFFIX,jiehua.tv,Proxy
 HOST-SUFFIX,jiepang.com,Proxy
@@ -3735,7 +3733,6 @@ HOST-SUFFIX,lsmkorean.org,Proxy
 HOST-SUFFIX,lsmradio.com,Proxy
 HOST-SUFFIX,lsmwebcast.com,Proxy
 HOST-SUFFIX,lsxszzg.com,Proxy
-HOST-SUFFIX,lt.sntp.uk,Proxy
 HOST-SUFFIX,ltn.com.tw,Proxy
 HOST-SUFFIX,luckydesigner.space,Proxy
 HOST-SUFFIX,luckymobile.ca,Proxy
@@ -3752,7 +3749,6 @@ HOST-SUFFIX,lyfhk.net,Proxy
 HOST-SUFFIX,lzjscript.com,Proxy
 HOST-SUFFIX,lzmtnews.org,Proxy
 HOST-SUFFIX,m-sport.co.uk,Proxy
-HOST-SUFFIX,m-team.cc,Proxy
 HOST-SUFFIX,m.me,Proxy
 HOST-SUFFIX,m.plixi.com,Proxy
 HOST-SUFFIX,m.slandr.net,Proxy
@@ -3912,6 +3908,7 @@ HOST-SUFFIX,michaelmarketl.com,Proxy
 HOST-SUFFIX,microsoft-falcon.io,Proxy
 HOST-SUFFIX,microsoft.com,Proxy
 HOST-SUFFIX,microsoftapp.net,Proxy
+HOST-SUFFIX,microsoftpersonalcontent.com,Proxy
 HOST-SUFFIX,microsofttranslator.com,Proxy
 HOST-SUFFIX,microvpn.com,Proxy
 HOST-SUFFIX,middle-way.net,Proxy
@@ -4555,6 +4552,7 @@ HOST-SUFFIX,paldengyal.com,Proxy
 HOST-SUFFIX,paljorpublications.com,Proxy
 HOST-SUFFIX,palmislife.com,Proxy
 HOST-SUFFIX,paltalk.com,Proxy
+HOST-SUFFIX,palworldgame.com,Proxy
 HOST-SUFFIX,pancakeswap.finance,Proxy
 HOST-SUFFIX,pandafan.pub,Proxy
 HOST-SUFFIX,pandapow.co,Proxy
@@ -4799,6 +4797,7 @@ HOST-SUFFIX,pride.google,Proxy
 HOST-SUFFIX,primevideo.com,Proxy
 HOST-SUFFIX,printfriendly.com,Proxy
 HOST-SUFFIX,prism-break.org,Proxy
+HOST-SUFFIX,prismic.io,Proxy
 HOST-SUFFIX,prisoneralert.com,Proxy
 HOST-SUFFIX,pritunl.com,Proxy
 HOST-SUFFIX,privacybox.de,Proxy
@@ -5363,6 +5362,7 @@ HOST-SUFFIX,snaptu.com,Proxy
 HOST-SUFFIX,sndcdn.com,Proxy
 HOST-SUFFIX,sneakme.net,Proxy
 HOST-SUFFIX,snowlionpub.com,Proxy
+HOST-SUFFIX,sntp.uk,Proxy
 HOST-SUFFIX,sobees.com,Proxy
 HOST-SUFFIX,soc.mil,Proxy
 HOST-SUFFIX,social.edu.ci,Proxy

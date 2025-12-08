@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-12 02:03:40
+# UPDATED: 2025-12-08 02:03:38
 # DOMAIN: 23753
 # DOMAIN-KEYWORD: 187
-# DOMAIN-SUFFIX: 13942
+# DOMAIN-SUFFIX: 13939
 # IP-CIDR: 186
 # IP-CIDR6: 1
-# TOTAL: 38069
+# TOTAL: 38066
 payload:
   - DOMAIN,00-gov.cn
   - DOMAIN,0024aadd.com
@@ -27551,6 +27551,7 @@ payload:
   - DOMAIN-SUFFIX,counter.wapstart.ru
   - DOMAIN-SUFFIX,counter.yesky.com
   - DOMAIN-SUFFIX,counter.zerohedge.com
+  - DOMAIN-SUFFIX,counter2.blog.livedoor.com
   - DOMAIN-SUFFIX,counter2.condenast.it
   - DOMAIN-SUFFIX,countersys.cn
   - DOMAIN-SUFFIX,countertrck.com
@@ -28224,7 +28225,6 @@ payload:
   - DOMAIN-SUFFIX,dnfeu.com
   - DOMAIN-SUFFIX,dnskuu.com
   - DOMAIN-SUFFIX,dnvus.com
-  - DOMAIN-SUFFIX,do-not-tracker.org
   - DOMAIN-SUFFIX,do69ifsly4.me
   - DOMAIN-SUFFIX,doa1.immobilier-neuf.com
   - DOMAIN-SUFFIX,docerad.wps.cn
@@ -28766,7 +28766,6 @@ payload:
   - DOMAIN-SUFFIX,events.pingan.com
   - DOMAIN-SUFFIX,events.secureserver.net
   - DOMAIN-SUFFIX,eventurypol.site
-  - DOMAIN-SUFFIX,eviltracker.net
   - DOMAIN-SUFFIX,evisit.exeter.ac.uk
   - DOMAIN-SUFFIX,evt.izooto.com
   - DOMAIN-SUFFIX,evt.klarna.com
@@ -33197,7 +33196,6 @@ payload:
   - DOMAIN-SUFFIX,pixel.newscgp.com
   - DOMAIN-SUFFIX,pixel.newsdiscover.com.au
   - DOMAIN-SUFFIX,pixel.pcworld.com
-  - DOMAIN-SUFFIX,pixel.propublica.org
   - DOMAIN-SUFFIX,pixel.prosieben.de
   - DOMAIN-SUFFIX,pixel.quantserve.com
   - DOMAIN-SUFFIX,pixel.reddit.com
@@ -35565,7 +35563,6 @@ payload:
   - DOMAIN-SUFFIX,tracker.uprinting.com
   - DOMAIN-SUFFIX,tracker.wordstream.com
   - DOMAIN-SUFFIX,tracker.yhd.com
-  - DOMAIN-SUFFIX,trackersimulator.org
   - DOMAIN-SUFFIX,trackerstatistik.init-ag.de
   - DOMAIN-SUFFIX,tracking-opi.fonpit.de
   - DOMAIN-SUFFIX,tracking-server-prod-1.zenmxapps.com

@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-02 02:08:18
+# UPDATED: 2025-12-08 02:08:04
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
 # DOMAIN-SUFFIX: 6554
@@ -383,7 +383,6 @@ voice.telephony.goog
 .api.ai
 .api.amplitude.com
 .api.mixpanel.com
-.api.palworldgame.com
 .api.proxlet.com
 .api.termius.com
 .apiary.io
@@ -847,6 +846,7 @@ voice.telephony.goog
 .c-est-simple.com
 .c-span.org
 .c-spanvideo.org
+.c.gle
 .c.mi.com
 .c100tibet.org
 .c2cx.com
@@ -1392,6 +1392,7 @@ voice.telephony.goog
 .demo.opera-mini.net
 .democrats.org
 .demosisto.hk
+.deno.com
 .deno.dev
 .depositphotos.com
 .derekhsu.homeip.net
@@ -1477,7 +1478,6 @@ voice.telephony.goog
 .dockerhub.com
 .dockerstatus.com
 .docs.cfw.lbyczf.com
-.docs.deno.com
 .docs.new
 .doctorvoice.org
 .documentingreality.com
@@ -2769,7 +2769,6 @@ voice.telephony.goog
 .imageflea.com
 .imageglass.org
 .images-gaytube.com
-.images.prismic.io
 .imageshack.us
 .imagevenue.com
 .imagezilla.net
@@ -2978,7 +2977,6 @@ voice.telephony.goog
 .jgoodies.com
 .jiangweiping.com
 .jiaoyou8.com
-.jichangtj.com
 .jiehua.cz
 .jiehua.tv
 .jiepang.com
@@ -3331,7 +3329,6 @@ voice.telephony.goog
 .lsmradio.com
 .lsmwebcast.com
 .lsxszzg.com
-.lt.sntp.uk
 .ltn.com.tw
 .luckydesigner.space
 .luckymobile.ca
@@ -3348,7 +3345,6 @@ voice.telephony.goog
 .lzjscript.com
 .lzmtnews.org
 .m-sport.co.uk
-.m-team.cc
 .m.me
 .m.plixi.com
 .m.slandr.net
@@ -3508,6 +3504,7 @@ voice.telephony.goog
 .microsoft-falcon.io
 .microsoft.com
 .microsoftapp.net
+.microsoftpersonalcontent.com
 .microsofttranslator.com
 .microvpn.com
 .middle-way.net
@@ -4148,6 +4145,7 @@ voice.telephony.goog
 .paljorpublications.com
 .palmislife.com
 .paltalk.com
+.palworldgame.com
 .pancakeswap.finance
 .pandafan.pub
 .pandapow.co
@@ -4366,6 +4364,7 @@ voice.telephony.goog
 .primevideo.com
 .printfriendly.com
 .prism-break.org
+.prismic.io
 .prisoneralert.com
 .pritunl.com
 .privacybox.de
@@ -4924,6 +4923,7 @@ voice.telephony.goog
 .sndcdn.com
 .sneakme.net
 .snowlionpub.com
+.sntp.uk
 .sobees.com
 .soc.mil
 .social.edu.ci

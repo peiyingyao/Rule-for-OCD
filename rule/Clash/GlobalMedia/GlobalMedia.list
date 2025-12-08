@@ -1,14 +1,14 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-14 02:10:58
-# DOMAIN: 36
+# UPDATED: 2025-12-08 02:08:06
+# DOMAIN: 37
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 1272
+# DOMAIN-SUFFIX: 1275
 # IP-CIDR: 918
 # IP-CIDR6: 6
 # PROCESS-NAME: 3
-# TOTAL: 2261
+# TOTAL: 2265
 DOMAIN,ai.google.dev
 DOMAIN,aistudio.google.com
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
@@ -41,6 +41,7 @@ DOMAIN,ktpx.amazon.com
 DOMAIN,news-client.apple.com
 DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
+DOMAIN,notebooklm.google.com
 DOMAIN,ocvideo.apple.com
 DOMAIN,rpg.pic-imges.com
 DOMAIN,rthklive2-lh.akamaihd.net
@@ -180,6 +181,7 @@ DOMAIN-SUFFIX,channel5.com
 DOMAIN-SUFFIX,chocotv.com.tw
 DOMAIN-SUFFIX,cinemax.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cnbc.com
@@ -686,6 +688,7 @@ DOMAIN-SUFFIX,japronx.com
 DOMAIN-SUFFIX,japronx.net
 DOMAIN-SUFFIX,japronx.tv
 DOMAIN-SUFFIX,japronx.vip
+DOMAIN-SUFFIX,jetbrains.ai
 DOMAIN-SUFFIX,joeswall.com
 DOMAIN-SUFFIX,joinmaidez.com
 DOMAIN-SUFFIX,joox.com
@@ -1125,6 +1128,7 @@ DOMAIN-SUFFIX,wofl.tv
 DOMAIN-SUFFIX,woflthenewsstation.com
 DOMAIN-SUFFIX,wogx.com
 DOMAIN-SUFFIX,wwwhuluplus.com
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,yb.uncn.jp
 DOMAIN-SUFFIX,youboranqs01.com
 DOMAIN-SUFFIX,z5.app

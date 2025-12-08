@@ -1,7 +1,7 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-02 02:08:18
+# UPDATED: 2025-12-08 02:08:03
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
 # DOMAIN-SUFFIX: 6554
@@ -375,7 +375,6 @@
 .api.ai
 .api.amplitude.com
 .api.mixpanel.com
-.api.palworldgame.com
 .api.proxlet.com
 .api.termius.com
 .apiary.io
@@ -839,6 +838,7 @@
 .c-est-simple.com
 .c-span.org
 .c-spanvideo.org
+.c.gle
 .c.mi.com
 .c100tibet.org
 .c2cx.com
@@ -1384,6 +1384,7 @@
 .demo.opera-mini.net
 .democrats.org
 .demosisto.hk
+.deno.com
 .deno.dev
 .depositphotos.com
 .derekhsu.homeip.net
@@ -1469,7 +1470,6 @@
 .dockerhub.com
 .dockerstatus.com
 .docs.cfw.lbyczf.com
-.docs.deno.com
 .docs.new
 .doctorvoice.org
 .documentingreality.com
@@ -2761,7 +2761,6 @@
 .imageflea.com
 .imageglass.org
 .images-gaytube.com
-.images.prismic.io
 .imageshack.us
 .imagevenue.com
 .imagezilla.net
@@ -2970,7 +2969,6 @@
 .jgoodies.com
 .jiangweiping.com
 .jiaoyou8.com
-.jichangtj.com
 .jiehua.cz
 .jiehua.tv
 .jiepang.com
@@ -3323,7 +3321,6 @@
 .lsmradio.com
 .lsmwebcast.com
 .lsxszzg.com
-.lt.sntp.uk
 .ltn.com.tw
 .luckydesigner.space
 .luckymobile.ca
@@ -3340,7 +3337,6 @@
 .lzjscript.com
 .lzmtnews.org
 .m-sport.co.uk
-.m-team.cc
 .m.me
 .m.plixi.com
 .m.slandr.net
@@ -3500,6 +3496,7 @@
 .microsoft-falcon.io
 .microsoft.com
 .microsoftapp.net
+.microsoftpersonalcontent.com
 .microsofttranslator.com
 .microvpn.com
 .middle-way.net
@@ -4140,6 +4137,7 @@
 .paljorpublications.com
 .palmislife.com
 .paltalk.com
+.palworldgame.com
 .pancakeswap.finance
 .pandafan.pub
 .pandapow.co
@@ -4358,6 +4356,7 @@
 .primevideo.com
 .printfriendly.com
 .prism-break.org
+.prismic.io
 .prisoneralert.com
 .pritunl.com
 .privacybox.de
@@ -4916,6 +4915,7 @@
 .sndcdn.com
 .sneakme.net
 .snowlionpub.com
+.sntp.uk
 .sobees.com
 .soc.mil
 .social.edu.ci

@@ -12,16 +12,16 @@ Microsoft规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-06-06 09:15:10
+最后更新时间：2025-12-08 02:06:20
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 1  | 
 | DOMAIN-KEYWORD | 4  | 
-| DOMAIN-SUFFIX | 662  | 
+| DOMAIN-SUFFIX | 663  | 
 | PROCESS-NAME | 2  | 
-| TOTAL | 669  | 
+| TOTAL | 670  | 
 
 
 ## Clash 

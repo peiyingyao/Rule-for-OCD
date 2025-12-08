@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-12 02:03:39
+# UPDATED: 2025-12-08 02:03:37
 # HOST: 23753
 # HOST-KEYWORD: 187
-# HOST-SUFFIX: 13942
+# HOST-SUFFIX: 13939
 # IP-CIDR: 186
 # IP6-CIDR: 1
-# TOTAL: 38069
+# TOTAL: 38066
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
 HOST,0026645142c89aeb1.com,AdvertisingLite
@@ -27550,6 +27550,7 @@ HOST-SUFFIX,counter.tovarro.com,AdvertisingLite
 HOST-SUFFIX,counter.wapstart.ru,AdvertisingLite
 HOST-SUFFIX,counter.yesky.com,AdvertisingLite
 HOST-SUFFIX,counter.zerohedge.com,AdvertisingLite
+HOST-SUFFIX,counter2.blog.livedoor.com,AdvertisingLite
 HOST-SUFFIX,counter2.condenast.it,AdvertisingLite
 HOST-SUFFIX,countersys.cn,AdvertisingLite
 HOST-SUFFIX,countertrck.com,AdvertisingLite
@@ -28223,7 +28224,6 @@ HOST-SUFFIX,dn7788.com,AdvertisingLite
 HOST-SUFFIX,dnfeu.com,AdvertisingLite
 HOST-SUFFIX,dnskuu.com,AdvertisingLite
 HOST-SUFFIX,dnvus.com,AdvertisingLite
-HOST-SUFFIX,do-not-tracker.org,AdvertisingLite
 HOST-SUFFIX,do69ifsly4.me,AdvertisingLite
 HOST-SUFFIX,doa1.immobilier-neuf.com,AdvertisingLite
 HOST-SUFFIX,docerad.wps.cn,AdvertisingLite
@@ -28765,7 +28765,6 @@ HOST-SUFFIX,events.kalooga.com,AdvertisingLite
 HOST-SUFFIX,events.pingan.com,AdvertisingLite
 HOST-SUFFIX,events.secureserver.net,AdvertisingLite
 HOST-SUFFIX,eventurypol.site,AdvertisingLite
-HOST-SUFFIX,eviltracker.net,AdvertisingLite
 HOST-SUFFIX,evisit.exeter.ac.uk,AdvertisingLite
 HOST-SUFFIX,evt.izooto.com,AdvertisingLite
 HOST-SUFFIX,evt.klarna.com,AdvertisingLite
@@ -33196,7 +33195,6 @@ HOST-SUFFIX,pixel.naij.com,AdvertisingLite
 HOST-SUFFIX,pixel.newscgp.com,AdvertisingLite
 HOST-SUFFIX,pixel.newsdiscover.com.au,AdvertisingLite
 HOST-SUFFIX,pixel.pcworld.com,AdvertisingLite
-HOST-SUFFIX,pixel.propublica.org,AdvertisingLite
 HOST-SUFFIX,pixel.prosieben.de,AdvertisingLite
 HOST-SUFFIX,pixel.quantserve.com,AdvertisingLite
 HOST-SUFFIX,pixel.reddit.com,AdvertisingLite
@@ -35564,7 +35562,6 @@ HOST-SUFFIX,tracker.tiu.ru,AdvertisingLite
 HOST-SUFFIX,tracker.uprinting.com,AdvertisingLite
 HOST-SUFFIX,tracker.wordstream.com,AdvertisingLite
 HOST-SUFFIX,tracker.yhd.com,AdvertisingLite
-HOST-SUFFIX,trackersimulator.org,AdvertisingLite
 HOST-SUFFIX,trackerstatistik.init-ag.de,AdvertisingLite
 HOST-SUFFIX,tracking-opi.fonpit.de,AdvertisingLite
 HOST-SUFFIX,tracking-server-prod-1.zenmxapps.com,AdvertisingLite

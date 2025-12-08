@@ -1,13 +1,13 @@
 # NAME: Microsoft
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:15:10
+# UPDATED: 2025-12-08 02:06:20
 # DOMAIN: 1
 # DOMAIN-KEYWORD: 4
-# DOMAIN-SUFFIX: 662
+# DOMAIN-SUFFIX: 663
 # PROCESS-NAME: 2
 # USER-AGENT: 3
-# TOTAL: 672
+# TOTAL: 673
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,21vbc.com
@@ -667,6 +667,7 @@ DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,microsoftpersonalcontent.com
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com

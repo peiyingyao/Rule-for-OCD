@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-06 02:08:12
-# DOMAIN: 114
+# UPDATED: 2025-12-08 02:07:44
+# DOMAIN: 113
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32219
+# DOMAIN-SUFFIX: 32229
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32486
+# TOTAL: 32495
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -43,7 +43,6 @@ payload:
   - 'databank.worldbank.org'
   - 'datarouter.apps.netherrealm.com'
   - 'default.exp-tas.com'
-  - 'deribit.cdn.prismic.io'
   - 'deutschewelle.h-cdn.com'
   - 'dl.begellhouse.com'
   - 'ea.tt.omtrdc.net'
@@ -2129,6 +2128,7 @@ payload:
   - '+.archlinuxarm.org'
   - '+.archway.ac.uk'
   - '+.arcom.ac.uk'
+  - '+.arcraiders.com'
   - '+.arctic.ac.uk'
   - '+.arden.ac.uk'
   - '+.ardencampus.ac.uk'
@@ -6603,7 +6603,6 @@ payload:
   - '+.den.ac.uk'
   - '+.dengeamerika.com'
   - '+.dengiamerika.com'
-  - '+.deno.com'
   - '+.deno.land'
   - '+.dentalhypotheses.com'
   - '+.dentalschoolscouncil.ac.uk'
@@ -7903,6 +7902,8 @@ payload:
   - '+.emahsn.ac.uk'
   - '+.email-bimm.ac.uk'
   - '+.emas.ac.uk'
+  - '+.embark-studios.com'
+  - '+.embark.games'
   - '+.embase.com'
   - '+.embed-cdn.com'
   - '+.embed.ly'
@@ -8597,6 +8598,8 @@ payload:
   - '+.faceid99.com'
   - '+.faceid99.net'
   - '+.faceidglobal.com'
+  - '+.faceit-cdn.net'
+  - '+.faceit.com'
   - '+.faceobk.com'
   - '+.faceobok.com'
   - '+.faceobook.com'
@@ -13050,6 +13053,7 @@ payload:
   - '+.jibemobile.com'
   - '+.jibunbank.co.jp'
   - '+.jic.ac.uk'
+  - '+.jichangtj.com'
   - '+.jieav.com'
   - '+.jijiji.ca'
   - '+.jilhub.com'
@@ -15067,7 +15071,6 @@ payload:
   - '+.microsoftonline-p.com'
   - '+.microsoftpartnercommunity.com'
   - '+.microsoftpartnersolutions.com'
-  - '+.microsoftpersonalcontent.com'
   - '+.microsoftreactor.info'
   - '+.microsoftreactor.net'
   - '+.microsoftreactor.org'
@@ -19277,6 +19280,7 @@ payload:
   - '+.reach.ac.uk'
   - '+.reachingwider.ac.uk'
   - '+.reachporn.com'
+  - '+.reachthefinals.com'
   - '+.reachtheworldonfacebook.com'
   - '+.react.com'
   - '+.reactjs.com'
@@ -22340,7 +22344,10 @@ payload:
   - '+.tig-ol-bitties.live'
   - '+.tiipple.ac.uk'
   - '+.tik-tokapi.com'
+  - '+.tiktok-row.net'
   - '+.tiktokeu-cdn.com'
+  - '+.tiktokglobalshopv.com'
+  - '+.tiktokminis.us'
   - '+.tiktokv.eu'
   - '+.tiktokw.eu'
   - '+.tiktokw.us'
@@ -25835,6 +25842,7 @@ payload:
   - '+.zoozhamster.com'
   - '+.zopim.com'
   - '+.zorglist.com'
+  - '+.zotero.org'
   - '+.zqqpwz.com'
   - '+.zsh.org'
   - '+.zsuxtx-ktv.shop'
@@ -26217,7 +26225,6 @@ payload:
   - '+.apetube.com'
   - '+.api.ai'
   - '+.api.mixpanel.com'
-  - '+.api.palworldgame.com'
   - '+.apiary.io'
   - '+.apigee.com'
   - '+.apk-dl.com'
@@ -26668,6 +26675,7 @@ payload:
   - '+.c-est-simple.com'
   - '+.c-span.org'
   - '+.c-spanvideo.org'
+  - '+.c.gle'
   - '+.c.mi.com'
   - '+.c100tibet.org'
   - '+.c2cx.com'
@@ -27203,6 +27211,7 @@ payload:
   - '+.delicious.com'
   - '+.democrats.org'
   - '+.demosisto.hk'
+  - '+.deno.com'
   - '+.deno.dev'
   - '+.depositphotos.com'
   - '+.desc.se'
@@ -28570,7 +28579,6 @@ payload:
   - '+.imageflea.com'
   - '+.imageglass.org'
   - '+.images-gaytube.com'
-  - '+.images.prismic.io'
   - '+.imageshack.us'
   - '+.imagevenue.com'
   - '+.imagezilla.net'
@@ -28777,7 +28785,6 @@ payload:
   - '+.jgoodies.com'
   - '+.jiangweiping.com'
   - '+.jiaoyou8.com'
-  - '+.jichangtj.com'
   - '+.jiehua.cz'
   - '+.jiehua.tv'
   - '+.jiepang.com'
@@ -29129,7 +29136,6 @@ payload:
   - '+.lsmradio.com'
   - '+.lsmwebcast.com'
   - '+.lsxszzg.com'
-  - '+.lt.sntp.uk'
   - '+.ltn.com.tw'
   - '+.luckydesigner.space'
   - '+.luckymobile.ca'
@@ -29146,7 +29152,6 @@ payload:
   - '+.lzjscript.com'
   - '+.lzmtnews.org'
   - '+.m-sport.co.uk'
-  - '+.m-team.cc'
   - '+.m.me'
   - '+.m8008.com'
   - '+.ma.hao123.com'
@@ -29304,6 +29309,7 @@ payload:
   - '+.microsoft-falcon.io'
   - '+.microsoft.com'
   - '+.microsoftapp.net'
+  - '+.microsoftpersonalcontent.com'
   - '+.microsofttranslator.com'
   - '+.microvpn.com'
   - '+.middle-way.net'
@@ -29940,6 +29946,7 @@ payload:
   - '+.paljorpublications.com'
   - '+.palmislife.com'
   - '+.paltalk.com'
+  - '+.palworldgame.com'
   - '+.pancakeswap.finance'
   - '+.pandafan.pub'
   - '+.pandapow.co'
@@ -30158,6 +30165,7 @@ payload:
   - '+.primevideo.com'
   - '+.printfriendly.com'
   - '+.prism-break.org'
+  - '+.prismic.io'
   - '+.prisoneralert.com'
   - '+.pritunl.com'
   - '+.privacybox.de'
@@ -30713,6 +30721,7 @@ payload:
   - '+.sndcdn.com'
   - '+.sneakme.net'
   - '+.snowlionpub.com'
+  - '+.sntp.uk'
   - '+.sobees.com'
   - '+.soc.mil'
   - '+.social.edu.ci'
