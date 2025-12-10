@@ -1,11 +1,11 @@
 # NAME: NetEase
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:17:29
+# UPDATED: 2025-12-10 02:08:50
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 114
+# DOMAIN-SUFFIX: 117
 # IP-CIDR: 28
-# TOTAL: 143
+# TOTAL: 146
 DOMAIN,netease.ugcvideoss.ourdvs.com
 DOMAIN-SUFFIX,126.am
 DOMAIN-SUFFIX,126.com
@@ -47,6 +47,8 @@ DOMAIN-SUFFIX,dingwei.link
 DOMAIN-SUFFIX,easebar.com
 DOMAIN-SUFFIX,easebar.net
 DOMAIN-SUFFIX,gamehaopu.com
+DOMAIN-SUFFIX,gameviewer.cn
+DOMAIN-SUFFIX,gameviewer.com
 DOMAIN-SUFFIX,haowu.link
 DOMAIN-SUFFIX,huihui.cn
 DOMAIN-SUFFIX,hukeck.com
@@ -65,6 +67,7 @@ DOMAIN-SUFFIX,icourse163.org
 DOMAIN-SUFFIX,icourses163.cn
 DOMAIN-SUFFIX,icourses163.com
 DOMAIN-SUFFIX,icourses163.org
+DOMAIN-SUFFIX,infiniteborders3kingdoms.com
 DOMAIN-SUFFIX,kada.com
 DOMAIN-SUFFIX,kada163.com
 DOMAIN-SUFFIX,laiqukankan.com
