@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-10 02:08:12
+# UPDATED: 2025-12-12 02:08:40
 # HOST: 644
 # HOST-KEYWORD: 36
-# HOST-SUFFIX: 32285
+# HOST-SUFFIX: 32290
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 33127
+# TOTAL: 33132
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -18453,7 +18453,10 @@ HOST-SUFFIX,podium.ac.uk,Global
 HOST-SUFFIX,poecdn.net,Global
 HOST-SUFFIX,pogo.com,Global
 HOST-SUFFIX,pogobeta.com,Global
+HOST-SUFFIX,poi.icu,Global
 HOST-SUFFIX,poi.moe,Global
+HOST-SUFFIX,poi6.net,Global
+HOST-SUFFIX,poihub.com,Global
 HOST-SUFFIX,point.ac.uk,Global
 HOST-SUFFIX,pointblank.ac.uk,Global
 HOST-SUFFIX,pointblankmusicschool.ac.uk,Global
@@ -18996,6 +18999,7 @@ HOST-SUFFIX,profile.ac.uk,Global
 HOST-SUFFIX,profilemaster.com,Global
 HOST-SUFFIX,profreeporno.com,Global
 HOST-SUFFIX,programme3.ac.uk,Global
+HOST-SUFFIX,project-poi.com,Global
 HOST-SUFFIX,projectapex.com,Global
 HOST-SUFFIX,projectara.com,Global
 HOST-SUFFIX,projectbaseline.com,Global
@@ -19176,6 +19180,7 @@ HOST-SUFFIX,qmul.ac.uk,Global
 HOST-SUFFIX,qmw.ac.uk,Global
 HOST-SUFFIX,qmzdd.com,Global
 HOST-SUFFIX,qnap.com,Global
+HOST-SUFFIX,qobuz.com,Global
 HOST-SUFFIX,qombol.com,Global
 HOST-SUFFIX,qoo10.jp,Global
 HOST-SUFFIX,qooqlevideo.com,Global

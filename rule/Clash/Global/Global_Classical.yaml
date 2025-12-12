@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-10 02:07:54
+# UPDATED: 2025-12-12 02:08:20
 # DOMAIN: 113
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32231
+# DOMAIN-SUFFIX: 32236
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32497
+# TOTAL: 32502
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -18271,7 +18271,10 @@ payload:
   - DOMAIN-SUFFIX,poecdn.net
   - DOMAIN-SUFFIX,pogo.com
   - DOMAIN-SUFFIX,pogobeta.com
+  - DOMAIN-SUFFIX,poi.icu
   - DOMAIN-SUFFIX,poi.moe
+  - DOMAIN-SUFFIX,poi6.net
+  - DOMAIN-SUFFIX,poihub.com
   - DOMAIN-SUFFIX,point.ac.uk
   - DOMAIN-SUFFIX,pointblank.ac.uk
   - DOMAIN-SUFFIX,pointblankmusicschool.ac.uk
@@ -18837,6 +18840,7 @@ payload:
   - DOMAIN-SUFFIX,profilemaster.com
   - DOMAIN-SUFFIX,profreeporno.com
   - DOMAIN-SUFFIX,programme3.ac.uk
+  - DOMAIN-SUFFIX,project-poi.com
   - DOMAIN-SUFFIX,projectapex.com
   - DOMAIN-SUFFIX,projectara.com
   - DOMAIN-SUFFIX,projectbaseline.com
@@ -19017,6 +19021,7 @@ payload:
   - DOMAIN-SUFFIX,qmw.ac.uk
   - DOMAIN-SUFFIX,qmzdd.com
   - DOMAIN-SUFFIX,qnap.com
+  - DOMAIN-SUFFIX,qobuz.com
   - DOMAIN-SUFFIX,qombol.com
   - DOMAIN-SUFFIX,qoo10.jp
   - DOMAIN-SUFFIX,qooqlevideo.com
