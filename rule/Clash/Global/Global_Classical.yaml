@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-14 02:07:51
+# UPDATED: 2025-12-16 02:08:11
 # DOMAIN: 117
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32280
+# DOMAIN-SUFFIX: 32286
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32550
+# TOTAL: 32556
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -13510,6 +13510,7 @@ payload:
   - DOMAIN-SUFFIX,kirbysuperstarultra.com
   - DOMAIN-SUFFIX,kirkleescollege.ac.uk
   - DOMAIN-SUFFIX,kirkley.ac.uk
+  - DOMAIN-SUFFIX,kiro.dev
   - DOMAIN-SUFFIX,kisharon.ac.uk
   - DOMAIN-SUFFIX,kismia.com
   - DOMAIN-SUFFIX,kisscos.net
@@ -26258,6 +26259,7 @@ payload:
   - DOMAIN-SUFFIX,antichristendom.com
   - DOMAIN-SUFFIX,antiwave.net
   - DOMAIN-SUFFIX,antpool.com
+  - DOMAIN-SUFFIX,anuneko.com
   - DOMAIN-SUFFIX,anysex.com
   - DOMAIN-SUFFIX,ao3.org
   - DOMAIN-SUFFIX,aobo.com.au
@@ -28838,6 +28840,7 @@ payload:
   - DOMAIN-SUFFIX,jfqu36.club
   - DOMAIN-SUFFIX,jfqu37.xyz
   - DOMAIN-SUFFIX,jgoodies.com
+  - DOMAIN-SUFFIX,jhelab.org
   - DOMAIN-SUFFIX,jiangweiping.com
   - DOMAIN-SUFFIX,jiaoyou8.com
   - DOMAIN-SUFFIX,jiehua.cz
@@ -30168,6 +30171,7 @@ payload:
   - DOMAIN-SUFFIX,podbean.com
   - DOMAIN-SUFFIX,podcast.co
   - DOMAIN-SUFFIX,podictionary.com
+  - DOMAIN-SUFFIX,podwise.ai
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,points-media.com
   - DOMAIN-SUFFIX,pokemon.com
@@ -30346,9 +30350,11 @@ payload:
   - DOMAIN-SUFFIX,radiko.jp
   - DOMAIN-SUFFIX,radio-canada.ca
   - DOMAIN-SUFFIX,radio-en-ligne.fr
+  - DOMAIN-SUFFIX,radio.co
   - DOMAIN-SUFFIX,radio.garden
   - DOMAIN-SUFFIX,radioaustralia.net.au
   - DOMAIN-SUFFIX,radiohilight.net
+  - DOMAIN-SUFFIX,radiojar.com
   - DOMAIN-SUFFIX,radioline.co
   - DOMAIN-SUFFIX,radiotime.com
   - DOMAIN-SUFFIX,radiovaticana.org

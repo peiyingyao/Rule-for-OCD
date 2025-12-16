@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-08 02:08:06
+# UPDATED: 2025-12-16 02:08:31
 # HOST: 19
 # HOST-KEYWORD: 26
-# HOST-SUFFIX: 7032
+# HOST-SUFFIX: 7037
 # IP-CIDR: 93
 # IP6-CIDR: 4
 # USER-AGENT: 8
-# TOTAL: 7182
+# TOTAL: 7187
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -380,6 +380,7 @@ HOST-SUFFIX,anti1984.com,Proxy
 HOST-SUFFIX,antichristendom.com,Proxy
 HOST-SUFFIX,antiwave.net,Proxy
 HOST-SUFFIX,antpool.com,Proxy
+HOST-SUFFIX,anuneko.com,Proxy
 HOST-SUFFIX,anyporn.com,Proxy
 HOST-SUFFIX,anysex.com,Proxy
 HOST-SUFFIX,ao3.org,Proxy
@@ -3375,6 +3376,7 @@ HOST-SUFFIX,jex.com,Proxy
 HOST-SUFFIX,jfqu36.club,Proxy
 HOST-SUFFIX,jfqu37.xyz,Proxy
 HOST-SUFFIX,jgoodies.com,Proxy
+HOST-SUFFIX,jhelab.org,Proxy
 HOST-SUFFIX,jiangweiping.com,Proxy
 HOST-SUFFIX,jiaoyou8.com,Proxy
 HOST-SUFFIX,jiehua.cz,Proxy
@@ -4721,6 +4723,7 @@ HOST-SUFFIX,pobieramy.top,Proxy
 HOST-SUFFIX,podbean.com,Proxy
 HOST-SUFFIX,podcast.co,Proxy
 HOST-SUFFIX,podictionary.com,Proxy
+HOST-SUFFIX,podwise.ai,Proxy
 HOST-SUFFIX,poe.com,Proxy
 HOST-SUFFIX,points-media.com,Proxy
 HOST-SUFFIX,pokemon.com,Proxy
@@ -4923,9 +4926,11 @@ HOST-SUFFIX,radicalparty.org,Proxy
 HOST-SUFFIX,radiko.jp,Proxy
 HOST-SUFFIX,radio-canada.ca,Proxy
 HOST-SUFFIX,radio-en-ligne.fr,Proxy
+HOST-SUFFIX,radio.co,Proxy
 HOST-SUFFIX,radio.garden,Proxy
 HOST-SUFFIX,radioaustralia.net.au,Proxy
 HOST-SUFFIX,radiohilight.net,Proxy
+HOST-SUFFIX,radiojar.com,Proxy
 HOST-SUFFIX,radioline.co,Proxy
 HOST-SUFFIX,radiotime.com,Proxy
 HOST-SUFFIX,radiovaticana.org,Proxy

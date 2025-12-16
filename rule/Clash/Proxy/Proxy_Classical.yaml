@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-08 02:08:04
+# UPDATED: 2025-12-16 02:08:31
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6554
+# DOMAIN-SUFFIX: 6559
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6686
+# TOTAL: 6691
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -361,6 +361,7 @@ payload:
   - DOMAIN-SUFFIX,antichristendom.com
   - DOMAIN-SUFFIX,antiwave.net
   - DOMAIN-SUFFIX,antpool.com
+  - DOMAIN-SUFFIX,anuneko.com
   - DOMAIN-SUFFIX,anysex.com
   - DOMAIN-SUFFIX,ao3.org
   - DOMAIN-SUFFIX,aobo.com.au
@@ -2976,6 +2977,7 @@ payload:
   - DOMAIN-SUFFIX,jfqu36.club
   - DOMAIN-SUFFIX,jfqu37.xyz
   - DOMAIN-SUFFIX,jgoodies.com
+  - DOMAIN-SUFFIX,jhelab.org
   - DOMAIN-SUFFIX,jiangweiping.com
   - DOMAIN-SUFFIX,jiaoyou8.com
   - DOMAIN-SUFFIX,jiehua.cz
@@ -4313,6 +4315,7 @@ payload:
   - DOMAIN-SUFFIX,podbean.com
   - DOMAIN-SUFFIX,podcast.co
   - DOMAIN-SUFFIX,podictionary.com
+  - DOMAIN-SUFFIX,podwise.ai
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,points-media.com
   - DOMAIN-SUFFIX,pokemon.com
@@ -4491,9 +4494,11 @@ payload:
   - DOMAIN-SUFFIX,radiko.jp
   - DOMAIN-SUFFIX,radio-canada.ca
   - DOMAIN-SUFFIX,radio-en-ligne.fr
+  - DOMAIN-SUFFIX,radio.co
   - DOMAIN-SUFFIX,radio.garden
   - DOMAIN-SUFFIX,radioaustralia.net.au
   - DOMAIN-SUFFIX,radiohilight.net
+  - DOMAIN-SUFFIX,radiojar.com
   - DOMAIN-SUFFIX,radioline.co
   - DOMAIN-SUFFIX,radiotime.com
   - DOMAIN-SUFFIX,radiovaticana.org
