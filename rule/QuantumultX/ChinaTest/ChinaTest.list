@@ -1,15 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-14 02:08:30
+# UPDATED: 2025-12-18 02:08:42
 # HOST: 130
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 116801
+# HOST-SUFFIX: 116812
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 116987
+# TOTAL: 116998
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdn.angruo.com,ChinaTest
@@ -29322,6 +29322,7 @@ HOST-SUFFIX,ctans.com,ChinaTest
 HOST-SUFFIX,ctaoci.com,ChinaTest
 HOST-SUFFIX,ctaweb.org,ChinaTest
 HOST-SUFFIX,ctb50.com,ChinaTest
+HOST-SUFFIX,ctbcdn.com,ChinaTest
 HOST-SUFFIX,ctbcleasing.com,ChinaTest
 HOST-SUFFIX,ctbjia888.com,ChinaTest
 HOST-SUFFIX,ctbpsp.com,ChinaTest
@@ -29332,6 +29333,7 @@ HOST-SUFFIX,ctc.lol,ChinaTest
 HOST-SUFFIX,ctc100.com,ChinaTest
 HOST-SUFFIX,ctcai.com,ChinaTest
 HOST-SUFFIX,ctcdn.com,ChinaTest
+HOST-SUFFIX,ctcdnov.net,ChinaTest
 HOST-SUFFIX,ctce8.com,ChinaTest
 HOST-SUFFIX,ctcefive.com,ChinaTest
 HOST-SUFFIX,ctcloudmeeting.com,ChinaTest
@@ -29345,6 +29347,7 @@ HOST-SUFFIX,ctcsz.com,ChinaTest
 HOST-SUFFIX,ctcwri.org,ChinaTest
 HOST-SUFFIX,ctcxzgs.com,ChinaTest
 HOST-SUFFIX,ctdatacare.com,ChinaTest
+HOST-SUFFIX,ctdcdn.com,ChinaTest
 HOST-SUFFIX,ctdcn.com,ChinaTest
 HOST-SUFFIX,ctdisk.com,ChinaTest
 HOST-SUFFIX,ctdns.net,ChinaTest
@@ -29365,6 +29368,7 @@ HOST-SUFFIX,ctfmall.com,ChinaTest
 HOST-SUFFIX,ctfo.com,ChinaTest
 HOST-SUFFIX,ctftools.com,ChinaTest
 HOST-SUFFIX,ctgapp.com,ChinaTest
+HOST-SUFFIX,ctgcdn.com,ChinaTest
 HOST-SUFFIX,ctghealthy.com,ChinaTest
 HOST-SUFFIX,ctghr.com,ChinaTest
 HOST-SUFFIX,ctghro.com,ChinaTest
@@ -29395,6 +29399,7 @@ HOST-SUFFIX,ctjsoft.com,ChinaTest
 HOST-SUFFIX,ctkon.com,ChinaTest
 HOST-SUFFIX,ctkq.com,ChinaTest
 HOST-SUFFIX,ctlcdn.com,ChinaTest
+HOST-SUFFIX,ctlcdn.net,ChinaTest
 HOST-SUFFIX,ctlife.tv,ChinaTest
 HOST-SUFFIX,ctma.net,ChinaTest
 HOST-SUFFIX,ctmcq.com,ChinaTest
@@ -29409,9 +29414,11 @@ HOST-SUFFIX,ctnz.net,ChinaTest
 HOST-SUFFIX,ctocio.com,ChinaTest
 HOST-SUFFIX,ctoclub.com,ChinaTest
 HOST-SUFFIX,ctongonline.com,ChinaTest
+HOST-SUFFIX,ctovcdn.com,ChinaTest
 HOST-SUFFIX,ctpdd.com,ChinaTest
 HOST-SUFFIX,ctracer.net,ChinaTest
 HOST-SUFFIX,ctrcw.net,ChinaTest
+HOST-SUFFIX,ctrender.com,ChinaTest
 HOST-SUFFIX,ctrip-ttd.hk,ChinaTest
 HOST-SUFFIX,ctripc.com,ChinaTest
 HOST-SUFFIX,ctripcorp.com,ChinaTest
@@ -29448,6 +29455,7 @@ HOST-SUFFIX,ctxcdn.com,ChinaTest
 HOST-SUFFIX,ctxcdn.net,ChinaTest
 HOST-SUFFIX,ctxcollect.com,ChinaTest
 HOST-SUFFIX,ctxcpa.com,ChinaTest
+HOST-SUFFIX,ctxirang.com,ChinaTest
 HOST-SUFFIX,cty9.com,ChinaTest
 HOST-SUFFIX,ctycdn.com,ChinaTest
 HOST-SUFFIX,ctycdn.net,ChinaTest
@@ -29456,6 +29464,9 @@ HOST-SUFFIX,ctyo.com,ChinaTest
 HOST-SUFFIX,ctyun.net,ChinaTest
 HOST-SUFFIX,ctyun.online,ChinaTest
 HOST-SUFFIX,ctyuncdn.net,ChinaTest
+HOST-SUFFIX,ctyuninner.com,ChinaTest
+HOST-SUFFIX,ctyunwaf.com,ChinaTest
+HOST-SUFFIX,ctyunwaf1.com,ChinaTest
 HOST-SUFFIX,ctzb.com,ChinaTest
 HOST-SUFFIX,ctzcdn.com,ChinaTest
 HOST-SUFFIX,ctzg.com,ChinaTest
