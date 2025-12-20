@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-16 02:08:31
+# UPDATED: 2025-12-20 02:08:18
 # HOST: 19
 # HOST-KEYWORD: 26
-# HOST-SUFFIX: 7037
+# HOST-SUFFIX: 7039
 # IP-CIDR: 93
 # IP6-CIDR: 4
 # USER-AGENT: 8
-# TOTAL: 7187
+# TOTAL: 7189
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -683,6 +683,7 @@ HOST-SUFFIX,bit.com,Proxy
 HOST-SUFFIX,bit.do,Proxy
 HOST-SUFFIX,bit.ly,Proxy
 HOST-SUFFIX,bit.no.com,Proxy
+HOST-SUFFIX,bitbaby.com,Proxy
 HOST-SUFFIX,bitbay.net,Proxy
 HOST-SUFFIX,bitbucket.org,Proxy
 HOST-SUFFIX,bitc.bme.emory.edu,Proxy
@@ -3123,6 +3124,7 @@ HOST-SUFFIX,icons8.com,Proxy
 HOST-SUFFIX,icu-project.org,Proxy
 HOST-SUFFIX,id.hao123.com,Proxy
 HOST-SUFFIX,idaiwan.com,Proxy
+HOST-SUFFIX,idcflare.com,Proxy
 HOST-SUFFIX,iddddg.com,Proxy
 HOST-SUFFIX,idemocracy.asia,Proxy
 HOST-SUFFIX,identi.ca,Proxy

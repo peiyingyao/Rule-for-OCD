@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-18 02:08:03
+# UPDATED: 2025-12-20 02:07:58
 # DOMAIN: 117
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32337
+# DOMAIN-SUFFIX: 32340
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32607
+# TOTAL: 32610
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -2638,6 +2638,7 @@ payload:
   - '+.awlc.ac.uk'
   - '+.aws-iot-hackathon.com'
   - '+.aws.com'
+  - '+.aws.dev'
   - '+.awsapprunner.com'
   - '+.awsapps.com'
   - '+.awsautopilot.com'
@@ -26600,6 +26601,7 @@ payload:
   - '+.bit.do'
   - '+.bit.ly'
   - '+.bit.no.com'
+  - '+.bitbaby.com'
   - '+.bitbay.net'
   - '+.bitbucket.org'
   - '+.bitchute.com'
@@ -28642,6 +28644,7 @@ payload:
   - '+.icu-project.org'
   - '+.id.hao123.com'
   - '+.idaiwan.com'
+  - '+.idcflare.com'
   - '+.iddddg.com'
   - '+.idemocracy.asia'
   - '+.identi.ca'
