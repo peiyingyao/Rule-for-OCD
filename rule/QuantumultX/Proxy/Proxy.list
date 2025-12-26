@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-24 02:08:18
+# UPDATED: 2025-12-26 02:08:27
 # HOST: 19
 # HOST-KEYWORD: 26
-# HOST-SUFFIX: 7041
+# HOST-SUFFIX: 7042
 # IP-CIDR: 93
 # IP6-CIDR: 4
 # USER-AGENT: 8
-# TOTAL: 7191
+# TOTAL: 7192
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -4198,6 +4198,7 @@ HOST-SUFFIX,nekoslovakia.net,Proxy
 HOST-SUFFIX,neo-miracle.com,Proxy
 HOST-SUFFIX,neoforged.net,Proxy
 HOST-SUFFIX,neowin.net,Proxy
+HOST-SUFFIX,nephobox.com,Proxy
 HOST-SUFFIX,netalert.me,Proxy
 HOST-SUFFIX,netbirds.com,Proxy
 HOST-SUFFIX,netcolony.com,Proxy

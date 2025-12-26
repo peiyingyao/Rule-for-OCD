@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-24 02:08:18
+# UPDATED: 2025-12-26 02:08:27
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6563
+# DOMAIN-SUFFIX: 6564
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6695
+# TOTAL: 6696
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -3795,6 +3795,7 @@ payload:
   - DOMAIN-SUFFIX,neo-miracle.com
   - DOMAIN-SUFFIX,neoforged.net
   - DOMAIN-SUFFIX,neowin.net
+  - DOMAIN-SUFFIX,nephobox.com
   - DOMAIN-SUFFIX,netalert.me
   - DOMAIN-SUFFIX,netbirds.com
   - DOMAIN-SUFFIX,netcolony.com
