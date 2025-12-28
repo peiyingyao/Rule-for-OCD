@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-26 02:08:50
+# UPDATED: 2025-12-28 02:08:33
 # DOMAIN: 131
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 115388
+# DOMAIN-SUFFIX: 115391
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 115543
+# TOTAL: 115546
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -24560,6 +24560,7 @@ payload:
   - DOMAIN-SUFFIX,chinaorff.org
   - DOMAIN-SUFFIX,chinaorganicchem.com
   - DOMAIN-SUFFIX,chinaorientgroup.com
+  - DOMAIN-SUFFIX,chinaott.com
   - DOMAIN-SUFFIX,chinaott.net
   - DOMAIN-SUFFIX,chinapag.com
   - DOMAIN-SUFFIX,chinapandi.com
@@ -48289,6 +48290,7 @@ payload:
   - DOMAIN-SUFFIX,hijin.vip
   - DOMAIN-SUFFIX,hijoys.com
   - DOMAIN-SUFFIX,hik-cloud.com
+  - DOMAIN-SUFFIX,hik-express.com
   - DOMAIN-SUFFIX,hik-park.com
   - DOMAIN-SUFFIX,hikailink.com
   - DOMAIN-SUFFIX,hikari-ch.com
@@ -48298,6 +48300,7 @@ payload:
   - DOMAIN-SUFFIX,hikerfans.com
   - DOMAIN-SUFFIX,hikihj.com
   - DOMAIN-SUFFIX,hikinginternational.com
+  - DOMAIN-SUFFIX,hikiot.com
   - DOMAIN-SUFFIX,hiklife.com
   - DOMAIN-SUFFIX,hikmall.com
   - DOMAIN-SUFFIX,hikoon.com
