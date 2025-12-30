@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-28 02:08:10
+# UPDATED: 2025-12-30 02:08:27
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6565
+# DOMAIN-SUFFIX: 6567
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6705
+# TOTAL: 6707
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -273,6 +273,7 @@ DOMAIN-SUFFIX,alicejapan.co.jp
 DOMAIN-SUFFIX,aliengu.com
 DOMAIN-SUFFIX,alive.bar
 DOMAIN-SUFFIX,aljazeera.com
+DOMAIN-SUFFIX,aljazeera.net
 DOMAIN-SUFFIX,alkasir.com
 DOMAIN-SUFFIX,all4mom.org
 DOMAIN-SUFFIX,allcoin.com
@@ -2206,6 +2207,7 @@ DOMAIN-SUFFIX,gfw.org.ua
 DOMAIN-SUFFIX,gfw.press
 DOMAIN-SUFFIX,gfw.report
 DOMAIN-SUFFIX,gfwatch.org
+DOMAIN-SUFFIX,gfwbao.com
 DOMAIN-SUFFIX,gfwlist.end
 DOMAIN-SUFFIX,gfwlist.start
 DOMAIN-SUFFIX,gfx.ms
