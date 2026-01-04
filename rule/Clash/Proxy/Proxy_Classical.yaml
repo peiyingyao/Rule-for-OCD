@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-30 02:08:27
+# UPDATED: 2026-01-04 02:08:18
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6567
+# DOMAIN-SUFFIX: 6578
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6699
+# TOTAL: 6710
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -4204,6 +4204,7 @@ payload:
   - DOMAIN-SUFFIX,pdetails.com
   - DOMAIN-SUFFIX,pdfexpert.com
   - DOMAIN-SUFFIX,pdproxy.com
+  - DOMAIN-SUFFIX,pdst.fm
   - DOMAIN-SUFFIX,peace.ca
   - DOMAIN-SUFFIX,peacefire.org
   - DOMAIN-SUFFIX,peacehall.com
@@ -4272,14 +4273,23 @@ payload:
   - DOMAIN-SUFFIX,pinoy-n.com
   - DOMAIN-SUFFIX,pinterest.at
   - DOMAIN-SUFFIX,pinterest.ca
+  - DOMAIN-SUFFIX,pinterest.cl
   - DOMAIN-SUFFIX,pinterest.co.kr
   - DOMAIN-SUFFIX,pinterest.co.uk
   - DOMAIN-SUFFIX,pinterest.com
+  - DOMAIN-SUFFIX,pinterest.com.au
+  - DOMAIN-SUFFIX,pinterest.com.mx
   - DOMAIN-SUFFIX,pinterest.de
   - DOMAIN-SUFFIX,pinterest.dk
+  - DOMAIN-SUFFIX,pinterest.es
   - DOMAIN-SUFFIX,pinterest.fr
+  - DOMAIN-SUFFIX,pinterest.ie
+  - DOMAIN-SUFFIX,pinterest.it
   - DOMAIN-SUFFIX,pinterest.jp
   - DOMAIN-SUFFIX,pinterest.nl
+  - DOMAIN-SUFFIX,pinterest.nz
+  - DOMAIN-SUFFIX,pinterest.ph
+  - DOMAIN-SUFFIX,pinterest.pt
   - DOMAIN-SUFFIX,pinterest.se
   - DOMAIN-SUFFIX,pipii.tv
   - DOMAIN-SUFFIX,piposay.com
@@ -5823,6 +5833,7 @@ payload:
   - DOMAIN-SUFFIX,untraceable.us
   - DOMAIN-SUFFIX,unwire.hk
   - DOMAIN-SUFFIX,uocn.org
+  - DOMAIN-SUFFIX,up.audio
   - DOMAIN-SUFFIX,upbit.com
   - DOMAIN-SUFFIX,updatestar.com
   - DOMAIN-SUFFIX,upghsbc.com

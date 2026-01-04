@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-30 02:08:28
+# UPDATED: 2026-01-04 02:08:20
 # HOST: 19
 # HOST-KEYWORD: 26
-# HOST-SUFFIX: 7045
+# HOST-SUFFIX: 7056
 # IP-CIDR: 93
 # IP6-CIDR: 4
 # USER-AGENT: 8
-# TOTAL: 7195
+# TOTAL: 7206
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -4612,6 +4612,7 @@ HOST-SUFFIX,pct.org.tw,Proxy
 HOST-SUFFIX,pdetails.com,Proxy
 HOST-SUFFIX,pdfexpert.com,Proxy
 HOST-SUFFIX,pdproxy.com,Proxy
+HOST-SUFFIX,pdst.fm,Proxy
 HOST-SUFFIX,peace.ca,Proxy
 HOST-SUFFIX,peacefire.org,Proxy
 HOST-SUFFIX,peacehall.com,Proxy
@@ -4680,14 +4681,23 @@ HOST-SUFFIX,pinkrod.com,Proxy
 HOST-SUFFIX,pinoy-n.com,Proxy
 HOST-SUFFIX,pinterest.at,Proxy
 HOST-SUFFIX,pinterest.ca,Proxy
+HOST-SUFFIX,pinterest.cl,Proxy
 HOST-SUFFIX,pinterest.co.kr,Proxy
 HOST-SUFFIX,pinterest.co.uk,Proxy
 HOST-SUFFIX,pinterest.com,Proxy
+HOST-SUFFIX,pinterest.com.au,Proxy
+HOST-SUFFIX,pinterest.com.mx,Proxy
 HOST-SUFFIX,pinterest.de,Proxy
 HOST-SUFFIX,pinterest.dk,Proxy
+HOST-SUFFIX,pinterest.es,Proxy
 HOST-SUFFIX,pinterest.fr,Proxy
+HOST-SUFFIX,pinterest.ie,Proxy
+HOST-SUFFIX,pinterest.it,Proxy
 HOST-SUFFIX,pinterest.jp,Proxy
 HOST-SUFFIX,pinterest.nl,Proxy
+HOST-SUFFIX,pinterest.nz,Proxy
+HOST-SUFFIX,pinterest.ph,Proxy
+HOST-SUFFIX,pinterest.pt,Proxy
 HOST-SUFFIX,pinterest.se,Proxy
 HOST-SUFFIX,pipii.tv,Proxy
 HOST-SUFFIX,piposay.com,Proxy
@@ -6290,6 +6300,7 @@ HOST-SUFFIX,unstable.icu,Proxy
 HOST-SUFFIX,untraceable.us,Proxy
 HOST-SUFFIX,unwire.hk,Proxy
 HOST-SUFFIX,uocn.org,Proxy
+HOST-SUFFIX,up.audio,Proxy
 HOST-SUFFIX,upbit.com,Proxy
 HOST-SUFFIX,updatestar.com,Proxy
 HOST-SUFFIX,upghsbc.com,Proxy
