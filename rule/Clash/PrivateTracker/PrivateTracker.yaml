@@ -1,17 +1,18 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-01-04 02:09:16
-# DOMAIN: 122
+# UPDATED: 2026-01-06 02:09:10
+# DOMAIN: 119
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 123
 # IP-CIDR: 4
-# TOTAL: 253
+# TOTAL: 250
 payload:
   - DOMAIN,1337.abcvg.info
   - DOMAIN,6ahddutb1ucc3cp.ru
   - DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
-  - DOMAIN,anna.bt.bontal.net
+  - DOMAIN,admin.52ywp.com
+  - DOMAIN,bandito.byterunner.io
   - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN,bt.bontal.net
   - DOMAIN,bt.okmp3.ru
@@ -19,10 +20,10 @@ payload:
   - DOMAIN,burmese.app
   - DOMAIN,bvarf.tracker.sh
   - DOMAIN,cny.fan
+  - DOMAIN,colivioo.com
   - DOMAIN,concen.org
   - DOMAIN,d40969.acod.regrucolo.ru
   - DOMAIN,echostar.ddnsfree.com
-  - DOMAIN,evan.im
   - DOMAIN,exodus.desync.com
   - DOMAIN,explodie.org
   - DOMAIN,extracker.dahrkael.net
@@ -39,7 +40,6 @@ payload:
   - DOMAIN,open.acgtracker.com
   - DOMAIN,open.demonii.com
   - DOMAIN,open.demonoid.ch
-  - DOMAIN,open.dstud.io
   - DOMAIN,open.stealth.si
   - DOMAIN,open.tracker.cl
   - DOMAIN,opentor.org
@@ -69,7 +69,6 @@ payload:
   - DOMAIN,tracker.beeimg.com
   - DOMAIN,tracker.bittor.pw
   - DOMAIN,tracker.bluefrog.pw
-  - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bt4g.com
   - DOMAIN,tracker.cutie.dating
   - DOMAIN,tracker.cyberia.is
@@ -82,7 +81,6 @@ payload:
   - DOMAIN,tracker.flatuslifir.is
   - DOMAIN,tracker.fnix.net
   - DOMAIN,tracker.foreverpirates.co
-  - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,tracker.ghostchu-services.top
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.internetwarriors.net
@@ -102,7 +100,6 @@ payload:
   - DOMAIN,tracker.pmman.tech
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.renfei.net
-  - DOMAIN,tracker.skynetcloud.site
   - DOMAIN,tracker.skyts.net
   - DOMAIN,tracker.soshifanclub.com
   - DOMAIN,tracker.srv00.com
@@ -110,7 +107,6 @@ payload:
   - DOMAIN,tracker.therarbg.to
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,tracker.torrust-demo.com
-  - DOMAIN,tracker.tricitytorrents.com
   - DOMAIN,tracker.tritan.gg
   - DOMAIN,tracker.tryhackx.org
   - DOMAIN,tracker.tvunderground.org.ru
@@ -126,6 +122,7 @@ payload:
   - DOMAIN,tracker3.t-1.org
   - DOMAIN,tracker4.itzmx.com
   - DOMAIN,udp.tracker.projectk.org
+  - DOMAIN,utracker.ghostchu-services.top
   - DOMAIN,v74853.hosted-by-vdsina.com
   - DOMAIN,www.all4nothin.net
   - DOMAIN,www.torrent.eu.org
