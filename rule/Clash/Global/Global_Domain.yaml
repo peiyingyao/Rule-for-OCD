@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-01-16 02:11:53
+# UPDATED: 2026-01-18 02:07:27
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32591
+# DOMAIN-SUFFIX: 32598
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32858
+# TOTAL: 32865
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -17242,8 +17242,12 @@ payload:
   - '+.ntdca.com'
   - '+.ntdimg.com'
   - '+.ntdtv-dc.com'
+  - '+.ntdtv.co.il'
   - '+.ntdtv.com'
+  - '+.ntdtv.fr'
   - '+.ntdtv.kr'
+  - '+.ntdtv.se'
+  - '+.ntdvideo.tw'
   - '+.ntdvn.com'
   - '+.ntec.ac.uk'
   - '+.ntfs.ac.uk'
@@ -25281,6 +25285,7 @@ payload:
   - '+.xtubebdsm.com'
   - '+.xtubezoo.com'
   - '+.xujan.com'
+  - '+.xv-ru.com'
   - '+.xv1.monster'
   - '+.xvds.tv'
   - '+.xvedo.net'
@@ -25292,7 +25297,9 @@ payload:
   - '+.xvideo1.org'
   - '+.xvideo2.org'
   - '+.xvideoporno.tv'
+  - '+.xvideos-ar.com'
   - '+.xvideos-dl.top'
+  - '+.xvideos-india.com'
   - '+.xvideos-porn-video.com'
   - '+.xvideos-xxxx.com'
   - '+.xvideos.blog'
