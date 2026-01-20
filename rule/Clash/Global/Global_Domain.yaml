@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-01-18 02:07:27
-# DOMAIN: 114
+# UPDATED: 2026-01-20 02:07:58
+# DOMAIN: 115
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32598
+# DOMAIN-SUFFIX: 32604
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32865
+# TOTAL: 32872
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -80,6 +80,7 @@ payload:
   - 'practivate.adobe.ipp'
   - 'practivate.adobe.newoa'
   - 'practivate.adobe.ntp'
+  - 'pubg1.battleye.com'
   - 'public-us-pingsx.api.clonoth.com'
   - 'push-apple.com.akadns.net'
   - 'qualcomm.sc.omtrdc.net'
@@ -13775,6 +13776,7 @@ payload:
   - '+.kpht85.com'
   - '+.kpinsurances.com'
   - '+.kpptoto.info'
+  - '+.kraftonde.com'
   - '+.kraken.onl'
   - '+.krakenjs.com'
   - '+.krhentai.com'
@@ -16291,7 +16293,6 @@ payload:
   - '+.mytimesplus.co.uk'
   - '+.mytrannycams.com'
   - '+.mytving.com'
-  - '+.mytvsuper.com'
   - '+.myvisaluxuryhotels.com'
   - '+.myvodafone.com.au'
   - '+.myvodafone.com.ws'
@@ -18486,6 +18487,7 @@ payload:
   - '+.play4free.com'
   - '+.playapex.com'
   - '+.playbar.biz'
+  - '+.playbattlegrounds.com'
   - '+.playbydurex.com'
   - '+.playcover.io'
   - '+.playerjs.io'
@@ -19185,6 +19187,7 @@ payload:
   - '+.ptt3.cc'
   - '+.ptzwx.com'
   - '+.pub.dev'
+  - '+.pubg.com'
   - '+.public-sex-porn.com'
   - '+.public-trust.com'
   - '+.publicagentxxx.com'
@@ -23064,7 +23067,6 @@ payload:
   - '+.tutanota.de'
   - '+.tvappstore.net'
   - '+.tvb.com.au'
-  - '+.tvbanywhere.com'
   - '+.tvbanywhere.com.sg'
   - '+.tvbeventpower.com.hk'
   - '+.tvbusa.com'
@@ -26529,7 +26531,10 @@ payload:
   - '+.animecrazy.net'
   - '+.animeshippuuden.com'
   - '+.aniscartujo.com'
+  - '+.annas-archive.in'
+  - '+.annas-archive.li'
   - '+.annas-archive.org'
+  - '+.annas-archive.pm'
   - '+.annas-archive.se'
   - '+.annatam.com'
   - '+.anobii.com'
@@ -29891,6 +29896,7 @@ payload:
   - '+.mytalkbox.com'
   - '+.myteamspeak.com'
   - '+.mytizi.com'
+  - '+.mytvsuper.com'
   - '+.mywife.cc'
   - '+.mywww.biz'
   - '+.myz.info'
@@ -31792,6 +31798,7 @@ payload:
   - '+.tv.com'
   - '+.tvants.com'
   - '+.tvb.com'
+  - '+.tvbanywhere.com'
   - '+.tvboxnow.com'
   - '+.tvbs.com.tw'
   - '+.tvider.com'

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-01-18 02:07:27
-# DOMAIN: 114
+# UPDATED: 2026-01-20 02:07:58
+# DOMAIN: 115
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32598
+# DOMAIN-SUFFIX: 32604
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32865
+# TOTAL: 32872
 payload:
   - DOMAIN-KEYWORD,amazon
   - DOMAIN-KEYWORD,avoddashs
