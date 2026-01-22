@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-01-20 02:08:18
+# UPDATED: 2026-01-22 02:17:22
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6588
+# DOMAIN-SUFFIX: 6590
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6720
+# TOTAL: 6722
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -6143,6 +6143,7 @@ DOMAIN-SUFFIX,weekmag.info
 DOMAIN-SUFFIX,wefightcensorship.org
 DOMAIN-SUFFIX,wefong.com
 DOMAIN-SUFFIX,weiboleak.com
+DOMAIN-SUFFIX,weights.com
 DOMAIN-SUFFIX,weihuo.org
 DOMAIN-SUFFIX,weijingsheng.org
 DOMAIN-SUFFIX,weiming.info
@@ -6481,6 +6482,7 @@ DOMAIN-SUFFIX,youdontcare.com
 DOMAIN-SUFFIX,youjizz.com
 DOMAIN-SUFFIX,youlucky.com
 DOMAIN-SUFFIX,youmaker.com
+DOMAIN-SUFFIX,youmind.com
 DOMAIN-SUFFIX,youngspiration.hk
 DOMAIN-SUFFIX,youpai.org
 DOMAIN-SUFFIX,your-freedom.net
