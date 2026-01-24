@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-01-22 02:17:02
+# UPDATED: 2026-01-24 02:08:28
 # DOMAIN: 117
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32576
+# DOMAIN-SUFFIX: 32581
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32846
+# TOTAL: 32851
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -8068,6 +8068,8 @@ payload:
   - '+.encoretvb.com'
   - '+.encryptedsni.com'
   - '+.encuentroscasualesoecuador.com'
+  - '+.eneba.com'
+  - '+.eneba.games'
   - '+.enema-porn.com'
   - '+.enema-videos.com'
   - '+.enemabasics.com'
@@ -9923,6 +9925,7 @@ payload:
   - '+.gentoo.org'
   - '+.geobasket.ru'
   - '+.geodesummit.com'
+  - '+.geogebra.org'
   - '+.geohazard.ac.uk'
   - '+.geolytics.com'
   - '+.geoport.com'
@@ -17550,6 +17553,7 @@ payload:
   - '+.okx-dns.com'
   - '+.okx-dns1.com'
   - '+.okx-dns2.com'
+  - '+.okx.cab'
   - '+.olabloga.pl'
   - '+.oldbury.ac.uk'
   - '+.older-women-movies.com'
@@ -24709,6 +24713,7 @@ payload:
   - '+.wiiugamepad.com'
   - '+.wiivc.net'
   - '+.wikawika.xyz'
+  - '+.wiki.gg'
   - '+.wikia.nocookie.net'
   - '+.wikia.org'
   - '+.wikidot.com'
