@@ -12,15 +12,15 @@ LineTV规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-06-06 09:16:59
+最后更新时间：2026-01-26 02:08:21
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 3  | 
 | DOMAIN-SUFFIX | 5  | 
-| USER-AGENT | 2  | 
-| TOTAL | 10  | 
+| USER-AGENT | 1  | 
+| TOTAL | 9  | 
 
 
 ## Loon 
