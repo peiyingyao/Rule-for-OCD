@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-01-30 02:13:29
+# UPDATED: 2026-02-01 02:08:23
 # DOMAIN: 116
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32598
+# DOMAIN-SUFFIX: 32606
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32867
+# TOTAL: 32875
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -346,6 +346,7 @@ payload:
   - DOMAIN-SUFFIX,2kgames.com
   - DOMAIN-SUFFIX,2lib.org
   - DOMAIN-SUFFIX,2mdn-cn.net
+  - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,30plusgirls.com
   - DOMAIN-SUFFIX,35s4.com
   - DOMAIN-SUFFIX,360autodesk.com
@@ -2356,11 +2357,13 @@ payload:
   - DOMAIN-SUFFIX,ateam-oracle.com
   - DOMAIN-SUFFIX,athens.ac.uk
   - DOMAIN-SUFFIX,atkgallery.com
+  - DOMAIN-SUFFIX,atl-paas.net
   - DOMAIN-SUFFIX,atlantaminidealers.com
   - DOMAIN-SUFFIX,atlars.ac.uk
   - DOMAIN-SUFFIX,atlas.ac.uk
   - DOMAIN-SUFFIX,atlasdmt.com
   - DOMAIN-SUFFIX,atlasonepoint.com
+  - DOMAIN-SUFFIX,atlassian-dev.net
   - DOMAIN-SUFFIX,atlassian.com
   - DOMAIN-SUFFIX,atlassian.net
   - DOMAIN-SUFFIX,atom.io
@@ -9303,6 +9306,9 @@ payload:
   - DOMAIN-SUFFIX,fotolja.com
   - DOMAIN-SUFFIX,fotoscaserasx.com
   - DOMAIN-SUFFIX,foundationdb.org
+  - DOMAIN-SUFFIX,foundationdns.com
+  - DOMAIN-SUFFIX,foundationdns.net
+  - DOMAIN-SUFFIX,foundationdns.org
   - DOMAIN-SUFFIX,foundationyear.ac.uk
   - DOMAIN-SUFFIX,fourthns.systems
   - DOMAIN-SUFFIX,fox-corporation.com
@@ -9563,7 +9569,6 @@ payload:
   - DOMAIN-SUFFIX,freesexyindians.org
   - DOMAIN-SUFFIX,freesitexxx.com
   - DOMAIN-SUFFIX,freessl.com
-  - DOMAIN-SUFFIX,freeterabox.com
   - DOMAIN-SUFFIX,freeuseporn.com
   - DOMAIN-SUFFIX,freeviewplus.net.au
   - DOMAIN-SUFFIX,freexvideos.org
@@ -13257,6 +13262,7 @@ payload:
   - DOMAIN-SUFFIX,jinmantiankong.com
   - DOMAIN-SUFFIX,jinnaju.com
   - DOMAIN-SUFFIX,jinsilubanzhao.com
+  - DOMAIN-SUFFIX,jira.com
   - DOMAIN-SUFFIX,jisc-collections.ac.uk
   - DOMAIN-SUFFIX,jisc-content.ac.uk
   - DOMAIN-SUFFIX,jisc-liberate-migrate1.ac.uk
@@ -21543,6 +21549,7 @@ payload:
   - DOMAIN-SUFFIX,srttu.edu
   - DOMAIN-SUFFIX,sruc.ac.uk
   - DOMAIN-SUFFIX,srwwu.uno
+  - DOMAIN-SUFFIX,ss-inf.net
   - DOMAIN-SUFFIX,ss2.us
   - DOMAIN-SUFFIX,ss7.app
   - DOMAIN-SUFFIX,ssdevrd.com
@@ -25692,7 +25699,6 @@ payload:
   - DOMAIN-SUFFIX,yeyuehuachao11.com
   - DOMAIN-SUFFIX,yeyuehuachao12.com
   - DOMAIN-SUFFIX,yeyuehuachao13.com
-  - DOMAIN-SUFFIX,yfsp.tv
   - DOMAIN-SUFFIX,yft-mv.sbs
   - DOMAIN-SUFFIX,ygugu4.com
   - DOMAIN-SUFFIX,yhelln.ac.uk
@@ -26267,7 +26273,6 @@ payload:
   - DOMAIN-SUFFIX,25u.com
   - DOMAIN-SUFFIX,2du5.com
   - DOMAIN-SUFFIX,2lipstube.com
-  - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,2shared.com
   - DOMAIN-SUFFIX,2waky.com
   - DOMAIN-SUFFIX,3-a.net
@@ -28182,6 +28187,7 @@ payload:
   - DOMAIN-SUFFIX,freess.org
   - DOMAIN-SUFFIX,freessh.us
   - DOMAIN-SUFFIX,freetcp.com
+  - DOMAIN-SUFFIX,freeterabox.com
   - DOMAIN-SUFFIX,freetibet.net
   - DOMAIN-SUFFIX,freetibet.org
   - DOMAIN-SUFFIX,freetibetanheroes.org
@@ -31001,6 +31007,7 @@ payload:
   - DOMAIN-SUFFIX,sijihuisuo.com
   - DOMAIN-SUFFIX,silkbook.com
   - DOMAIN-SUFFIX,silvergatebank.com
+  - DOMAIN-SUFFIX,simianx.ai
   - DOMAIN-SUFFIX,simp.ly
   - DOMAIN-SUFFIX,simplecd.me
   - DOMAIN-SUFFIX,simplecd.org
@@ -32573,6 +32580,7 @@ payload:
   - DOMAIN-SUFFIX,yesasia.com
   - DOMAIN-SUFFIX,yesasia.com.hk
   - DOMAIN-SUFFIX,yeyeclub.com
+  - DOMAIN-SUFFIX,yfsp.tv
   - DOMAIN-SUFFIX,ygto.com
   - DOMAIN-SUFFIX,yhcw.net
   - DOMAIN-SUFFIX,yibada.com
