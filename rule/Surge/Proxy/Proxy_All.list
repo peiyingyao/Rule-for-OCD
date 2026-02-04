@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-02 02:09:56
+# UPDATED: 2026-02-04 02:21:28
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6595
+# DOMAIN-SUFFIX: 6596
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6735
+# TOTAL: 6736
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -5211,6 +5211,7 @@ DOMAIN-SUFFIX,tafm.org
 DOMAIN-SUFFIX,tagwa.org.au
 DOMAIN-SUFFIX,tagwalk.com
 DOMAIN-SUFFIX,tahr.org.tw
+DOMAIN-SUFFIX,tails.net
 DOMAIN-SUFFIX,taipei.gov.tw
 DOMAIN-SUFFIX,taipeisociety.org
 DOMAIN-SUFFIX,taipeitimes.com
