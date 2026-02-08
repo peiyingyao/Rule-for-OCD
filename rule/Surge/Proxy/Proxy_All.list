@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-06 02:20:07
+# UPDATED: 2026-02-08 02:10:00
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6597
+# DOMAIN-SUFFIX: 6601
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6737
+# TOTAL: 6741
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -680,6 +680,7 @@ DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,bitshare.com
 DOMAIN-SUFFIX,bitsnoop.com
 DOMAIN-SUFFIX,bitterwinter.org
+DOMAIN-SUFFIX,bittorrent.com
 DOMAIN-SUFFIX,bitvise.com
 DOMAIN-SUFFIX,bitz.ai
 DOMAIN-SUFFIX,bizhat.com
@@ -2367,6 +2368,7 @@ DOMAIN-SUFFIX,greenvpn.net
 DOMAIN-SUFFIX,greenvpn.org
 DOMAIN-SUFFIX,grindr.com
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,grotty-monday.com
 DOMAIN-SUFFIX,ground.news
 DOMAIN-SUFFIX,gs-discuss.com
@@ -2468,6 +2470,7 @@ DOMAIN-SUFFIX,helplinfen.com
 DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,helpster.de
 DOMAIN-SUFFIX,helpzhuling.org
+DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,hentai.to
 DOMAIN-SUFFIX,hentaitube.tv
 DOMAIN-SUFFIX,hentaivideoworld.com
@@ -5916,6 +5919,7 @@ DOMAIN-SUFFIX,uymaarip.com
 DOMAIN-SUFFIX,v.gd
 DOMAIN-SUFFIX,v.roucdn
 DOMAIN-SUFFIX,v2.help
+DOMAIN-SUFFIX,v2.hysteria.network
 DOMAIN-SUFFIX,v2ex.co
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,v2fly.org

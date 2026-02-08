@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-06 02:20:07
+# UPDATED: 2026-02-08 02:10:01
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6597
+# DOMAIN-SUFFIX: 6601
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6729
+# TOTAL: 6733
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -679,6 +679,7 @@ voice.telephony.goog
 +.bitshare.com
 +.bitsnoop.com
 +.bitterwinter.org
++.bittorrent.com
 +.bitvise.com
 +.bitz.ai
 +.bizhat.com
@@ -2366,6 +2367,7 @@ voice.telephony.goog
 +.greenvpn.org
 +.grindr.com
 +.grok.com
++.grokipedia.com
 +.grotty-monday.com
 +.ground.news
 +.gs-discuss.com
@@ -2467,6 +2469,7 @@ voice.telephony.goog
 +.helpshift.com
 +.helpster.de
 +.helpzhuling.org
++.hembed.com
 +.hentai.to
 +.hentaitube.tv
 +.hentaivideoworld.com
@@ -5915,6 +5918,7 @@ voice.telephony.goog
 +.v.gd
 +.v.roucdn
 +.v2.help
++.v2.hysteria.network
 +.v2ex.co
 +.v2ex.com
 +.v2fly.org
