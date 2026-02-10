@@ -12,17 +12,18 @@ Apple规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2026-01-10 02:06:53
+最后更新时间：2026-02-10 02:18:44
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 10  | 
+| DOMAIN | 9  | 
 | DOMAIN-KEYWORD | 7  | 
-| DOMAIN-SUFFIX | 1549  | 
+| DOMAIN-SUFFIX | 1550  | 
 | IP-CIDR | 10  | 
+| IP-CIDR6 | 3  | 
 | USER-AGENT | 23  | 
-| TOTAL | 1599  | 
+| TOTAL | 1602  | 
 
 
 ## Loon 

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-08 02:09:40
-# DOMAIN: 116
+# UPDATED: 2026-02-10 02:20:02
+# DOMAIN: 117
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32621
+# DOMAIN-SUFFIX: 32646
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32890
+# TOTAL: 32916
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -120,6 +120,7 @@ payload:
   - DOMAIN,widgets.stripst.com
   - DOMAIN,wrds-www.wharton.upenn.edu
   - DOMAIN,www-cdn.icloud.com.akadns.net
+  - DOMAIN,yandex-pogoda.static-storage.net
   - DOMAIN,yangzhi.app
   - DOMAIN,ztedevices.com
   - DOMAIN,api.waqi.info
@@ -343,7 +344,10 @@ payload:
   - DOMAIN-SUFFIX,2gayboys.com
   - DOMAIN-SUFFIX,2k.com
   - DOMAIN-SUFFIX,2kcoretech.online
+  - DOMAIN-SUFFIX,2kct.onl
   - DOMAIN-SUFFIX,2kgames.com
+  - DOMAIN-SUFFIX,2ksports.com
+  - DOMAIN-SUFFIX,2kweb.online
   - DOMAIN-SUFFIX,2lib.org
   - DOMAIN-SUFFIX,2mdn-cn.net
   - DOMAIN-SUFFIX,2mdn.net
@@ -771,6 +775,7 @@ payload:
   - DOMAIN-SUFFIX,acer.ac.uk
   - DOMAIN-SUFFIX,acer.com
   - DOMAIN-SUFFIX,aces.ac.uk
+  - DOMAIN-SUFFIX,acesofthunder.net
   - DOMAIN-SUFFIX,acets.ac.uk
   - DOMAIN-SUFFIX,acgcf.com
   - DOMAIN-SUFFIX,acgdg.com
@@ -804,6 +809,7 @@ payload:
   - DOMAIN-SUFFIX,activatelearning.ac.uk
   - DOMAIN-SUFFIX,activelearnprimary.co.uk
   - DOMAIN-SUFFIX,activelearnprimary.com.au
+  - DOMAIN-SUFFIX,activematter.game
   - DOMAIN-SUFFIX,activeteachonline.com
   - DOMAIN-SUFFIX,actofunion.ac.uk
   - DOMAIN-SUFFIX,actris.ac.uk
@@ -2243,6 +2249,7 @@ payload:
   - DOMAIN-SUFFIX,artsresearchatnorthampton.ac.uk
   - DOMAIN-SUFFIX,artstationmedia.com
   - DOMAIN-SUFFIX,artstor.org
+  - DOMAIN-SUFFIX,artstorm.com
   - DOMAIN-SUFFIX,aru.ac.uk
   - DOMAIN-SUFFIX,arukas.io
   - DOMAIN-SUFFIX,arupoc.ac.uk
@@ -5814,6 +5821,8 @@ payload:
   - DOMAIN-SUFFIX,codei.sh
   - DOMAIN-SUFFIX,codeish.co
   - DOMAIN-SUFFIX,codeish.io
+  - DOMAIN-SUFFIX,codeium.com
+  - DOMAIN-SUFFIX,codeiumdata.com
   - DOMAIN-SUFFIX,codeplex.com
   - DOMAIN-SUFFIX,coderabbit.ai
   - DOMAIN-SUFFIX,codespot.com
@@ -6170,6 +6179,7 @@ payload:
   - DOMAIN-SUFFIX,crossborderexpansion.com
   - DOMAIN-SUFFIX,crossfitfirestone.com
   - DOMAIN-SUFFIX,crossmediapanel.com
+  - DOMAIN-SUFFIX,crossout.net
   - DOMAIN-SUFFIX,crosswalk-project.com
   - DOMAIN-SUFFIX,crosswalk-project.net
   - DOMAIN-SUFFIX,crowdtangle.com
@@ -6180,6 +6190,7 @@ payload:
   - DOMAIN-SUFFIX,croydonsec.ac.uk
   - DOMAIN-SUFFIX,crr.com
   - DOMAIN-SUFFIX,crsbi.ac.uk
+  - DOMAIN-SUFFIX,crsed.net
   - DOMAIN-SUFFIX,crsp.ac.uk
   - DOMAIN-SUFFIX,crtsgfb1.top
   - DOMAIN-SUFFIX,crucible-cetl.ac.uk
@@ -6239,6 +6250,7 @@ payload:
   - DOMAIN-SUFFIX,cttoolkit.ac.uk
   - DOMAIN-SUFFIX,ctv.com.tw
   - DOMAIN-SUFFIX,cubicmotion.com
+  - DOMAIN-SUFFIX,cubicodyssey.game
   - DOMAIN-SUFFIX,cubo.ac.uk
   - DOMAIN-SUFFIX,cuc.ac.uk
   - DOMAIN-SUFFIX,cuckfilmswifefuck.com
@@ -8139,6 +8151,7 @@ payload:
   - DOMAIN-SUFFIX,enhancementthemes.ac.uk
   - DOMAIN-SUFFIX,enjoyasianporn.com
   - DOMAIN-SUFFIX,enjoyfuck.com
+  - DOMAIN-SUFFIX,enlisted.net
   - DOMAIN-SUFFIX,enmat.ac.uk
   - DOMAIN-SUFFIX,enorf.ac.uk
   - DOMAIN-SUFFIX,enos.ac.uk
@@ -9739,6 +9752,8 @@ payload:
   - DOMAIN-SUFFIX,gacebook.com
   - DOMAIN-SUFFIX,gaelicstoryatgu.ac.uk
   - DOMAIN-SUFFIX,gaia.ac.uk
+  - DOMAIN-SUFFIX,gaijin.net
+  - DOMAIN-SUFFIX,gaijinent.com
   - DOMAIN-SUFFIX,gainsborough.ac.uk
   - DOMAIN-SUFFIX,gaito.xyz
   - DOMAIN-SUFFIX,galaxyappstore.com
@@ -15759,6 +15774,7 @@ payload:
   - DOMAIN-SUFFIX,modelsfreecams.com
   - DOMAIN-SUFFIX,modelsofauthority.ac.uk
   - DOMAIN-SUFFIX,modeltv.com
+  - DOMAIN-SUFFIX,modernwarships.com
   - DOMAIN-SUFFIX,modip.ac.uk
   - DOMAIN-SUFFIX,modmedmicro.ac.uk
   - DOMAIN-SUFFIX,modoo.at
@@ -19917,6 +19933,7 @@ payload:
   - DOMAIN-SUFFIX,rocksdb.net
   - DOMAIN-SUFFIX,rocksextube.com
   - DOMAIN-SUFFIX,rockstargames.com
+  - DOMAIN-SUFFIX,rockstarnorth.com
   - DOMAIN-SUFFIX,roco.qq.com
   - DOMAIN-SUFFIX,rodbaston.ac.uk
   - DOMAIN-SUFFIX,roe.ac.uk
@@ -21628,6 +21645,7 @@ payload:
   - DOMAIN-SUFFIX,stanmore.ac.uk
   - DOMAIN-SUFFIX,stanstedairportcollege.ac.uk
   - DOMAIN-SUFFIX,star-brasil.com
+  - DOMAIN-SUFFIX,star-conflict.com
   - DOMAIN-SUFFIX,star-latam.com
   - DOMAIN-SUFFIX,star.ac.uk
   - DOMAIN-SUFFIX,starbucks-stars.com
@@ -24468,6 +24486,7 @@ payload:
   - DOMAIN-SUFFIX,warp.plus
   - DOMAIN-SUFFIX,warr.ac.uk
   - DOMAIN-SUFFIX,warrington.ac.uk
+  - DOMAIN-SUFFIX,warthunder.com
   - DOMAIN-SUFFIX,warwick.ac.uk
   - DOMAIN-SUFFIX,warwickequine.ac.uk
   - DOMAIN-SUFFIX,warwickhri.ac.uk
@@ -24779,6 +24798,8 @@ payload:
   - DOMAIN-SUFFIX,windowssearch.com
   - DOMAIN-SUFFIX,windowsuem.com
   - DOMAIN-SUFFIX,windsor-forest.ac.uk
+  - DOMAIN-SUFFIX,windsurf.build
+  - DOMAIN-SUFFIX,windsurf.com
   - DOMAIN-SUFFIX,windy.com
   - DOMAIN-SUFFIX,winhec.com
   - DOMAIN-SUFFIX,winhec.net
@@ -24950,6 +24971,7 @@ payload:
   - DOMAIN-SUFFIX,wsjwine.com
   - DOMAIN-SUFFIX,wspcr.ac.uk
   - DOMAIN-SUFFIX,wtc.ac.uk
+  - DOMAIN-SUFFIX,wtmobile.com
   - DOMAIN-SUFFIX,wto.org
   - DOMAIN-SUFFIX,wton-acl.ac.uk
   - DOMAIN-SUFFIX,wton-adulteducation.ac.uk
@@ -26204,6 +26226,9 @@ payload:
   - DOMAIN-SUFFIX,zweiporn.com
   - DOMAIN-SUFFIX,zwtvusa.com
   - DOMAIN-SUFFIX,zynaima.com
+  - DOMAIN-SUFFIX,zynga.com
+  - DOMAIN-SUFFIX,zyngaplayersupport.com
+  - DOMAIN-SUFFIX,zyngapoker.com
   - DOMAIN-SUFFIX,zyzc9.com
   - DOMAIN-SUFFIX,zzdh.biz
   - DOMAIN-SUFFIX,zzdh.cc
@@ -32356,6 +32381,7 @@ payload:
   - DOMAIN-SUFFIX,wikipedia.com
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,wikiquote.org
+  - DOMAIN-SUFFIX,wikis.tw
   - DOMAIN-SUFFIX,wikisource.org
   - DOMAIN-SUFFIX,wikiunblocked.org
   - DOMAIN-SUFFIX,wikiversity.org

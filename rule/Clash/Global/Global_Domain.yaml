@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-08 02:09:40
-# DOMAIN: 116
+# UPDATED: 2026-02-10 02:20:02
+# DOMAIN: 117
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32621
+# DOMAIN-SUFFIX: 32646
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32890
+# TOTAL: 32916
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -120,6 +120,7 @@ payload:
   - 'widgets.stripst.com'
   - 'wrds-www.wharton.upenn.edu'
   - 'www-cdn.icloud.com.akadns.net'
+  - 'yandex-pogoda.static-storage.net'
   - 'yangzhi.app'
   - 'ztedevices.com'
   - 'api.waqi.info'
@@ -343,7 +344,10 @@ payload:
   - '+.2gayboys.com'
   - '+.2k.com'
   - '+.2kcoretech.online'
+  - '+.2kct.onl'
   - '+.2kgames.com'
+  - '+.2ksports.com'
+  - '+.2kweb.online'
   - '+.2lib.org'
   - '+.2mdn-cn.net'
   - '+.2mdn.net'
@@ -771,6 +775,7 @@ payload:
   - '+.acer.ac.uk'
   - '+.acer.com'
   - '+.aces.ac.uk'
+  - '+.acesofthunder.net'
   - '+.acets.ac.uk'
   - '+.acgcf.com'
   - '+.acgdg.com'
@@ -804,6 +809,7 @@ payload:
   - '+.activatelearning.ac.uk'
   - '+.activelearnprimary.co.uk'
   - '+.activelearnprimary.com.au'
+  - '+.activematter.game'
   - '+.activeteachonline.com'
   - '+.actofunion.ac.uk'
   - '+.actris.ac.uk'
@@ -2243,6 +2249,7 @@ payload:
   - '+.artsresearchatnorthampton.ac.uk'
   - '+.artstationmedia.com'
   - '+.artstor.org'
+  - '+.artstorm.com'
   - '+.aru.ac.uk'
   - '+.arukas.io'
   - '+.arupoc.ac.uk'
@@ -5814,6 +5821,8 @@ payload:
   - '+.codei.sh'
   - '+.codeish.co'
   - '+.codeish.io'
+  - '+.codeium.com'
+  - '+.codeiumdata.com'
   - '+.codeplex.com'
   - '+.coderabbit.ai'
   - '+.codespot.com'
@@ -6170,6 +6179,7 @@ payload:
   - '+.crossborderexpansion.com'
   - '+.crossfitfirestone.com'
   - '+.crossmediapanel.com'
+  - '+.crossout.net'
   - '+.crosswalk-project.com'
   - '+.crosswalk-project.net'
   - '+.crowdtangle.com'
@@ -6180,6 +6190,7 @@ payload:
   - '+.croydonsec.ac.uk'
   - '+.crr.com'
   - '+.crsbi.ac.uk'
+  - '+.crsed.net'
   - '+.crsp.ac.uk'
   - '+.crtsgfb1.top'
   - '+.crucible-cetl.ac.uk'
@@ -6239,6 +6250,7 @@ payload:
   - '+.cttoolkit.ac.uk'
   - '+.ctv.com.tw'
   - '+.cubicmotion.com'
+  - '+.cubicodyssey.game'
   - '+.cubo.ac.uk'
   - '+.cuc.ac.uk'
   - '+.cuckfilmswifefuck.com'
@@ -8139,6 +8151,7 @@ payload:
   - '+.enhancementthemes.ac.uk'
   - '+.enjoyasianporn.com'
   - '+.enjoyfuck.com'
+  - '+.enlisted.net'
   - '+.enmat.ac.uk'
   - '+.enorf.ac.uk'
   - '+.enos.ac.uk'
@@ -9739,6 +9752,8 @@ payload:
   - '+.gacebook.com'
   - '+.gaelicstoryatgu.ac.uk'
   - '+.gaia.ac.uk'
+  - '+.gaijin.net'
+  - '+.gaijinent.com'
   - '+.gainsborough.ac.uk'
   - '+.gaito.xyz'
   - '+.galaxyappstore.com'
@@ -15759,6 +15774,7 @@ payload:
   - '+.modelsfreecams.com'
   - '+.modelsofauthority.ac.uk'
   - '+.modeltv.com'
+  - '+.modernwarships.com'
   - '+.modip.ac.uk'
   - '+.modmedmicro.ac.uk'
   - '+.modoo.at'
@@ -19917,6 +19933,7 @@ payload:
   - '+.rocksdb.net'
   - '+.rocksextube.com'
   - '+.rockstargames.com'
+  - '+.rockstarnorth.com'
   - '+.roco.qq.com'
   - '+.rodbaston.ac.uk'
   - '+.roe.ac.uk'
@@ -21628,6 +21645,7 @@ payload:
   - '+.stanmore.ac.uk'
   - '+.stanstedairportcollege.ac.uk'
   - '+.star-brasil.com'
+  - '+.star-conflict.com'
   - '+.star-latam.com'
   - '+.star.ac.uk'
   - '+.starbucks-stars.com'
@@ -24468,6 +24486,7 @@ payload:
   - '+.warp.plus'
   - '+.warr.ac.uk'
   - '+.warrington.ac.uk'
+  - '+.warthunder.com'
   - '+.warwick.ac.uk'
   - '+.warwickequine.ac.uk'
   - '+.warwickhri.ac.uk'
@@ -24779,6 +24798,8 @@ payload:
   - '+.windowssearch.com'
   - '+.windowsuem.com'
   - '+.windsor-forest.ac.uk'
+  - '+.windsurf.build'
+  - '+.windsurf.com'
   - '+.windy.com'
   - '+.winhec.com'
   - '+.winhec.net'
@@ -24950,6 +24971,7 @@ payload:
   - '+.wsjwine.com'
   - '+.wspcr.ac.uk'
   - '+.wtc.ac.uk'
+  - '+.wtmobile.com'
   - '+.wto.org'
   - '+.wton-acl.ac.uk'
   - '+.wton-adulteducation.ac.uk'
@@ -26204,6 +26226,9 @@ payload:
   - '+.zweiporn.com'
   - '+.zwtvusa.com'
   - '+.zynaima.com'
+  - '+.zynga.com'
+  - '+.zyngaplayersupport.com'
+  - '+.zyngapoker.com'
   - '+.zyzc9.com'
   - '+.zzdh.biz'
   - '+.zzdh.cc'
@@ -32356,6 +32381,7 @@ payload:
   - '+.wikipedia.com'
   - '+.wikipedia.org'
   - '+.wikiquote.org'
+  - '+.wikis.tw'
   - '+.wikisource.org'
   - '+.wikiunblocked.org'
   - '+.wikiversity.org'
