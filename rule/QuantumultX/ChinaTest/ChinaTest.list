@@ -1,15 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-08 02:10:20
+# UPDATED: 2026-02-12 02:23:13
 # HOST: 133
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 116177
+# HOST-SUFFIX: 116185
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 116366
+# TOTAL: 116374
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdn.angruo.com,ChinaTest
@@ -31023,6 +31023,7 @@ HOST-SUFFIX,ddbqgtxt.cc,ChinaTest
 HOST-SUFFIX,ddcdn.com,ChinaTest
 HOST-SUFFIX,ddcheshi.com,ChinaTest
 HOST-SUFFIX,ddcits.com,ChinaTest
+HOST-SUFFIX,ddcorp.net,ChinaTest
 HOST-SUFFIX,ddcsjw.com,ChinaTest
 HOST-SUFFIX,ddcwl.com,ChinaTest
 HOST-SUFFIX,ddd-china.com,ChinaTest
@@ -31039,6 +31040,7 @@ HOST-SUFFIX,dde-desktop.org,ChinaTest
 HOST-SUFFIX,ddedush.com,ChinaTest
 HOST-SUFFIX,ddfans.com,ChinaTest
 HOST-SUFFIX,ddfchina.com,ChinaTest
+HOST-SUFFIX,ddfresh.net,ChinaTest
 HOST-SUFFIX,ddfzb.com,ChinaTest
 HOST-SUFFIX,ddgjjj.com,ChinaTest
 HOST-SUFFIX,ddguanhuai.com,ChinaTest
@@ -31062,7 +31064,9 @@ HOST-SUFFIX,ddkt365.com,ChinaTest
 HOST-SUFFIX,ddky.com,ChinaTest
 HOST-SUFFIX,ddle.cc,ChinaTest
 HOST-SUFFIX,ddlequ.com,ChinaTest
+HOST-SUFFIX,ddmaicai.net,ChinaTest
 HOST-SUFFIX,ddmap.com,ChinaTest
+HOST-SUFFIX,ddmc.mobi,ChinaTest
 HOST-SUFFIX,ddmer.com,ChinaTest
 HOST-SUFFIX,ddnddn.com,ChinaTest
 HOST-SUFFIX,ddnspod.com,ChinaTest
@@ -50414,6 +50418,7 @@ HOST-SUFFIX,hrsteelpipe.com,ChinaTest
 HOST-SUFFIX,hrtechchina.com,ChinaTest
 HOST-SUFFIX,hrtfin.com,ChinaTest
 HOST-SUFFIX,hrtn.net,ChinaTest
+HOST-SUFFIX,hrtsea.com,ChinaTest
 HOST-SUFFIX,hrtx.com,ChinaTest
 HOST-SUFFIX,hruikang.com,ChinaTest
 HOST-SUFFIX,hrvouge.com,ChinaTest
@@ -54132,6 +54137,7 @@ HOST-SUFFIX,imaginde.com,ChinaTest
 HOST-SUFFIX,imagineadtech.com,ChinaTest
 HOST-SUFFIX,imahui.com,ChinaTest
 HOST-SUFFIX,imaibo.net,ChinaTest
+HOST-SUFFIX,imaicai.mobi,ChinaTest
 HOST-SUFFIX,imaijia.com,ChinaTest
 HOST-SUFFIX,imaitu.com,ChinaTest
 HOST-SUFFIX,imalljoy.com,ChinaTest
@@ -102500,6 +102506,7 @@ HOST-SUFFIX,xhsf.com,ChinaTest
 HOST-SUFFIX,xhslink.com,ChinaTest
 HOST-SUFFIX,xhslw.com,ChinaTest
 HOST-SUFFIX,xhsmlt.com,ChinaTest
+HOST-SUFFIX,xhsrcdn.com,ChinaTest
 HOST-SUFFIX,xhsrmyy.com,ChinaTest
 HOST-SUFFIX,xhsxmt.com,ChinaTest
 HOST-SUFFIX,xhsyqx.com,ChinaTest
@@ -112997,6 +113004,7 @@ HOST-SUFFIX,zhiper.com,ChinaTest
 HOST-SUFFIX,zhipianbang.com,ChinaTest
 HOST-SUFFIX,zhipianbang.vip,ChinaTest
 HOST-SUFFIX,zhipingke.com,ChinaTest
+HOST-SUFFIX,zhipucn.com,ChinaTest
 HOST-SUFFIX,zhipuzi.com,ChinaTest
 HOST-SUFFIX,zhiqi.info,ChinaTest
 HOST-SUFFIX,zhiqiang.org,ChinaTest
