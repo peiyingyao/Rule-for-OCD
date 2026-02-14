@@ -1,9 +1,9 @@
 # NAME: JingDong
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:17:35
-# DOMAIN-SUFFIX: 248
-# TOTAL: 248
+# UPDATED: 2026-02-14 02:16:19
+# DOMAIN-SUFFIX: 249
+# TOTAL: 249
 payload:
   - DOMAIN-SUFFIX,1huizhan.com
   - DOMAIN-SUFFIX,3.cn
@@ -236,6 +236,7 @@ payload:
   - DOMAIN-SUFFIX,qingzhouip.com
   - DOMAIN-SUFFIX,sgsic.com
   - DOMAIN-SUFFIX,shlsyb.com
+  - DOMAIN-SUFFIX,tjjt360.com
   - DOMAIN-SUFFIX,toplife.com
   - DOMAIN-SUFFIX,vg.com
   - DOMAIN-SUFFIX,wanggou.com
