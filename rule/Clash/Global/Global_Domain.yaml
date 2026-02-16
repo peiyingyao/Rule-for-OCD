@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-12 02:22:34
-# DOMAIN: 117
+# UPDATED: 2026-02-16 02:09:40
+# DOMAIN: 118
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32655
+# DOMAIN-SUFFIX: 32674
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32925
+# TOTAL: 32945
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -109,6 +109,7 @@ payload:
   - 'tesla-cdn.thron.com'
   - 'time.windows.com'
   - 'translomatic.foxfortmobile.com'
+  - 'ubisoft.siteintercept.qualtrics.com'
   - 'ut1-time.colorado.edu'
   - 'utcnist.colorado.edu'
   - 'utcnist2.colorado.edu'
@@ -1803,6 +1804,7 @@ payload:
   - '+.apis.ac.uk'
   - '+.apisof.net'
   - '+.apkfind.com'
+  - '+.apkpures.xyz'
   - '+.aple.com'
   - '+.aplestore.com'
   - '+.aplleipods.com'
@@ -2397,6 +2399,7 @@ payload:
   - '+.attcollaborate.com'
   - '+.attdns.com'
   - '+.attdns.net'
+  - '+.attestation.app'
   - '+.attexperts.com'
   - '+.attglobal.net'
   - '+.atthelimits.ac.uk'
@@ -10630,6 +10633,19 @@ payload:
   - '+.grantleyhall.ac.uk'
   - '+.granulate.io'
   - '+.graphenecentre.ac.uk'
+  - '+.grapheneos.app'
+  - '+.grapheneos.ca'
+  - '+.grapheneos.com'
+  - '+.grapheneos.dev'
+  - '+.grapheneos.foundation'
+  - '+.grapheneos.info'
+  - '+.grapheneos.net'
+  - '+.grapheneos.network'
+  - '+.grapheneos.online'
+  - '+.grapheneos.org'
+  - '+.grapheneos.ovh'
+  - '+.grapheneos.page'
+  - '+.grapheneos.social'
   - '+.graphengine.io'
   - '+.gravitytank.com'
   - '+.gray.ac.uk'
@@ -20471,6 +20487,7 @@ payload:
   - '+.seacams.ac.uk'
   - '+.seagroup.com'
   - '+.seaha-cdt.ac.uk'
+  - '+.seamlessupdate.app'
   - '+.seamonkey-project.org'
   - '+.seancody.com'
   - '+.seaofsolitude.com'
@@ -22770,6 +22787,7 @@ payload:
   - '+.tomibank.co.jp'
   - '+.tomovie.net'
   - '+.tomsguide.com'
+  - '+.ton.org'
   - '+.tonec.com'
   - '+.tonicmovies.com'
   - '+.toolforge.org'
@@ -23608,6 +23626,7 @@ payload:
   - '+.valuegb.com'
   - '+.vam.ac.uk'
   - '+.vamsas.ac.uk'
+  - '+.vanadium.app'
   - '+.vancouverbmwretailers.ca'
   - '+.vanish.at'
   - '+.vanish.be'
@@ -32263,6 +32282,7 @@ payload:
   - '+.wallpapercasa.com'
   - '+.wallproxy.com'
   - '+.wallsttv.com'
+  - '+.wallzhihu.com'
   - '+.waltermartin.com'
   - '+.waltermartin.org'
   - '+.wan-press.org'

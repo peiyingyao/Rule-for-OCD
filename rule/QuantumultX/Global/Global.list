@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-12 02:22:53
-# HOST: 665
+# UPDATED: 2026-02-16 02:10:00
+# HOST: 689
 # HOST-KEYWORD: 36
-# HOST-SUFFIX: 32700
+# HOST-SUFFIX: 32719
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 33563
+# TOTAL: 33606
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -514,7 +514,31 @@ HOST,tv.applemusic.com,Global
 HOST,tvcastlive-hamivideo.cdn.hinet.net,Global
 HOST,ubisoft-orbit-savegames.s3.amazonaws.com,Global
 HOST,ubisoft-uplay-savegames.s3.amazonaws.com,Global
+HOST,ubisoft.siteintercept.qualtrics.com,Global
+HOST,ubistatic1-a.akamaihd.net,Global
+HOST,ubistatic10-a.akamaihd.net,Global
+HOST,ubistatic11-a.akamaihd.net,Global
+HOST,ubistatic12-a.akamaihd.net,Global
+HOST,ubistatic13-a.akamaihd.net,Global
+HOST,ubistatic14-a.akamaihd.net,Global
+HOST,ubistatic15-a.akamaihd.net,Global
+HOST,ubistatic16-a.akamaihd.net,Global
+HOST,ubistatic17-a.akamaihd.net,Global
+HOST,ubistatic18-a.akamaihd.net,Global
+HOST,ubistatic19-a.akamaihd.net,Global
+HOST,ubistatic2-a.akamaihd.net,Global
+HOST,ubistatic20-a.akamaihd.net,Global
+HOST,ubistatic21-a.akamaihd.net,Global
+HOST,ubistatic22-a.akamaihd.net,Global
+HOST,ubistatic23-a.akamaihd.net,Global
+HOST,ubistatic24-a.akamaihd.net,Global
 HOST,ubistatic3-a.akamaihd.net,Global
+HOST,ubistatic4-a.akamaihd.net,Global
+HOST,ubistatic5-a.akamaihd.net,Global
+HOST,ubistatic6-a.akamaihd.net,Global
+HOST,ubistatic7-a.akamaihd.net,Global
+HOST,ubistatic8-a.akamaihd.net,Global
+HOST,ubistatic9-a.akamaihd.net,Global
 HOST,ulrichsweb.serialssolutions.com,Global
 HOST,ut1-time.colorado.edu,Global
 HOST,ut1-wwv.nist.gov,Global
@@ -2343,6 +2367,7 @@ HOST-SUFFIX,apina.biz,Global
 HOST-SUFFIX,apis.ac.uk,Global
 HOST-SUFFIX,apisof.net,Global
 HOST-SUFFIX,apkfind.com,Global
+HOST-SUFFIX,apkpures.xyz,Global
 HOST-SUFFIX,aple.com,Global
 HOST-SUFFIX,aplestore.com,Global
 HOST-SUFFIX,aplleipods.com,Global
@@ -2934,6 +2959,7 @@ HOST-SUFFIX,attcenter.com,Global
 HOST-SUFFIX,attcollaborate.com,Global
 HOST-SUFFIX,attdns.com,Global
 HOST-SUFFIX,attdns.net,Global
+HOST-SUFFIX,attestation.app,Global
 HOST-SUFFIX,attexperts.com,Global
 HOST-SUFFIX,attglobal.net,Global
 HOST-SUFFIX,atthelimits.ac.uk,Global
@@ -10830,6 +10856,19 @@ HOST-SUFFIX,grantham.ac.uk,Global
 HOST-SUFFIX,grantleyhall.ac.uk,Global
 HOST-SUFFIX,granulate.io,Global
 HOST-SUFFIX,graphenecentre.ac.uk,Global
+HOST-SUFFIX,grapheneos.app,Global
+HOST-SUFFIX,grapheneos.ca,Global
+HOST-SUFFIX,grapheneos.com,Global
+HOST-SUFFIX,grapheneos.dev,Global
+HOST-SUFFIX,grapheneos.foundation,Global
+HOST-SUFFIX,grapheneos.info,Global
+HOST-SUFFIX,grapheneos.net,Global
+HOST-SUFFIX,grapheneos.network,Global
+HOST-SUFFIX,grapheneos.online,Global
+HOST-SUFFIX,grapheneos.org,Global
+HOST-SUFFIX,grapheneos.ovh,Global
+HOST-SUFFIX,grapheneos.page,Global
+HOST-SUFFIX,grapheneos.social,Global
 HOST-SUFFIX,graphengine.io,Global
 HOST-SUFFIX,gravitytank.com,Global
 HOST-SUFFIX,gray.ac.uk,Global
@@ -20637,6 +20676,7 @@ HOST-SUFFIX,sea-mammal-research-unit.ac.uk,Global
 HOST-SUFFIX,seacams.ac.uk,Global
 HOST-SUFFIX,seagroup.com,Global
 HOST-SUFFIX,seaha-cdt.ac.uk,Global
+HOST-SUFFIX,seamlessupdate.app,Global
 HOST-SUFFIX,seamonkey-project.org,Global
 HOST-SUFFIX,seancody.com,Global
 HOST-SUFFIX,seaofsolitude.com,Global
@@ -22922,6 +22962,7 @@ HOST-SUFFIX,tombola.ac.uk,Global
 HOST-SUFFIX,tomibank.co.jp,Global
 HOST-SUFFIX,tomovie.net,Global
 HOST-SUFFIX,tomsguide.com,Global
+HOST-SUFFIX,ton.org,Global
 HOST-SUFFIX,tonec.com,Global
 HOST-SUFFIX,tonicmovies.com,Global
 HOST-SUFFIX,toolforge.org,Global
@@ -23745,6 +23786,7 @@ HOST-SUFFIX,valoryirene.com,Global
 HOST-SUFFIX,valuegb.com,Global
 HOST-SUFFIX,vam.ac.uk,Global
 HOST-SUFFIX,vamsas.ac.uk,Global
+HOST-SUFFIX,vanadium.app,Global
 HOST-SUFFIX,vancouverbmwretailers.ca,Global
 HOST-SUFFIX,vanish.at,Global
 HOST-SUFFIX,vanish.be,Global
@@ -32839,6 +32881,7 @@ HOST-SUFFIX,wallornot.org,Global
 HOST-SUFFIX,wallpapercasa.com,Global
 HOST-SUFFIX,wallproxy.com,Global
 HOST-SUFFIX,wallsttv.com,Global
+HOST-SUFFIX,wallzhihu.com,Global
 HOST-SUFFIX,waltermartin.com,Global
 HOST-SUFFIX,waltermartin.org,Global
 HOST-SUFFIX,wan-press.org,Global
