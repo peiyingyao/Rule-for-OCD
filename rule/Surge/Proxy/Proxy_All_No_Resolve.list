@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-16 02:10:00
+# UPDATED: 2026-02-18 02:21:11
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6596
+# DOMAIN-SUFFIX: 6565
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6736
+# TOTAL: 6705
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -243,7 +243,6 @@ DOMAIN-SUFFIX,airitilibrary.com
 DOMAIN-SUFFIX,airtable.com
 DOMAIN-SUFFIX,airvpn.org
 DOMAIN-SUFFIX,aisex.com
-DOMAIN-SUFFIX,aiss.anws.gov.tw
 DOMAIN-SUFFIX,ait.org.tw
 DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,aiv-cdn.net.c.footprint.net
@@ -429,7 +428,6 @@ DOMAIN-SUFFIX,archive.vn
 DOMAIN-SUFFIX,archiveofourown.com
 DOMAIN-SUFFIX,archiveofourown.org
 DOMAIN-SUFFIX,archives.gov
-DOMAIN-SUFFIX,archives.gov.tw
 DOMAIN-SUFFIX,arctosia.com
 DOMAIN-SUFFIX,areca-backup.org
 DOMAIN-SUFFIX,arena.taipei
@@ -1363,7 +1361,6 @@ DOMAIN-SUFFIX,dartlang.org
 DOMAIN-SUFFIX,dashlane.com
 DOMAIN-SUFFIX,dastrassi.org
 DOMAIN-SUFFIX,data-vocabulary.org
-DOMAIN-SUFFIX,data.gov.tw
 DOMAIN-SUFFIX,datalabour.com
 DOMAIN-SUFFIX,daum.net
 DOMAIN-SUFFIX,david-kilgour.com
@@ -1742,7 +1739,6 @@ DOMAIN-SUFFIX,everipedia.org
 DOMAIN-SUFFIX,evernote.com
 DOMAIN-SUFFIX,evozi.com
 DOMAIN-SUFFIX,evschool.net
-DOMAIN-SUFFIX,exam.gov.tw
 DOMAIN-SUFFIX,exblog.jp
 DOMAIN-SUFFIX,exchristian.hk
 DOMAIN-SUFFIX,excite.co.jp
@@ -1761,7 +1757,6 @@ DOMAIN-SUFFIX,extmatrix.com
 DOMAIN-SUFFIX,extrabux.com
 DOMAIN-SUFFIX,extremetube.com
 DOMAIN-SUFFIX,exx.com
-DOMAIN-SUFFIX,ey.gov.tw
 DOMAIN-SUFFIX,eyevio.jp
 DOMAIN-SUFFIX,eyny.com
 DOMAIN-SUFFIX,ezpc.tk
@@ -1770,7 +1765,6 @@ DOMAIN-SUFFIX,ezua.com
 DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,f2pool.com
 DOMAIN-SUFFIX,f8.com
-DOMAIN-SUFFIX,fa.gov.tw
 DOMAIN-SUFFIX,fabric.io
 DOMAIN-SUFFIX,faceless.me
 DOMAIN-SUFFIX,facesofnyfw.com
@@ -1860,7 +1854,6 @@ DOMAIN-SUFFIX,fc2blog.net
 DOMAIN-SUFFIX,fc2china.com
 DOMAIN-SUFFIX,fc2cn.com
 DOMAIN-SUFFIX,fc2web.com
-DOMAIN-SUFFIX,fda.gov.tw
 DOMAIN-SUFFIX,fdbox.com
 DOMAIN-SUFFIX,fdc64.de
 DOMAIN-SUFFIX,fdc64.org
@@ -2265,6 +2258,7 @@ DOMAIN-SUFFIX,gluckman.com
 DOMAIN-SUFFIX,glype.com
 DOMAIN-SUFFIX,gmauthority.com
 DOMAIN-SUFFIX,gmgard.com
+DOMAIN-SUFFIX,gmgn.ai
 DOMAIN-SUFFIX,gmhz.org
 DOMAIN-SUFFIX,gmiddle.com
 DOMAIN-SUFFIX,gmiddle.net
@@ -2625,7 +2619,6 @@ DOMAIN-SUFFIX,howtoforge.com
 DOMAIN-SUFFIX,hoxx.com
 DOMAIN-SUFFIX,hoy.tv
 DOMAIN-SUFFIX,hoyolab.com
-DOMAIN-SUFFIX,hpa.gov.tw
 DOMAIN-SUFFIX,hpjav.com
 DOMAIN-SUFFIX,hqcdp.org
 DOMAIN-SUFFIX,hqjapanesesex.com
@@ -2800,7 +2793,6 @@ DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,imkev.com
 DOMAIN-SUFFIX,imlive.co
 DOMAIN-SUFFIX,imlive.com
-DOMAIN-SUFFIX,immigration.gov.tw
 DOMAIN-SUFFIX,immoral.jp
 DOMAIN-SUFFIX,imore.com
 DOMAIN-SUFFIX,impact.org.au
@@ -2915,7 +2907,6 @@ DOMAIN-SUFFIX,isunaffairs.com
 DOMAIN-SUFFIX,isuntv.com
 DOMAIN-SUFFIX,isupportuyghurs.org
 DOMAIN-SUFFIX,itaboo.info
-DOMAIN-SUFFIX,itaiwan.gov.tw
 DOMAIN-SUFFIX,italiatibet.org
 DOMAIN-SUFFIX,itasoftware.com
 DOMAIN-SUFFIX,itch.io
@@ -3043,7 +3034,6 @@ DOMAIN-SUFFIX,jshell.net
 DOMAIN-SUFFIX,jshint.com
 DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,jubushoushen.com
-DOMAIN-SUFFIX,judicial.gov.tw
 DOMAIN-SUFFIX,juhuaren.com
 DOMAIN-SUFFIX,jukujo-club.com
 DOMAIN-SUFFIX,juliepost.com
@@ -3357,7 +3347,6 @@ DOMAIN-SUFFIX,lushstories.com
 DOMAIN-SUFFIX,luxebc.com
 DOMAIN-SUFFIX,lvhai.org
 DOMAIN-SUFFIX,lvv2.com
-DOMAIN-SUFFIX,ly.gov.tw
 DOMAIN-SUFFIX,lyfhk.net
 DOMAIN-SUFFIX,lzjscript.com
 DOMAIN-SUFFIX,lzmtnews.org
@@ -3583,7 +3572,6 @@ DOMAIN-SUFFIX,mixpod.com
 DOMAIN-SUFFIX,mixx.com
 DOMAIN-SUFFIX,mizzmona.com
 DOMAIN-SUFFIX,mji.rip
-DOMAIN-SUFFIX,mjib.gov.tw
 DOMAIN-SUFFIX,mjj.rip
 DOMAIN-SUFFIX,mk5000.com
 DOMAIN-SUFFIX,mlc.ai
@@ -3601,20 +3589,16 @@ DOMAIN-SUFFIX,mobypicture.com
 DOMAIN-SUFFIX,mod.io
 DOMAIN-SUFFIX,modernchinastudies.org
 DOMAIN-SUFFIX,modmyi.com
-DOMAIN-SUFFIX,moeaic.gov.tw
 DOMAIN-SUFFIX,moeerolibrary.com
 DOMAIN-SUFFIX,moegirl.org
 DOMAIN-SUFFIX,moeshare.cc
-DOMAIN-SUFFIX,mofa.gov.tw
 DOMAIN-SUFFIX,mofaxiehui.com
 DOMAIN-SUFFIX,mofos.com
 DOMAIN-SUFFIX,mog.com
 DOMAIN-SUFFIX,mohu.club
 DOMAIN-SUFFIX,mohu.ml
 DOMAIN-SUFFIX,mohu.rocks
-DOMAIN-SUFFIX,moj.gov.tw
 DOMAIN-SUFFIX,mojim.com
-DOMAIN-SUFFIX,mol.gov.tw
 DOMAIN-SUFFIX,molihua.org
 DOMAIN-SUFFIX,momoshop.com.tw
 DOMAIN-SUFFIX,mondex.org
@@ -3687,7 +3671,6 @@ DOMAIN-SUFFIX,muslimvideo.com
 DOMAIN-SUFFIX,muzi.com
 DOMAIN-SUFFIX,muzi.net
 DOMAIN-SUFFIX,muzu.tv
-DOMAIN-SUFFIX,mvdis.gov.tw
 DOMAIN-SUFFIX,mvg.jp
 DOMAIN-SUFFIX,mvnrepository.com
 DOMAIN-SUFFIX,mx981.com
@@ -3774,7 +3757,6 @@ DOMAIN-SUFFIX,naol.ca
 DOMAIN-SUFFIX,naol.cc
 DOMAIN-SUFFIX,narod.ru
 DOMAIN-SUFFIX,nasa.gov
-DOMAIN-SUFFIX,nat.gov.tw
 DOMAIN-SUFFIX,nat.moe
 DOMAIN-SUFFIX,natado.com
 DOMAIN-SUFFIX,national-lottery.co.uk
@@ -3879,7 +3861,6 @@ DOMAIN-SUFFIX,ng.mil
 DOMAIN-SUFFIX,nga.mil
 DOMAIN-SUFFIX,ngensis.com
 DOMAIN-SUFFIX,nhentai.net
-DOMAIN-SUFFIX,nhi.gov.tw
 DOMAIN-SUFFIX,nhk-ondemand.jp
 DOMAIN-SUFFIX,nhncorp.jp
 DOMAIN-SUFFIX,nianticlabs.com
@@ -3943,8 +3924,6 @@ DOMAIN-SUFFIX,nowtorrents.com
 DOMAIN-SUFFIX,noxinfluencer.com
 DOMAIN-SUFFIX,noypf.com
 DOMAIN-SUFFIX,npa.go.jp
-DOMAIN-SUFFIX,npa.gov.tw
-DOMAIN-SUFFIX,npm.gov.tw
 DOMAIN-SUFFIX,npnt.me
 DOMAIN-SUFFIX,nps.gov
 DOMAIN-SUFFIX,npsboost.com
@@ -3960,11 +3939,7 @@ DOMAIN-SUFFIX,ns02.us
 DOMAIN-SUFFIX,ns1.name
 DOMAIN-SUFFIX,ns2.name
 DOMAIN-SUFFIX,ns3.name
-DOMAIN-SUFFIX,nsc.gov.tw
 DOMAIN-SUFFIX,nssurge.com
-DOMAIN-SUFFIX,ntbk.gov.tw
-DOMAIN-SUFFIX,ntbna.gov.tw
-DOMAIN-SUFFIX,ntbt.gov.tw
 DOMAIN-SUFFIX,ntd.tv
 DOMAIN-SUFFIX,ntdtv.ca
 DOMAIN-SUFFIX,ntdtv.co.kr
@@ -4203,7 +4178,6 @@ DOMAIN-SUFFIX,pbworks.com
 DOMAIN-SUFFIX,pbxes.com
 DOMAIN-SUFFIX,pbxes.org
 DOMAIN-SUFFIX,pcanywhere.net
-DOMAIN-SUFFIX,pcc.gov.tw
 DOMAIN-SUFFIX,pcdvd.com.tw
 DOMAIN-SUFFIX,pcgamestorrents.com
 DOMAIN-SUFFIX,pchome.com.tw
@@ -4765,7 +4739,6 @@ DOMAIN-SUFFIX,seehua.com
 DOMAIN-SUFFIX,seesmic.com
 DOMAIN-SUFFIX,seevpn.com
 DOMAIN-SUFFIX,seezone.net
-DOMAIN-SUFFIX,sef.org.tw
 DOMAIN-SUFFIX,sehuatang.net
 DOMAIN-SUFFIX,sehuatang.org
 DOMAIN-SUFFIX,sejie.com
@@ -5025,6 +4998,7 @@ DOMAIN-SUFFIX,southnews.com.tw
 DOMAIN-SUFFIX,sowers.org.hk
 DOMAIN-SUFFIX,soylent.com
 DOMAIN-SUFFIX,soylentnews.org
+DOMAIN-SUFFIX,spacex.com
 DOMAIN-SUFFIX,spankbang.com
 DOMAIN-SUFFIX,spankingtube.com
 DOMAIN-SUFFIX,spankwire.com
@@ -5089,7 +5063,6 @@ DOMAIN-SUFFIX,starfishfx.com
 DOMAIN-SUFFIX,starp2p.com
 DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,startuplivingchina.com
-DOMAIN-SUFFIX,stat.gov.tw
 DOMAIN-SUFFIX,state.gov
 DOMAIN-SUFFIX,static-economist.com
 DOMAIN-SUFFIX,static.pocketcasts.com
@@ -5204,7 +5177,6 @@ DOMAIN-SUFFIX,taa-usa.org
 DOMAIN-SUFFIX,taaze.tw
 DOMAIN-SUFFIX,tablesgenerator.com
 DOMAIN-SUFFIX,tabtter.jp
-DOMAIN-SUFFIX,tacc.cwb.gov.tw
 DOMAIN-SUFFIX,tacem.org
 DOMAIN-SUFFIX,taconet.com.tw
 DOMAIN-SUFFIX,taedp.org.tw
@@ -5213,7 +5185,6 @@ DOMAIN-SUFFIX,tagwa.org.au
 DOMAIN-SUFFIX,tagwalk.com
 DOMAIN-SUFFIX,tahr.org.tw
 DOMAIN-SUFFIX,tails.net
-DOMAIN-SUFFIX,taipei.gov.tw
 DOMAIN-SUFFIX,taipeisociety.org
 DOMAIN-SUFFIX,taipeitimes.com
 DOMAIN-SUFFIX,taisounds.com
@@ -5223,7 +5194,6 @@ DOMAIN-SUFFIX,taiwancon.com
 DOMAIN-SUFFIX,taiwandaily.net
 DOMAIN-SUFFIX,taiwandc.org
 DOMAIN-SUFFIX,taiwanhot.net
-DOMAIN-SUFFIX,taiwanjobs.gov.tw
 DOMAIN-SUFFIX,taiwanjustice.com
 DOMAIN-SUFFIX,taiwanjustice.net
 DOMAIN-SUFFIX,taiwankiss.com
@@ -5329,7 +5299,6 @@ DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,tgfcer.com
 DOMAIN-SUFFIX,tgstat.com
 DOMAIN-SUFFIX,thaicn.com
-DOMAIN-SUFFIX,thb.gov.tw
 DOMAIN-SUFFIX,theatlantic.com
 DOMAIN-SUFFIX,theatrum-belli.com
 DOMAIN-SUFFIX,theaustralian.com.au
@@ -5518,7 +5487,6 @@ DOMAIN-SUFFIX,tinypaste.com
 DOMAIN-SUFFIX,tinypic.com
 DOMAIN-SUFFIX,tinyurl.com
 DOMAIN-SUFFIX,tipas.net
-DOMAIN-SUFFIX,tipo.gov.tw
 DOMAIN-SUFFIX,tistory.com
 DOMAIN-SUFFIX,tkcs-collins.com
 DOMAIN-SUFFIX,tl.gd
@@ -5709,6 +5677,7 @@ DOMAIN-SUFFIX,tweez.net
 DOMAIN-SUFFIX,twelve.today
 DOMAIN-SUFFIX,twerkingbutt.com
 DOMAIN-SUFFIX,twftp.org
+DOMAIN-SUFFIX,twgov.tw
 DOMAIN-SUFFIX,twgreatdaily.com
 DOMAIN-SUFFIX,twibase.com
 DOMAIN-SUFFIX,twibble.de
@@ -6080,6 +6049,7 @@ DOMAIN-SUFFIX,wailaike.net
 DOMAIN-SUFFIX,wainao.me
 DOMAIN-SUFFIX,waiwaier.com
 DOMAIN-SUFFIX,walletconnect.com
+DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,wallmama.com
 DOMAIN-SUFFIX,wallornot.org
 DOMAIN-SUFFIX,wallpapercasa.com
@@ -6115,7 +6085,6 @@ DOMAIN-SUFFIX,waveprotocol.org
 DOMAIN-SUFFIX,waybig.com
 DOMAIN-SUFFIX,waymo.com
 DOMAIN-SUFFIX,wd.bible
-DOMAIN-SUFFIX,wda.gov.tw
 DOMAIN-SUFFIX,wdf5.com
 DOMAIN-SUFFIX,wealth.com.tw
 DOMAIN-SUFFIX,wearehairy.com
