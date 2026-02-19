@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-18 02:20:49
+# UPDATED: 2026-02-20 02:20:22
 # DOMAIN: 118
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32772
+# DOMAIN-SUFFIX: 32798
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 33043
+# TOTAL: 33069
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -3742,6 +3742,7 @@ DOMAIN-SUFFIX,bitbucket.io
 DOMAIN-SUFFIX,bitchesgirls.com
 DOMAIN-SUFFIX,bitchmomporn.com
 DOMAIN-SUFFIX,bitcoin.org
+DOMAIN-SUFFIX,bitcoincore.org
 DOMAIN-SUFFIX,bitdefender.com
 DOMAIN-SUFFIX,bite.ac.uk
 DOMAIN-SUFFIX,bitflyer.com
@@ -20625,8 +20626,10 @@ DOMAIN-SUFFIX,secretbabes.co.uk
 DOMAIN-SUFFIX,secretubes.com
 DOMAIN-SUFFIX,sectigo.com
 DOMAIN-SUFFIX,secure-paypal.info
+DOMAIN-SUFFIX,securecloudtransformation.com
 DOMAIN-SUFFIX,secureharvests.ac.uk
 DOMAIN-SUFFIX,securepaypal.info
+DOMAIN-SUFFIX,securitypreview.com
 DOMAIN-SUFFIX,seda.ac.uk
 DOMAIN-SUFFIX,sedc.ac.uk
 DOMAIN-SUFFIX,sedg.ac.uk
@@ -21863,6 +21866,7 @@ DOMAIN-SUFFIX,starcraft.com
 DOMAIN-SUFFIX,starcraft2.com
 DOMAIN-SUFFIX,starfieldtech.com
 DOMAIN-SUFFIX,starfox.com
+DOMAIN-SUFFIX,stargazer-games.com
 DOMAIN-SUFFIX,stark-verlag.ch
 DOMAIN-SUFFIX,starlink.ac.uk
 DOMAIN-SUFFIX,starott.com
@@ -21917,6 +21921,8 @@ DOMAIN-SUFFIX,stec.ac.uk
 DOMAIN-SUFFIX,steelbrick.com
 DOMAIN-SUFFIX,steemitwallet.com
 DOMAIN-SUFFIX,steezylist.com
+DOMAIN-SUFFIX,stellasora.global
+DOMAIN-SUFFIX,stellasora.jp
 DOMAIN-SUFFIX,stem.ac.uk
 DOMAIN-SUFFIX,stemacademy.ac.uk
 DOMAIN-SUFFIX,stemequals.ac.uk
@@ -22807,6 +22813,7 @@ DOMAIN-SUFFIX,thothub.to
 DOMAIN-SUFFIX,thottok.com
 DOMAIN-SUFFIX,thotvids.com
 DOMAIN-SUFFIX,threadingbuildingblocks.org
+DOMAIN-SUFFIX,threatlabz.com
 DOMAIN-SUFFIX,thri.xxx
 DOMAIN-SUFFIX,thrixxx.com
 DOMAIN-SUFFIX,thtmod1.com
@@ -25919,6 +25926,7 @@ DOMAIN-SUFFIX,ymhsf.top
 DOMAIN-SUFFIX,ymhsf1.top
 DOMAIN-SUFFIX,ync.ne.jp
 DOMAIN-SUFFIX,ynoproject.net
+DOMAIN-SUFFIX,yo-star.com
 DOMAIN-SUFFIX,yo1health.com
 DOMAIN-SUFFIX,yogalayout.com
 DOMAIN-SUFFIX,yogify.com
@@ -25940,6 +25948,9 @@ DOMAIN-SUFFIX,yorksj.ac.uk
 DOMAIN-SUFFIX,yorkstonemasonrycove.ac.uk
 DOMAIN-SUFFIX,yorozoonews.jp
 DOMAIN-SUFFIX,yoshisnewisland.com
+DOMAIN-SUFFIX,yostar-pictures.co.jp
+DOMAIN-SUFFIX,yostar.co.jp
+DOMAIN-SUFFIX,yostarplat.com
 DOMAIN-SUFFIX,youassporn.com
 DOMAIN-SUFFIX,youav.com
 DOMAIN-SUFFIX,youflix.is
@@ -26275,6 +26286,8 @@ DOMAIN-SUFFIX,zdassets.com
 DOMAIN-SUFFIX,zdnet.com
 DOMAIN-SUFFIX,zdnet.redvideo.io
 DOMAIN-SUFFIX,zdusercontent.com
+DOMAIN-SUFFIX,zdxbeta.net
+DOMAIN-SUFFIX,zdxcloud.net
 DOMAIN-SUFFIX,zee.com
 DOMAIN-SUFFIX,zee5.com
 DOMAIN-SUFFIX,zee5.in
@@ -26376,7 +26389,19 @@ DOMAIN-SUFFIX,zoozhamster.com
 DOMAIN-SUFFIX,zopim.com
 DOMAIN-SUFFIX,zorglist.com
 DOMAIN-SUFFIX,zotero.org
+DOMAIN-SUFFIX,zpagov.net
+DOMAIN-SUFFIX,zpath.com
 DOMAIN-SUFFIX,zqqpwz.com
+DOMAIN-SUFFIX,zscaler.com
+DOMAIN-SUFFIX,zscaler.jp
+DOMAIN-SUFFIX,zscaler.net
+DOMAIN-SUFFIX,zscalerbeta.net
+DOMAIN-SUFFIX,zscalergov.net
+DOMAIN-SUFFIX,zscalerone.net
+DOMAIN-SUFFIX,zscalershift.com
+DOMAIN-SUFFIX,zscalerthree.net
+DOMAIN-SUFFIX,zscalertwo.net
+DOMAIN-SUFFIX,zscloud.net
 DOMAIN-SUFFIX,zsh.org
 DOMAIN-SUFFIX,zsuxtx-ktv.shop
 DOMAIN-SUFFIX,zteman.net
@@ -29963,6 +29988,7 @@ DOMAIN-SUFFIX,moresci.sale
 DOMAIN-SUFFIX,morningsun.org
 DOMAIN-SUFFIX,moroneta.com
 DOMAIN-SUFFIX,mos.ru
+DOMAIN-SUFFIX,mosavi.io
 DOMAIN-SUFFIX,mosucloud.site
 DOMAIN-SUFFIX,motherless.com
 DOMAIN-SUFFIX,motiyun.com

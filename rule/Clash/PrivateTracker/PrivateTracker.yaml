@@ -1,7 +1,7 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-18 02:22:11
+# UPDATED: 2026-02-20 02:21:43
 # DOMAIN: 151
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 123
@@ -15,6 +15,7 @@ payload:
   - DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
   - DOMAIN,admin.52ywp.com
   - DOMAIN,bandito.byterunner.io
+  - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN,bt.okmp3.ru
   - DOMAIN,bt.poletracker.org
   - DOMAIN,bt.rer.lol
@@ -29,7 +30,6 @@ payload:
   - DOMAIN,extracker.dahrkael.net
   - DOMAIN,ftp.pet
   - DOMAIN,home.yxgz.club
-  - DOMAIN,ibksturm.synology.me
   - DOMAIN,ipv4.rer.lol
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,ipv6.rer.lol
@@ -39,45 +39,45 @@ payload:
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,navegador.click
   - DOMAIN,node01.torrentonline.cc
-  - DOMAIN,node02.torrentonline.cc
+  - DOMAIN,node01.trackerstatus.live
   - DOMAIN,ns575949.ip-51-222-82.net
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,open.acgtracker.com
   - DOMAIN,open.demonii.com
   - DOMAIN,open.dstud.io
   - DOMAIN,open.stealth.si
-  - DOMAIN,open.trackerlist.xyz
   - DOMAIN,opentor.org
+  - DOMAIN,opentracker.io
   - DOMAIN,p4p.arenabg.com
   - DOMAIN,rekcart.duckdns.org
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,retracker.lanta.me
   - DOMAIN,retracker.spark-rostov.ru
-  - DOMAIN,run.publictracker.xyz
   - DOMAIN,seeders-paradise.org
   - DOMAIN,servandroidkino.ru
   - DOMAIN,shahidrazi.online
   - DOMAIN,share.hkg-fansub.info
   - DOMAIN,shubt.net
+  - DOMAIN,speedtest.iperson.xyz
   - DOMAIN,t.213891.xyz
   - DOMAIN,t.overflow.biz
   - DOMAIN,torrent.hificode.in
   - DOMAIN,torrent.tracker.durukanbal.com
+  - DOMAIN,torrentclub.online
   - DOMAIN,torrentsmd.com
   - DOMAIN,torrentvpn.club
   - DOMAIN,tr.abiir.top
-  - DOMAIN,tr.abir.ga
   - DOMAIN,tr.cili001.com
   - DOMAIN,tr.highstar.shop
   - DOMAIN,tr.kxmp.cf
   - DOMAIN,tr.nyacat.pw
+  - DOMAIN,tr.zukizuki.org
   - DOMAIN,tr4ck3r.duckdns.org
   - DOMAIN,tracker-de-2.cutie.dating
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,tracker.1h.is
   - DOMAIN,tracker.23794.top
   - DOMAIN,tracker.alaskantf.com
-  - DOMAIN,tracker.beeimg.com
   - DOMAIN,tracker.bittor.pw
   - DOMAIN,tracker.bluefrog.pw
   - DOMAIN,tracker.breizh.pm
@@ -95,6 +95,8 @@ payload:
   - DOMAIN,tracker.filemail.com
   - DOMAIN,tracker.flatuslifir.is
   - DOMAIN,tracker.fnix.net
+  - DOMAIN,tracker.foreverpirates.co
+  - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,tracker.ghostchu-services.top
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.huadongblower.xyz
@@ -117,7 +119,6 @@ payload:
   - DOMAIN,tracker.playground.ru
   - DOMAIN,tracker.plx.im
   - DOMAIN,tracker.pmman.tech
-  - DOMAIN,tracker.puvvadi.net
   - DOMAIN,tracker.qingwapt.org
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.renfei.net
@@ -132,9 +133,9 @@ payload:
   - DOMAIN,tracker.therarbg.to
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,tracker.torrust-demo.com
+  - DOMAIN,tracker.tritan.gg
   - DOMAIN,tracker.tryhackx.org
   - DOMAIN,tracker.tvunderground.org.ru
-  - DOMAIN,tracker.uraniumhexafluori.de
   - DOMAIN,tracker.vanitycore.co
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.wepzone.net
@@ -158,7 +159,6 @@ payload:
   - DOMAIN,www.genesis-sp.org
   - DOMAIN,www.torrentsnipe.info
   - DOMAIN,www.wareztorrent.com
-  - DOMAIN,zer0day.ch
   - DOMAIN-SUFFIX,1ptba.com
   - DOMAIN-SUFFIX,2xfree.org
   - DOMAIN-SUFFIX,52pt.site
