@@ -1,13 +1,12 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-20 02:21:43
-# HOST: 151
+# UPDATED: 2026-02-22 02:10:07
+# HOST: 143
 # HOST-KEYWORD: 4
 # HOST-SUFFIX: 123
 # IP-CIDR: 3
-# TOTAL: 281
-HOST,0123456789nonexistent.com,PrivateTracker
+# TOTAL: 273
 HOST,0d.kebhana.mx,PrivateTracker
 HOST,1337.abcvg.info,PrivateTracker
 HOST,6ahddutb1ucc3cp.ru,PrivateTracker
@@ -27,8 +26,8 @@ HOST,evan.im,PrivateTracker
 HOST,exodus.desync.com,PrivateTracker
 HOST,explodie.org,PrivateTracker
 HOST,extracker.dahrkael.net,PrivateTracker
-HOST,ftp.pet,PrivateTracker
 HOST,home.yxgz.club,PrivateTracker
+HOST,ibksturm.synology.me,PrivateTracker
 HOST,ipv4.rer.lol,PrivateTracker
 HOST,ipv4announce.sktorrent.eu,PrivateTracker
 HOST,ipv6.rer.lol,PrivateTracker
@@ -37,7 +36,6 @@ HOST,leet-tracker.moe,PrivateTracker
 HOST,lucke.fenesisu.moe,PrivateTracker
 HOST,martin-gebhardt.eu,PrivateTracker
 HOST,navegador.click,PrivateTracker
-HOST,node01.torrentonline.cc,PrivateTracker
 HOST,node01.trackerstatus.live,PrivateTracker
 HOST,ns575949.ip-51-222-82.net,PrivateTracker
 HOST,nyaa.tracker.wf,PrivateTracker
@@ -45,19 +43,18 @@ HOST,open.acgtracker.com,PrivateTracker
 HOST,open.demonii.com,PrivateTracker
 HOST,open.dstud.io,PrivateTracker
 HOST,open.stealth.si,PrivateTracker
+HOST,open.trackerlist.xyz,PrivateTracker
 HOST,opentor.org,PrivateTracker
 HOST,opentracker.io,PrivateTracker
 HOST,p4p.arenabg.com,PrivateTracker
 HOST,rekcart.duckdns.org,PrivateTracker
 HOST,retracker.hotplug.ru,PrivateTracker
 HOST,retracker.lanta.me,PrivateTracker
-HOST,retracker.spark-rostov.ru,PrivateTracker
 HOST,seeders-paradise.org,PrivateTracker
 HOST,servandroidkino.ru,PrivateTracker
 HOST,shahidrazi.online,PrivateTracker
 HOST,share.hkg-fansub.info,PrivateTracker
 HOST,shubt.net,PrivateTracker
-HOST,speedtest.iperson.xyz,PrivateTracker
 HOST,t.213891.xyz,PrivateTracker
 HOST,t.overflow.biz,PrivateTracker
 HOST,torrent.hificode.in,PrivateTracker
@@ -70,7 +67,6 @@ HOST,tr.cili001.com,PrivateTracker
 HOST,tr.highstar.shop,PrivateTracker
 HOST,tr.kxmp.cf,PrivateTracker
 HOST,tr.nyacat.pw,PrivateTracker
-HOST,tr.zukizuki.org,PrivateTracker
 HOST,tr4ck3r.duckdns.org,PrivateTracker
 HOST,tracker-de-2.cutie.dating,PrivateTracker
 HOST,tracker-udp.gbitt.info,PrivateTracker
@@ -80,12 +76,12 @@ HOST,tracker.alaskantf.com,PrivateTracker
 HOST,tracker.bittor.pw,PrivateTracker
 HOST,tracker.bluefrog.pw,PrivateTracker
 HOST,tracker.breizh.pm,PrivateTracker
-HOST,tracker.bt-hash.com,PrivateTracker
 HOST,tracker.bt4g.com,PrivateTracker
 HOST,tracker.bz,PrivateTracker
 HOST,tracker.cloudbase.store,PrivateTracker
 HOST,tracker.corpscorp.online,PrivateTracker
 HOST,tracker.darkness.services,PrivateTracker
+HOST,tracker.ddunlimited.net,PrivateTracker
 HOST,tracker.dhitechnical.com,PrivateTracker
 HOST,tracker.dler.com,PrivateTracker
 HOST,tracker.dler.org,PrivateTracker
@@ -101,7 +97,6 @@ HOST,tracker.gmi.gd,PrivateTracker
 HOST,tracker.huadongblower.xyz,PrivateTracker
 HOST,tracker.iochimari.moe,PrivateTracker
 HOST,tracker.iperson.xyz,PrivateTracker
-HOST,tracker.ipv6tracker.org,PrivateTracker
 HOST,tracker.ipv6tracker.ru,PrivateTracker
 HOST,tracker.ixuexi.click,PrivateTracker
 HOST,tracker.kuroy.me,PrivateTracker
@@ -137,8 +132,6 @@ HOST,tracker.tryhackx.org,PrivateTracker
 HOST,tracker.tvunderground.org.ru,PrivateTracker
 HOST,tracker.vanitycore.co,PrivateTracker
 HOST,tracker.waaa.moe,PrivateTracker
-HOST,tracker.wepzone.net,PrivateTracker
-HOST,tracker.xiaoduola.xyz,PrivateTracker
 HOST,tracker.xn--djrq4gl4hvoi.top,PrivateTracker
 HOST,tracker.yume-hatsuyuki.moe,PrivateTracker
 HOST,tracker.zhuqiy.com,PrivateTracker
@@ -153,7 +146,6 @@ HOST,tracker810.xyz,PrivateTracker
 HOST,uabits.today,PrivateTracker
 HOST,udp.tracker.projectk.org,PrivateTracker
 HOST,utracker.ghostchu-services.top,PrivateTracker
-HOST,wepzone.net,PrivateTracker
 HOST,www.all4nothin.net,PrivateTracker
 HOST,www.genesis-sp.org,PrivateTracker
 HOST,www.torrentsnipe.info,PrivateTracker
