@@ -12,18 +12,18 @@ Proxy规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2026-02-24 02:24:20
+最后更新时间：2026-02-26 02:24:40
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 9  | 
 | DOMAIN-KEYWORD | 26  | 
-| DOMAIN-SUFFIX | 6573  | 
+| DOMAIN-SUFFIX | 6574  | 
 | IP-CIDR | 93  | 
 | IP-CIDR6 | 4  | 
 | USER-AGENT | 8  | 
-| TOTAL | 6713  | 
+| TOTAL | 6714  | 
 
 
 ## Loon 

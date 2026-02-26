@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-24 02:24:00
+# UPDATED: 2026-02-26 02:24:20
 # DOMAIN: 118
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32851
+# DOMAIN-SUFFIX: 32855
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 33122
+# TOTAL: 33126
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -15869,6 +15869,8 @@ payload:
   - DOMAIN-SUFFIX,mitnaka.com
   - DOMAIN-SUFFIX,mitpressjournals.org
   - DOMAIN-SUFFIX,mixasiansex.com
+  - DOMAIN-SUFFIX,mixi.co.jp
+  - DOMAIN-SUFFIX,mixi.net
   - DOMAIN-SUFFIX,mixlr.com
   - DOMAIN-SUFFIX,mixmaturesex.com
   - DOMAIN-SUFFIX,mixvintagesex.com
@@ -18091,6 +18093,7 @@ payload:
   - DOMAIN-SUFFIX,pa9pal.com
   - DOMAIN-SUFFIX,paaypal.com
   - DOMAIN-SUFFIX,pacifickitchenandhome.com
+  - DOMAIN-SUFFIX,packagecloud.io
   - DOMAIN-SUFFIX,packaging-cadcam.com
   - DOMAIN-SUFFIX,packagingcadcam.com
   - DOMAIN-SUFFIX,packagist.org
@@ -28415,6 +28418,7 @@ payload:
   - DOMAIN-SUFFIX,freechinaforum.org
   - DOMAIN-SUFFIX,freechinaweibo.com
   - DOMAIN-SUFFIX,freedl.org
+  - DOMAIN-SUFFIX,freedom.gov
   - DOMAIN-SUFFIX,freedomchina.info
   - DOMAIN-SUFFIX,freedomcollection.org
   - DOMAIN-SUFFIX,freedomhongkong.org
