@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-26 02:24:20
+# UPDATED: 2026-02-28 02:14:15
 # DOMAIN: 118
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32855
+# DOMAIN-SUFFIX: 32870
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 33126
+# TOTAL: 33141
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -736,6 +736,7 @@ payload:
   - '+.aboutamazon.it'
   - '+.aboutamazon.jp'
   - '+.aboutamazon.pl'
+  - '+.aboutamazon.sg'
   - '+.aboutfacebook.com'
   - '+.aboutgfw.com'
   - '+.aboutmcdonalds.com'
@@ -1657,21 +1658,32 @@ payload:
   - '+.amazon-launchpad.com'
   - '+.amazon.ae'
   - '+.amazon.ca'
+  - '+.amazon.cl'
   - '+.amazon.co.uk'
+  - '+.amazon.co.za'
   - '+.amazon.com.au'
+  - '+.amazon.com.be'
   - '+.amazon.com.br'
+  - '+.amazon.com.co'
   - '+.amazon.com.mx'
+  - '+.amazon.com.ng'
   - '+.amazon.com.tr'
   - '+.amazon.de'
   - '+.amazon.dev'
+  - '+.amazon.eg'
   - '+.amazon.es'
   - '+.amazon.fr'
+  - '+.amazon.ie'
   - '+.amazon.in'
   - '+.amazon.it'
   - '+.amazon.jobs'
   - '+.amazon.jp'
+  - '+.amazon.lu'
   - '+.amazon.nl'
+  - '+.amazon.pl'
   - '+.amazon.red'
+  - '+.amazon.sa'
+  - '+.amazon.se'
   - '+.amazon.sg'
   - '+.amazonalexavoxcon.com'
   - '+.amazonauthorinsights.com'
@@ -2820,6 +2832,7 @@ payload:
   - '+.awsthinkbox.com'
   - '+.awstrack.me'
   - '+.awstrust.com'
+  - '+.awswaf.com'
   - '+.awwcn.buzz'
   - '+.awwcn.xyz'
   - '+.awxcdn.com'
@@ -20655,6 +20668,7 @@ payload:
   - '+.search25.ac.uk'
   - '+.seas.ac.uk'
   - '+.seasidestory.tokyo'
+  - '+.seattlespheres.com'
   - '+.secom.co.jp'
   - '+.secomtrust.net'
   - '+.second-ns.com'
@@ -25359,6 +25373,7 @@ payload:
   - '+.xiaoou.tv'
   - '+.xiaoshuobb.life'
   - '+.xiaoyaoge.xyz'
+  - '+.xie56.xyz'
   - '+.xinaia-av.buzz'
   - '+.xindelu.com'
   - '+.xinfhw.com'
