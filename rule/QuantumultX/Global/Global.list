@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-26 02:24:39
+# UPDATED: 2026-02-28 02:14:34
 # HOST: 689
 # HOST-KEYWORD: 36
-# HOST-SUFFIX: 32900
+# HOST-SUFFIX: 32915
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 33787
+# TOTAL: 33802
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -1303,6 +1303,7 @@ HOST-SUFFIX,aboutamazon.in,Global
 HOST-SUFFIX,aboutamazon.it,Global
 HOST-SUFFIX,aboutamazon.jp,Global
 HOST-SUFFIX,aboutamazon.pl,Global
+HOST-SUFFIX,aboutamazon.sg,Global
 HOST-SUFFIX,aboutfacebook.com,Global
 HOST-SUFFIX,aboutgfw.com,Global
 HOST-SUFFIX,aboutmcdonalds.com,Global
@@ -2221,21 +2222,32 @@ HOST-SUFFIX,amazon-lantern.com,Global
 HOST-SUFFIX,amazon-launchpad.com,Global
 HOST-SUFFIX,amazon.ae,Global
 HOST-SUFFIX,amazon.ca,Global
+HOST-SUFFIX,amazon.cl,Global
 HOST-SUFFIX,amazon.co.uk,Global
+HOST-SUFFIX,amazon.co.za,Global
 HOST-SUFFIX,amazon.com.au,Global
+HOST-SUFFIX,amazon.com.be,Global
 HOST-SUFFIX,amazon.com.br,Global
+HOST-SUFFIX,amazon.com.co,Global
 HOST-SUFFIX,amazon.com.mx,Global
+HOST-SUFFIX,amazon.com.ng,Global
 HOST-SUFFIX,amazon.com.tr,Global
 HOST-SUFFIX,amazon.de,Global
 HOST-SUFFIX,amazon.dev,Global
+HOST-SUFFIX,amazon.eg,Global
 HOST-SUFFIX,amazon.es,Global
 HOST-SUFFIX,amazon.fr,Global
+HOST-SUFFIX,amazon.ie,Global
 HOST-SUFFIX,amazon.in,Global
 HOST-SUFFIX,amazon.it,Global
 HOST-SUFFIX,amazon.jobs,Global
 HOST-SUFFIX,amazon.jp,Global
+HOST-SUFFIX,amazon.lu,Global
 HOST-SUFFIX,amazon.nl,Global
+HOST-SUFFIX,amazon.pl,Global
 HOST-SUFFIX,amazon.red,Global
+HOST-SUFFIX,amazon.sa,Global
+HOST-SUFFIX,amazon.se,Global
 HOST-SUFFIX,amazon.sg,Global
 HOST-SUFFIX,amazonalexavoxcon.com,Global
 HOST-SUFFIX,amazonauthorinsights.com,Global
@@ -3380,6 +3392,7 @@ HOST-SUFFIX,awssecworkshops.com,Global
 HOST-SUFFIX,awsthinkbox.com,Global
 HOST-SUFFIX,awstrack.me,Global
 HOST-SUFFIX,awstrust.com,Global
+HOST-SUFFIX,awswaf.com,Global
 HOST-SUFFIX,awwcn.buzz,Global
 HOST-SUFFIX,awwcn.xyz,Global
 HOST-SUFFIX,awxcdn.com,Global
@@ -20844,6 +20857,7 @@ HOST-SUFFIX,search.ac.uk,Global
 HOST-SUFFIX,search25.ac.uk,Global
 HOST-SUFFIX,seas.ac.uk,Global
 HOST-SUFFIX,seasidestory.tokyo,Global
+HOST-SUFFIX,seattlespheres.com,Global
 HOST-SUFFIX,secom.co.jp,Global
 HOST-SUFFIX,secomtrust.net,Global
 HOST-SUFFIX,second-ns.com,Global
@@ -25511,6 +25525,7 @@ HOST-SUFFIX,xiaoou.io,Global
 HOST-SUFFIX,xiaoou.tv,Global
 HOST-SUFFIX,xiaoshuobb.life,Global
 HOST-SUFFIX,xiaoyaoge.xyz,Global
+HOST-SUFFIX,xie56.xyz,Global
 HOST-SUFFIX,xinaia-av.buzz,Global
 HOST-SUFFIX,xindelu.com,Global
 HOST-SUFFIX,xinfhw.com,Global

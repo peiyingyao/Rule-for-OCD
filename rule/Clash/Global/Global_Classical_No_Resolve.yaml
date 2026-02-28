@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-26 02:24:20
+# UPDATED: 2026-02-28 02:14:15
 # DOMAIN: 118
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32855
+# DOMAIN-SUFFIX: 32870
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 33126
+# TOTAL: 33141
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -736,6 +736,7 @@ payload:
   - DOMAIN-SUFFIX,aboutamazon.it
   - DOMAIN-SUFFIX,aboutamazon.jp
   - DOMAIN-SUFFIX,aboutamazon.pl
+  - DOMAIN-SUFFIX,aboutamazon.sg
   - DOMAIN-SUFFIX,aboutfacebook.com
   - DOMAIN-SUFFIX,aboutgfw.com
   - DOMAIN-SUFFIX,aboutmcdonalds.com
@@ -1657,21 +1658,32 @@ payload:
   - DOMAIN-SUFFIX,amazon-launchpad.com
   - DOMAIN-SUFFIX,amazon.ae
   - DOMAIN-SUFFIX,amazon.ca
+  - DOMAIN-SUFFIX,amazon.cl
   - DOMAIN-SUFFIX,amazon.co.uk
+  - DOMAIN-SUFFIX,amazon.co.za
   - DOMAIN-SUFFIX,amazon.com.au
+  - DOMAIN-SUFFIX,amazon.com.be
   - DOMAIN-SUFFIX,amazon.com.br
+  - DOMAIN-SUFFIX,amazon.com.co
   - DOMAIN-SUFFIX,amazon.com.mx
+  - DOMAIN-SUFFIX,amazon.com.ng
   - DOMAIN-SUFFIX,amazon.com.tr
   - DOMAIN-SUFFIX,amazon.de
   - DOMAIN-SUFFIX,amazon.dev
+  - DOMAIN-SUFFIX,amazon.eg
   - DOMAIN-SUFFIX,amazon.es
   - DOMAIN-SUFFIX,amazon.fr
+  - DOMAIN-SUFFIX,amazon.ie
   - DOMAIN-SUFFIX,amazon.in
   - DOMAIN-SUFFIX,amazon.it
   - DOMAIN-SUFFIX,amazon.jobs
   - DOMAIN-SUFFIX,amazon.jp
+  - DOMAIN-SUFFIX,amazon.lu
   - DOMAIN-SUFFIX,amazon.nl
+  - DOMAIN-SUFFIX,amazon.pl
   - DOMAIN-SUFFIX,amazon.red
+  - DOMAIN-SUFFIX,amazon.sa
+  - DOMAIN-SUFFIX,amazon.se
   - DOMAIN-SUFFIX,amazon.sg
   - DOMAIN-SUFFIX,amazonalexavoxcon.com
   - DOMAIN-SUFFIX,amazonauthorinsights.com
@@ -2820,6 +2832,7 @@ payload:
   - DOMAIN-SUFFIX,awsthinkbox.com
   - DOMAIN-SUFFIX,awstrack.me
   - DOMAIN-SUFFIX,awstrust.com
+  - DOMAIN-SUFFIX,awswaf.com
   - DOMAIN-SUFFIX,awwcn.buzz
   - DOMAIN-SUFFIX,awwcn.xyz
   - DOMAIN-SUFFIX,awxcdn.com
@@ -20655,6 +20668,7 @@ payload:
   - DOMAIN-SUFFIX,search25.ac.uk
   - DOMAIN-SUFFIX,seas.ac.uk
   - DOMAIN-SUFFIX,seasidestory.tokyo
+  - DOMAIN-SUFFIX,seattlespheres.com
   - DOMAIN-SUFFIX,secom.co.jp
   - DOMAIN-SUFFIX,secomtrust.net
   - DOMAIN-SUFFIX,second-ns.com
@@ -25359,6 +25373,7 @@ payload:
   - DOMAIN-SUFFIX,xiaoou.tv
   - DOMAIN-SUFFIX,xiaoshuobb.life
   - DOMAIN-SUFFIX,xiaoyaoge.xyz
+  - DOMAIN-SUFFIX,xie56.xyz
   - DOMAIN-SUFFIX,xinaia-av.buzz
   - DOMAIN-SUFFIX,xindelu.com
   - DOMAIN-SUFFIX,xinfhw.com

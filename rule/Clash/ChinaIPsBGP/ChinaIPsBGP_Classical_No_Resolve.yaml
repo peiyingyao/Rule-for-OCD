@@ -1,9 +1,9 @@
 # NAME: ChinaIPsBGP
 # AUTHOR: misakaio
 # REPO: https://github.com/misakaio/chnroutes2
-# UPDATED: 2026-02-26 02:25:37
-# IP-CIDR: 3916
-# TOTAL: 3916
+# UPDATED: 2026-02-28 02:15:35
+# IP-CIDR: 3910
+# TOTAL: 3910
 payload:
   - IP-CIDR,1.1.8.0/24,no-resolve
   - IP-CIDR,1.116.0.0/15,no-resolve
@@ -808,9 +808,6 @@ payload:
   - IP-CIDR,106.88.0.0/14,no-resolve
   - IP-CIDR,106.92.0.0/16,no-resolve
   - IP-CIDR,107.148.240.0/21,no-resolve
-  - IP-CIDR,107.148.248.0/24,no-resolve
-  - IP-CIDR,107.148.250.0/23,no-resolve
-  - IP-CIDR,107.148.252.0/23,no-resolve
   - IP-CIDR,107.151.212.0/24,no-resolve
   - IP-CIDR,107.190.229.0/24,no-resolve
   - IP-CIDR,109.244.0.0/16,no-resolve
@@ -1502,7 +1499,6 @@ payload:
   - IP-CIDR,119.57.64.0/19,no-resolve
   - IP-CIDR,119.57.8.0/23,no-resolve
   - IP-CIDR,119.57.96.0/22,no-resolve
-  - IP-CIDR,119.59.128.0/18,no-resolve
   - IP-CIDR,119.60.0.0/15,no-resolve
   - IP-CIDR,119.62.0.0/16,no-resolve
   - IP-CIDR,119.75.208.0/20,no-resolve
@@ -1778,6 +1774,7 @@ payload:
   - IP-CIDR,124.14.16.0/21,no-resolve
   - IP-CIDR,124.14.2.0/23,no-resolve
   - IP-CIDR,124.14.224.0/19,no-resolve
+  - IP-CIDR,124.14.48.0/24,no-resolve
   - IP-CIDR,124.14.5.0/24,no-resolve
   - IP-CIDR,124.14.64.0/18,no-resolve
   - IP-CIDR,124.14.7.0/24,no-resolve
@@ -1824,7 +1821,7 @@ payload:
   - IP-CIDR,124.29.0.0/17,no-resolve
   - IP-CIDR,124.31.0.0/16,no-resolve
   - IP-CIDR,124.40.128.0/18,no-resolve
-  - IP-CIDR,124.42.0.0/16,no-resolve
+  - IP-CIDR,124.42.0.0/17,no-resolve
   - IP-CIDR,124.47.58.0/23,no-resolve
   - IP-CIDR,124.47.60.0/23,no-resolve
   - IP-CIDR,124.64.0.0/15,no-resolve
@@ -2014,10 +2011,8 @@ payload:
   - IP-CIDR,154.8.48.0/20,no-resolve
   - IP-CIDR,154.89.32.0/20,no-resolve
   - IP-CIDR,155.126.176.0/23,no-resolve
-  - IP-CIDR,156.107.160.0/24,no-resolve
   - IP-CIDR,156.107.170.0/24,no-resolve
   - IP-CIDR,156.107.179.0/24,no-resolve
-  - IP-CIDR,156.107.181.0/24,no-resolve
   - IP-CIDR,156.224.128.0/17,no-resolve
   - IP-CIDR,156.227.239.0/24,no-resolve
   - IP-CIDR,156.232.10.0/23,no-resolve
@@ -2797,7 +2792,8 @@ payload:
   - IP-CIDR,211.147.208.0/20,no-resolve
   - IP-CIDR,211.147.224.0/19,no-resolve
   - IP-CIDR,211.147.64.0/19,no-resolve
-  - IP-CIDR,211.148.0.0/16,no-resolve
+  - IP-CIDR,211.148.0.0/18,no-resolve
+  - IP-CIDR,211.148.128.0/17,no-resolve
   - IP-CIDR,211.149.128.0/17,no-resolve
   - IP-CIDR,211.150.0.0/18,no-resolve
   - IP-CIDR,211.150.100.0/23,no-resolve
@@ -3092,7 +3088,6 @@ payload:
   - IP-CIDR,220.113.32.0/20,no-resolve
   - IP-CIDR,220.113.96.0/21,no-resolve
   - IP-CIDR,220.114.250.0/23,no-resolve
-  - IP-CIDR,220.152.128.0/17,no-resolve
   - IP-CIDR,220.154.0.0/20,no-resolve
   - IP-CIDR,220.154.128.0/20,no-resolve
   - IP-CIDR,220.154.147.0/24,no-resolve
@@ -3303,7 +3298,6 @@ payload:
   - IP-CIDR,27.0.164.0/22,no-resolve
   - IP-CIDR,27.0.204.0/22,no-resolve
   - IP-CIDR,27.0.208.0/21,no-resolve
-  - IP-CIDR,27.106.128.0/18,no-resolve
   - IP-CIDR,27.106.204.0/22,no-resolve
   - IP-CIDR,27.109.124.0/22,no-resolve
   - IP-CIDR,27.112.0.0/21,no-resolve
