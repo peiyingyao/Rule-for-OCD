@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-02 02:08:25
+# UPDATED: 2026-03-04 02:17:25
 # DOMAIN: 118
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32871
+# DOMAIN-SUFFIX: 32874
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 33142
+# TOTAL: 33145
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -5796,7 +5796,6 @@ payload:
   - '+.classics.ac.uk'
   - '+.classymomsex.com'
   - '+.claude.ai'
-  - '+.claude.com'
   - '+.claudemcpclient.com'
   - '+.claudeusercontent.com'
   - '+.clc-london.ac.uk'
@@ -13244,6 +13243,7 @@ payload:
   - '+.jav.la'
   - '+.jav.land'
   - '+.jav.place'
+  - '+.jav.sb'
   - '+.jav.si'
   - '+.jav.wine'
   - '+.jav01.cc'
@@ -13307,6 +13307,7 @@ payload:
   - '+.javher.com'
   - '+.javheroine.com'
   - '+.javhihi.com'
+  - '+.javhub.com'
   - '+.javhub.me'
   - '+.javidol.org'
   - '+.javjack.com'
@@ -13340,6 +13341,7 @@ payload:
   - '+.javpub.me'
   - '+.javpush.com'
   - '+.javqd.com'
+  - '+.javquick.com'
   - '+.javrank.com'
   - '+.javrate.com'
   - '+.javrave.club'
@@ -14943,7 +14945,6 @@ payload:
   - '+.mantochichi.com'
   - '+.manufacturingedc.ac.uk'
   - '+.manurefetish.com'
-  - '+.manus.im'
   - '+.manuscdn.com'
   - '+.manytoon.com'
   - '+.manyvids.com'
@@ -27581,6 +27582,7 @@ payload:
   - '+.cl.ly'
   - '+.clarionproject.org'
   - '+.classicalguitarblog.net'
+  - '+.claude.com'
   - '+.clb.org.hk'
   - '+.cleansite.biz'
   - '+.cleansite.info'
@@ -29830,6 +29832,7 @@ payload:
   - '+.mansion.com'
   - '+.mansionpoker.com'
   - '+.manta.com'
+  - '+.manus.im'
   - '+.manyvoices.news'
   - '+.maplew.com'
   - '+.marc.info'
