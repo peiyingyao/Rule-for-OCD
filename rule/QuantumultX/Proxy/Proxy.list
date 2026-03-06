@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-04 02:17:47
+# UPDATED: 2026-03-06 02:38:57
 # HOST: 19
 # HOST-KEYWORD: 26
-# HOST-SUFFIX: 7056
+# HOST-SUFFIX: 7059
 # IP-CIDR: 93
 # IP6-CIDR: 4
 # USER-AGENT: 8
-# TOTAL: 7206
+# TOTAL: 7209
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -454,6 +454,7 @@ HOST-SUFFIX,archiveofourown.org,Proxy
 HOST-SUFFIX,archives.gov,Proxy
 HOST-SUFFIX,arctosia.com,Proxy
 HOST-SUFFIX,areca-backup.org,Proxy
+HOST-SUFFIX,arena.ai,Proxy
 HOST-SUFFIX,arena.taipei,Proxy
 HOST-SUFFIX,arethusa.su,Proxy
 HOST-SUFFIX,arlingtoncemetery.mil,Proxy
@@ -467,6 +468,7 @@ HOST-SUFFIX,artstation.com,Proxy
 HOST-SUFFIX,artsy.net,Proxy
 HOST-SUFFIX,arunachalforests.gov.in,Proxy
 HOST-SUFFIX,arvanstorage.ir,Proxy
+HOST-SUFFIX,arweave.org,Proxy
 HOST-SUFFIX,asacp.org,Proxy
 HOST-SUFFIX,asdfg.jp,Proxy
 HOST-SUFFIX,asg.to,Proxy
@@ -6695,6 +6697,7 @@ HOST-SUFFIX,wiredpen.com,Proxy
 HOST-SUFFIX,wireguard.com,Proxy
 HOST-SUFFIX,wisdompubs.org,Proxy
 HOST-SUFFIX,wisevid.com,Proxy
+HOST-SUFFIX,wispbyte.com,Proxy
 HOST-SUFFIX,wistia.com,Proxy
 HOST-SUFFIX,withgoogle.com,Proxy
 HOST-SUFFIX,withyoutube.com,Proxy

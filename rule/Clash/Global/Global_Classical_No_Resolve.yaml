@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-04 02:17:25
+# UPDATED: 2026-03-06 02:38:36
 # DOMAIN: 118
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32874
+# DOMAIN-SUFFIX: 32883
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 33145
+# TOTAL: 33154
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -6977,6 +6977,7 @@ payload:
   - DOMAIN-SUFFIX,diablo3.com
   - DOMAIN-SUFFIX,diabloimmortal.com
   - DOMAIN-SUFFIX,diabrowser.com
+  - DOMAIN-SUFFIX,diabrowser.engineering
   - DOMAIN-SUFFIX,dialga.com
   - DOMAIN-SUFFIX,dialogflow.com
   - DOMAIN-SUFFIX,diamantewebcam.com
@@ -7242,6 +7243,7 @@ payload:
   - DOMAIN-SUFFIX,dl-iphone.com
   - DOMAIN-SUFFIX,dl.ac.uk
   - DOMAIN-SUFFIX,dl4d.ac.uk
+  - DOMAIN-SUFFIX,dlaf.jp
   - DOMAIN-SUFFIX,dlap001.xyz
   - DOMAIN-SUFFIX,dlap301.com
   - DOMAIN-SUFFIX,dldlinks.com
@@ -12408,6 +12410,7 @@ payload:
   - DOMAIN-SUFFIX,ilife.eu
   - DOMAIN-SUFFIX,ilife.gr
   - DOMAIN-SUFFIX,ilife.wang
+  - DOMAIN-SUFFIX,illgames.jp
   - DOMAIN-SUFFIX,illianacomputerrecycling.com
   - DOMAIN-SUFFIX,illusion.co.jp
   - DOMAIN-SUFFIX,illusion.jp
@@ -13209,6 +13212,7 @@ payload:
   - DOMAIN-SUFFIX,janetcollaborate.ac.uk
   - DOMAIN-SUFFIX,janor6.net
   - DOMAIN-SUFFIX,japan-forward.com
+  - DOMAIN-SUFFIX,japan-illgames.com
   - DOMAIN-SUFFIX,japan18tube.com
   - DOMAIN-SUFFIX,japanbeast.com
   - DOMAIN-SUFFIX,japanese-scat.net
@@ -13411,6 +13415,7 @@ payload:
   - DOMAIN-SUFFIX,jessicaturner.co.uk
   - DOMAIN-SUFFIX,jessicaturner.com
   - DOMAIN-SUFFIX,jetbrains.ai
+  - DOMAIN-SUFFIX,jetbrains.cloud
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,jetbrains.net
   - DOMAIN-SUFFIX,jetbrains.space
@@ -23226,6 +23231,7 @@ payload:
   - DOMAIN-SUFFIX,tsuradou.noonvob.com
   - DOMAIN-SUFFIX,tsyum.com
   - DOMAIN-SUFFIX,ttc.ac.uk
+  - DOMAIN-SUFFIX,ttcdn-us.com
   - DOMAIN-SUFFIX,tte-lisa.ac.uk
   - DOMAIN-SUFFIX,tteshop.com
   - DOMAIN-SUFFIX,ttetraining.ac.uk
@@ -26898,6 +26904,7 @@ payload:
   - DOMAIN-SUFFIX,archives.gov
   - DOMAIN-SUFFIX,arctosia.com
   - DOMAIN-SUFFIX,areca-backup.org
+  - DOMAIN-SUFFIX,arena.ai
   - DOMAIN-SUFFIX,arena.taipei
   - DOMAIN-SUFFIX,arethusa.su
   - DOMAIN-SUFFIX,arlingtoncemetery.mil
@@ -26911,6 +26918,7 @@ payload:
   - DOMAIN-SUFFIX,artsy.net
   - DOMAIN-SUFFIX,arunachalforests.gov.in
   - DOMAIN-SUFFIX,arvanstorage.ir
+  - DOMAIN-SUFFIX,arweave.org
   - DOMAIN-SUFFIX,asacp.org
   - DOMAIN-SUFFIX,asdfg.jp
   - DOMAIN-SUFFIX,asg.to
@@ -32634,6 +32642,7 @@ payload:
   - DOMAIN-SUFFIX,wireguard.com
   - DOMAIN-SUFFIX,wisdompubs.org
   - DOMAIN-SUFFIX,wisevid.com
+  - DOMAIN-SUFFIX,wispbyte.com
   - DOMAIN-SUFFIX,wistia.com
   - DOMAIN-SUFFIX,witnessleeteaching.com
   - DOMAIN-SUFFIX,witopia.net

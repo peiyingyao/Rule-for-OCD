@@ -1,10 +1,10 @@
 # NAME: iCloud
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:15:11
+# UPDATED: 2026-03-06 02:37:18
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 58
-# TOTAL: 59
+# DOMAIN-SUFFIX: 59
+# TOTAL: 60
 payload:
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,apple-icloud.cn
@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,icloud-sandbox.com
   - DOMAIN-SUFFIX,icloud.apple.com
   - DOMAIN-SUFFIX,icloud.ch
+  - DOMAIN-SUFFIX,icloud.cn
   - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,icloud.com.cn
   - DOMAIN-SUFFIX,icloud.de

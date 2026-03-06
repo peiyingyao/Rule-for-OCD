@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-04 02:17:46
+# UPDATED: 2026-03-06 02:38:57
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6576
+# DOMAIN-SUFFIX: 6579
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6708
+# TOTAL: 6711
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -430,6 +430,7 @@ DOMAIN-SUFFIX,archiveofourown.org
 DOMAIN-SUFFIX,archives.gov
 DOMAIN-SUFFIX,arctosia.com
 DOMAIN-SUFFIX,areca-backup.org
+DOMAIN-SUFFIX,arena.ai
 DOMAIN-SUFFIX,arena.taipei
 DOMAIN-SUFFIX,arethusa.su
 DOMAIN-SUFFIX,arlingtoncemetery.mil
@@ -443,6 +444,7 @@ DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,artsy.net
 DOMAIN-SUFFIX,arunachalforests.gov.in
 DOMAIN-SUFFIX,arvanstorage.ir
+DOMAIN-SUFFIX,arweave.org
 DOMAIN-SUFFIX,asacp.org
 DOMAIN-SUFFIX,asdfg.jp
 DOMAIN-SUFFIX,asg.to
@@ -6218,6 +6220,7 @@ DOMAIN-SUFFIX,wiredpen.com
 DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,wisdompubs.org
 DOMAIN-SUFFIX,wisevid.com
+DOMAIN-SUFFIX,wispbyte.com
 DOMAIN-SUFFIX,wistia.com
 DOMAIN-SUFFIX,witnessleeteaching.com
 DOMAIN-SUFFIX,witopia.net

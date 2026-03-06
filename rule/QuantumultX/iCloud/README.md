@@ -12,15 +12,15 @@ iCloud规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-06-06 09:15:11
+最后更新时间：2026-03-06 02:37:18
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST | 1  | 
 | HOST-KEYWORD | 1  | 
-| HOST-SUFFIX | 58  | 
-| TOTAL | 60  | 
+| HOST-SUFFIX | 59  | 
+| TOTAL | 61  | 
 
 
 ## QuantumultX 
