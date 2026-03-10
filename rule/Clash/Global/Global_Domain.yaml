@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-08 02:08:13
+# UPDATED: 2026-03-10 02:18:29
 # DOMAIN: 119
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32894
+# DOMAIN-SUFFIX: 32905
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 33166
+# TOTAL: 33177
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -370,6 +370,7 @@ payload:
   - '+.2mdn-cn.net'
   - '+.2mdn.net'
   - '+.30plusgirls.com'
+  - '+.32bm.cc'
   - '+.35s4.com'
   - '+.360autodesk.com'
   - '+.360nexus.com'
@@ -1932,6 +1933,7 @@ payload:
   - '+.app-analytics-services.com'
   - '+.app-dynamics.com'
   - '+.app-measurement-cn.com'
+  - '+.app-pay.jp'
   - '+.app-store.wang'
   - '+.app0le.com'
   - '+.app756.com'
@@ -2954,6 +2956,7 @@ payload:
   - '+.bafa.ac.uk'
   - '+.bag-glasses1.com'
   - '+.bahcesehir.ac.uk'
+  - '+.bai29.xyz'
   - '+.baicaonetwork.com'
   - '+.baice.ac.uk'
   - '+.bailer.ac.uk'
@@ -4951,6 +4954,7 @@ payload:
   - '+.cafmad.ac.uk'
   - '+.cafr.ca'
   - '+.cafre.ac.uk'
+  - '+.cai21.xyz'
   - '+.caice.com'
   - '+.caijinglengyan.com'
   - '+.caime.xyz'
@@ -7695,6 +7699,7 @@ payload:
   - '+.dynamobuilds.com'
   - '+.dynamopackages.com'
   - '+.dynamoreach.com'
+  - '+.dynatrace.com'
   - '+.dyncdn.me'
   - '+.dyttapi.com'
   - '+.dyttapis.com'
@@ -8945,6 +8950,7 @@ payload:
   - '+.familypies.net'
   - '+.familyporn.tv'
   - '+.familypornhd.com'
+  - '+.familysearch.org'
   - '+.familysexsimulator.com'
   - '+.familysimulator.com'
   - '+.familysimulator.io'
@@ -17189,6 +17195,7 @@ payload:
   - '+.nikestyles.com'
   - '+.nikeswim.com'
   - '+.niketaiwan.net'
+  - '+.niketracking.com'
   - '+.niketradeweb.com'
   - '+.niketrainer.com'
   - '+.niketrainers.com'
@@ -20053,6 +20060,7 @@ payload:
   - '+.rightster.com'
   - '+.rimg.com.tw'
   - '+.rin.ac.uk'
+  - '+.rinvdh7.xyz'
   - '+.riot-games.com'
   - '+.riot.com'
   - '+.riot.im'
@@ -20391,6 +20399,7 @@ payload:
   - '+.samsunggalaxyfriends.com'
   - '+.samsunghealth.com'
   - '+.samsungiotcloud.com'
+  - '+.samsungiots.com'
   - '+.samsungknox.com'
   - '+.samsungosp.com'
   - '+.samsungqbe.com'
@@ -21378,6 +21387,7 @@ payload:
   - '+.smartonesolutions.com.hk'
   - '+.smartonesolutions.hk'
   - '+.smartstream.ne.jp'
+  - '+.smartthings.com'
   - '+.smashed.xxx'
   - '+.smbc.co.jp'
   - '+.smbctb.co.jp'
@@ -31275,6 +31285,7 @@ payload:
   - '+.shipcamouflage.com'
   - '+.shireyishunjian.com'
   - '+.shitaotv.org'
+  - '+.shitjournal.org'
   - '+.shixiao.org'
   - '+.shizhao.org'
   - '+.shkspr.mobi'
