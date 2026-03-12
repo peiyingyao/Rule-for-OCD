@@ -1,7 +1,7 @@
 # NAME: Apple
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-10 02:17:13
+# UPDATED: 2026-03-12 02:18:46
 # HOST: 272
 # HOST-KEYWORD: 7
 # HOST-SUFFIX: 1551
@@ -11,7 +11,6 @@
 # USER-AGENT: 23
 # TOTAL: 1881
 HOST,apps.apple.com,Apple
-HOST,itunes.apple.com,Apple
 HOST,a1.mzstatic.com,Apple
 HOST,a2.mzstatic.com,Apple
 HOST,a3.mzstatic.com,Apple
@@ -256,6 +255,7 @@ HOST,docs-assets.developer.apple.com,Apple
 HOST,gspe1-ssl.ls.apple.com,Apple
 HOST,hls-svod.itunes.apple.com,Apple
 HOST,hls.itunes.apple.com,Apple
+HOST,itunes.apple.com,Apple
 HOST,js-cdn.music.apple.com,Apple
 HOST,lookup-api.apple.com,Apple
 HOST,mask-api.fe.apple-dns.net,Apple
@@ -1466,7 +1466,6 @@ HOST-SUFFIX,applepaysupplies.net,Apple
 HOST-SUFFIX,applepaysupplies.tv,Apple
 HOST-SUFFIX,applewallet.com,Apple
 HOST-SUFFIX,applewallet.tv,Apple
-HOST-SUFFIX,appsto.re,Apple
 HOST-SUFFIX,appstore.co.id,Apple
 HOST-SUFFIX,appstore.com,Apple
 HOST-SUFFIX,appstore.hk,Apple
@@ -1827,6 +1826,7 @@ HOST-SUFFIX,wwwapplemusic.com,Apple
 HOST-SUFFIX,applemusic.com,Apple
 HOST-SUFFIX,apple-dns.net,Apple
 HOST-SUFFIX,apple.news,Apple
+HOST-SUFFIX,appsto.re,Apple
 HOST-SUFFIX,cdn-apple.com,Apple
 HOST-SUFFIX,digicert.com,Apple
 HOST-SUFFIX,apple-cloudkit.com,Apple

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-10 02:18:29
+# UPDATED: 2026-03-12 02:20:05
 # DOMAIN: 119
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32905
+# DOMAIN-SUFFIX: 32906
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 33177
+# TOTAL: 33178
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -6466,6 +6466,7 @@ DOMAIN-SUFFIX,cutt.ly
 DOMAIN-SUFFIX,cuv.ac.uk
 DOMAIN-SUFFIX,cuwm.ac.uk
 DOMAIN-SUFFIX,cvcp.ac.uk
+DOMAIN-SUFFIX,cve.org
 DOMAIN-SUFFIX,cvma.ac.uk
 DOMAIN-SUFFIX,cvr.ac.uk
 DOMAIN-SUFFIX,cvs.ac.uk
