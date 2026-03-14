@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-12 02:20:05
+# UPDATED: 2026-03-14 02:13:36
 # DOMAIN: 119
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32906
+# DOMAIN-SUFFIX: 32911
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 33178
+# TOTAL: 33183
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -5800,9 +5800,11 @@ payload:
   - DOMAIN-SUFFIX,classicnike.com
   - DOMAIN-SUFFIX,classics.ac.uk
   - DOMAIN-SUFFIX,classymomsex.com
+  - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claudemcpclient.com
   - DOMAIN-SUFFIX,claudeusercontent.com
+  - DOMAIN-SUFFIX,clawhub.ai
   - DOMAIN-SUFFIX,clc-london.ac.uk
   - DOMAIN-SUFFIX,clco.cc
   - DOMAIN-SUFFIX,clean-cooling.ac.uk
@@ -10896,6 +10898,7 @@ payload:
   - DOMAIN-SUFFIX,h-webtoon.com
   - DOMAIN-SUFFIX,h0930.com
   - DOMAIN-SUFFIX,h18ani1.vip
+  - DOMAIN-SUFFIX,h2o.ai
   - DOMAIN-SUFFIX,h2porn.com
   - DOMAIN-SUFFIX,habr.com
   - DOMAIN-SUFFIX,habrastorage.org
@@ -17921,6 +17924,7 @@ payload:
   - DOMAIN-SUFFIX,openart.ai
   - DOMAIN-SUFFIX,openbook.org.tw
   - DOMAIN-SUFFIX,opencas.io
+  - DOMAIN-SUFFIX,openclaw.ai
   - DOMAIN-SUFFIX,opencollective.com
   - DOMAIN-SUFFIX,opencreate.org
   - DOMAIN-SUFFIX,opendesktop.org
@@ -21255,6 +21259,7 @@ payload:
   - DOMAIN-SUFFIX,sinica.ac.uk
   - DOMAIN-SUFFIX,sino-cs.ac.uk
   - DOMAIN-SUFFIX,sinto.ac.uk
+  - DOMAIN-SUFFIX,sinyalee.com
   - DOMAIN-SUFFIX,sip.ac.uk
   - DOMAIN-SUFFIX,sipher.ac.uk
   - DOMAIN-SUFFIX,siport.com
