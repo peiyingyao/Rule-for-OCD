@@ -1,12 +1,12 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-14 02:14:56
-# DOMAIN: 125
+# UPDATED: 2026-03-16 02:11:58
+# DOMAIN: 129
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 123
 # IP-CIDR: 3
-# TOTAL: 255
+# TOTAL: 259
 DOMAIN,004430.xyz
 DOMAIN,1337.abcvg.info
 DOMAIN,6ahddutb1ucc3cp.ru
@@ -31,8 +31,8 @@ DOMAIN,leet-tracker.moe
 DOMAIN,lucke.fenesisu.moe
 DOMAIN,martin-gebhardt.eu
 DOMAIN,node01.madtia.cc
+DOMAIN,node01.torrentonline.cc
 DOMAIN,node01.trackerstatus.live
-DOMAIN,node02.madtia.cc
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,nyaa.tracker.wf
 DOMAIN,open.acgtracker.com
@@ -45,6 +45,9 @@ DOMAIN,p4p.arenabg.com
 DOMAIN,rekcart.duckdns.org
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
+DOMAIN,s1130638.ha016.t.mydomain.zone
+DOMAIN,s1130639.ha009.t.mydomain.zone
+DOMAIN,s1130642.ha014.t.mydomain.zone
 DOMAIN,shahidrazi.online
 DOMAIN,speedtest.iperson.xyz
 DOMAIN,t.213891.xyz
@@ -85,6 +88,8 @@ DOMAIN,tracker.fnix.net
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,tracker.gmi.gd
+DOMAIN,tracker.huadongblower.xyz
+DOMAIN,tracker.iochimari.moe
 DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.ixuexi.click
@@ -93,7 +98,6 @@ DOMAIN,tracker.manager.v6.navy
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.nekomi.cn
-DOMAIN,tracker.novy.vip
 DOMAIN,tracker.opentorrent.top
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
@@ -114,13 +118,13 @@ DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tritan.gg
 DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker.tvunderground.org.ru
+DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.wepzone.net
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.yggleak.top
 DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,tracker.zhuqiy.com
 DOMAIN,tracker1.520.jp
-DOMAIN,tracker1.myporn.club
 DOMAIN,tracker2.dler.org
 DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
@@ -130,8 +134,8 @@ DOMAIN,udp.tracker.projectk.org
 DOMAIN,udp1.torrust-tracker-demo.com
 DOMAIN,utracker.ghostchu-services.top
 DOMAIN,wepzone.net
+DOMAIN,wsad.run.place
 DOMAIN,www.all4nothin.net
-DOMAIN,www.wareztorrent.com
 DOMAIN-SUFFIX,1ptba.com
 DOMAIN-SUFFIX,2xfree.org
 DOMAIN-SUFFIX,52pt.site
