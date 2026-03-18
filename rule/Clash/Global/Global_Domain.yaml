@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-16 02:10:42
+# UPDATED: 2026-03-18 02:21:42
 # DOMAIN: 119
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32911
+# DOMAIN-SUFFIX: 32915
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 33183
+# TOTAL: 33187
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -6452,6 +6452,7 @@ payload:
   - '+.curvyerotic.com'
   - '+.cusp.ac.uk'
   - '+.cusplondon.ac.uk'
+  - '+.custhelp.com'
   - '+.custom-iphonecase.com'
   - '+.custombeatsbydrebuy.com'
   - '+.custombeatsdeals.com'
@@ -17311,6 +17312,7 @@ payload:
   - '+.nochubank.or.jp'
   - '+.nocn.ac.uk'
   - '+.nocs.ac.uk'
+  - '+.nodeget.com'
   - '+.nodeimage.com'
   - '+.nodejs.org'
   - '+.nodequality.com'
@@ -21737,6 +21739,7 @@ payload:
   - '+.spiceworksstatic.com'
   - '+.spicybigtits.com'
   - '+.spicystory.net'
+  - '+.spicywriter.com'
   - '+.spider.ac.uk'
   - '+.spiegel.de'
   - '+.spinesurgeons.ac.uk'
@@ -25165,6 +25168,7 @@ payload:
   - '+.woolitecarpet.com'
   - '+.worc.ac.uk'
   - '+.worcester.ac.uk'
+  - '+.wordpress.net'
   - '+.wordpress.org'
   - '+.wordpress.tv'
   - '+.workandhome.ac.uk'
