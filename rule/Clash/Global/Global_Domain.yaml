@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-18 02:21:42
+# UPDATED: 2026-03-20 02:20:29
 # DOMAIN: 119
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32915
+# DOMAIN-SUFFIX: 32920
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 33187
+# TOTAL: 33192
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -685,7 +685,6 @@ payload:
   - '+.aapl.tw'
   - '+.aaschool.ac.uk'
   - '+.aau.ac.uk'
-  - '+.aave.com'
   - '+.aavs.xyz'
   - '+.abank.com.mm'
   - '+.abb.travel'
@@ -22940,6 +22939,11 @@ payload:
   - '+.tiktokv.eu'
   - '+.tiktokw.eu'
   - '+.tiktokw.us'
+  - '+.tilda.cc'
+  - '+.tilda.ru'
+  - '+.tilda.ws'
+  - '+.tildaapi.com'
+  - '+.tildacdn.com'
   - '+.tilehill.ac.uk'
   - '+.time.gov'
   - '+.time.nrc.ca'
@@ -26682,6 +26686,7 @@ payload:
   - '+.9to5mac.com'
   - '+.a-normal-day.com'
   - '+.aamacau.com'
+  - '+.aave.com'
   - '+.abc.com'
   - '+.abc.net.au'
   - '+.abc.xyz'

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-18 02:22:00
+# UPDATED: 2026-03-20 02:20:49
 # HOST: 694
 # HOST-KEYWORD: 36
-# HOST-SUFFIX: 32960
+# HOST-SUFFIX: 32965
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 33852
+# TOTAL: 33857
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -1256,7 +1256,6 @@ HOST-SUFFIX,aanaan.com,Global
 HOST-SUFFIX,aapl.tw,Global
 HOST-SUFFIX,aaschool.ac.uk,Global
 HOST-SUFFIX,aau.ac.uk,Global
-HOST-SUFFIX,aave.com,Global
 HOST-SUFFIX,aavs.xyz,Global
 HOST-SUFFIX,abank.com.mm,Global
 HOST-SUFFIX,abb.travel,Global
@@ -23121,6 +23120,11 @@ HOST-SUFFIX,tiktokminis.us,Global
 HOST-SUFFIX,tiktokv.eu,Global
 HOST-SUFFIX,tiktokw.eu,Global
 HOST-SUFFIX,tiktokw.us,Global
+HOST-SUFFIX,tilda.cc,Global
+HOST-SUFFIX,tilda.ru,Global
+HOST-SUFFIX,tilda.ws,Global
+HOST-SUFFIX,tildaapi.com,Global
+HOST-SUFFIX,tildacdn.com,Global
 HOST-SUFFIX,tilehill.ac.uk,Global
 HOST-SUFFIX,time.gov,Global
 HOST-SUFFIX,time.nrc.ca,Global
@@ -26830,6 +26834,7 @@ HOST-SUFFIX,9news.com.au,Global
 HOST-SUFFIX,9to5mac.com,Global
 HOST-SUFFIX,a-normal-day.com,Global
 HOST-SUFFIX,aamacau.com,Global
+HOST-SUFFIX,aave.com,Global
 HOST-SUFFIX,abc.com,Global
 HOST-SUFFIX,abc.net.au,Global
 HOST-SUFFIX,abc.xyz,Global

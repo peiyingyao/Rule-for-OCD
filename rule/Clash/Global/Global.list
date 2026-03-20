@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-18 02:21:42
+# UPDATED: 2026-03-20 02:20:29
 # DOMAIN: 119
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32915
+# DOMAIN-SUFFIX: 32920
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 33187
+# TOTAL: 33192
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -684,7 +684,6 @@ DOMAIN-SUFFIX,aanaan.com
 DOMAIN-SUFFIX,aapl.tw
 DOMAIN-SUFFIX,aaschool.ac.uk
 DOMAIN-SUFFIX,aau.ac.uk
-DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,aavs.xyz
 DOMAIN-SUFFIX,abank.com.mm
 DOMAIN-SUFFIX,abb.travel
@@ -22939,6 +22938,11 @@ DOMAIN-SUFFIX,tiktokminis.us
 DOMAIN-SUFFIX,tiktokv.eu
 DOMAIN-SUFFIX,tiktokw.eu
 DOMAIN-SUFFIX,tiktokw.us
+DOMAIN-SUFFIX,tilda.cc
+DOMAIN-SUFFIX,tilda.ru
+DOMAIN-SUFFIX,tilda.ws
+DOMAIN-SUFFIX,tildaapi.com
+DOMAIN-SUFFIX,tildacdn.com
 DOMAIN-SUFFIX,tilehill.ac.uk
 DOMAIN-SUFFIX,time.gov
 DOMAIN-SUFFIX,time.nrc.ca
@@ -26681,6 +26685,7 @@ DOMAIN-SUFFIX,9news.com.au
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,a-normal-day.com
 DOMAIN-SUFFIX,aamacau.com
+DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,abc.net.au
 DOMAIN-SUFFIX,abc.xyz
