@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-20 02:20:29
+# UPDATED: 2026-03-22 02:09:42
 # DOMAIN: 119
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32920
+# DOMAIN-SUFFIX: 32928
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 33192
+# TOTAL: 33200
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -3409,6 +3409,7 @@ payload:
   - '+.beeg.rest'
   - '+.beegfree.com'
   - '+.beejp.net'
+  - '+.beeline.tv'
   - '+.beep.ac.uk'
   - '+.bees.ac.uk'
   - '+.beforeigners.com'
@@ -3500,6 +3501,7 @@ payload:
   - '+.bestbuyus.com'
   - '+.bestcamsites.net'
   - '+.bestclouddrive.com'
+  - '+.bestdori.com'
   - '+.besterpornos.com'
   - '+.bestescortgirls.nl'
   - '+.bestfreecams.club'
@@ -8501,6 +8503,7 @@ payload:
   - '+.esopworld.com'
   - '+.esp-scotland.ac.uk'
   - '+.esp32.com'
+  - '+.esp8266.com'
   - '+.espa-headlines.ac.uk'
   - '+.espa.ac.uk'
   - '+.espadoldettol.com.ar'
@@ -8512,6 +8515,7 @@ payload:
   - '+.espnqa.com'
   - '+.esports.gg'
   - '+.esposasymaridos.com'
+  - '+.espressif.com'
   - '+.esrc.ac.uk'
   - '+.esrcfestival.ac.uk'
   - '+.esrcmanchesterfest.ac.uk'
@@ -26441,6 +26445,7 @@ payload:
   - '+.zhuichaguoji.org'
   - '+.zhuzhushipin-app.com'
   - '+.zibacity.com'
+  - '+.ziglang.org'
   - '+.zigzag.kr'
   - '+.zind.cloud'
   - '+.zingtruyen.net'
@@ -27596,6 +27601,7 @@ payload:
   - '+.churchinhongkong.org'
   - '+.chushigangdrug.ch'
   - '+.ci-en.jp'
+  - '+.cia.gov'
   - '+.cici.com'
   - '+.ciciai.com'
   - '+.cienen.com'
@@ -30496,8 +30502,10 @@ payload:
   - '+.oizoblog.com'
   - '+.ok.ru'
   - '+.okayfreedom.com'
+  - '+.okcoin.com'
   - '+.okex.com'
   - '+.okk.tw'
+  - '+.oklink.com'
   - '+.okpool.me'
   - '+.okx.com'
   - '+.old-cat.net'
