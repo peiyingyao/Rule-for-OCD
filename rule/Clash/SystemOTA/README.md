@@ -12,7 +12,7 @@ iOS系统升级规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-06-06 09:15:11
+最后更新时间：2026-03-24 02:18:16
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -66,7 +66,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《iOS系统升级》的数据来自以下链接，如与本项目的《iOS系统升级》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/SystemOTA/SystemOTA.list
 - https://raw.githubusercontent.com/an0na/R/master/Filter/IOS_OTA.list
 - https://raw.githubusercontent.com/LuzMasonj/Quantumult/master/QuantumultX/Filter/BlockiOSServices.conf
 
