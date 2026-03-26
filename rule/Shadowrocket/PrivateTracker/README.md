@@ -12,16 +12,16 @@ PT下载规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2026-03-24 02:20:51
+最后更新时间：2026-03-26 02:23:42
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 138  | 
+| DOMAIN | 128  | 
 | DOMAIN-KEYWORD | 4  | 
 | DOMAIN-SUFFIX | 123  | 
 | IP-CIDR | 3  | 
-| TOTAL | 268  | 
+| TOTAL | 258  | 
 
 
 ## Shadowrocket 

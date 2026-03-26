@@ -12,17 +12,17 @@ Proxy规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2026-03-22 02:10:04
+最后更新时间：2026-03-26 02:22:44
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 9  | 
 | DOMAIN-KEYWORD | 26  | 
-| DOMAIN-SUFFIX | 6586  | 
+| DOMAIN-SUFFIX | 6588  | 
 | IP-CIDR | 97  | 
 | USER-AGENT | 8  | 
-| TOTAL | 6726  | 
+| TOTAL | 6728  | 
 
 
 ## Shadowrocket 
