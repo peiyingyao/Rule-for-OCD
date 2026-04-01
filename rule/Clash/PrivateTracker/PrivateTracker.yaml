@@ -1,23 +1,26 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-30 02:13:28
-# DOMAIN: 121
+# UPDATED: 2026-04-01 02:22:38
+# DOMAIN: 131
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 123
 # IP-CIDR: 3
-# TOTAL: 251
+# TOTAL: 261
 payload:
   - DOMAIN,004430.xyz
+  - DOMAIN,0d.kebhana.mx
   - DOMAIN,1337.abcvg.info
+  - DOMAIN,6ahddutb1ucc3cp.ru
   - DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
   - DOMAIN,admin.52ywp.com
-  - DOMAIN,asiatorrent.giize.com
   - DOMAIN,bandito.byterunner.io
   - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
   - DOMAIN,bt.okmp3.ru
   - DOMAIN,bt.rer.lol
+  - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,bughome.de
+  - DOMAIN,buny.uk
   - DOMAIN,bvarf.tracker.sh
   - DOMAIN,d40969.acod.regrucolo.ru
   - DOMAIN,evan.im
@@ -25,14 +28,14 @@ payload:
   - DOMAIN,explodie.org
   - DOMAIN,extracker.dahrkael.net
   - DOMAIN,http1.torrust-tracker-demo.com
-  - DOMAIN,ipv4.rer.lol
   - DOMAIN,ipv4announce.sktorrent.eu
+  - DOMAIN,jvavav.com
   - DOMAIN,leet-tracker.moe
   - DOMAIN,lucke.fenesisu.moe
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,node01.madtia.cc
+  - DOMAIN,node01.torrentonline.cc
   - DOMAIN,node01.trackerstatus.live
-  - DOMAIN,node02.madtia.cc
   - DOMAIN,ns575949.ip-51-222-82.net
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,open.acgtracker.com
@@ -40,6 +43,7 @@ payload:
   - DOMAIN,open.demonoid.ch
   - DOMAIN,open.dstud.io
   - DOMAIN,open.stealth.si
+  - DOMAIN,open.trackerlist.xyz
   - DOMAIN,opentor.org
   - DOMAIN,opentracker.8880085.xyz
   - DOMAIN,opentracker.io
@@ -47,9 +51,12 @@ payload:
   - DOMAIN,pybittrack.retiolus.net
   - DOMAIN,rekcart.duckdns.org
   - DOMAIN,retracker.hotplug.ru
+  - DOMAIN,s1130639.ha009.t.mydomain.zone
   - DOMAIN,s1130642.ha014.t.mydomain.zone
+  - DOMAIN,seeders-paradise.org
   - DOMAIN,seedpeer.net
   - DOMAIN,shahidrazi.online
+  - DOMAIN,speedtest.iperson.xyz
   - DOMAIN,t.213891.xyz
   - DOMAIN,t.overflow.biz
   - DOMAIN,torrent.tracker.durukanbal.com
@@ -57,11 +64,8 @@ payload:
   - DOMAIN,torrentsmd.com
   - DOMAIN,tr.abiir.top
   - DOMAIN,tr.highstar.shop
-  - DOMAIN,tr.kxmp.cf
   - DOMAIN,tr.nyacat.pw
-  - DOMAIN,tr.zukizuki.org
   - DOMAIN,tr4ck3r.duckdns.org
-  - DOMAIN,tracker-de-2.cutie.dating
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,tracker-zhuqiy.xn--1r3au8b.space
   - DOMAIN,tracker.004430.xyz
@@ -71,13 +75,13 @@ payload:
   - DOMAIN,tracker.bluefrog.pw
   - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bt4g.com
-  - DOMAIN,tracker.cangku.moe
   - DOMAIN,tracker.corpscorp.online
   - DOMAIN,tracker.darkness.services
   - DOMAIN,tracker.ddunlimited.net
   - DOMAIN,tracker.dhitechnical.com
   - DOMAIN,tracker.dler.com
   - DOMAIN,tracker.dler.org
+  - DOMAIN,tracker.dmcomic.org
   - DOMAIN,tracker.ducks.party
   - DOMAIN,tracker.exe.in.th
   - DOMAIN,tracker.filemail.com
@@ -86,7 +90,6 @@ payload:
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,tracker.ghostchu-services.top
   - DOMAIN,tracker.gmi.gd
-  - DOMAIN,tracker.huadongblower.xyz
   - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.ixuexi.click
   - DOMAIN,tracker.kuroy.me
@@ -103,6 +106,7 @@ payload:
   - DOMAIN,tracker.qingwapt.org
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.renfei.net
+  - DOMAIN,tracker.sbsub.com
   - DOMAIN,tracker.skyts.net
   - DOMAIN,tracker.srv00.com
   - DOMAIN,tracker.t-1.org
@@ -113,6 +117,10 @@ payload:
   - DOMAIN,tracker.tritan.gg
   - DOMAIN,tracker.tryhackx.org
   - DOMAIN,tracker.tvunderground.org.ru
+  - DOMAIN,tracker.vanitycore.co
+  - DOMAIN,tracker.waaa.moe
+  - DOMAIN,tracker.wepzone.net
+  - DOMAIN,tracker.xiaoduola.xyz
   - DOMAIN,tracker.xn--djrq4gl4hvoi.top
   - DOMAIN,tracker.yggleak.top
   - DOMAIN,tracker.yume-hatsuyuki.moe
@@ -128,7 +136,9 @@ payload:
   - DOMAIN,udp.tracker.projectk.org
   - DOMAIN,udp1.torrust-tracker-demo.com
   - DOMAIN,utracker.ghostchu-services.top
-  - DOMAIN,wolf.parrot.run
+  - DOMAIN,wepzone.net
+  - DOMAIN,www.genesis-sp.org
+  - DOMAIN,www.nartlof.com
   - DOMAIN-SUFFIX,1ptba.com
   - DOMAIN-SUFFIX,2xfree.org
   - DOMAIN-SUFFIX,52pt.site
