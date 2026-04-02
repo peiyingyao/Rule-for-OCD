@@ -12,7 +12,7 @@ Rakuten规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2026-04-01 02:22:35
+最后更新时间：2026-04-02 02:21:23
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -63,6 +63,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《Rakuten》的数据来自以下链接，如与本项目的《Rakuten》规则混合使用，可能会造成规则大量重复。
 
+- https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Rakuten.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Rakuten.yaml
 
 
