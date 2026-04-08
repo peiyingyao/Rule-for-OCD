@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-06 02:12:41
+# UPDATED: 2026-04-08 02:22:24
 # HOST: 19
 # HOST-KEYWORD: 26
-# HOST-SUFFIX: 7069
+# HOST-SUFFIX: 7073
 # IP-CIDR: 93
 # IP6-CIDR: 4
 # USER-AGENT: 8
-# TOTAL: 7219
+# TOTAL: 7223
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -442,6 +442,7 @@ HOST-SUFFIX,appspot.com,Proxy
 HOST-SUFFIX,appsto.re,Proxy
 HOST-SUFFIX,aptoide.com,Proxy
 HOST-SUFFIX,arcgis.com,Proxy
+HOST-SUFFIX,archive-it.org,Proxy
 HOST-SUFFIX,archive.fo,Proxy
 HOST-SUFFIX,archive.is,Proxy
 HOST-SUFFIX,archive.li,Proxy
@@ -1575,6 +1576,7 @@ HOST-SUFFIX,dmm.com,Proxy
 HOST-SUFFIX,dns-dns.com,Proxy
 HOST-SUFFIX,dns-stuff.com,Proxy
 HOST-SUFFIX,dns.google,Proxy
+HOST-SUFFIX,dns.sb,Proxy
 HOST-SUFFIX,dns04.com,Proxy
 HOST-SUFFIX,dns05.com,Proxy
 HOST-SUFFIX,dns1.us,Proxy
@@ -1594,6 +1596,7 @@ HOST-SUFFIX,docs.new,Proxy
 HOST-SUFFIX,doctorvoice.org,Proxy
 HOST-SUFFIX,documentingreality.com,Proxy
 HOST-SUFFIX,dogfartnetwork.com,Proxy
+HOST-SUFFIX,doh.sb,Proxy
 HOST-SUFFIX,dojin.com,Proxy
 HOST-SUFFIX,dok-forum.net,Proxy
 HOST-SUFFIX,dolc.de,Proxy
@@ -1612,6 +1615,7 @@ HOST-SUFFIX,doom9.org,Proxy
 HOST-SUFFIX,doosho.com,Proxy
 HOST-SUFFIX,doourbest.org,Proxy
 HOST-SUFFIX,dorjeshugden.com,Proxy
+HOST-SUFFIX,dot.sb,Proxy
 HOST-SUFFIX,dotgov.gov,Proxy
 HOST-SUFFIX,dotplane.com,Proxy
 HOST-SUFFIX,dotsub.com,Proxy

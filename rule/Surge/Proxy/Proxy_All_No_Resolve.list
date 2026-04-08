@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-06 02:12:41
+# UPDATED: 2026-04-08 02:22:23
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6589
+# DOMAIN-SUFFIX: 6593
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6729
+# TOTAL: 6733
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -419,6 +419,7 @@ DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,aptoide.com
 DOMAIN-SUFFIX,arcgis.com
+DOMAIN-SUFFIX,archive-it.org
 DOMAIN-SUFFIX,archive.fo
 DOMAIN-SUFFIX,archive.is
 DOMAIN-SUFFIX,archive.li
@@ -1475,6 +1476,7 @@ DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,dns-dns.com
 DOMAIN-SUFFIX,dns-stuff.com
+DOMAIN-SUFFIX,dns.sb
 DOMAIN-SUFFIX,dns04.com
 DOMAIN-SUFFIX,dns05.com
 DOMAIN-SUFFIX,dns1.us
@@ -1494,6 +1496,7 @@ DOMAIN-SUFFIX,docs.new
 DOMAIN-SUFFIX,doctorvoice.org
 DOMAIN-SUFFIX,documentingreality.com
 DOMAIN-SUFFIX,dogfartnetwork.com
+DOMAIN-SUFFIX,doh.sb
 DOMAIN-SUFFIX,dojin.com
 DOMAIN-SUFFIX,dok-forum.net
 DOMAIN-SUFFIX,dolc.de
@@ -1511,6 +1514,7 @@ DOMAIN-SUFFIX,doom9.org
 DOMAIN-SUFFIX,doosho.com
 DOMAIN-SUFFIX,doourbest.org
 DOMAIN-SUFFIX,dorjeshugden.com
+DOMAIN-SUFFIX,dot.sb
 DOMAIN-SUFFIX,dotgov.gov
 DOMAIN-SUFFIX,dotplane.com
 DOMAIN-SUFFIX,dotsub.com
