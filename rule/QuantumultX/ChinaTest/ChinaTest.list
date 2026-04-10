@@ -1,15 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-04 02:15:52
-# HOST: 134
+# UPDATED: 2026-04-10 02:24:26
+# HOST: 136
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 118255
+# HOST-SUFFIX: 118254
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 118445
+# TOTAL: 118446
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdn.angruo.com,ChinaTest
@@ -70,6 +70,7 @@ HOST,ea2cn-prod-outlet.dell.com,ChinaTest
 HOST,ea2cn-staging-outlet.dell.com,ChinaTest
 HOST,emoi-cncdn.bing.com,ChinaTest
 HOST,fcs.dell.com,ChinaTest
+HOST,firebase-settings.crashlytics.com,ChinaTest
 HOST,fta.dell.com,ChinaTest
 HOST,ftaapj.dell.com,ChinaTest
 HOST,ftaemea.dell.com,ChinaTest
@@ -136,6 +137,7 @@ HOST,surface.downloads.prss.microsoft.com,ChinaTest
 HOST,test.gbugs-qa.chromium.org,ChinaTest
 HOST,time.xtracloud.net,ChinaTest
 HOST,tp.louisvuitton.com,ChinaTest
+HOST,update.crashlytics.com,ChinaTest
 HOST,uplaypc-s-ubisoft.cdn.ubi.com,ChinaTest
 HOST,www-csb.dell.com,ChinaTest
 HOST,www.destinationurl.com,ChinaTest
@@ -1133,7 +1135,6 @@ HOST-SUFFIX,cpppf.org,ChinaTest
 HOST-SUFFIX,cqccn.com,ChinaTest
 HOST-SUFFIX,cqvip.com,ChinaTest
 HOST-SUFFIX,cr173.com,ChinaTest
-HOST-SUFFIX,crashlytics.com,ChinaTest
 HOST-SUFFIX,crggcn.com,ChinaTest
 HOST-SUFFIX,crsky.com,ChinaTest
 HOST-SUFFIX,cryuantafund.com,ChinaTest

@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-04 02:15:56
-# DOMAIN: 134
+# UPDATED: 2026-04-10 02:24:30
+# DOMAIN: 136
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 118255
+# DOMAIN-SUFFIX: 118254
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 118413
+# TOTAL: 118414
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -69,6 +69,7 @@ payload:
   - 'ea2cn-staging-outlet.dell.com'
   - 'emoi-cncdn.bing.com'
   - 'fcs.dell.com'
+  - 'firebase-settings.crashlytics.com'
   - 'fta.dell.com'
   - 'ftaapj.dell.com'
   - 'ftaemea.dell.com'
@@ -135,6 +136,7 @@ payload:
   - 'test.gbugs-qa.chromium.org'
   - 'time.xtracloud.net'
   - 'tp.louisvuitton.com'
+  - 'update.crashlytics.com'
   - 'uplaypc-s-ubisoft.cdn.ubi.com'
   - 'www-csb.dell.com'
   - 'www.destinationurl.com'
@@ -1132,7 +1134,6 @@ payload:
   - '+.cqccn.com'
   - '+.cqvip.com'
   - '+.cr173.com'
-  - '+.crashlytics.com'
   - '+.crggcn.com'
   - '+.crsky.com'
   - '+.cryuantafund.com'
