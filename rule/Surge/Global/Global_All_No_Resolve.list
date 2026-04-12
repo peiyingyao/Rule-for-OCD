@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-10 02:23:45
-# DOMAIN: 120
+# UPDATED: 2026-04-12 02:12:29
+# DOMAIN: 125
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 33188
+# DOMAIN-SUFFIX: 33233
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 33507
+# TOTAL: 33557
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -66,14 +66,19 @@ DOMAIN,medone-education.thieme.com
 DOMAIN,muse.jhu.edu
 DOMAIN,nationalaustraliaban.tt.omtrdc.net
 DOMAIN,ntp-c.colorado.edu
+DOMAIN,ntp.time.nl
 DOMAIN,ntp0.ntp-servers.net
 DOMAIN,ntp1.ntp-servers.net
+DOMAIN,ntp1.time.nl
 DOMAIN,ntp2.ntp-servers.net
+DOMAIN,ntp2.time.nl
 DOMAIN,ntp3.ntp-servers.net
 DOMAIN,ntp4.ntp-servers.net
 DOMAIN,ntp5.ntp-servers.net
 DOMAIN,ntp6.ntp-servers.net
 DOMAIN,ntp7.ntp-servers.net
+DOMAIN,ntppool1.time.nl
+DOMAIN,ntppool2.time.nl
 DOMAIN,nvidia.tt.omtrdc.net
 DOMAIN,ood.opsource.net
 DOMAIN,practivate.adobe
@@ -4946,6 +4951,7 @@ DOMAIN-SUFFIX,caacentre.ac.uk
 DOMAIN-SUFFIX,caadoc.ac.uk
 DOMAIN-SUFFIX,caagcc.ac.uk
 DOMAIN-SUFFIX,caban.ac.uk
+DOMAIN-SUFFIX,cabconnect.org
 DOMAIN-SUFFIX,cableav.xyz
 DOMAIN-SUFFIX,cabletv.com.hk
 DOMAIN-SUFFIX,cabletvdirectv.com
@@ -5082,6 +5088,7 @@ DOMAIN-SUFFIX,candycumcity.com
 DOMAIN-SUFFIX,candypleasure.com
 DOMAIN-SUFFIX,cannington.ac.uk
 DOMAIN-SUFFIX,cannock.ac.uk
+DOMAIN-SUFFIX,canny.io
 DOMAIN-SUFFIX,canolfansgiliaucadarn.ac.uk
 DOMAIN-SUFFIX,canolfanyramgylcheddolcymru.ac.uk
 DOMAIN-SUFFIX,canon-cee.com
@@ -7536,6 +7543,7 @@ DOMAIN-SUFFIX,dreprofy.com
 DOMAIN-SUFFIX,drg.ac.uk
 DOMAIN-SUFFIX,dri.ac.uk
 DOMAIN-SUFFIX,drindod.ac.uk
+DOMAIN-SUFFIX,driveawaytaxi.org
 DOMAIN-SUFFIX,driverxxx.com
 DOMAIN-SUFFIX,drivevideo.xyz
 DOMAIN-SUFFIX,driving.co.uk
@@ -8352,6 +8360,9 @@ DOMAIN-SUFFIX,enterpriseresearch.ac.uk
 DOMAIN-SUFFIX,enterprisessl.com
 DOMAIN-SUFFIX,entrust.com
 DOMAIN-SUFFIX,entrustdatacard.com
+DOMAIN-SUFFIX,envato-static.com
+DOMAIN-SUFFIX,envato.com
+DOMAIN-SUFFIX,envatousercontent.com
 DOMAIN-SUFFIX,enveast.ac.uk
 DOMAIN-SUFFIX,environment-health.ac.uk
 DOMAIN-SUFFIX,eotarchive.org
@@ -10470,6 +10481,7 @@ DOMAIN-SUFFIX,gofuckmenow.com
 DOMAIN-SUFFIX,gog-statics.com
 DOMAIN-SUFFIX,gog.com
 DOMAIN-SUFFIX,gogeo.ac.uk
+DOMAIN-SUFFIX,gogettaxi.org
 DOMAIN-SUFFIX,gogle.com
 DOMAIN-SUFFIX,gogo-load.com
 DOMAIN-SUFFIX,gogoanime.vc
@@ -10820,6 +10832,7 @@ DOMAIN-SUFFIX,gothdporn.com
 DOMAIN-SUFFIX,gotporn.com
 DOMAIN-SUFFIX,gotraffic.net
 DOMAIN-SUFFIX,gouhuo.qq.com
+DOMAIN-SUFFIX,goup.ai
 DOMAIN-SUFFIX,gouri.xyz
 DOMAIN-SUFFIX,governmentengineer.com
 DOMAIN-SUFFIX,govforce.com
@@ -11134,6 +11147,7 @@ DOMAIN-SUFFIX,hayday.com
 DOMAIN-SUFFIX,haydaygame.com
 DOMAIN-SUFFIX,hayle.ac.uk
 DOMAIN-SUFFIX,haywardsheath.ac.uk
+DOMAIN-SUFFIX,hayya.ae
 DOMAIN-SUFFIX,hbabit.com
 DOMAIN-SUFFIX,hbfile.net
 DOMAIN-SUFFIX,hbo-europe.com
@@ -13602,6 +13616,21 @@ DOMAIN-SUFFIX,jiuse823.com
 DOMAIN-SUFFIX,jiuse904.com
 DOMAIN-SUFFIX,jiuse905.com
 DOMAIN-SUFFIX,jiuzhouyihuo.com
+DOMAIN-SUFFIX,jivo.chat
+DOMAIN-SUFFIX,jivo.ru
+DOMAIN-SUFFIX,jivochat.co.in
+DOMAIN-SUFFIX,jivochat.co.za
+DOMAIN-SUFFIX,jivochat.com
+DOMAIN-SUFFIX,jivochat.com.br
+DOMAIN-SUFFIX,jivochat.com.co
+DOMAIN-SUFFIX,jivochat.com.pe
+DOMAIN-SUFFIX,jivochat.com.tr
+DOMAIN-SUFFIX,jivochat.de
+DOMAIN-SUFFIX,jivochat.es
+DOMAIN-SUFFIX,jivochat.ng
+DOMAIN-SUFFIX,jivochat.ru
+DOMAIN-SUFFIX,jivosite.com
+DOMAIN-SUFFIX,jivosite.ru
 DOMAIN-SUFFIX,jiyou520.com
 DOMAIN-SUFFIX,jiyu-kobo.co.jp
 DOMAIN-SUFFIX,jizzboom.com
@@ -16464,6 +16493,7 @@ DOMAIN-SUFFIX,mxshm.site
 DOMAIN-SUFFIX,my-enema.com
 DOMAIN-SUFFIX,my-kualalumpur-1.myhuaweicloud.com
 DOMAIN-SUFFIX,my-magazine.me
+DOMAIN-SUFFIX,my-manager-account.com
 DOMAIN-SUFFIX,my.weibo.com
 DOMAIN-SUFFIX,my13la.com
 DOMAIN-SUFFIX,my1stflame.com
@@ -22461,6 +22491,7 @@ DOMAIN-SUFFIX,superuser.com
 DOMAIN-SUFFIX,supjav.com
 DOMAIN-SUFFIX,supply-chain.ac.uk
 DOMAIN-SUFFIX,supplybestjerseys.com
+DOMAIN-SUFFIX,support-uber.com
 DOMAIN-SUFFIX,supportfacebook.com
 DOMAIN-SUFFIX,supremacy.com
 DOMAIN-SUFFIX,supremacy.net
@@ -22716,7 +22747,10 @@ DOMAIN-SUFFIX,tavistockrelationships.ac.uk
 DOMAIN-SUFFIX,tawny-peaks.com
 DOMAIN-SUFFIX,taxel.media
 DOMAIN-SUFFIX,taxi69.com
+DOMAIN-SUFFIX,taxiaid.org
 DOMAIN-SUFFIX,taxidrivermovie.com
+DOMAIN-SUFFIX,taxiguru.org
+DOMAIN-SUFFIX,taxitax.org
 DOMAIN-SUFFIX,tay.ac.uk
 DOMAIN-SUFFIX,taylorandfrancis.com
 DOMAIN-SUFFIX,taylorfrancis.com
@@ -23010,6 +23044,7 @@ DOMAIN-SUFFIX,theman.in
 DOMAIN-SUFFIX,themanchestercollege.ac.uk
 DOMAIN-SUFFIX,themarvelexperiencetour.com
 DOMAIN-SUFFIX,themathsfactor.com
+DOMAIN-SUFFIX,themeforest.net
 DOMAIN-SUFFIX,themercury.com.au
 DOMAIN-SUFFIX,themessengeradelaide.com.au
 DOMAIN-SUFFIX,themilfmovies.com
@@ -24062,6 +24097,7 @@ DOMAIN-SUFFIX,uwtsd.ac.uk
 DOMAIN-SUFFIX,uwtsdlondon.ac.uk
 DOMAIN-SUFFIX,uxbridge.ac.uk
 DOMAIN-SUFFIX,uxbridgecollege.ac.uk
+DOMAIN-SUFFIX,uxthemes.com
 DOMAIN-SUFFIX,uxxxporn.com
 DOMAIN-SUFFIX,uyghurcanadian.ca
 DOMAIN-SUFFIX,v-av.com
@@ -26216,9 +26252,23 @@ DOMAIN-SUFFIX,yandex.uz
 DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,yandexcloud.net
 DOMAIN-SUFFIX,yandexcom.net
+DOMAIN-SUFFIX,yandexgo.com
 DOMAIN-SUFFIX,yandexlyceum.ru
 DOMAIN-SUFFIX,yandexwebcache.net
 DOMAIN-SUFFIX,yandexwebcache.org
+DOMAIN-SUFFIX,yango-b2b.com
+DOMAIN-SUFFIX,yango-team.com
+DOMAIN-SUFFIX,yango-tech.com
+DOMAIN-SUFFIX,yango.africa
+DOMAIN-SUFFIX,yango.ao
+DOMAIN-SUFFIX,yango.bh
+DOMAIN-SUFFIX,yango.co.il
+DOMAIN-SUFFIX,yango.com
+DOMAIN-SUFFIX,yango.fi
+DOMAIN-SUFFIX,yango.qa
+DOMAIN-SUFFIX,yango.taxi
+DOMAIN-SUFFIX,yango.tech
+DOMAIN-SUFFIX,yangofellowship.com
 DOMAIN-SUFFIX,yaohubaba.com
 DOMAIN-SUFFIX,yaoimangaonline.com
 DOMAIN-SUFFIX,yaoiotaku.com
@@ -27115,10 +27165,10 @@ DOMAIN-SUFFIX,angularjs.org
 DOMAIN-SUFFIX,animecrazy.net
 DOMAIN-SUFFIX,animeshippuuden.com
 DOMAIN-SUFFIX,aniscartujo.com
-DOMAIN-SUFFIX,annas-archive.in
-DOMAIN-SUFFIX,annas-archive.li
+DOMAIN-SUFFIX,annas-archive.gd
+DOMAIN-SUFFIX,annas-archive.gl
 DOMAIN-SUFFIX,annas-archive.org
-DOMAIN-SUFFIX,annas-archive.pm
+DOMAIN-SUFFIX,annas-archive.pk
 DOMAIN-SUFFIX,annas-archive.se
 DOMAIN-SUFFIX,annatam.com
 DOMAIN-SUFFIX,anobii.com
