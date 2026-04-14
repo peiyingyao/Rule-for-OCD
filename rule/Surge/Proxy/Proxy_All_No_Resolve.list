@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-12 02:12:51
+# UPDATED: 2026-04-14 02:27:51
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6595
+# DOMAIN-SUFFIX: 6596
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6735
+# TOTAL: 6736
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -4728,6 +4728,7 @@ DOMAIN-SUFFIX,say2.info
 DOMAIN-SUFFIX,sb-cd.com
 DOMAIN-SUFFIX,sbme.me
 DOMAIN-SUFFIX,sbs.com.au
+DOMAIN-SUFFIX,sbti.unun.dev
 DOMAIN-SUFFIX,scasino.com
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,schema.org
