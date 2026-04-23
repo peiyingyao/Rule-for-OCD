@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-18 02:21:13
+# UPDATED: 2026-04-22 02:25:21
 # HOST: 702
 # HOST-KEYWORD: 36
-# HOST-SUFFIX: 33777
+# HOST-SUFFIX: 33780
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 34677
+# TOTAL: 34680
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -1455,6 +1455,7 @@ HOST-SUFFIX,adguard.com,Global
 HOST-SUFFIX,adguard.info,Global
 HOST-SUFFIX,adguard.io,Global
 HOST-SUFFIX,adguardaccount.com,Global
+HOST-SUFFIX,adguardcdn.com,Global
 HOST-SUFFIX,adguardvpn.com,Global
 HOST-SUFFIX,adhelpnews.com,Global
 HOST-SUFFIX,adidas-archive.org,Global
@@ -16333,6 +16334,7 @@ HOST-SUFFIX,minilondon.co,Global
 HOST-SUFFIX,minim.ac.uk,Global
 HOST-SUFFIX,minimarkham.ca,Global
 HOST-SUFFIX,minimarkham.com,Global
+HOST-SUFFIX,minimax.io,Global
 HOST-SUFFIX,minimoncton.ca,Global
 HOST-SUFFIX,minimoncton.com,Global
 HOST-SUFFIX,minimontrealcentre.ca,Global
@@ -21286,6 +21288,7 @@ HOST-SUFFIX,scop.ac.uk,Global
 HOST-SUFFIX,scope-uk.ac.uk,Global
 HOST-SUFFIX,scopic.ac.uk,Global
 HOST-SUFFIX,score.ac.uk,Global
+HOST-SUFFIX,scorecardresearch.com,Global
 HOST-SUFFIX,scoreclassics.com,Global
 HOST-SUFFIX,scorediscounts.club,Global
 HOST-SUFFIX,scoregroup.com,Global
