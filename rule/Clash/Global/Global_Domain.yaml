@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-22 02:25:01
+# UPDATED: 2026-04-24 02:26:27
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 33735
+# DOMAIN-SUFFIX: 33745
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34012
+# TOTAL: 34022
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -6368,6 +6368,7 @@ payload:
   - '+.crest.ac.uk'
   - '+.crestresearch.ac.uk'
   - '+.crew.ac.uk'
+  - '+.crewai.com'
   - '+.crfr.ac.uk'
   - '+.crh.ac.uk'
   - '+.cri.ac.uk'
@@ -12767,6 +12768,7 @@ payload:
   - '+.imstagram.com'
   - '+.imt.ac.uk'
   - '+.imtagram.com'
+  - '+.imtintl.com'
   - '+.imzog.com'
   - '+.inaporn.com'
   - '+.inasian.club'
@@ -14351,6 +14353,7 @@ payload:
   - '+.landmap.ac.uk'
   - '+.landmarks.ac.uk'
   - '+.landscape.ac.uk'
+  - '+.langchain.com'
   - '+.langdoncollege.ac.uk'
   - '+.langpol.ac.uk'
   - '+.langside.ac.uk'
@@ -14362,7 +14365,6 @@ payload:
   - '+.lanik.us'
   - '+.lanmdh.net'
   - '+.lanniser-ylo.shop'
-  - '+.lantern.io'
   - '+.lanternal.com'
   - '+.laosijifuli9009.top'
   - '+.laowang.vip'
@@ -14782,6 +14784,7 @@ payload:
   - '+.lmmbtc.com'
   - '+.lms.ac.uk'
   - '+.lms01.com'
+  - '+.lmstudio.ai'
   - '+.lmu.ac.uk'
   - '+.lnat.ac.uk'
   - '+.lncn.org'
@@ -18183,6 +18186,7 @@ payload:
   - '+.olf.ac.uk'
   - '+.oli-school.com'
   - '+.oli.ac.uk'
+  - '+.ollama.com'
   - '+.omafotze.com'
   - '+.omagh.ac.uk'
   - '+.omaghcollege.ac.uk'
@@ -20566,7 +20570,6 @@ payload:
   - '+.roblox.cl'
   - '+.roblox.co.jp'
   - '+.roblox.co.uk'
-  - '+.roblox.com'
   - '+.roblox.de'
   - '+.roblox.dk'
   - '+.roblox.eu'
@@ -27773,6 +27776,7 @@ payload:
   - '+.asianspiss.com'
   - '+.asianwomensfilm.de'
   - '+.asiaone.com'
+  - '+.asiasociety.org'
   - '+.asiatgp.com'
   - '+.asiatoday.us'
   - '+.ask.com'
@@ -27915,6 +27919,7 @@ payload:
   - '+.beijingzx.org'
   - '+.belamionline.com'
   - '+.bell.wiki'
+  - '+.bellingcat.com'
   - '+.bemywife.cc'
   - '+.beric.me'
   - '+.berlinerbericht.de'
@@ -30472,6 +30477,7 @@ payload:
   - '+.lamnia.co.uk'
   - '+.lamrim.com'
   - '+.landofhope.tv'
+  - '+.lantern.io'
   - '+.lantosfoundation.org'
   - '+.laogai.org'
   - '+.laogairesearch.org'
@@ -31831,6 +31837,7 @@ payload:
   - '+.rateyourmusic.com'
   - '+.rationalwiki.org'
   - '+.rawgit.com'
+  - '+.rawstory.com'
   - '+.razyboard.com'
   - '+.rcinet.ca'
   - '+.rd.com'
@@ -31849,6 +31856,7 @@ payload:
   - '+.reason.com'
   - '+.rebatesrule.net'
   - '+.recaptcha.net'
+  - '+.recordedfuture.com'
   - '+.recordhistory.org'
   - '+.recovery.org.tw'
   - '+.recoveryversion.com.tw'
@@ -31912,6 +31920,7 @@ payload:
   - '+.rmjdw.com'
   - '+.rmjdw132.info'
   - '+.roadshow.hk'
+  - '+.roblox.com'
   - '+.roboforex.com'
   - '+.robustnessiskey.com'
   - '+.rocket-inc.net'
@@ -32644,6 +32653,7 @@ payload:
   - '+.thewgo.org'
   - '+.thewirechina.com'
   - '+.theync.com'
+  - '+.thinkchina.sg'
   - '+.thinkgeek.com'
   - '+.thinkingtaiwan.com'
   - '+.thirdmill.org'
