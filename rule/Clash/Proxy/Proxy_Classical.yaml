@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-24 02:26:49
+# UPDATED: 2026-04-26 02:16:43
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6606
+# DOMAIN-SUFFIX: 6607
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6738
+# TOTAL: 6739
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -5293,6 +5293,7 @@ payload:
   - DOMAIN-SUFFIX,teachparentstech.org
   - DOMAIN-SUFFIX,teamamericany.com
   - DOMAIN-SUFFIX,teamviewer.com
+  - DOMAIN-SUFFIX,techbang.com
   - DOMAIN-SUFFIX,techcrunch.com
   - DOMAIN-SUFFIX,technews.tw
   - DOMAIN-SUFFIX,technorati.com

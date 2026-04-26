@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-24 02:26:49
+# UPDATED: 2026-04-26 02:16:44
 # HOST: 19
 # HOST-KEYWORD: 26
-# HOST-SUFFIX: 7086
+# HOST-SUFFIX: 7087
 # IP-CIDR: 93
 # IP6-CIDR: 4
 # USER-AGENT: 8
-# TOTAL: 7236
+# TOTAL: 7237
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -5737,6 +5737,7 @@ HOST-SUFFIX,tdm.com.mo,Proxy
 HOST-SUFFIX,teachparentstech.org,Proxy
 HOST-SUFFIX,teamamericany.com,Proxy
 HOST-SUFFIX,teamviewer.com,Proxy
+HOST-SUFFIX,techbang.com,Proxy
 HOST-SUFFIX,techcrunch.com,Proxy
 HOST-SUFFIX,technews.tw,Proxy
 HOST-SUFFIX,technorati.com,Proxy
