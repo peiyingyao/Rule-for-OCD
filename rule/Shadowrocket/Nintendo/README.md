@@ -12,14 +12,14 @@ Nintendo规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-06-06 09:15:09
+最后更新时间：2026-05-04 02:19:07
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 126  | 
+| DOMAIN-SUFFIX | 125  | 
 | IP-CIDR | 1  | 
-| TOTAL | 127  | 
+| TOTAL | 126  | 
 
 
 ## Shadowrocket 
