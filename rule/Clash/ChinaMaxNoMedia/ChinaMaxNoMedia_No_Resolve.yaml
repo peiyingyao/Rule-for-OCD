@@ -1,15 +1,15 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-04 02:22:58
+# UPDATED: 2026-05-06 02:34:44
 # DOMAIN: 308
 # DOMAIN-KEYWORD: 11
-# DOMAIN-SUFFIX: 114647
+# DOMAIN-SUFFIX: 114547
 # IP-ASN: 1
-# IP-CIDR: 8184
-# IP-CIDR6: 4060
+# IP-CIDR: 8183
+# IP-CIDR6: 4061
 # PROCESS-NAME: 14
-# TOTAL: 127225
+# TOTAL: 127125
 payload:
   - DOMAIN-KEYWORD,.tmall.com
   - DOMAIN-KEYWORD,alicdn
