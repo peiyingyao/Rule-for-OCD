@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-08 02:36:22
+# UPDATED: 2026-05-10 02:21:15
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 33884
+# DOMAIN-SUFFIX: 33886
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 34207
+# TOTAL: 34209
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -25238,6 +25238,7 @@ DOMAIN-SUFFIX,vodafone.com.au
 DOMAIN-SUFFIX,vodafone.com.tr
 DOMAIN-SUFFIX,vodafone.de
 DOMAIN-SUFFIX,vodafone.it
+DOMAIN-SUFFIX,vodafone.nl
 DOMAIN-SUFFIX,voila.ac.uk
 DOMAIN-SUFFIX,vokevr.com
 DOMAIN-SUFFIX,vol.moe
@@ -33220,6 +33221,7 @@ DOMAIN-SUFFIX,ultravpn.com
 DOMAIN-SUFFIX,ultravpn.fr
 DOMAIN-SUFFIX,ultraxs.com
 DOMAIN-SUFFIX,ulyssesapp.com
+DOMAIN-SUFFIX,umap.openstreetmap.fr
 DOMAIN-SUFFIX,umich.edu
 DOMAIN-SUFFIX,unblock-us.com
 DOMAIN-SUFFIX,unblockdmm.com

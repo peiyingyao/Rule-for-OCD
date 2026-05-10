@@ -1,22 +1,22 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-08 02:37:59
-# DOMAIN: 312
+# UPDATED: 2026-05-10 02:22:30
+# DOMAIN: 309
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 114447
+# DOMAIN-SUFFIX: 114202
 # IP-ASN: 1
-# IP-CIDR: 8185
-# IP-CIDR6: 4105
+# IP-CIDR: 8193
+# IP-CIDR6: 4110
 # PROCESS-NAME: 12
 # USER-AGENT: 65
-# TOTAL: 127140
+# TOTAL: 126905
+DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,taobao
 DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
-DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,icbc
@@ -3745,6 +3745,11 @@ IP-CIDR,154.8.128.0/17,no-resolve
 IP-CIDR,154.8.48.0/20,no-resolve
 IP-CIDR,154.84.180.0/24,no-resolve
 IP-CIDR,154.89.32.0/20,no-resolve
+IP-CIDR,154.89.49.0/24,no-resolve
+IP-CIDR,154.89.50.0/23,no-resolve
+IP-CIDR,154.89.52.0/23,no-resolve
+IP-CIDR,154.89.54.0/24,no-resolve
+IP-CIDR,154.89.56.0/21,no-resolve
 IP-CIDR,154.91.158.0/23,no-resolve
 IP-CIDR,155.102.0.0/16,no-resolve
 IP-CIDR,155.126.176.0/23,no-resolve
@@ -4233,6 +4238,9 @@ IP-CIDR,175.185.0.0/16,no-resolve
 IP-CIDR,175.186.0.0/15,no-resolve
 IP-CIDR,175.188.0.0/14,no-resolve
 IP-CIDR,175.24.0.0/14,no-resolve
+IP-CIDR,175.29.107.0/24,no-resolve
+IP-CIDR,175.29.108.0/24,no-resolve
+IP-CIDR,175.29.111.0/24,no-resolve
 IP-CIDR,175.30.0.0/15,no-resolve
 IP-CIDR,175.42.0.0/15,no-resolve
 IP-CIDR,175.44.0.0/16,no-resolve

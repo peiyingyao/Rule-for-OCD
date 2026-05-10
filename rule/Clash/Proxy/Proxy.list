@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-08 02:36:46
+# UPDATED: 2026-05-10 02:21:33
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6631
+# DOMAIN-SUFFIX: 6632
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6763
+# TOTAL: 6764
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -5839,6 +5839,7 @@ DOMAIN-SUFFIX,ultravpn.com
 DOMAIN-SUFFIX,ultravpn.fr
 DOMAIN-SUFFIX,ultraxs.com
 DOMAIN-SUFFIX,ulyssesapp.com
+DOMAIN-SUFFIX,umap.openstreetmap.fr
 DOMAIN-SUFFIX,umich.edu
 DOMAIN-SUFFIX,unblock-us.com
 DOMAIN-SUFFIX,unblockdmm.com
