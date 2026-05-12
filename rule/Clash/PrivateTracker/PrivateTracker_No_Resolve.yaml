@@ -1,7 +1,7 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-10 02:22:16
+# UPDATED: 2026-05-12 02:40:44
 # DOMAIN: 113
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 123
@@ -14,16 +14,17 @@ payload:
   - DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
   - DOMAIN,admin.52ywp.com
   - DOMAIN,archive.torrentonline.cc
-  - DOMAIN,asiatorrent.giize.com
   - DOMAIN,bandito.byterunner.io
   - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
+  - DOMAIN,bt.okmp3.ru
   - DOMAIN,bt1.archive.org
   - DOMAIN,bt2.archive.org
   - DOMAIN,bvarf.tracker.sh
   - DOMAIN,cerf.cs.umd.edu
+  - DOMAIN,cn.pcfreetime.com
+  - DOMAIN,coeus.torrentonline.cc
   - DOMAIN,evan.im
   - DOMAIN,exodus.desync.com
-  - DOMAIN,explodie.org
   - DOMAIN,http1.torrust-tracker-demo.com
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,leet-tracker.moe
@@ -44,7 +45,7 @@ payload:
   - DOMAIN,speedtest.iperson.xyz
   - DOMAIN,t.213891.xyz
   - DOMAIN,t.overflow.biz
-  - DOMAIN,torrent.tracker.durukanbal.com
+  - DOMAIN,torrent.bowed.net
   - DOMAIN,torrentclub.online
   - DOMAIN,torrents.tmtime.dev
   - DOMAIN,torrentsmd.com
@@ -73,24 +74,21 @@ payload:
   - DOMAIN,tracker.fnix.net
   - DOMAIN,tracker.gcrenwp.top
   - DOMAIN,tracker.gmi.gd
-  - DOMAIN,tracker.hismz.cn
   - DOMAIN,tracker.huadongblower.xyz
-  - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,tracker.manager.v6.navy
+  - DOMAIN,tracker.moeking.me
   - DOMAIN,tracker.mywaifu.best
   - DOMAIN,tracker.nekomi.cn
   - DOMAIN,tracker.nyaa.vc
   - DOMAIN,tracker.opentorrent.top
   - DOMAIN,tracker.opentrackr.org
   - DOMAIN,tracker.openwebtorrent.com
-  - DOMAIN,tracker.playground.ru
   - DOMAIN,tracker.plx.im
   - DOMAIN,tracker.pmman.tech
   - DOMAIN,tracker.qingwapt.org
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.renfei.net
-  - DOMAIN,tracker.samcze.pl
   - DOMAIN,tracker.skyts.net
   - DOMAIN,tracker.srv00.com
   - DOMAIN,tracker.t-1.org
@@ -103,7 +101,6 @@ payload:
   - DOMAIN,tracker.wildkat.net
   - DOMAIN,tracker.xn--djrq4gl4hvoi.top
   - DOMAIN,tracker.yemekyedim.com
-  - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,tracker.zhuqiy.com
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker1.itzmx.com
@@ -112,12 +109,15 @@ payload:
   - DOMAIN,tracker3.ctix.cn
   - DOMAIN,tracker3.itzmx.com
   - DOMAIN,tracker4.itzmx.com
-  - DOMAIN,trackthis.cyber.pz.it
+  - DOMAIN,u.peer-exchange.download
   - DOMAIN,uabits.today
+  - DOMAIN,udp.trackarr.org
   - DOMAIN,udp.tracker.projectk.org
   - DOMAIN,udp1.torrust-tracker-demo.com
   - DOMAIN,vito-tracker.duckdns.org
   - DOMAIN,vito-tracker.space
+  - DOMAIN,wepzone.net
+  - DOMAIN,whybother.torrentonline.cc
   - DOMAIN,www.nartlof.com
   - DOMAIN,www.wareztorrent.com
   - DOMAIN,yuptracker-eu.gaijinent.com

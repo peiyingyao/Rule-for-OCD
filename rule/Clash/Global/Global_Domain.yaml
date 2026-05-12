@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-10 02:21:16
+# UPDATED: 2026-05-12 02:39:31
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 33886
+# DOMAIN-SUFFIX: 33903
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34163
+# TOTAL: 34180
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -10358,6 +10358,7 @@ payload:
   - '+.gettyimages.pt'
   - '+.gettyimages.se'
   - '+.getws1.com'
+  - '+.getwsj.com'
   - '+.getwsone.com'
   - '+.getzola.org'
   - '+.gfacecbook.com'
@@ -13633,6 +13634,7 @@ payload:
   - '+.javdove.com'
   - '+.javdove8.xyz'
   - '+.javextreme.net'
+  - '+.javfc2.xyz'
   - '+.javfilms.com'
   - '+.javforme.ninja'
   - '+.javfree.la'
@@ -14014,6 +14016,7 @@ payload:
   - '+.justporno.tv'
   - '+.justswallows.com'
   - '+.justusboys.com'
+  - '+.justveryok.com'
   - '+.juyangbee.xyz'
   - '+.juyangto.info'
   - '+.juzi-js.shop'
@@ -14169,6 +14172,7 @@ payload:
   - '+.kew.ac.uk'
   - '+.keybase.io'
   - '+.keybaseapi.com'
+  - '+.keyboardmen.com'
   - '+.keyporntube.com'
   - '+.keyseducation.ac.uk'
   - '+.keyskillbuilder.ac.uk'
@@ -18192,7 +18196,15 @@ payload:
   - '+.oculusvr.com'
   - '+.ocvc.ac.uk'
   - '+.odkl.ru'
+  - '+.odnoklasniki.by'
+  - '+.odnoklasniki.ua'
+  - '+.odnoklassniki.am'
+  - '+.odnoklassniki.by'
+  - '+.odnoklassniki.co.ee'
+  - '+.odnoklassniki.eu'
+  - '+.odnoklassniki.lv'
   - '+.odnoklassniki.ru'
+  - '+.odnoklassniki.tj'
   - '+.oed.com'
   - '+.oekakiskey.com'
   - '+.oeps.ac.uk'
@@ -20170,6 +20182,7 @@ payload:
   - '+.r34porn.net'
   - '+.ra-review.ac.uk'
   - '+.raa.ac.uk'
+  - '+.rabbitcounter.com'
   - '+.rabbitscams.com'
   - '+.rabbitscams.sex'
   - '+.rabbitsreviews.com'
@@ -21041,6 +21054,7 @@ payload:
   - '+.savitahd.net'
   - '+.savoycomputing.com'
   - '+.savvyshopper.net.au'
+  - '+.sayeasy.eu'
   - '+.saynow.com'
   - '+.sb-mobile.jp'
   - '+.sb-telecom.net'
@@ -26533,6 +26547,7 @@ payload:
   - '+.xxbook.cc'
   - '+.xxbrits.com'
   - '+.xxeronetxx.info'
+  - '+.xxfbiaa.xyz'
   - '+.xxgasm.com'
   - '+.xxindianporn.com'
   - '+.xxiqiyiavxx.buzz'
@@ -28789,6 +28804,7 @@ payload:
   - '+.dashlane.com'
   - '+.dastrassi.org'
   - '+.data-vocabulary.org'
+  - '+.data18.com'
   - '+.datalabour.com'
   - '+.daum.net'
   - '+.david-kilgour.com'
@@ -28969,6 +28985,7 @@ payload:
   - '+.dsmtp.com'
   - '+.dssott.com'
   - '+.dstk.dk'
+  - '+.dt18.com'
   - '+.dtdns.net'
   - '+.dtiblog.com'
   - '+.dtic.mil'
