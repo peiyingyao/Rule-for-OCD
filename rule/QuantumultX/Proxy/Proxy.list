@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-12 02:39:52
+# UPDATED: 2026-05-16 02:35:13
 # HOST: 19
 # HOST-KEYWORD: 26
-# HOST-SUFFIX: 7114
+# HOST-SUFFIX: 7115
 # IP-CIDR: 93
 # IP6-CIDR: 4
 # USER-AGENT: 8
-# TOTAL: 7264
+# TOTAL: 7265
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -1183,6 +1183,7 @@ HOST-SUFFIX,chingcheong.com,Proxy
 HOST-SUFFIX,chinman.net,Proxy
 HOST-SUFFIX,chithu.org,Proxy
 HOST-SUFFIX,chobit.cc,Proxy
+HOST-SUFFIX,chonglangtv.org,Proxy
 HOST-SUFFIX,chosun.com,Proxy
 HOST-SUFFIX,chrdnet.com,Proxy
 HOST-SUFFIX,christianfreedom.org,Proxy
