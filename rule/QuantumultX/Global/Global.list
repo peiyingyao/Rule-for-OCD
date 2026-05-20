@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-18 02:24:24
+# UPDATED: 2026-05-20 02:39:23
 # HOST: 732
 # HOST-KEYWORD: 36
-# HOST-SUFFIX: 34041
+# HOST-SUFFIX: 34062
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 34971
+# TOTAL: 34992
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -1110,6 +1110,7 @@ HOST-SUFFIX,54647.org,Global
 HOST-SUFFIX,55dndn.com,Global
 HOST-SUFFIX,567321.online,Global
 HOST-SUFFIX,568xe.com,Global
+HOST-SUFFIX,573.jp,Global
 HOST-SUFFIX,58avgo.com,Global
 HOST-SUFFIX,592r.com,Global
 HOST-SUFFIX,59mvmv.com,Global
@@ -14469,6 +14470,7 @@ HOST-SUFFIX,keytransparency.com,Global
 HOST-SUFFIX,keytransparency.foo,Global
 HOST-SUFFIX,keytransparency.org,Global
 HOST-SUFFIX,kfs.io,Global
+HOST-SUFFIX,kgisystems.com,Global
 HOST-SUFFIX,kgslb.com,Global
 HOST-SUFFIX,kgv.ac.uk,Global
 HOST-SUFFIX,khanacademy.org,Global
@@ -14572,6 +14574,7 @@ HOST-SUFFIX,kisscos.net,Global
 HOST-SUFFIX,kissjav.li,Global
 HOST-SUFFIX,kitakyushubank.co.jp,Global
 HOST-SUFFIX,kitts.ac.uk,Global
+HOST-SUFFIX,kiwi.jp,Global
 HOST-SUFFIX,kiwibrowser.com,Global
 HOST-SUFFIX,kiyobank.co.jp,Global
 HOST-SUFFIX,kk.stream,Global
@@ -14611,6 +14614,19 @@ HOST-SUFFIX,kompoz.com,Global
 HOST-SUFFIX,kompoz2.com,Global
 HOST-SUFFIX,konachan.net,Global
 HOST-SUFFIX,konachan.wjcodes.com,Global
+HOST-SUFFIX,konami-igaming.online,Global
+HOST-SUFFIX,konami.co.jp,Global
+HOST-SUFFIX,konami.com,Global
+HOST-SUFFIX,konami.net,Global
+HOST-SUFFIX,konami.org,Global
+HOST-SUFFIX,konamicrossmedia.com,Global
+HOST-SUFFIX,konamigaming.com,Global
+HOST-SUFFIX,konamigaming.net,Global
+HOST-SUFFIX,konamigaming.online,Global
+HOST-SUFFIX,konamionline.com,Global
+HOST-SUFFIX,konamiopen.jp,Global
+HOST-SUFFIX,konamisportsclub.jp,Global
+HOST-SUFFIX,konamistyle.jp,Global
 HOST-SUFFIX,kopfhorergunstigshop.com,Global
 HOST-SUFFIX,korbit.co.kr,Global
 HOST-SUFFIX,koreanpornmovie.com,Global
@@ -20825,6 +20841,8 @@ HOST-SUFFIX,researchkit.org,Global
 HOST-SUFFIX,researchkit.tv,Global
 HOST-SUFFIX,researchscotland.ac.uk,Global
 HOST-SUFFIX,researchwales.ac.uk,Global
+HOST-SUFFIX,resella.jp,Global
+HOST-SUFFIX,resellablue.com,Global
 HOST-SUFFIX,resilient-decarbonised-energy-cdt.ac.uk,Global
 HOST-SUFFIX,resilient-decarbonised-energy-dtc.ac.uk,Global
 HOST-SUFFIX,resl.ac.uk,Global
@@ -27557,6 +27575,7 @@ HOST-SUFFIX,yswet.com,Global
 HOST-SUFFIX,ysx-mm.com,Global
 HOST-SUFFIX,yuenuge113.xyz,Global
 HOST-SUFFIX,yuenuge18.cc,Global
+HOST-SUFFIX,yugioh-card.com,Global
 HOST-SUFFIX,yunlaopo.cc,Global
 HOST-SUFFIX,yunlaopo.com,Global
 HOST-SUFFIX,yunlaopo.net,Global
@@ -32989,6 +33008,7 @@ HOST-SUFFIX,shwchurch3.com,Global
 HOST-SUFFIX,siddharthasintent.org,Global
 HOST-SUFFIX,sidelinesnews.com,Global
 HOST-SUFFIX,sidelinessportseatery.com,Global
+HOST-SUFFIX,sider.ai,Global
 HOST-SUFFIX,sierrafriendsoftibet.org,Global
 HOST-SUFFIX,signal.org,Global
 HOST-SUFFIX,sijihuisuo.club,Global
@@ -34725,6 +34745,7 @@ HOST-SUFFIX,zgzcjj.net,Global
 HOST-SUFFIX,zhanbin.net,Global
 HOST-SUFFIX,zhangboli.net,Global
 HOST-SUFFIX,zhangtianliang.com,Global
+HOST-SUFFIX,zhangzhehan.net,Global
 HOST-SUFFIX,zhanlve.org,Global
 HOST-SUFFIX,zhenghui.org,Global
 HOST-SUFFIX,zhenlibu.info,Global

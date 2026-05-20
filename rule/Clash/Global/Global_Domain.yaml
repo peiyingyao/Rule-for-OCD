@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-18 02:24:04
+# UPDATED: 2026-05-20 02:39:02
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 33996
+# DOMAIN-SUFFIX: 34017
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34273
+# TOTAL: 34294
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -504,6 +504,7 @@ payload:
   - '+.55dndn.com'
   - '+.567321.online'
   - '+.568xe.com'
+  - '+.573.jp'
   - '+.58avgo.com'
   - '+.592r.com'
   - '+.59mvmv.com'
@@ -14213,6 +14214,7 @@ payload:
   - '+.keytransparency.foo'
   - '+.keytransparency.org'
   - '+.kfs.io'
+  - '+.kgisystems.com'
   - '+.kgslb.com'
   - '+.kgv.ac.uk'
   - '+.khanacademy.org'
@@ -14316,6 +14318,7 @@ payload:
   - '+.kissjav.li'
   - '+.kitakyushubank.co.jp'
   - '+.kitts.ac.uk'
+  - '+.kiwi.jp'
   - '+.kiwibrowser.com'
   - '+.kiyobank.co.jp'
   - '+.kk.stream'
@@ -14355,6 +14358,19 @@ payload:
   - '+.kompoz2.com'
   - '+.konachan.net'
   - '+.konachan.wjcodes.com'
+  - '+.konami-igaming.online'
+  - '+.konami.co.jp'
+  - '+.konami.com'
+  - '+.konami.net'
+  - '+.konami.org'
+  - '+.konamicrossmedia.com'
+  - '+.konamigaming.com'
+  - '+.konamigaming.net'
+  - '+.konamigaming.online'
+  - '+.konamionline.com'
+  - '+.konamiopen.jp'
+  - '+.konamisportsclub.jp'
+  - '+.konamistyle.jp'
   - '+.kopfhorergunstigshop.com'
   - '+.korbit.co.kr'
   - '+.koreanpornmovie.com'
@@ -20599,6 +20615,8 @@ payload:
   - '+.researchkit.tv'
   - '+.researchscotland.ac.uk'
   - '+.researchwales.ac.uk'
+  - '+.resella.jp'
+  - '+.resellablue.com'
   - '+.resilient-decarbonised-energy-cdt.ac.uk'
   - '+.resilient-decarbonised-energy-dtc.ac.uk'
   - '+.resl.ac.uk'
@@ -27378,6 +27396,7 @@ payload:
   - '+.ysx-mm.com'
   - '+.yuenuge113.xyz'
   - '+.yuenuge18.cc'
+  - '+.yugioh-card.com'
   - '+.yunlaopo.cc'
   - '+.yunlaopo.com'
   - '+.yunlaopo.net'
@@ -32388,6 +32407,7 @@ payload:
   - '+.siddharthasintent.org'
   - '+.sidelinesnews.com'
   - '+.sidelinessportseatery.com'
+  - '+.sider.ai'
   - '+.sierrafriendsoftibet.org'
   - '+.signal.org'
   - '+.sijihuisuo.club'
@@ -34074,6 +34094,7 @@ payload:
   - '+.zhanbin.net'
   - '+.zhangboli.net'
   - '+.zhangtianliang.com'
+  - '+.zhangzhehan.net'
   - '+.zhanlve.org'
   - '+.zhenghui.org'
   - '+.zhenlibu.info'
