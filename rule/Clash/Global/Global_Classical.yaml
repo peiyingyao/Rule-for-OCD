@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-20 02:39:02
+# UPDATED: 2026-05-22 02:40:01
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34017
+# DOMAIN-SUFFIX: 34028
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34294
+# TOTAL: 34305
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -1437,6 +1437,7 @@ payload:
   - DOMAIN-SUFFIX,alexa.com
   - DOMAIN-SUFFIX,alexanderlondoncollege.ac.uk
   - DOMAIN-SUFFIX,alexanderstreet.com
+  - DOMAIN-SUFFIX,alfa.me
   - DOMAIN-SUFFIX,alfabank.oavdo.amc
   - DOMAIN-SUFFIX,alfabank.ru
   - DOMAIN-SUFFIX,alfabank.st
@@ -8845,7 +8846,6 @@ payload:
   - DOMAIN-SUFFIX,f6.ru
   - DOMAIN-SUFFIX,f6.security
   - DOMAIN-SUFFIX,f6988.com
-  - DOMAIN-SUFFIX,f95zone.to
   - DOMAIN-SUFFIX,fa.gov.tw
   - DOMAIN-SUFFIX,faacebok.com
   - DOMAIN-SUFFIX,faacebook.com
@@ -12061,7 +12061,6 @@ payload:
   - DOMAIN-SUFFIX,hpcodewarsbcn.com
   - DOMAIN-SUFFIX,hpcomputers.com
   - DOMAIN-SUFFIX,hpcomputerservices.com
-  - DOMAIN-SUFFIX,hpconnected.com
   - DOMAIN-SUFFIX,hpconnected.net
   - DOMAIN-SUFFIX,hpconnected.org
   - DOMAIN-SUFFIX,hpconnected.us
@@ -16648,9 +16647,11 @@ payload:
   - DOMAIN-SUFFIX,moxing.news
   - DOMAIN-SUFFIX,moystoys.com
   - DOMAIN-SUFFIX,mozgcp.net
+  - DOMAIN-SUFFIX,mozilla.ai
   - DOMAIN-SUFFIX,mozilla.com
   - DOMAIN-SUFFIX,mozilla.community
   - DOMAIN-SUFFIX,mozilla.net
+  - DOMAIN-SUFFIX,mozillafoundation.org
   - DOMAIN-SUFFIX,mp.world
   - DOMAIN-SUFFIX,mpa-mpp.ac.uk
   - DOMAIN-SUFFIX,mpa-uk.ac.uk
@@ -17008,6 +17009,7 @@ payload:
   - DOMAIN-SUFFIX,myyoungmomisnude.com
   - DOMAIN-SUFFIX,myyoungwifeisnude.com
   - DOMAIN-SUFFIX,mzed.com
+  - DOMAIN-SUFFIX,mzl.la
   - DOMAIN-SUFFIX,n15zev3w.shop
   - DOMAIN-SUFFIX,n26.com
   - DOMAIN-SUFFIX,n3ro.lol
@@ -23237,6 +23239,7 @@ payload:
   - DOMAIN-SUFFIX,taose.in
   - DOMAIN-SUFFIX,tapb.ac.uk
   - DOMAIN-SUFFIX,tapestry.ac.uk
+  - DOMAIN-SUFFIX,tapnow.ai
   - DOMAIN-SUFFIX,taptotokyo.com
   - DOMAIN-SUFFIX,taqunuhai.vip
   - DOMAIN-SUFFIX,taradinhos.com
@@ -23297,6 +23300,8 @@ payload:
   - DOMAIN-SUFFIX,teachmyass.com
   - DOMAIN-SUFFIX,teamneedforspeed.com
   - DOMAIN-SUFFIX,teamskeet.com
+  - DOMAIN-SUFFIX,teamspeak-services.com
+  - DOMAIN-SUFFIX,teamspeak.com
   - DOMAIN-SUFFIX,teamviewer.us
   - DOMAIN-SUFFIX,teamwork.ac.uk
   - DOMAIN-SUFFIX,tean.ac.uk
@@ -29324,6 +29329,7 @@ payload:
   - DOMAIN-SUFFIX,f-droid.org
   - DOMAIN-SUFFIX,f2pool.com
   - DOMAIN-SUFFIX,f8.com
+  - DOMAIN-SUFFIX,f95zone.to
   - DOMAIN-SUFFIX,fabric.io
   - DOMAIN-SUFFIX,faceless.me
   - DOMAIN-SUFFIX,facesofnyfw.com
@@ -29658,6 +29664,7 @@ payload:
   - DOMAIN-SUFFIX,fzlm.net
   - DOMAIN-SUFFIX,g-area.org
   - DOMAIN-SUFFIX,g-queen.com
+  - DOMAIN-SUFFIX,g.ai
   - DOMAIN-SUFFIX,g.co
   - DOMAIN-SUFFIX,g.kfd.me
   - DOMAIN-SUFFIX,g0v.social
@@ -30763,6 +30770,7 @@ payload:
   - DOMAIN-SUFFIX,lematin.ch
   - DOMAIN-SUFFIX,lemonde.fr
   - DOMAIN-SUFFIX,lenwhite.com
+  - DOMAIN-SUFFIX,leonardo.ai
   - DOMAIN-SUFFIX,lerosua.org
   - DOMAIN-SUFFIX,lesoir.be
   - DOMAIN-SUFFIX,lester850.info
@@ -32090,6 +32098,7 @@ payload:
   - DOMAIN-SUFFIX,ranxiang.com
   - DOMAIN-SUFFIX,ranyunfei.com
   - DOMAIN-SUFFIX,rapbull.net
+  - DOMAIN-SUFFIX,raphael.app
   - DOMAIN-SUFFIX,rapidgator.net
   - DOMAIN-SUFFIX,rapidmoviez.com
   - DOMAIN-SUFFIX,rapidvpn.com
@@ -32217,6 +32226,7 @@ payload:
   - DOMAIN-SUFFIX,rtycminnesota.org
   - DOMAIN-SUFFIX,ruanyifeng.com
   - DOMAIN-SUFFIX,rukor.org
+  - DOMAIN-SUFFIX,rule34.us
   - DOMAIN-SUFFIX,rule34.xxx
   - DOMAIN-SUFFIX,rule34video.com
   - DOMAIN-SUFFIX,rumble.com
@@ -32548,6 +32558,7 @@ payload:
   - DOMAIN-SUFFIX,sosad.fun
   - DOMAIN-SUFFIX,sosreader.com
   - DOMAIN-SUFFIX,sostibet.org
+  - DOMAIN-SUFFIX,sotwe.com
   - DOMAIN-SUFFIX,sou-tong.org
   - DOMAIN-SUFFIX,soubory.com
   - DOMAIN-SUFFIX,soul-plus.net

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-20 02:39:02
+# UPDATED: 2026-05-22 02:40:01
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34017
+# DOMAIN-SUFFIX: 34028
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34294
+# TOTAL: 34305
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -1437,6 +1437,7 @@ payload:
   - '+.alexa.com'
   - '+.alexanderlondoncollege.ac.uk'
   - '+.alexanderstreet.com'
+  - '+.alfa.me'
   - '+.alfabank.oavdo.amc'
   - '+.alfabank.ru'
   - '+.alfabank.st'
@@ -8845,7 +8846,6 @@ payload:
   - '+.f6.ru'
   - '+.f6.security'
   - '+.f6988.com'
-  - '+.f95zone.to'
   - '+.fa.gov.tw'
   - '+.faacebok.com'
   - '+.faacebook.com'
@@ -12061,7 +12061,6 @@ payload:
   - '+.hpcodewarsbcn.com'
   - '+.hpcomputers.com'
   - '+.hpcomputerservices.com'
-  - '+.hpconnected.com'
   - '+.hpconnected.net'
   - '+.hpconnected.org'
   - '+.hpconnected.us'
@@ -16648,9 +16647,11 @@ payload:
   - '+.moxing.news'
   - '+.moystoys.com'
   - '+.mozgcp.net'
+  - '+.mozilla.ai'
   - '+.mozilla.com'
   - '+.mozilla.community'
   - '+.mozilla.net'
+  - '+.mozillafoundation.org'
   - '+.mp.world'
   - '+.mpa-mpp.ac.uk'
   - '+.mpa-uk.ac.uk'
@@ -17008,6 +17009,7 @@ payload:
   - '+.myyoungmomisnude.com'
   - '+.myyoungwifeisnude.com'
   - '+.mzed.com'
+  - '+.mzl.la'
   - '+.n15zev3w.shop'
   - '+.n26.com'
   - '+.n3ro.lol'
@@ -23237,6 +23239,7 @@ payload:
   - '+.taose.in'
   - '+.tapb.ac.uk'
   - '+.tapestry.ac.uk'
+  - '+.tapnow.ai'
   - '+.taptotokyo.com'
   - '+.taqunuhai.vip'
   - '+.taradinhos.com'
@@ -23297,6 +23300,8 @@ payload:
   - '+.teachmyass.com'
   - '+.teamneedforspeed.com'
   - '+.teamskeet.com'
+  - '+.teamspeak-services.com'
+  - '+.teamspeak.com'
   - '+.teamviewer.us'
   - '+.teamwork.ac.uk'
   - '+.tean.ac.uk'
@@ -29324,6 +29329,7 @@ payload:
   - '+.f-droid.org'
   - '+.f2pool.com'
   - '+.f8.com'
+  - '+.f95zone.to'
   - '+.fabric.io'
   - '+.faceless.me'
   - '+.facesofnyfw.com'
@@ -29658,6 +29664,7 @@ payload:
   - '+.fzlm.net'
   - '+.g-area.org'
   - '+.g-queen.com'
+  - '+.g.ai'
   - '+.g.co'
   - '+.g.kfd.me'
   - '+.g0v.social'
@@ -30763,6 +30770,7 @@ payload:
   - '+.lematin.ch'
   - '+.lemonde.fr'
   - '+.lenwhite.com'
+  - '+.leonardo.ai'
   - '+.lerosua.org'
   - '+.lesoir.be'
   - '+.lester850.info'
@@ -32090,6 +32098,7 @@ payload:
   - '+.ranxiang.com'
   - '+.ranyunfei.com'
   - '+.rapbull.net'
+  - '+.raphael.app'
   - '+.rapidgator.net'
   - '+.rapidmoviez.com'
   - '+.rapidvpn.com'
@@ -32217,6 +32226,7 @@ payload:
   - '+.rtycminnesota.org'
   - '+.ruanyifeng.com'
   - '+.rukor.org'
+  - '+.rule34.us'
   - '+.rule34.xxx'
   - '+.rule34video.com'
   - '+.rumble.com'
@@ -32548,6 +32558,7 @@ payload:
   - '+.sosad.fun'
   - '+.sosreader.com'
   - '+.sostibet.org'
+  - '+.sotwe.com'
   - '+.sou-tong.org'
   - '+.soubory.com'
   - '+.soul-plus.net'
