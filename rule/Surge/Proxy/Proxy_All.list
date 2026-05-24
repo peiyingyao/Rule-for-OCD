@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-22 02:40:21
+# UPDATED: 2026-05-24 02:23:41
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6643
+# DOMAIN-SUFFIX: 6646
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6783
+# TOTAL: 6786
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -79,6 +79,7 @@ DOMAIN-SUFFIX,21sextury.com
 DOMAIN-SUFFIX,228.net.tw
 DOMAIN-SUFFIX,233abc.com
 DOMAIN-SUFFIX,233v2.com
+DOMAIN-SUFFIX,24hbook.com
 DOMAIN-SUFFIX,24hrs.ca
 DOMAIN-SUFFIX,24smile.org
 DOMAIN-SUFFIX,25u.com
@@ -3444,6 +3445,7 @@ DOMAIN-SUFFIX,maruta.be
 DOMAIN-SUFFIX,marxist.com
 DOMAIN-SUFFIX,marxist.net
 DOMAIN-SUFFIX,marxists.org
+DOMAIN-SUFFIX,mas.to
 DOMAIN-SUFFIX,mash.to
 DOMAIN-SUFFIX,mashable.com
 DOMAIN-SUFFIX,maskedip.com
@@ -3827,6 +3829,7 @@ DOMAIN-SUFFIX,ndr.de
 DOMAIN-SUFFIX,ned.org
 DOMAIN-SUFFIX,nekoslovakia.net
 DOMAIN-SUFFIX,neo-miracle.com
+DOMAIN-SUFFIX,neodb.social
 DOMAIN-SUFFIX,neoforged.net
 DOMAIN-SUFFIX,neowin.net
 DOMAIN-SUFFIX,nephobox.com

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-22 02:40:01
+# UPDATED: 2026-05-24 02:23:21
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34028
+# DOMAIN-SUFFIX: 34031
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34305
+# TOTAL: 34308
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -27650,6 +27650,7 @@ payload:
   - '+.228.net.tw'
   - '+.233abc.com'
   - '+.233v2.com'
+  - '+.24hbook.com'
   - '+.24hrs.ca'
   - '+.24smile.org'
   - '+.25u.com'
@@ -30970,6 +30971,7 @@ payload:
   - '+.marxist.com'
   - '+.marxist.net'
   - '+.marxists.org'
+  - '+.mas.to'
   - '+.mash.to'
   - '+.mashable.com'
   - '+.maskedip.com'
@@ -31352,6 +31354,7 @@ payload:
   - '+.ned.org'
   - '+.nekoslovakia.net'
   - '+.neo-miracle.com'
+  - '+.neodb.social'
   - '+.neoforged.net'
   - '+.neowin.net'
   - '+.nephobox.com'

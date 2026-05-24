@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-22 02:40:22
+# UPDATED: 2026-05-24 02:23:41
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6643
+# DOMAIN-SUFFIX: 6646
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6775
+# TOTAL: 6778
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -79,6 +79,7 @@ payload:
   - '+.228.net.tw'
   - '+.233abc.com'
   - '+.233v2.com'
+  - '+.24hbook.com'
   - '+.24hrs.ca'
   - '+.24smile.org'
   - '+.25u.com'
@@ -3444,6 +3445,7 @@ payload:
   - '+.marxist.com'
   - '+.marxist.net'
   - '+.marxists.org'
+  - '+.mas.to'
   - '+.mash.to'
   - '+.mashable.com'
   - '+.maskedip.com'
@@ -3827,6 +3829,7 @@ payload:
   - '+.ned.org'
   - '+.nekoslovakia.net'
   - '+.neo-miracle.com'
+  - '+.neodb.social'
   - '+.neoforged.net'
   - '+.neowin.net'
   - '+.nephobox.com'
