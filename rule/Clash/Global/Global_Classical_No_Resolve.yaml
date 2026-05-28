@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-26 02:35:15
+# UPDATED: 2026-05-28 02:48:14
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34033
+# DOMAIN-SUFFIX: 34034
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34310
+# TOTAL: 34311
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -16003,6 +16003,7 @@ payload:
   - DOMAIN-SUFFIX,midentsolutions.com
   - DOMAIN-SUFFIX,midfife.ac.uk
   - DOMAIN-SUFFIX,midhurst.ac.uk
+  - DOMAIN-SUFFIX,midjourney.com
   - DOMAIN-SUFFIX,midkent.ac.uk
   - DOMAIN-SUFFIX,midlands3cities.ac.uk
   - DOMAIN-SUFFIX,midlands4cities.ac.uk
@@ -16648,7 +16649,6 @@ payload:
   - DOMAIN-SUFFIX,moxing.news
   - DOMAIN-SUFFIX,moystoys.com
   - DOMAIN-SUFFIX,mozgcp.net
-  - DOMAIN-SUFFIX,mozilla.ai
   - DOMAIN-SUFFIX,mozilla.com
   - DOMAIN-SUFFIX,mozilla.community
   - DOMAIN-SUFFIX,mozilla.net
@@ -31202,6 +31202,7 @@ payload:
   - DOMAIN-SUFFIX,movements.org
   - DOMAIN-SUFFIX,moves-export.com
   - DOMAIN-SUFFIX,moviefap.com
+  - DOMAIN-SUFFIX,mozilla.ai
   - DOMAIN-SUFFIX,mozilla.org
   - DOMAIN-SUFFIX,moztw.org
   - DOMAIN-SUFFIX,mp3buscador.com

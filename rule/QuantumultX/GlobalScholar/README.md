@@ -12,14 +12,14 @@ GlobalScholar规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-06-06 09:19:58
+最后更新时间：2026-05-28 02:51:09
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST | 1  | 
-| HOST-SUFFIX | 228  | 
-| TOTAL | 229  | 
+| HOST-SUFFIX | 229  | 
+| TOTAL | 230  | 
 
 
 ## QuantumultX 

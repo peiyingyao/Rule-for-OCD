@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-24 02:23:41
+# UPDATED: 2026-05-28 02:48:36
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6646
+# DOMAIN-SUFFIX: 6647
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6778
+# TOTAL: 6779
 payload:
   - DOMAIN,api.waqi.info
   - DOMAIN,aqi.aqicn.org
@@ -3674,6 +3674,7 @@ payload:
   - DOMAIN-SUFFIX,movements.org
   - DOMAIN-SUFFIX,moves-export.com
   - DOMAIN-SUFFIX,moviefap.com
+  - DOMAIN-SUFFIX,mozilla.ai
   - DOMAIN-SUFFIX,mozilla.org
   - DOMAIN-SUFFIX,moztw.org
   - DOMAIN-SUFFIX,mp3buscador.com
