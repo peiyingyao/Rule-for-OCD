@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-30 02:54:38
+# UPDATED: 2026-06-01 02:27:08
 # HOST: 19
 # HOST-KEYWORD: 26
-# HOST-SUFFIX: 7128
+# HOST-SUFFIX: 7134
 # IP-CIDR: 93
 # IP6-CIDR: 4
 # USER-AGENT: 8
-# TOTAL: 7278
+# TOTAL: 7284
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -474,6 +474,7 @@ HOST-SUFFIX,artsy.net,Proxy
 HOST-SUFFIX,arunachalforests.gov.in,Proxy
 HOST-SUFFIX,arvanstorage.ir,Proxy
 HOST-SUFFIX,arweave.org,Proxy
+HOST-SUFFIX,as.mr,Proxy
 HOST-SUFFIX,asacp.org,Proxy
 HOST-SUFFIX,asdfg.jp,Proxy
 HOST-SUFFIX,asg.to,Proxy
@@ -573,6 +574,7 @@ HOST-SUFFIX,bangchen.net,Proxy
 HOST-SUFFIX,bangdream.space,Proxy
 HOST-SUFFIX,bangkokpost.com,Proxy
 HOST-SUFFIX,bangumi.moe,Proxy
+HOST-SUFFIX,bangumi.tv,Proxy
 HOST-SUFFIX,bangyoulater.com,Proxy
 HOST-SUFFIX,bankmobilevibe.com,Proxy
 HOST-SUFFIX,bannednews.org,Proxy
@@ -660,6 +662,7 @@ HOST-SUFFIX,bewww.net,Proxy
 HOST-SUFFIX,beyondfirewall.com,Proxy
 HOST-SUFFIX,bfnn.org,Proxy
 HOST-SUFFIX,bfsh.hk,Proxy
+HOST-SUFFIX,bgm.tv,Proxy
 HOST-SUFFIX,bgme.me,Proxy
 HOST-SUFFIX,bgvpn.com,Proxy
 HOST-SUFFIX,bianlei.com,Proxy
@@ -1109,6 +1112,7 @@ HOST-SUFFIX,chenpokongvip.com,Proxy
 HOST-SUFFIX,cherrysave.com,Proxy
 HOST-SUFFIX,chhongbi.org,Proxy
 HOST-SUFFIX,chicagoncmtv.com,Proxy
+HOST-SUFFIX,chii.in,Proxy
 HOST-SUFFIX,china-mmm.jp.net,Proxy
 HOST-SUFFIX,china-mmm.net,Proxy
 HOST-SUFFIX,china-mmm.sa.com,Proxy
@@ -1279,7 +1283,6 @@ HOST-SUFFIX,cn-proxy.com,Proxy
 HOST-SUFFIX,cn6.eu,Proxy
 HOST-SUFFIX,cna.com.tw,Proxy
 HOST-SUFFIX,cnabc.com,Proxy
-HOST-SUFFIX,cnbc.com,Proxy
 HOST-SUFFIX,cnbeta.com.tw,Proxy
 HOST-SUFFIX,cnd.org,Proxy
 HOST-SUFFIX,cnet.com,Proxy
@@ -2320,6 +2323,7 @@ HOST-SUFFIX,geekerhome.com,Proxy
 HOST-SUFFIX,geekheart.info,Proxy
 HOST-SUFFIX,gekikame.com,Proxy
 HOST-SUFFIX,gelbooru.com,Proxy
+HOST-SUFFIX,gencraft.com,Proxy
 HOST-SUFFIX,generated.photos,Proxy
 HOST-SUFFIX,geni.us,Proxy
 HOST-SUFFIX,genius.com,Proxy
@@ -2917,6 +2921,7 @@ HOST-SUFFIX,hi-on.org.tw,Proxy
 HOST-SUFFIX,hicairo.com,Proxy
 HOST-SUFFIX,hiccears.com,Proxy
 HOST-SUFFIX,hidden-advent.org,Proxy
+HOST-SUFFIX,hiddify.com,Proxy
 HOST-SUFFIX,hide.me,Proxy
 HOST-SUFFIX,hidecloud.com,Proxy
 HOST-SUFFIX,hidein.net,Proxy
@@ -6448,6 +6453,7 @@ HOST-SUFFIX,vbstatic.co,Proxy
 HOST-SUFFIX,vcf-online.org,Proxy
 HOST-SUFFIX,vcfbuilder.org,Proxy
 HOST-SUFFIX,vds.rightster.com,Proxy
+HOST-SUFFIX,veed.io,Proxy
 HOST-SUFFIX,vegasred.com,Proxy
 HOST-SUFFIX,velkaepocha.sk,Proxy
 HOST-SUFFIX,venbbs.com,Proxy
