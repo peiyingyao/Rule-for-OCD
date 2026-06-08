@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-01 02:27:08
+# UPDATED: 2026-06-08 02:31:10
 # HOST: 19
 # HOST-KEYWORD: 26
-# HOST-SUFFIX: 7134
+# HOST-SUFFIX: 7136
 # IP-CIDR: 93
 # IP6-CIDR: 4
 # USER-AGENT: 8
-# TOTAL: 7284
+# TOTAL: 7286
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -5661,6 +5661,7 @@ HOST-SUFFIX,suroot.com,Proxy
 HOST-SUFFIX,surrenderat20.net,Proxy
 HOST-SUFFIX,sustainability.google,Proxy
 HOST-SUFFIX,suyangg.com,Proxy
+HOST-SUFFIX,suyingtv.com,Proxy
 HOST-SUFFIX,svsfx.com,Proxy
 HOST-SUFFIX,swagbucks.com,Proxy
 HOST-SUFFIX,swapspace.co,Proxy
@@ -6814,6 +6815,7 @@ HOST-SUFFIX,woxinghuiguo.com,Proxy
 HOST-SUFFIX,woyaolian.org,Proxy
 HOST-SUFFIX,wozy.in,Proxy
 HOST-SUFFIX,wp.com,Proxy
+HOST-SUFFIX,wplace.live,Proxy
 HOST-SUFFIX,wpoforum.com,Proxy
 HOST-SUFFIX,wqyd.org,Proxy
 HOST-SUFFIX,wr.pvp.net,Proxy
