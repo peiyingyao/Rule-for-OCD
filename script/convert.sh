@@ -45,8 +45,10 @@ find . -type f -name "*.list" | while IFS= read -r file; do
     OUTPUT_FILE_DOMAIN_TEXT="${file%.list}_OCD_Domain.txt"
     OUTPUT_FILE_IP_YAML="${file%.list}_OCD_IP.yaml"
     OUTPUT_FILE_IP_TEXT="${file%.list}_OCD_IP.txt"
+    OUTPUT_FILE_CLASSICAL_YAML="${file%.list}_OCD.yaml"
+    OUTPUT_FILE_CLASSICAL_TEXT="${file%.list}_OCD.txt"
 
-    # type=3 域名, type=4 IP
+    # type=3 DOMAIN, type=4 IP, type=6 CLASSICAL
     download_and_check "$OUTPUT_FILE_DOMAIN_YAML" \
         "0c04407cd072968894bd80a426572b13" \
         "http://127.0.0.1:25500/getruleset?type=3&url=$RAW_URL_BASE64" \
@@ -56,6 +58,11 @@ find . -type f -name "*.list" | while IFS= read -r file; do
         "3d6eaeec428ed84741b4045f4b85eee3" \
         "http://127.0.0.1:25500/getruleset?type=4&url=$RAW_URL_BASE64" \
         "$OUTPUT_FILE_IP_TEXT"
+
+    download_and_check "$OUTPUT_FILE_CLASSICAL_YAML" \
+        "TODO_REPLACE_WITH_ACTUAL_MD5" \
+        "http://127.0.0.1:25500/getruleset?type=6&url=$RAW_URL_BASE64" \
+        "$OUTPUT_FILE_CLASSICAL_TEXT"
 done
 echo "[$(ts)] 结束: list -> txt/yaml 阶段"
 
@@ -74,7 +81,7 @@ find . -type f -name "*_OCD_*.txt" | while IFS= read -r file; do
     case "$filename" in
         *_OCD_Domain*) param="domain" ;;
         *_OCD_IP*)     param="ipcidr" ;;
-        *) echo "⚠️ 未识别的文件类型: $file" >&2; continue ;;
+        *) continue ;;
     esac
 
     output_file="$file_dir/$filename.mrs"
