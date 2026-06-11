@@ -1,7 +1,7 @@
 api.msn.com
 api.statsig.com
 assets.msn.com
-browserintakedatadoghq.com
+browser-intake-datadoghq.com
 chat.openai.com.cdn.cloudflare.net
 copilot.microsoft.com
 gateway.bingviz.microsoft.net
@@ -9,9 +9,9 @@ gateway.bingviz.microsoftapp.net
 in.appcenter.ms
 location.microsoft.com
 odc.officeapps.live.com
-openaiapi.arkoselabs.com
+openai-api.arkoselabs.com
 openaicomproductionae4b.blob.core.windows.net
-productionopenaicomstorage.azureedge.net
+production-openaicom-storage.azureedge.net
 r.bing.com
 self.events.data.microsoft.com
 services.bingapis.com
@@ -21,11 +21,11 @@ www.bing.com
 +.algolia.net
 +.api.microsoftapp.net
 +.auth0.com
-+.bingshopping.microsoftfalcon.io
++.bing-shopping.microsoft-falcon.io
 +.challenges.cloudflare.com
 +.chatgpt.com
 +.chatgpt.livekit.cloud
-+.clientapi.arkoselabs.com
++.client-api.arkoselabs.com
 +.edgeservices.bing.com
 +.events.statsigapi.net
 +.featuregates.org
@@ -38,7 +38,7 @@ www.bing.com
 +.oaiusercontent.com
 +.observeit.net
 +.openai.com
-+.openaiapisite.azureedge.net
++.openaiapi-site.azureedge.net
 +.openaicom.imgix.net
 +.segment.io
 +.sentry.io

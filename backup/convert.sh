@@ -68,12 +68,12 @@ echo "[$(ts)] 结束: list -> txt/yaml 阶段"
 
 # .txt -> .mrs
 echo "[$(ts)] 开始: txt -> mrs 阶段"
-find . -type f -name "*_OCD_*.txt" | while IFS= read -r file; do
+find . -type f -name "*_OCD*.txt" | while IFS= read -r file; do
     if head -n1 "$file" | grep -q "payload"; then
         sed -i '1d' "$file"
     fi
-    # 清理字符
-    sed -i "s/'//g; s/-//g; s/[[:space:]]//g" "$file"
+    # 删除 YAML 列表标记（行首 "- "）、单引号、剩余空白
+    sed -i "s/^[[:space:]]*-[[:space:]]*//; s/'//g; s/[[:space:]]//g" "$file"
 
     filename=$(basename "$file" .txt)
     file_dir=$(dirname "$file")
