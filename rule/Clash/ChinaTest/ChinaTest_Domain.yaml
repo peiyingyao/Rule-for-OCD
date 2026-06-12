@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-10 02:48:08
+# UPDATED: 2026-06-12 03:03:54
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 112744
+# DOMAIN-SUFFIX: 112752
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 112896
+# TOTAL: 112904
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -14208,6 +14208,7 @@ payload:
   - '+.ahceisc.com'
   - '+.ahcfrc.com'
   - '+.ahchanye.com'
+  - '+.ahcjw.com'
   - '+.ahcnb.com'
   - '+.ahcoating.com'
   - '+.ahcsdz.com'
@@ -44453,6 +44454,7 @@ payload:
   - '+.gxxlzyc.com'
   - '+.gxxmglzx.com'
   - '+.gxxmjjs.com'
+  - '+.gxxmt.com'
   - '+.gxxmyjs.com'
   - '+.gxxqsm.com'
   - '+.gxxrf.com'
@@ -54321,6 +54323,7 @@ payload:
   - '+.ishenping.com'
   - '+.ishenyou.com'
   - '+.ishijing.com'
+  - '+.ishijue.com'
   - '+.ishipoffshore.com'
   - '+.ishouhong.com'
   - '+.ishouka.com'
@@ -61845,6 +61848,7 @@ payload:
   - '+.landed.cc'
   - '+.landhonor.com'
   - '+.landi.com'
+  - '+.landian.news'
   - '+.landian.xyz'
   - '+.landing-med.com'
   - '+.landingbj.com'
@@ -70700,6 +70704,7 @@ payload:
   - '+.nfmedia.com'
   - '+.nfmrtfv.com'
   - '+.nfnews.com'
+  - '+.nfpeople.com'
   - '+.nfqbyp.com'
   - '+.nfs-china.com'
   - '+.nfschina.com'
@@ -72128,6 +72133,7 @@ payload:
   - '+.nprc.net'
   - '+.npsdyyy.com'
   - '+.npsel.com'
+  - '+.npsv6.com'
   - '+.nptpark.com'
   - '+.nptparking.com'
   - '+.nptwedding.com'
@@ -93004,6 +93010,7 @@ payload:
   - '+.ucpaas.com'
   - '+.ucpchina.com'
   - '+.ucpopo.com'
+  - '+.ucppt.com'
   - '+.ucren.com'
   - '+.ucsanya.com'
   - '+.ucss.ninja'
@@ -93998,6 +94005,7 @@ payload:
   - '+.vcd.io'
   - '+.vcdnga.com'
   - '+.vcg.com'
+  - '+.vcgapi.com'
   - '+.vchangyi.com'
   - '+.vcinchina.com'
   - '+.vckbase.com'

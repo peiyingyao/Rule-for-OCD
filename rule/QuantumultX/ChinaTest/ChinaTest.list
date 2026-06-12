@@ -1,15 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-10 02:48:04
+# UPDATED: 2026-06-12 03:03:50
 # HOST: 128
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 112744
+# HOST-SUFFIX: 112752
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 112928
+# TOTAL: 112936
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdn.angruo.com,ChinaTest
@@ -14209,6 +14209,7 @@ HOST-SUFFIX,ahcaw.com,ChinaTest
 HOST-SUFFIX,ahceisc.com,ChinaTest
 HOST-SUFFIX,ahcfrc.com,ChinaTest
 HOST-SUFFIX,ahchanye.com,ChinaTest
+HOST-SUFFIX,ahcjw.com,ChinaTest
 HOST-SUFFIX,ahcnb.com,ChinaTest
 HOST-SUFFIX,ahcoating.com,ChinaTest
 HOST-SUFFIX,ahcsdz.com,ChinaTest
@@ -44454,6 +44455,7 @@ HOST-SUFFIX,gxxlzxs.com,ChinaTest
 HOST-SUFFIX,gxxlzyc.com,ChinaTest
 HOST-SUFFIX,gxxmglzx.com,ChinaTest
 HOST-SUFFIX,gxxmjjs.com,ChinaTest
+HOST-SUFFIX,gxxmt.com,ChinaTest
 HOST-SUFFIX,gxxmyjs.com,ChinaTest
 HOST-SUFFIX,gxxqsm.com,ChinaTest
 HOST-SUFFIX,gxxrf.com,ChinaTest
@@ -54322,6 +54324,7 @@ HOST-SUFFIX,ishengxue.com,ChinaTest
 HOST-SUFFIX,ishenping.com,ChinaTest
 HOST-SUFFIX,ishenyou.com,ChinaTest
 HOST-SUFFIX,ishijing.com,ChinaTest
+HOST-SUFFIX,ishijue.com,ChinaTest
 HOST-SUFFIX,ishipoffshore.com,ChinaTest
 HOST-SUFFIX,ishouhong.com,ChinaTest
 HOST-SUFFIX,ishouka.com,ChinaTest
@@ -61846,6 +61849,7 @@ HOST-SUFFIX,landchina.com,ChinaTest
 HOST-SUFFIX,landed.cc,ChinaTest
 HOST-SUFFIX,landhonor.com,ChinaTest
 HOST-SUFFIX,landi.com,ChinaTest
+HOST-SUFFIX,landian.news,ChinaTest
 HOST-SUFFIX,landian.xyz,ChinaTest
 HOST-SUFFIX,landing-med.com,ChinaTest
 HOST-SUFFIX,landingbj.com,ChinaTest
@@ -70701,6 +70705,7 @@ HOST-SUFFIX,nflsxl.com,ChinaTest
 HOST-SUFFIX,nfmedia.com,ChinaTest
 HOST-SUFFIX,nfmrtfv.com,ChinaTest
 HOST-SUFFIX,nfnews.com,ChinaTest
+HOST-SUFFIX,nfpeople.com,ChinaTest
 HOST-SUFFIX,nfqbyp.com,ChinaTest
 HOST-SUFFIX,nfs-china.com,ChinaTest
 HOST-SUFFIX,nfschina.com,ChinaTest
@@ -72129,6 +72134,7 @@ HOST-SUFFIX,npqx.com,ChinaTest
 HOST-SUFFIX,nprc.net,ChinaTest
 HOST-SUFFIX,npsdyyy.com,ChinaTest
 HOST-SUFFIX,npsel.com,ChinaTest
+HOST-SUFFIX,npsv6.com,ChinaTest
 HOST-SUFFIX,nptpark.com,ChinaTest
 HOST-SUFFIX,nptparking.com,ChinaTest
 HOST-SUFFIX,nptwedding.com,ChinaTest
@@ -93005,6 +93011,7 @@ HOST-SUFFIX,ucnest.com,ChinaTest
 HOST-SUFFIX,ucpaas.com,ChinaTest
 HOST-SUFFIX,ucpchina.com,ChinaTest
 HOST-SUFFIX,ucpopo.com,ChinaTest
+HOST-SUFFIX,ucppt.com,ChinaTest
 HOST-SUFFIX,ucren.com,ChinaTest
 HOST-SUFFIX,ucsanya.com,ChinaTest
 HOST-SUFFIX,ucss.ninja,ChinaTest
@@ -93999,6 +94006,7 @@ HOST-SUFFIX,vcchar.com,ChinaTest
 HOST-SUFFIX,vcd.io,ChinaTest
 HOST-SUFFIX,vcdnga.com,ChinaTest
 HOST-SUFFIX,vcg.com,ChinaTest
+HOST-SUFFIX,vcgapi.com,ChinaTest
 HOST-SUFFIX,vchangyi.com,ChinaTest
 HOST-SUFFIX,vcinchina.com,ChinaTest
 HOST-SUFFIX,vckbase.com,ChinaTest
