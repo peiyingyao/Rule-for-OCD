@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-12 03:03:09
+# UPDATED: 2026-06-14 02:32:50
 # DOMAIN: 123
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34337
+# DOMAIN-SUFFIX: 34354
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34613
+# TOTAL: 34630
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -339,7 +339,6 @@ payload:
   - DOMAIN-SUFFIX,24porn.com
   - DOMAIN-SUFFIX,24porn.pro
   - DOMAIN-SUFFIX,258porn.com
-  - DOMAIN-SUFFIX,265.com
   - DOMAIN-SUFFIX,265sdwe3.com
   - DOMAIN-SUFFIX,2789av.com
   - DOMAIN-SUFFIX,27mmwmmw.top
@@ -7579,6 +7578,7 @@ payload:
   - DOMAIN-SUFFIX,doseofporn.com
   - DOMAIN-SUFFIX,dot-mac.de
   - DOMAIN-SUFFIX,dot.net
+  - DOMAIN-SUFFIX,dota2.com
   - DOMAIN-SUFFIX,dotcernpilot.info
   - DOMAIN-SUFFIX,dotdeb.org
   - DOMAIN-SUFFIX,dotfacebook.com
@@ -14953,6 +14953,8 @@ payload:
   - DOMAIN-SUFFIX,livehdcams.com
   - DOMAIN-SUFFIX,livejasmin.com
   - DOMAIN-SUFFIX,livejasminbabes.net
+  - DOMAIN-SUFFIX,livejournal.com
+  - DOMAIN-SUFFIX,livejournal.net
   - DOMAIN-SUFFIX,livemodels.co
   - DOMAIN-SUFFIX,livenet.ac.uk
   - DOMAIN-SUFFIX,liveperson.net
@@ -18104,6 +18106,7 @@ payload:
   - DOMAIN-SUFFIX,nsirc.ac.uk
   - DOMAIN-SUFFIX,nso.ac.uk
   - DOMAIN-SUFFIX,nspcr.ac.uk
+  - DOMAIN-SUFFIX,nspk.ru
   - DOMAIN-SUFFIX,nss.ac.uk
   - DOMAIN-SUFFIX,nsstatic.net
   - DOMAIN-SUFFIX,nsu.ac.uk
@@ -18481,6 +18484,7 @@ payload:
   - DOMAIN-SUFFIX,okx-dns.com
   - DOMAIN-SUFFIX,okx-dns1.com
   - DOMAIN-SUFFIX,okx-dns2.com
+  - DOMAIN-SUFFIX,okx.ac
   - DOMAIN-SUFFIX,okx.cab
   - DOMAIN-SUFFIX,olabloga.pl
   - DOMAIN-SUFFIX,oldbury.ac.uk
@@ -24954,6 +24958,7 @@ payload:
   - DOMAIN-SUFFIX,v-av.com
   - DOMAIN-SUFFIX,v-has.com
   - DOMAIN-SUFFIX,v-resort.ac.uk
+  - DOMAIN-SUFFIX,v.ps
   - DOMAIN-SUFFIX,v2ph.com
   - DOMAIN-SUFFIX,v2ray.cool
   - DOMAIN-SUFFIX,v2raytech.com
@@ -24978,6 +24983,7 @@ payload:
   - DOMAIN-SUFFIX,value-domain.com
   - DOMAIN-SUFFIX,value-server.com
   - DOMAIN-SUFFIX,valuegb.com
+  - DOMAIN-SUFFIX,valve.net
   - DOMAIN-SUFFIX,vam.ac.uk
   - DOMAIN-SUFFIX,vamo.com
   - DOMAIN-SUFFIX,vamsas.ac.uk
@@ -25802,6 +25808,7 @@ payload:
   - DOMAIN-SUFFIX,vpornvideos.com
   - DOMAIN-SUFFIX,vpro.com
   - DOMAIN-SUFFIX,vpro.net
+  - DOMAIN-SUFFIX,vps.hosting
   - DOMAIN-SUFFIX,vrbgay.com
   - DOMAIN-SUFFIX,vrcams.io
   - DOMAIN-SUFFIX,vrcdn.cloud
@@ -26894,6 +26901,16 @@ payload:
   - DOMAIN-SUFFIX,xsz-av.com
   - DOMAIN-SUFFIX,xtapes.to
   - DOMAIN-SUFFIX,xtegvk.xyz
+  - DOMAIN-SUFFIX,xtom.au
+  - DOMAIN-SUFFIX,xtom.com
+  - DOMAIN-SUFFIX,xtom.de
+  - DOMAIN-SUFFIX,xtom.ee
+  - DOMAIN-SUFFIX,xtom.hk
+  - DOMAIN-SUFFIX,xtom.jp
+  - DOMAIN-SUFFIX,xtom.nl
+  - DOMAIN-SUFFIX,xtom.sg
+  - DOMAIN-SUFFIX,xtom.social
+  - DOMAIN-SUFFIX,xtom.us
   - DOMAIN-SUFFIX,xtracloud.net
   - DOMAIN-SUFFIX,xtubebdsm.com
   - DOMAIN-SUFFIX,xtubezoo.com

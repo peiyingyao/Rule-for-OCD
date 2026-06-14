@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-12 03:03:09
+# UPDATED: 2026-06-14 02:32:50
 # DOMAIN: 123
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34337
+# DOMAIN-SUFFIX: 34354
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34613
+# TOTAL: 34630
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -339,7 +339,6 @@ payload:
   - '+.24porn.com'
   - '+.24porn.pro'
   - '+.258porn.com'
-  - '+.265.com'
   - '+.265sdwe3.com'
   - '+.2789av.com'
   - '+.27mmwmmw.top'
@@ -7579,6 +7578,7 @@ payload:
   - '+.doseofporn.com'
   - '+.dot-mac.de'
   - '+.dot.net'
+  - '+.dota2.com'
   - '+.dotcernpilot.info'
   - '+.dotdeb.org'
   - '+.dotfacebook.com'
@@ -14953,6 +14953,8 @@ payload:
   - '+.livehdcams.com'
   - '+.livejasmin.com'
   - '+.livejasminbabes.net'
+  - '+.livejournal.com'
+  - '+.livejournal.net'
   - '+.livemodels.co'
   - '+.livenet.ac.uk'
   - '+.liveperson.net'
@@ -18104,6 +18106,7 @@ payload:
   - '+.nsirc.ac.uk'
   - '+.nso.ac.uk'
   - '+.nspcr.ac.uk'
+  - '+.nspk.ru'
   - '+.nss.ac.uk'
   - '+.nsstatic.net'
   - '+.nsu.ac.uk'
@@ -18481,6 +18484,7 @@ payload:
   - '+.okx-dns.com'
   - '+.okx-dns1.com'
   - '+.okx-dns2.com'
+  - '+.okx.ac'
   - '+.okx.cab'
   - '+.olabloga.pl'
   - '+.oldbury.ac.uk'
@@ -24954,6 +24958,7 @@ payload:
   - '+.v-av.com'
   - '+.v-has.com'
   - '+.v-resort.ac.uk'
+  - '+.v.ps'
   - '+.v2ph.com'
   - '+.v2ray.cool'
   - '+.v2raytech.com'
@@ -24978,6 +24983,7 @@ payload:
   - '+.value-domain.com'
   - '+.value-server.com'
   - '+.valuegb.com'
+  - '+.valve.net'
   - '+.vam.ac.uk'
   - '+.vamo.com'
   - '+.vamsas.ac.uk'
@@ -25802,6 +25808,7 @@ payload:
   - '+.vpornvideos.com'
   - '+.vpro.com'
   - '+.vpro.net'
+  - '+.vps.hosting'
   - '+.vrbgay.com'
   - '+.vrcams.io'
   - '+.vrcdn.cloud'
@@ -26894,6 +26901,16 @@ payload:
   - '+.xsz-av.com'
   - '+.xtapes.to'
   - '+.xtegvk.xyz'
+  - '+.xtom.au'
+  - '+.xtom.com'
+  - '+.xtom.de'
+  - '+.xtom.ee'
+  - '+.xtom.hk'
+  - '+.xtom.jp'
+  - '+.xtom.nl'
+  - '+.xtom.sg'
+  - '+.xtom.social'
+  - '+.xtom.us'
   - '+.xtracloud.net'
   - '+.xtubebdsm.com'
   - '+.xtubezoo.com'
