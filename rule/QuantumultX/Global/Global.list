@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-16 03:23:54
-# HOST: 742
+# UPDATED: 2026-06-18 02:53:52
+# HOST: 748
 # HOST-KEYWORD: 36
-# HOST-SUFFIX: 34438
+# HOST-SUFFIX: 34447
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 35378
+# TOTAL: 35393
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -103,6 +103,7 @@ HOST,cbsservice.aws.syncbak.com,Global
 HOST,cdn-spotify-experiments.conductrics.com,Global
 HOST,cdn.js7k.com,Global
 HOST,cdngarenanow-a.akamaihd.net,Global
+HOST,chatscc-hamivideo2.cdn.hinet.net,Global
 HOST,chinapower.csis.org,Global
 HOST,cisco.evergage.com,Global
 HOST,ciscolivehls-i.akamaihd.net,Global
@@ -190,6 +191,7 @@ HOST,ebay-25-assets.s3-us-west-1.amazonaws.com,Global
 HOST,ecapi-pchome.cdn.hinet.net,Global
 HOST,edu.tinkoff.ru,Global
 HOST,education.tbank.ru,Global
+HOST,efe8f8a4-abd5-44c9-bf5c-cd217442c52f.t.ssp.hinet.net,Global
 HOST,elib.maruzen.co.jp,Global
 HOST,epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com,Global
 HOST,ereg.adobe.com,Global
@@ -246,6 +248,7 @@ HOST,heads4-ak-spotify-com.akamaized.net,Global
 HOST,himalaya-exchange.zendesk.com,Global
 HOST,hl2rcv.adobe.com,Global
 HOST,hlrcv.stage.adobe.com,Global
+HOST,hls-hamivideo.cdn.hinet.net,Global
 HOST,holoxx.f5.si,Global
 HOST,homebrew.bintray.com,Global
 HOST,hpefonts.s3.amazonaws.com,Global
@@ -421,6 +424,7 @@ HOST,s3-ap-northeast-1.amazonaws.com,Global
 HOST,s3-ap-southeast-2.amazonaws.com,Global
 HOST,sa78gs.wpc.edgecastcdn.net,Global
 HOST,sberpro.vedomosti.ru,Global
+HOST,scc-hamivideo.cdn.hinet.net,Global
 HOST,scc.ott.hinet.net,Global
 HOST,scholar.google.ae,Global
 HOST,scholar.google.at,Global
@@ -516,6 +520,7 @@ HOST,statics-marketingsites-eas-ms-com.akamaized.net,Global
 HOST,statics-marketingsites-eus-ms-com.akamaized.net,Global
 HOST,statics-marketingsites-wcus-ms-com.akamaized.net,Global
 HOST,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com,Global
+HOST,t.ssp.hinet.net,Global
 HOST,t21.nikkei.co.jp,Global
 HOST,t21ipau.nikkei.co.jp,Global
 HOST,teamviewer.com.cdn.cloudflare.net,Global
@@ -618,6 +623,7 @@ HOST,vsmarketplacebadge.apphb.com,Global
 HOST,wb-agora-hydra-file-storage-k1.s3.amazonaws.com,Global
 HOST,webchannel-alkalimakersuite-pa.clients6.google.com,Global
 HOST,weblive-hamivideo.cdn.hinet.net,Global
+HOST,weblivea-hamivideo.cdn.hinet.net,Global
 HOST,webvodad-hamivideo.cdn.hinet.net,Global
 HOST,wego.here.com,Global
 HOST,wetv.qq.com,Global
@@ -6063,6 +6069,7 @@ HOST-SUFFIX,celebforum.co,Global
 HOST-SUFFIX,celebgramme.com,Global
 HOST-SUFFIX,celebmasta.live,Global
 HOST-SUFFIX,celebritygay.com,Global
+HOST-SUFFIX,celebritymoviearchive.com,Global
 HOST-SUFFIX,celebritynakeds.com,Global
 HOST-SUFFIX,celebrityslips.com,Global
 HOST-SUFFIX,celebritystorysite.com,Global
@@ -10439,6 +10446,7 @@ HOST-SUFFIX,foxuv.com,Global
 HOST-SUFFIX,foxweatherwatch.com,Global
 HOST-SUFFIX,fpacebook.com,Global
 HOST-SUFFIX,fpm.ac.uk,Global
+HOST-SUFFIX,fpo.xxx,Global
 HOST-SUFFIX,fptolia.com,Global
 HOST-SUFFIX,fqcebook.com,Global
 HOST-SUFFIX,fr-beatsbydrestore.com,Global
@@ -10531,6 +10539,8 @@ HOST-SUFFIX,freesitexxx.com,Global
 HOST-SUFFIX,freessl.com,Global
 HOST-SUFFIX,freeuseporn.com,Global
 HOST-SUFFIX,freeviewplus.net.au,Global
+HOST-SUFFIX,freexh.blog,Global
+HOST-SUFFIX,freexh.live,Global
 HOST-SUFFIX,freexvideos.org,Global
 HOST-SUFFIX,freexxx.best,Global
 HOST-SUFFIX,freexxx.win,Global
@@ -19644,6 +19654,7 @@ HOST-SUFFIX,pikpak.io,Global
 HOST-SUFFIX,pilgrimageandcathedrals.ac.uk,Global
 HOST-SUFFIX,pilgrimagestudies.ac.uk,Global
 HOST-SUFFIX,pillbeatsblackfridaysale.com,Global
+HOST-SUFFIX,pimpbunny.com,Global
 HOST-SUFFIX,pin.it,Global
 HOST-SUFFIX,pinduck.com,Global
 HOST-SUFFIX,pinflix.com,Global
@@ -20263,6 +20274,7 @@ HOST-SUFFIX,powershape.com,Global
 HOST-SUFFIX,powershellgallery.com,Global
 HOST-SUFFIX,powersrv.de,Global
 HOST-SUFFIX,powersunitedvr.com,Global
+HOST-SUFFIX,powfans.com,Global
 HOST-SUFFIX,powia.ac.uk,Global
 HOST-SUFFIX,pp-soc.com,Global
 HOST-SUFFIX,pp.ru,Global
@@ -21983,6 +21995,7 @@ HOST-SUFFIX,seqingx.com,Global
 HOST-SUFFIX,sequence.com,Global
 HOST-SUFFIX,ser7.cc,Global
 HOST-SUFFIX,sera.ac.uk,Global
+HOST-SUFFIX,serakon.com,Global
 HOST-SUFFIX,serbiporno.net,Global
 HOST-SUFFIX,serc.ac.uk,Global
 HOST-SUFFIX,serena.ac.uk,Global
@@ -26083,6 +26096,7 @@ HOST-SUFFIX,vscode-cdn.net,Global
 HOST-SUFFIX,vscode-unpkg.net,Global
 HOST-SUFFIX,vscode.dev,Global
 HOST-SUFFIX,vsemrabota.ru,Global
+HOST-SUFFIX,vsex.in,Global
 HOST-SUFFIX,vsezoo.com,Global
 HOST-SUFFIX,vsphere.com,Global
 HOST-SUFFIX,vsphere.net,Global
@@ -26899,6 +26913,7 @@ HOST-SUFFIX,xhamster19.com,Global
 HOST-SUFFIX,xhamster2.com,Global
 HOST-SUFFIX,xhamster3.com,Global
 HOST-SUFFIX,xhamsterlive.com,Global
+HOST-SUFFIX,xhapp.live,Global
 HOST-SUFFIX,xhnews.live,Global
 HOST-SUFFIX,xhot.pro,Global
 HOST-SUFFIX,xhpingcdn.com,Global

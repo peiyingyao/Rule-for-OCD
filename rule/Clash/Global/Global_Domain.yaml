@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-16 03:23:32
+# UPDATED: 2026-06-18 02:53:31
 # DOMAIN: 125
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34399
+# DOMAIN-SUFFIX: 34408
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34677
+# TOTAL: 34686
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -5524,6 +5524,7 @@ payload:
   - '+.celebgramme.com'
   - '+.celebmasta.live'
   - '+.celebritygay.com'
+  - '+.celebritymoviearchive.com'
   - '+.celebritynakeds.com'
   - '+.celebrityslips.com'
   - '+.celebritystorysite.com'
@@ -9925,6 +9926,7 @@ payload:
   - '+.foxweatherwatch.com'
   - '+.fpacebook.com'
   - '+.fpm.ac.uk'
+  - '+.fpo.xxx'
   - '+.fptolia.com'
   - '+.fqcebook.com'
   - '+.fr-beatsbydrestore.com'
@@ -10017,6 +10019,8 @@ payload:
   - '+.freessl.com'
   - '+.freeuseporn.com'
   - '+.freeviewplus.net.au'
+  - '+.freexh.blog'
+  - '+.freexh.live'
   - '+.freexvideos.org'
   - '+.freexxx.best'
   - '+.freexxx.win'
@@ -19388,6 +19392,7 @@ payload:
   - '+.pilgrimageandcathedrals.ac.uk'
   - '+.pilgrimagestudies.ac.uk'
   - '+.pillbeatsblackfridaysale.com'
+  - '+.pimpbunny.com'
   - '+.pin.it'
   - '+.pinduck.com'
   - '+.pinflix.com'
@@ -20030,6 +20035,7 @@ payload:
   - '+.powershellgallery.com'
   - '+.powersrv.de'
   - '+.powersunitedvr.com'
+  - '+.powfans.com'
   - '+.powia.ac.uk'
   - '+.pp-soc.com'
   - '+.pp.ru'
@@ -21751,6 +21757,7 @@ payload:
   - '+.sequence.com'
   - '+.ser7.cc'
   - '+.sera.ac.uk'
+  - '+.serakon.com'
   - '+.serbiporno.net'
   - '+.serc.ac.uk'
   - '+.serena.ac.uk'
@@ -25886,6 +25893,7 @@ payload:
   - '+.vscode-unpkg.net'
   - '+.vscode.dev'
   - '+.vsemrabota.ru'
+  - '+.vsex.in'
   - '+.vsezoo.com'
   - '+.vsphere.com'
   - '+.vsphere.net'
@@ -26707,6 +26715,7 @@ payload:
   - '+.xhamster2.com'
   - '+.xhamster3.com'
   - '+.xhamsterlive.com'
+  - '+.xhapp.live'
   - '+.xhnews.live'
   - '+.xhot.pro'
   - '+.xhpingcdn.com'
