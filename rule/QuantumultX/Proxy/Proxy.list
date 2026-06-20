@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-08 02:31:10
+# UPDATED: 2026-06-20 02:40:41
 # HOST: 19
 # HOST-KEYWORD: 26
-# HOST-SUFFIX: 7136
+# HOST-SUFFIX: 7140
 # IP-CIDR: 93
 # IP6-CIDR: 4
 # USER-AGENT: 8
-# TOTAL: 7286
+# TOTAL: 7290
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -202,6 +202,7 @@ HOST-SUFFIX,abplive.com,Proxy
 HOST-SUFFIX,abs.edu,Proxy
 HOST-SUFFIX,acast.com,Proxy
 HOST-SUFFIX,accim.org,Proxy
+HOST-SUFFIX,accountboy.com,Proxy
 HOST-SUFFIX,accountkit.com,Proxy
 HOST-SUFFIX,aceros-de-hispania.com,Proxy
 HOST-SUFFIX,acevpn.com,Proxy
@@ -4065,6 +4066,7 @@ HOST-SUFFIX,monlamit.org,Proxy
 HOST-SUFFIX,monocloud.me,Proxy
 HOST-SUFFIX,monster.com,Proxy
 HOST-SUFFIX,moodyz.com,Proxy
+HOST-SUFFIX,moomoo.com,Proxy
 HOST-SUFFIX,moon.fm,Proxy
 HOST-SUFFIX,moonbbs.com,Proxy
 HOST-SUFFIX,moonbbs.info,Proxy
@@ -5380,6 +5382,7 @@ HOST-SUFFIX,sinomontreal.ca,Proxy
 HOST-SUFFIX,sinonet.ca,Proxy
 HOST-SUFFIX,sinopitt.info,Proxy
 HOST-SUFFIX,sinoquebec.com,Proxy
+HOST-SUFFIX,sinyalee.com,Proxy
 HOST-SUFFIX,sipml5.org,Proxy
 HOST-SUFFIX,sis.xxx,Proxy
 HOST-SUFFIX,sis001.com,Proxy
@@ -6925,6 +6928,7 @@ HOST-SUFFIX,xn--noss43i.com,Proxy
 HOST-SUFFIX,xn--oiq.cc,Proxy
 HOST-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c,Proxy
 HOST-SUFFIX,xn--u2u927b.com,Proxy
+HOST-SUFFIX,xn--vuqv2cf7wzyig79c.com,Proxy
 HOST-SUFFIX,xnpool.com,Proxy
 HOST-SUFFIX,xnxx-cdn.com,Proxy
 HOST-SUFFIX,xnxx.com,Proxy
