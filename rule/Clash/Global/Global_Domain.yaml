@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-24 02:45:29
-# DOMAIN: 126
+# UPDATED: 2026-06-26 02:48:38
+# DOMAIN: 125
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34476
+# DOMAIN-SUFFIX: 34488
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34755
+# TOTAL: 34766
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -41,7 +41,6 @@ payload:
   - 'crl.versign.net'
   - 'databank.worldbank.org'
   - 'datarouter.apps.netherrealm.com'
-  - 'default.exp-tas.com'
   - 'deutschewelle.h-cdn.com'
   - 'dl.begellhouse.com'
   - 'ea.tt.omtrdc.net'
@@ -1538,6 +1537,7 @@ payload:
   - '+.allswingersclubs.org'
   - '+.allthefallen.moe'
   - '+.alma.ac.uk'
+  - '+.almalinux.org'
   - '+.almcollege.ac.uk'
   - '+.aloe.ac.uk'
   - '+.alohatube.com'
@@ -4964,6 +4964,7 @@ payload:
   - '+.bustynudebabes.com'
   - '+.bustyoldsluts.com'
   - '+.bustysammieblack.com'
+  - '+.busybox.net'
   - '+.butex.ac.uk'
   - '+.buxtoncollege.ac.uk'
   - '+.buy-from-shanghai.com'
@@ -8886,6 +8887,7 @@ payload:
   - '+.exondomesday.ac.uk'
   - '+.exotic-ghana.com'
   - '+.exoticuganda.com'
+  - '+.exp-tas.com'
   - '+.experience-vmware.com'
   - '+.experiencebillmelater.com'
   - '+.experienceworks.ac.uk'
@@ -10578,6 +10580,7 @@ payload:
   - '+.gitgud.io'
   - '+.github.ai'
   - '+.github.blog'
+  - '+.github.career'
   - '+.github.com'
   - '+.github.community'
   - '+.github.dev'
@@ -14872,6 +14875,7 @@ payload:
   - '+.life.ac.uk'
   - '+.lifearc.ac.uk'
   - '+.lifeatkings.ac.uk'
+  - '+.lifeatspotify.com'
   - '+.lifelab.ac.uk'
   - '+.lifelonglearning.ac.uk'
   - '+.lifeselector.com'
@@ -15517,6 +15521,7 @@ payload:
   - '+.manhwa24h.com'
   - '+.manhwahentai.me'
   - '+.maniakey.homes'
+  - '+.manjaro.org'
   - '+.manlitphil.ac.uk'
   - '+.manorama.com'
   - '+.manoramanews.com'
@@ -21005,6 +21010,7 @@ payload:
   - '+.rocksextube.com'
   - '+.rockstargames.com'
   - '+.rockstarnorth.com'
+  - '+.rockylinux.org'
   - '+.roco.qq.com'
   - '+.rodbaston.ac.uk'
   - '+.roe.ac.uk'
@@ -22788,6 +22794,7 @@ payload:
   - '+.spotifycharts.com'
   - '+.spotifycodes.com'
   - '+.spotifyforbrands.com'
+  - '+.spotifyforvendors.com'
   - '+.spotifyjobs.com'
   - '+.spr.ac.uk'
   - '+.spraynwash.com'
@@ -25889,7 +25896,10 @@ payload:
   - '+.vscale.ru'
   - '+.vscode-cdn.net'
   - '+.vscode-unpkg.net'
+  - '+.vscode-webview.net'
   - '+.vscode.dev'
+  - '+.vscodeedu.app'
+  - '+.vscodeedu.com'
   - '+.vsemrabota.ru'
   - '+.vsex.in'
   - '+.vsezoo.com'
@@ -30144,6 +30154,7 @@ payload:
   - '+.geph.io'
   - '+.gerefoundation.org'
   - '+.get.app'
+  - '+.get.dappcdn.com'
   - '+.get.dev'
   - '+.get.how'
   - '+.get.page'

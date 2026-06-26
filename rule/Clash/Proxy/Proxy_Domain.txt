@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-22 02:36:09
+# UPDATED: 2026-06-26 02:48:57
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6729
+# DOMAIN-SUFFIX: 6730
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6861
+# TOTAL: 6862
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -2242,6 +2242,7 @@ voice.telephony.goog
 .geph.io
 .gerefoundation.org
 .get.app
+.get.dappcdn.com
 .get.dev
 .get.how
 .get.page

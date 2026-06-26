@@ -12,17 +12,17 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2026-06-24 02:46:18
+最后更新时间：2026-06-26 02:49:18
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 114  | 
 | DOMAIN-KEYWORD | 9  | 
-| DOMAIN-SUFFIX | 112165  | 
+| DOMAIN-SUFFIX | 112110  | 
 | IP-CIDR | 11  | 
 | IP-CIDR6 | 4  | 
-| TOTAL | 112303  | 
+| TOTAL | 112248  | 
 
 
 ## Clash 
