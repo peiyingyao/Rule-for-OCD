@@ -21,14 +21,14 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2026-06-26 02:48:57
+最后更新时间：2026-06-28 02:29:40
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST | 753  | 
+| HOST | 752  | 
 | HOST-KEYWORD | 36  | 
-| HOST-SUFFIX | 34523  | 
+| HOST-SUFFIX | 34524  | 
 | IP-CIDR | 112  | 
 | IP6-CIDR | 4  | 
 | USER-AGENT | 46  | 
