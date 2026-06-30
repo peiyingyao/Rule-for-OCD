@@ -1,11 +1,11 @@
 # NAME: iCloud
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-06 02:37:18
+# UPDATED: 2026-06-30 02:43:26
 # HOST: 1
 # HOST-KEYWORD: 1
-# HOST-SUFFIX: 59
-# TOTAL: 61
+# HOST-SUFFIX: 60
+# TOTAL: 62
 HOST,www-cdn.icloud.com.akadns.net,iCloud
 HOST-SUFFIX,apple-cloudkit.com,iCloud
 HOST-SUFFIX,apple-icloud.cn,iCloud
@@ -17,6 +17,7 @@ HOST-SUFFIX,cdn-apple.com,iCloud
 HOST-SUFFIX,gc.apple.com,iCloud
 HOST-SUFFIX,icloud-apple.cn,iCloud
 HOST-SUFFIX,icloud-content.com,iCloud
+HOST-SUFFIX,icloud-content.com.cn,iCloud
 HOST-SUFFIX,icloud-isupport.com,iCloud
 HOST-SUFFIX,icloud-sandbox.com,iCloud
 HOST-SUFFIX,icloud.apple.com,iCloud

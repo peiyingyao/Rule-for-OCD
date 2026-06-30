@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-28 02:29:22
+# UPDATED: 2026-06-30 02:44:53
 # DOMAIN: 125
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34489
+# DOMAIN-SUFFIX: 34508
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34767
+# TOTAL: 34786
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -2238,6 +2238,7 @@ payload:
   - '+.applereach.com'
   - '+.applereach.net'
   - '+.apples-msk.ru'
+  - '+.appleschoolcontent.com'
   - '+.applescreensavers.com'
   - '+.applescript.info'
   - '+.appleshare.info'
@@ -2325,6 +2326,7 @@ payload:
   - '+.apu.ac.uk'
   - '+.apuc-scot.ac.uk'
   - '+.apyle.com'
+  - '+.apzones.com'
   - '+.aqdlt.net'
   - '+.aqmen.ac.uk'
   - '+.aquinas.ac.uk'
@@ -2906,6 +2908,7 @@ payload:
   - '+.awxcdn.com'
   - '+.axbdoll.com.tw'
   - '+.axept.io'
+  - '+.axm-usercontent-apple.com'
   - '+.ayabank.com'
   - '+.aylesbury.ac.uk'
   - '+.ayrcoll.ac.uk'
@@ -6726,6 +6729,7 @@ payload:
   - '+.damplips.com'
   - '+.dance-archives.ac.uk'
   - '+.dandalinvoa.com'
+  - '+.dandanplay.net'
   - '+.dandanzan.cc'
   - '+.danemarket.com'
   - '+.danmarkbeatsbydrdre.com'
@@ -19307,7 +19311,6 @@ payload:
   - '+.perfecttitspics.com'
   - '+.performancescience.ac.uk'
   - '+.perl.org'
-  - '+.perma.cc'
   - '+.perplexity.com'
   - '+.persagg.com'
   - '+.pershore.ac.uk'
@@ -24305,6 +24308,7 @@ payload:
   - '+.trinitylaban.ac.uk'
   - '+.trinitysaintdavid.ac.uk'
   - '+.triokini.com'
+  - '+.tripo3d.ai'
   - '+.tristatebmw.com'
   - '+.trithucvn.net'
   - '+.trithucvn.org'
@@ -28191,6 +28195,7 @@ payload:
   - '+.aircrack-ng.org'
   - '+.airitilibrary.com'
   - '+.airtable.com'
+  - '+.airuniversity.af.edu'
   - '+.airvpn.org'
   - '+.aisex.com'
   - '+.ait.org.tw'
@@ -30118,6 +30123,7 @@ payload:
   - '+.gartlive.com'
   - '+.garudalinux.org'
   - '+.gate-project.com'
+  - '+.gate.com'
   - '+.gate.io'
   - '+.gatecoin.com'
   - '+.gather.com'
@@ -30545,6 +30551,7 @@ payload:
   - '+.hklft.com'
   - '+.hklts.org.hk'
   - '+.hkmap.live'
+  - '+.hkong.hk'
   - '+.hkopentv.com'
   - '+.hkpeanut.com'
   - '+.hkptu.org'
@@ -31085,6 +31092,7 @@ payload:
   - '+.kex.com'
   - '+.keycdn.com'
   - '+.keyhole.com'
+  - '+.kfor.com'
   - '+.khabdha.org'
   - '+.khatrimaza.org'
   - '+.khmusic.com.tw'
@@ -31504,6 +31512,7 @@ payload:
   - '+.mgoon.com'
   - '+.mgstage.com'
   - '+.mh4u.org'
+  - '+.mhwindow.org'
   - '+.michaelmarketl.com'
   - '+.microsoft-falcon.io'
   - '+.microsoft.com'
@@ -32192,6 +32201,7 @@ payload:
   - '+.pbxes.org'
   - '+.pcanywhere.net'
   - '+.pcdvd.com.tw'
+  - '+.pcgamesn.com'
   - '+.pcgamestorrents.com'
   - '+.pchome.com.tw'
   - '+.pcij.org'
@@ -32228,6 +32238,7 @@ payload:
   - '+.perfectgirls.net'
   - '+.perfectvpn.net'
   - '+.periscope.tv'
+  - '+.perma.cc'
   - '+.perplexity.ai'
   - '+.persecutionblog.com'
   - '+.persiankitty.com'
@@ -32599,6 +32610,7 @@ payload:
   - '+.renyurenquan.org'
   - '+.resilio.com'
   - '+.resistchina.org'
+  - '+.restofworld.org'
   - '+.retweeteffect.com'
   - '+.retweetist.com'
   - '+.retweetrank.com'
@@ -33026,6 +33038,7 @@ payload:
   - '+.sowers.org.hk'
   - '+.soylent.com'
   - '+.soylentnews.org'
+  - '+.spaceforce.mil'
   - '+.spacex.com'
   - '+.spankbang.com'
   - '+.spankingtube.com'
@@ -33162,6 +33175,7 @@ payload:
   - '+.supervpn.net'
   - '+.superzooi.com'
   - '+.suppig.net'
+  - '+.supremecourt.gov'
   - '+.suprememastertv.com'
   - '+.surfeasy.com'
   - '+.surfeasy.com.au'
@@ -33354,6 +33368,7 @@ payload:
   - '+.thehousenews.com'
   - '+.thehun.net'
   - '+.theinitium.com'
+  - '+.theintercept.com'
   - '+.themoviedb.org'
   - '+.thenewslens.com'
   - '+.thepiratebay.ee'
@@ -33603,6 +33618,7 @@ payload:
   - '+.trouw.nl'
   - '+.trt.net.tr'
   - '+.trtc.com.tw'
+  - '+.trtworld.com'
   - '+.truebuddha-md.org'
   - '+.truenas.com'
   - '+.truesocial.media'
@@ -33765,6 +33781,7 @@ payload:
   - '+.twnorth.org.tw'
   - '+.twreporter.org'
   - '+.twskype.com'
+  - '+.twstalker.com'
   - '+.twstar.net'
   - '+.twt.tl'
   - '+.twtkr.com'
@@ -34112,6 +34129,7 @@ payload:
   - '+.waselpro.com'
   - '+.washeng.net'
   - '+.washingtonpost.com'
+  - '+.washingtontimes.com'
   - '+.watch8x.com'
   - '+.watchinese.com'
   - '+.watchmygf.net'
@@ -34408,6 +34426,7 @@ payload:
   - '+.xt.pub'
   - '+.xteko.com'
   - '+.xtube.com'
+  - '+.xuan.com.my'
   - '+.xuchao.net'
   - '+.xuchao.org'
   - '+.xuehua.us'
