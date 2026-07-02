@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-30 02:45:15
+# UPDATED: 2026-07-02 02:44:03
 # HOST: 19
 # HOST-KEYWORD: 26
-# HOST-SUFFIX: 7217
+# HOST-SUFFIX: 7218
 # IP-CIDR: 93
 # IP6-CIDR: 4
 # USER-AGENT: 8
-# TOTAL: 7367
+# TOTAL: 7368
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -1898,6 +1898,7 @@ HOST-SUFFIX,expekt.com,Proxy
 HOST-SUFFIX,experts-univers.com,Proxy
 HOST-SUFFIX,exploader.net,Proxy
 HOST-SUFFIX,expofutures.com,Proxy
+HOST-SUFFIX,expressnews.com,Proxy
 HOST-SUFFIX,expressvpn.com,Proxy
 HOST-SUFFIX,exrates.me,Proxy
 HOST-SUFFIX,extmatrix.com,Proxy
