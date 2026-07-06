@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-07-04 02:32:59
-# DOMAIN: 125
+# UPDATED: 2026-07-06 03:09:07
+# DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34520
+# DOMAIN-SUFFIX: 34524
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34798
+# TOTAL: 34801
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -57,7 +57,6 @@ payload:
   - 'hub.slarker.me'
   - 'i.jeded.com'
   - 'imperial.insendi.com'
-  - 'ingest.apple-studies.com'
   - 'lgelectronics.122.2o7.net'
   - 'linkedin.sc.omtrdc.net'
   - 'live-patreon-marketing.pantheonsite.io'
@@ -2018,6 +2017,7 @@ payload:
   - '+.apple-pay.wang'
   - '+.apple-store.net'
   - '+.apple-store.wang'
+  - '+.apple-studies.com'
   - '+.apple-usa.net'
   - '+.apple.ae'
   - '+.apple.at'
@@ -2547,6 +2547,7 @@ payload:
   - '+.atlassian-dev.net'
   - '+.atlassian.com'
   - '+.atlassian.net'
+  - '+.atmeta.com'
   - '+.atokara.jp'
   - '+.atom.io'
   - '+.atomyze.ru'
@@ -2927,6 +2928,7 @@ payload:
   - '+.aziani.com'
   - '+.aznude.com'
   - '+.azubu.tv'
+  - '+.azure-api.net'
   - '+.azure-devices-int.net'
   - '+.azure-devices.net'
   - '+.azure-dns.com'
@@ -2962,6 +2964,7 @@ payload:
   - '+.azureserviceprofiler.com'
   - '+.azuresmartspaces.net'
   - '+.azurestackvalidation.com'
+  - '+.azurestaticapps.net'
   - '+.b-cdn.net'
   - '+.b-eroland.net'
   - '+.b-ok.africa'
