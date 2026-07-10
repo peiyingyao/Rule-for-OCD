@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-07-08 03:48:37
+# UPDATED: 2026-07-10 03:29:43
 # HOST: 754
 # HOST-KEYWORD: 36
-# HOST-SUFFIX: 34561
+# HOST-SUFFIX: 34567
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 35513
+# TOTAL: 35519
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -10213,6 +10213,8 @@ HOST-SUFFIX,flow.org,Global
 HOST-SUFFIX,flowfront.com,Global
 HOST-SUFFIX,flowfront.net,Global
 HOST-SUFFIX,flowtype.org,Global
+HOST-SUFFIX,flowwow-images.com,Global
+HOST-SUFFIX,flowwow.com,Global
 HOST-SUFFIX,fluffychat.im,Global
 HOST-SUFFIX,fluidfxapp.com,Global
 HOST-SUFFIX,fluidpreview.com,Global
@@ -10677,6 +10679,8 @@ HOST-SUFFIX,fundsupermart.com,Global
 HOST-SUFFIX,funimation.com,Global
 HOST-SUFFIX,funnyfacebook.org,Global
 HOST-SUFFIX,funnyordie.com,Global
+HOST-SUFFIX,funpay.com,Global
+HOST-SUFFIX,funpay.ru,Global
 HOST-SUFFIX,funshemale.com,Global
 HOST-SUFFIX,fuqqt.com,Global
 HOST-SUFFIX,furaffinity.net,Global
@@ -22248,6 +22252,7 @@ HOST-SUFFIX,sfps.ac.uk,Global
 HOST-SUFFIX,sfra.ac.uk,Global
 HOST-SUFFIX,sfs.ac.uk,Global
 HOST-SUFFIX,sfsstudents.ac.uk,Global
+HOST-SUFFIX,sfunpay.com,Global
 HOST-SUFFIX,sfx.ac.uk,Global
 HOST-SUFFIX,sfxc.ac.uk,Global
 HOST-SUFFIX,sg.weibo.com,Global
@@ -24295,6 +24300,7 @@ HOST-SUFFIX,tilda.ru,Global
 HOST-SUFFIX,tilda.ws,Global
 HOST-SUFFIX,tildaapi.com,Global
 HOST-SUFFIX,tildacdn.com,Global
+HOST-SUFFIX,tildacdn.net,Global
 HOST-SUFFIX,tilehill.ac.uk,Global
 HOST-SUFFIX,time-messenger.ru,Global
 HOST-SUFFIX,time.gov,Global
