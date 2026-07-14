@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-07-12 02:52:36
+# UPDATED: 2026-07-14 03:19:45
 # DOMAIN: 117
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 111919
+# DOMAIN-SUFFIX: 111929
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 112060
+# TOTAL: 112070
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -13655,6 +13655,7 @@ payload:
   - DOMAIN-SUFFIX,ad77.com
   - DOMAIN-SUFFIX,ad778.com
   - DOMAIN-SUFFIX,ada-post.com
+  - DOMAIN-SUFFIX,adacpp.com
   - DOMAIN-SUFFIX,adamahf.com
   - DOMAIN-SUFFIX,adamcdn.com
   - DOMAIN-SUFFIX,adamcoder.com
@@ -27589,6 +27590,7 @@ payload:
   - DOMAIN-SUFFIX,color-measure.com
   - DOMAIN-SUFFIX,color365.com
   - DOMAIN-SUFFIX,colorbird.com
+  - DOMAIN-SUFFIX,colorfulclouds.com
   - DOMAIN-SUFFIX,colorfulclouds.net
   - DOMAIN-SUFFIX,colorfulltech.net
   - DOMAIN-SUFFIX,colorimeter.com
@@ -33488,6 +33490,7 @@ payload:
   - DOMAIN-SUFFIX,duoyi.com
   - DOMAIN-SUFFIX,duoying.com
   - DOMAIN-SUFFIX,duoyinsu.com
+  - DOMAIN-SUFFIX,duoyiwangluo.com
   - DOMAIN-SUFFIX,duoyoumi.com
   - DOMAIN-SUFFIX,duozhi.com
   - DOMAIN-SUFFIX,duozhuayu.com
@@ -41872,6 +41875,7 @@ payload:
   - DOMAIN-SUFFIX,gtetern.com
   - DOMAIN-SUFFIX,gtfund.com
   - DOMAIN-SUFFIX,gtg56.com
+  - DOMAIN-SUFFIX,gtgjtrip.com
   - DOMAIN-SUFFIX,gtgqw.com
   - DOMAIN-SUFFIX,gtht.com
   - DOMAIN-SUFFIX,gthzc.com
@@ -60152,6 +60156,7 @@ payload:
   - DOMAIN-SUFFIX,klhpw.com
   - DOMAIN-SUFFIX,klhuyan.com
   - DOMAIN-SUFFIX,klicen.com
+  - DOMAIN-SUFFIX,kling-ai.com
   - DOMAIN-SUFFIX,klingai.com
   - DOMAIN-SUFFIX,klingxai.com
   - DOMAIN-SUFFIX,klinlee.com
@@ -62404,6 +62409,7 @@ payload:
   - DOMAIN-SUFFIX,leyoo.com
   - DOMAIN-SUFFIX,leyoujia.com
   - DOMAIN-SUFFIX,leyu.com
+  - DOMAIN-SUFFIX,leyuansu.com
   - DOMAIN-SUFFIX,leyue100.com
   - DOMAIN-SUFFIX,leyuglobal.com
   - DOMAIN-SUFFIX,leyun365.com
@@ -82040,6 +82046,7 @@ payload:
   - DOMAIN-SUFFIX,shedongyun.com
   - DOMAIN-SUFFIX,shedoor.com
   - DOMAIN-SUFFIX,shedunews.com
+  - DOMAIN-SUFFIX,shedunews.net
   - DOMAIN-SUFFIX,sheec-tencentclb.cloud
   - DOMAIN-SUFFIX,sheec-tencentclb.com
   - DOMAIN-SUFFIX,sheec-tencentclb.net
@@ -99508,6 +99515,7 @@ payload:
   - DOMAIN-SUFFIX,xiaomei.cc
   - DOMAIN-SUFFIX,xiaomeiti.com
   - DOMAIN-SUFFIX,xiaomeng1235.com
+  - DOMAIN-SUFFIX,xiaomengai.com
   - DOMAIN-SUFFIX,xiaomi.hk
   - DOMAIN-SUFFIX,xiaomi.org
   - DOMAIN-SUFFIX,xiaomi.tw
@@ -103557,6 +103565,7 @@ payload:
   - DOMAIN-SUFFIX,ygct.com
   - DOMAIN-SUFFIX,ygdatabase.com
   - DOMAIN-SUFFIX,ygdl.com
+  - DOMAIN-SUFFIX,ygduoyi.com
   - DOMAIN-SUFFIX,yge.me
   - DOMAIN-SUFFIX,ygeer.com
   - DOMAIN-SUFFIX,ygei.com
@@ -110783,6 +110792,7 @@ payload:
   - DOMAIN-SUFFIX,zmsq.com
   - DOMAIN-SUFFIX,zmssh.com
   - DOMAIN-SUFFIX,zmtpc.com
+  - DOMAIN-SUFFIX,zmtqsh.com
   - DOMAIN-SUFFIX,zmtquan.com
   - DOMAIN-SUFFIX,zmufivehospital.com
   - DOMAIN-SUFFIX,zmumu.com
