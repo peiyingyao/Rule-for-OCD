@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-07-16 03:01:39
+# UPDATED: 2026-07-18 02:59:54
 # HOST: 776
 # HOST-KEYWORD: 36
-# HOST-SUFFIX: 34597
+# HOST-SUFFIX: 34602
 # IP-CIDR: 112
 # IP6-CIDR: 4
 # USER-AGENT: 46
-# TOTAL: 35571
+# TOTAL: 35576
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -3595,6 +3595,7 @@ HOST-SUFFIX,azuredigitaltwins.net,Global
 HOST-SUFFIX,azuredns-prd.info,Global
 HOST-SUFFIX,azuredns-prd.org,Global
 HOST-SUFFIX,azureedge-test.net,Global
+HOST-SUFFIX,azureedge.us,Global
 HOST-SUFFIX,azurefd.net,Global
 HOST-SUFFIX,azureiotcentral.com,Global
 HOST-SUFFIX,azureiotsolutions.com,Global
@@ -6887,6 +6888,7 @@ HOST-SUFFIX,coova.com,Global
 HOST-SUFFIX,coova.net,Global
 HOST-SUFFIX,coova.org,Global
 HOST-SUFFIX,copac.ac.uk,Global
+HOST-SUFFIX,copilot-stg.com,Global
 HOST-SUFFIX,copilot.com,Global
 HOST-SUFFIX,copim.ac.uk,Global
 HOST-SUFFIX,copior.ac.uk,Global
@@ -16336,6 +16338,7 @@ HOST-SUFFIX,mgsdtp.ac.uk,Global
 HOST-SUFFIX,mhcb.ru,Global
 HOST-SUFFIX,mhcbr.ru,Global
 HOST-SUFFIX,mhdss.ac.uk,Global
+HOST-SUFFIX,mhgui.com,Global
 HOST-SUFFIX,mhhanman.xyz,Global
 HOST-SUFFIX,mhie.ac.uk,Global
 HOST-SUFFIX,mhqwe.xyz,Global
@@ -17871,6 +17874,7 @@ HOST-SUFFIX,nettyinternet.com,Global
 HOST-SUFFIX,netvideogirls.com,Global
 HOST-SUFFIX,netvigator.com,Global
 HOST-SUFFIX,netwise.ac.uk,Global
+HOST-SUFFIX,netxh.blog,Global
 HOST-SUFFIX,netzerobuildings.com,Global
 HOST-SUFFIX,netzerobuildingstudio.com,Global
 HOST-SUFFIX,netzwerkdeutsch.ac.uk,Global
@@ -23301,6 +23305,7 @@ HOST-SUFFIX,starfox.com,Global
 HOST-SUFFIX,stargazer-games.com,Global
 HOST-SUFFIX,stark-verlag.ch,Global
 HOST-SUFFIX,starlink.ac.uk,Global
+HOST-SUFFIX,starlink.com,Global
 HOST-SUFFIX,starott.com,Global
 HOST-SUFFIX,starplus.com,Global
 HOST-SUFFIX,stars.ac.uk,Global
