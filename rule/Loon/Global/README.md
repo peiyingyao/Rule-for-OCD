@@ -21,18 +21,18 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2026-07-20 02:58:41
+最后更新时间：2026-07-22 03:10:36
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 128  | 
 | DOMAIN-KEYWORD | 36  | 
-| DOMAIN-SUFFIX | 34568  | 
+| DOMAIN-SUFFIX | 34577  | 
 | IP-CIDR | 112  | 
 | IP-CIDR6 | 4  | 
 | USER-AGENT | 46  | 
-| TOTAL | 34894  | 
+| TOTAL | 34903  | 
 
 
 ## Loon 

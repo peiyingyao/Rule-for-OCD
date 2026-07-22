@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-07-20 02:58:42
+# UPDATED: 2026-07-22 03:10:37
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34568
+# DOMAIN-SUFFIX: 34577
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34849
+# TOTAL: 34858
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -3561,6 +3561,7 @@ payload:
   - DOMAIN-SUFFIX,bess.ac.uk
   - DOMAIN-SUFFIX,best-sex-games.com
   - DOMAIN-SUFFIX,best.ac.uk
+  - DOMAIN-SUFFIX,best2pay.net
   - DOMAIN-SUFFIX,best3dhere.com
   - DOMAIN-SUFFIX,best4bim.com
   - DOMAIN-SUFFIX,bestamateurcumshots.com
@@ -8941,6 +8942,8 @@ payload:
   - DOMAIN-SUFFIX,f-dro1d.org
   - DOMAIN-SUFFIX,f-droid.com
   - DOMAIN-SUFFIX,f-secure.com
+  - DOMAIN-SUFFIX,f1.com
+  - DOMAIN-SUFFIX,f1tv.com
   - DOMAIN-SUFFIX,f5pf.com
   - DOMAIN-SUFFIX,f6.dev
   - DOMAIN-SUFFIX,f6.ru
@@ -9754,6 +9757,7 @@ payload:
   - DOMAIN-SUFFIX,formission.ac.uk
   - DOMAIN-SUFFIX,formit360.com
   - DOMAIN-SUFFIX,formitfactory.com
+  - DOMAIN-SUFFIX,formula1.com
   - DOMAIN-SUFFIX,forpojie.pics
   - DOMAIN-SUFFIX,forshtadt.ru
   - DOMAIN-SUFFIX,forster.ac.uk
@@ -12499,6 +12503,7 @@ payload:
   - DOMAIN-SUFFIX,hutao.cloud
   - DOMAIN-SUFFIX,hutpromos.com
   - DOMAIN-SUFFIX,hutton.ac.uk
+  - DOMAIN-SUFFIX,hva.im
   - DOMAIN-SUFFIX,hw.ac.uk
   - DOMAIN-SUFFIX,hwcdn.net
   - DOMAIN-SUFFIX,hwgo.com
@@ -20635,10 +20640,12 @@ payload:
   - DOMAIN-SUFFIX,rbnainternational.com
   - DOMAIN-SUFFIX,rbplc.com
   - DOMAIN-SUFFIX,rbrandlibrary.com
+  - DOMAIN-SUFFIX,rbsgate.com
   - DOMAIN-SUFFIX,rbsgr.com
   - DOMAIN-SUFFIX,rbsl.ac.uk
   - DOMAIN-SUFFIX,rbslondon.ac.uk
   - DOMAIN-SUFFIX,rbspeakup.com
+  - DOMAIN-SUFFIX,rbsuat.com
   - DOMAIN-SUFFIX,rbth.com
   - DOMAIN-SUFFIX,rbx.com
   - DOMAIN-SUFFIX,rbxcdn.com
@@ -29142,6 +29149,7 @@ payload:
   - DOMAIN-SUFFIX,ck101.com
   - DOMAIN-SUFFIX,cl.ly
   - DOMAIN-SUFFIX,clarionproject.org
+  - DOMAIN-SUFFIX,clashyun.com
   - DOMAIN-SUFFIX,classicalguitarblog.net
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,clb.org.hk
@@ -33264,6 +33272,7 @@ payload:
   - DOMAIN-SUFFIX,synergyse.com
   - DOMAIN-SUFFIX,syosetu.com
   - DOMAIN-SUFFIX,sysresccd.org
+  - DOMAIN-SUFFIX,sysub.com
   - DOMAIN-SUFFIX,sytes.net
   - DOMAIN-SUFFIX,syx86.com
   - DOMAIN-SUFFIX,szbbs.net
