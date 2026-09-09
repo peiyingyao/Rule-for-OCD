@@ -2,12 +2,9 @@ name: ci
 
 on:
   workflow_dispatch:
-  # 每天 22:00 触发一次
+  # 每天北京时间 6:00 触发一次
   schedule:
-    - cron: '0 6 * * *'
-#  push:
-#    branches:
-#      - master
+    - cron: '0 22 * * *'
 
 jobs:
   build:
