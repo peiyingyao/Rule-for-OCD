@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-09-08 05:03:51
+# UPDATED: 2026-09-10 04:21:08
 # DOMAIN: 90
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 110850
+# DOMAIN-SUFFIX: 110851
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 110964
+# TOTAL: 110965
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -104942,6 +104942,7 @@ payload:
   - '+.yuanpanguoji.com'
   - '+.yuanqiao.net'
   - '+.yuanqiao.pw'
+  - '+.yuanqidesk.com'
   - '+.yuanqilt.com'
   - '+.yuanqingsh.com'
   - '+.yuanqisenlin.com'
