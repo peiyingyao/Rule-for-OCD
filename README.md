@@ -2,6 +2,10 @@
 
 OCD 是强迫症的简称
 
+## 复刻/维护自己的规则集
+
+所有逻辑都在 `.github/workflows/ci.yaml`，问下 AI 就能自己改了
+
 ## 背景
 
 Stash 是 Clash 在 Apple 设备上的实现，其[文档](https://stash.wiki/rules/rule-set 'https://stash.wiki/rules/rule-set')说明：“不建议使用内含大量规则的 classical 规则集合，会显著提高 Stash 内存占用，降低规则匹配速度。”，“domain(-text) 和 ipcidr(-text) 两种类型的规则集合专门针对大量数据进行了优化，在规则条目较多时建议优先选择。”
