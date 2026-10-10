@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-10-08 06:31:44
+# UPDATED: 2026-10-10 06:06:35
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34811
+# DOMAIN-SUFFIX: 34814
 # IP-CIDR: 115
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 35095
+# TOTAL: 35098
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -16029,6 +16029,7 @@ payload:
   - '+.meetfasttrack.com'
   - '+.meetsmartbook.com'
   - '+.meetyourdevices.com'
+  - '+.megaad.nz'
   - '+.megacamz.com'
   - '+.megaeth.com'
   - '+.megafilmporno.com'
@@ -16039,10 +16040,12 @@ payload:
   - '+.megamarket.ru'
   - '+.megamarket.tech'
   - '+.megamon.co.kr'
+  - '+.megapay.nz'
   - '+.megaphone.fm'
   - '+.megapornfreehd.com'
   - '+.megaporno.com.br'
   - '+.megapornpics.com'
+  - '+.megas4.com'
   - '+.megasrv.de'
   - '+.megatitsminka.com'
   - '+.megogo.net'
@@ -20378,7 +20381,6 @@ payload:
   - '+.proxyrarbg.org'
   - '+.prpops.com'
   - '+.prs-ltsn.ac.uk'
-  - '+.prts.plus'
   - '+.prucomm.ac.uk'
   - '+.prvbank.ru'
   - '+.ps-exchange.com'
@@ -24462,6 +24464,7 @@ payload:
   - '+.transarmuito.com'
   - '+.transcamslive.com'
   - '+.transcocon.ac.uk'
+  - '+.transfer.it'
   - '+.transferwise.com'
   - '+.transforming-musicology.ac.uk'
   - '+.transformingmusicology.ac.uk'
